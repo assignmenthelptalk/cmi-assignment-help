@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-assignment-writing-service');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-assignment-writing-service');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI Assignment Writing Service UK | Professional Writers',
+    description: 'Professional CMI assignment writing service for all levels. UK-based writers, submission-ready documents, all units covered. Get a free quote on WhatsApp today.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Assignment Writing Service UK | Professional Writers"
+  description="Professional CMI assignment writing service for all levels. UK-based writers, submission-ready documents, all units covered. Get a free quote on WhatsApp today."
+  slug="/cmi-assignment-writing-service/"
+  schemas={schemas}
+  breadcrumb={[{ label: 'CMI Assignment Writing Service', href: '/cmi-assignment-writing-service/' }]}
+>
+  <article class="prose-page">
+    <Content />
+  </article>
+</BaseLayout>

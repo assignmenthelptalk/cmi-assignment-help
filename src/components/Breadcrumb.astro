@@ -1,0 +1,49 @@
+---
+interface BreadcrumbItem {
+  label: string;
+  href: string;
+}
+
+interface Props {
+  items: BreadcrumbItem[];
+  pageName: string;
+}
+
+const { items, pageName } = Astro.props;
+const BASE_URL = 'https://cmiassignmentsupport.co.uk';
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${BASE_URL}/` },
+    ...items.map((item, i) => ({
+      '@type': 'ListItem',
+      position: i + 2,
+      name: item.label,
+      item: `${BASE_URL}${item.href}`,
+    })),
+    { '@type': 'ListItem', position: items.length + 2, name: pageName, item: `${BASE_URL}${items[items.length - 1]?.href || '/'}` },
+  ],
+};
+---
+<nav aria-label="Breadcrumb" class="bg-bg-subtle border-b border-border">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-2">
+    <ol class="flex items-center gap-2 text-sm text-text-muted list-none pl-0 mb-0 space-y-0 flex-wrap">
+      <li class="leading-relaxed">
+        <a href="/" class="hover:text-accent transition-colors no-underline">Home</a>
+      </li>
+      {items.map((item) => (
+        <>
+          <li class="leading-relaxed" aria-hidden="true">/</li>
+          <li class="leading-relaxed">
+            <a href={item.href} class="hover:text-accent transition-colors no-underline">{item.label}</a>
+          </li>
+        </>
+      ))}
+      <li class="leading-relaxed" aria-hidden="true">/</li>
+      <li class="leading-relaxed text-primary font-medium" aria-current="page">{pageName}</li>
+    </ol>
+  </div>
+</nav>
+<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />

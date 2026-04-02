@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../utils/faq';
+
+const entry = await getEntry('pages', 'pay-someone-to-do-my-cmi-assignment');
+const { Content } = await render(entry);
+const faqs = extractFaqs('pay-someone-to-do-my-cmi-assignment');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Pay Someone to Do My CMI Assignment | Trusted UK Service',
+    description: 'Need someone to do your CMI assignment? Our UK-based writers deliver professional, submission-ready CMI assignments for all levels. WhatsApp to get started now.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="Pay Someone to Do My CMI Assignment | Trusted UK Service"
+  description="Need someone to do your CMI assignment? Our UK-based writers deliver professional, submission-ready CMI assignments for all levels. WhatsApp to get started now."
+  slug="/pay-someone-to-do-my-cmi-assignment/"
+  schemas={schemas}
+  breadcrumb={[{ label: 'Pay Someone to Do My CMI Assignment', href: '/pay-someone-to-do-my-cmi-assignment/' }]}
+>
+  <article class="prose-page">
+    <Content />
+  </article>
+</BaseLayout>

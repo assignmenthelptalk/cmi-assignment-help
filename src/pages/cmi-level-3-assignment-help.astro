@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-3-assignment-help');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-3-assignment-help');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI Level 3 Assignment Help | All Units, Expert UK Support',
+    description: 'Get expert CMI Level 3 assignment help for all 12 units. UK-based writers, essay and report support for First Line Management qualifications. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Level 3 Assignment Help | All Units, Expert UK Support"
+  description="Get expert CMI Level 3 assignment help for all 12 units. UK-based writers, essay and report support for First Line Management qualifications. WhatsApp for a free quote."
+  slug="/cmi-level-3-assignment-help/"
+  schemas={schemas}
+  breadcrumb={[{ label: 'CMI Level 3 Assignment Help', href: '/cmi-level-3-assignment-help/' }]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { @apply text-text-body; scroll-behavior: smooth; }
+  h1 { @apply text-3xl font-bold text-primary leading-tight mb-4; }
+  h2 { @apply text-2xl font-semibold text-primary leading-snug mt-10 mb-4; }
+  h3 { @apply text-xl font-semibold text-primary mt-8 mb-3; }
+  h4 { @apply text-lg font-semibold text-primary mt-6 mb-2; }
+  p  { @apply text-base leading-relaxed mb-4; }
+  a  { @apply text-primary underline hover:text-accent transition-colors; }
+  ul { @apply list-disc pl-6 mb-4 space-y-1; }
+  ol { @apply list-decimal pl-6 mb-4 space-y-1; }
+  li { @apply leading-relaxed; }
+  strong { @apply font-semibold; }
+  blockquote { @apply border-l-4 border-accent pl-4 italic text-text-muted my-6; }
+  table { @apply w-full border-collapse mb-6 text-sm; }
+  th { @apply bg-primary text-white font-semibold px-4 py-3 text-left; }
+  td { @apply border border-border px-4 py-3; }
+  tr:nth-child(even) td { @apply bg-bg-subtle; }
+  hr { @apply border-border my-10; }
+  code { @apply bg-bg-subtle rounded px-1 py-0.5 text-sm font-mono; }
+}
+
+@layer components {
+  .whatsapp-fab {
+    @apply fixed bottom-6 right-6 z-50 flex items-center gap-2 px-5 py-3
+           bg-accent text-white font-semibold rounded-full shadow-md
+           hover:bg-accent-dark transition-colors no-underline;
+  }
+  .whatsapp-fab span.fab-text {
+    @apply hidden md:inline;
+  }
+  .whatsapp-inline {
+    @apply inline-flex items-center gap-2 px-5 py-3 bg-accent text-white
+           font-semibold rounded-full hover:bg-accent-dark transition-colors
+           no-underline text-sm;
+  }
+  .cta-box {
+    @apply bg-accent/10 border border-accent/30 rounded-lg px-6 py-5 my-8
+           flex flex-col sm:flex-row items-start sm:items-center gap-4;
+  }
+  .step-block {
+    @apply flex gap-4 items-start mb-6;
+  }
+  .step-number {
+    @apply flex-shrink-0 w-9 h-9 rounded-full bg-primary text-white
+           font-bold text-sm flex items-center justify-center;
+  }
+  .infographic-placeholder {
+    @apply border-2 border-dashed border-border bg-bg-subtle rounded-lg
+           my-8 p-8 text-center min-h-[200px] flex items-center justify-center;
+  }
+  .checklist li::before { content: "✓ "; @apply text-accent font-bold; }
+  .prose-page {
+    @apply max-w-3xl mx-auto px-4 sm:px-6 py-10;
+  }
+  .prose-page--wide {
+    @apply max-w-5xl mx-auto px-4 sm:px-6 py-10;
+  }
+}

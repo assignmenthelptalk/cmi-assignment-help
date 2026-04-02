@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-coursework-help');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-coursework-help');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI Coursework Help | All Units, All Levels | UK Support',
+    description: 'Need help with your CMI coursework? Get expert support across all units and levels. UK-based writers, ongoing guidance, WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Coursework Help | All Units, All Levels | UK Support"
+  description="Need help with your CMI coursework? Get expert support across all units and levels. UK-based writers, ongoing guidance, WhatsApp for a free quote."
+  slug="/cmi-coursework-help/"
+  schemas={schemas}
+  breadcrumb={[{ label: 'CMI Coursework Help', href: '/cmi-coursework-help/' }]}
+>
+  <article class="prose-page">
+    <Content />
+  </article>
+</BaseLayout>

@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-essay-writing-help');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-essay-writing-help');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI Essay Writing Help | Expert UK Writers | All Levels',
+    description: 'Get expert CMI essay writing help for all levels. UK-based writers who understand CMI essay format, command verbs, and assessment criteria. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Essay Writing Help | Expert UK Writers | All Levels"
+  description="Get expert CMI essay writing help for all levels. UK-based writers who understand CMI essay format, command verbs, and assessment criteria. WhatsApp for a free quote."
+  slug="/cmi-essay-writing-help/"
+  schemas={schemas}
+  breadcrumb={[{ label: 'CMI Essay Writing Help', href: '/cmi-essay-writing-help/' }]}
+>
+  <article class="prose-page">
+    <Content />
+  </article>
+</BaseLayout>

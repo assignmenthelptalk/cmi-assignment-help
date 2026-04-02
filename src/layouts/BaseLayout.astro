@@ -1,0 +1,55 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import WhatsAppButton from '../components/WhatsAppButton.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import SchemaOrg from '../components/SchemaOrg.astro';
+import '../styles/global.css';
+
+interface BreadcrumbItem {
+  label: string;
+  href: string;
+}
+
+interface Props {
+  title: string;
+  description: string;
+  slug: string;
+  schemas: object[];
+  breadcrumb?: BreadcrumbItem[];
+}
+
+const { title, description, slug, schemas, breadcrumb } = Astro.props;
+const BASE_URL = 'https://cmiassignmentsupport.co.uk';
+const canonicalUrl = BASE_URL + slug;
+---
+<html lang="en-GB">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <meta name="robots" content="index, follow" />
+    <link rel="alternate" hreflang="en-GB" href={canonicalUrl} />
+    <!-- Open Graph -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content={`${BASE_URL}/og-default.png`} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SchemaOrg schemas={schemas} />
+  </head>
+  <body class="min-h-screen flex flex-col bg-white">
+    <Header />
+    {breadcrumb && breadcrumb.length > 0 && (
+      <Breadcrumb items={breadcrumb} pageName={title} />
+    )}
+    <main class="flex-1">
+      <slot />
+    </main>
+    <Footer />
+    <WhatsAppButton />
+  </body>
+</html>

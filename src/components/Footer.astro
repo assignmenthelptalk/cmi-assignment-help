@@ -1,0 +1,77 @@
+---
+const services = [
+  { label: 'CMI Assignment Writing Service', href: '/cmi-assignment-writing-service/' },
+  { label: 'CMI Assignment Tutoring', href: '/cmi-assignment-tutoring/' },
+  { label: 'CMI Coursework Help', href: '/cmi-coursework-help/' },
+  { label: 'CMI Essay Writing Help', href: '/cmi-essay-writing-help/' },
+  { label: 'CMI Report Writing Help', href: '/cmi-report-writing-help/' },
+  { label: 'CMI Homework Help', href: '/cmi-homework-help/' },
+  { label: 'CMI Assignment Answers', href: '/cmi-assignment-answers/' },
+  { label: 'CMI Assignment Examples', href: '/cmi-assignment-examples/' },
+];
+
+const levels = [
+  { label: 'CMI Level 3 Assignment Help', href: '/cmi-level-3-assignment-help/' },
+  { label: 'CMI Level 4 Assignment Help', href: '/cmi-level-4-assignment-help/' },
+  { label: 'CMI Level 5 Assignment Help', href: '/cmi-level-5-assignment-help/' },
+  { label: 'CMI Level 6 Assignment Help', href: '/cmi-level-6-assignment-help/' },
+  { label: 'CMI Level 7 Assignment Help', href: '/cmi-level-7-assignment-help/' },
+];
+
+const more = [
+  { label: 'Online Assignment Help', href: '/cmi-assignment-help-online/' },
+  { label: 'Affordable CMI Help', href: '/cheap-cmi-assignment-help/' },
+  { label: 'Pay Someone to Do My CMI Assignment', href: '/pay-someone-to-do-my-cmi-assignment/' },
+  { label: 'Privacy Policy', href: '/privacy-policy/' },
+  { label: 'Terms of Service', href: '/terms/' },
+];
+---
+<footer class="bg-primary text-white mt-16">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <!-- Services column -->
+      <div>
+        <h3 class="text-white text-base font-semibold mb-4 mt-0">Services</h3>
+        <ul class="space-y-2 list-none pl-0 mb-0">
+          {services.map((link) => (
+            <li class="leading-relaxed">
+              <a href={link.href} class="text-gray-300 hover:text-white no-underline text-sm transition-colors">
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+      <!-- Levels column -->
+      <div>
+        <h3 class="text-white text-base font-semibold mb-4 mt-0">Qualification Levels</h3>
+        <ul class="space-y-2 list-none pl-0 mb-0">
+          {levels.map((link) => (
+            <li class="leading-relaxed">
+              <a href={link.href} class="text-gray-300 hover:text-white no-underline text-sm transition-colors">
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+      <!-- More column -->
+      <div>
+        <h3 class="text-white text-base font-semibold mb-4 mt-0">More</h3>
+        <ul class="space-y-2 list-none pl-0 mb-0">
+          {more.map((link) => (
+            <li class="leading-relaxed">
+              <a href={link.href} class="text-gray-300 hover:text-white no-underline text-sm transition-colors">
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <div class="border-t border-white/20 mt-10 pt-6 text-center text-gray-400 text-sm">
+      &copy; 2025 CMI Assignment Support. UK-based CMI assignment writing and tutoring service.
+    </div>
+  </div>
+</footer>

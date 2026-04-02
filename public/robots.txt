@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cmiassignmentsupport.co.uk/sitemap-index.xml

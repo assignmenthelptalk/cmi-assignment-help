@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../utils/faq';
+
+const entry = await getEntry('pages', 'homepage');
+const { Content } = await render(entry);
+
+const faqs = extractFaqs('homepage');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'CMI Assignment Support',
+    url: 'https://cmiassignmentsupport.co.uk',
+    description: 'UK-based CMI assignment writing and tutoring service for all levels.',
+    areaServed: 'GB',
+    serviceType: 'Academic writing support',
+    contactPoint: {
+      '@type': 'ContactPoint',
+      contactType: 'customer support',
+      availableLanguage: 'English',
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'CMI Assignment Support',
+    url: 'https://cmiassignmentsupport.co.uk',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Assignment Help: Expert Support for All Levels | UK"
+  description="Get expert CMI assignment help for Levels 3–7. UK-based writers, fast turnaround, all units covered. Message us on WhatsApp to get started today."
+  slug="/"
+  schemas={schemas}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-assignment-examples');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-assignment-examples');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: 'CMI Assignment Examples: Free Samples Across All Levels',
+    description: 'View real CMI assignment examples for Levels 3-7. See fully structured management reports, essays, and reflective accounts. Free sample available on WhatsApp.',
+    url: 'https://cmiassignmentsupport.co.uk/cmi-assignment-examples/',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Assignment Examples: Free Samples Across All Levels"
+  description="View real CMI assignment examples for Levels 3-7. See fully structured management reports, essays, and reflective accounts. Free sample available on WhatsApp."
+  slug="/cmi-assignment-examples/"
+  schemas={schemas}
+  breadcrumb={[{ label: 'CMI Assignment Examples', href: '/cmi-assignment-examples/' }]}
+>
+  <article class="prose-page">
+    <Content />
+  </article>
+</BaseLayout>

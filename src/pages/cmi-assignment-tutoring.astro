@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-assignment-tutoring');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-assignment-tutoring');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI Assignment Tutoring: Expert UK Tutors for All Levels',
+    description: 'Get CMI assignment tutoring from qualified UK experts. Structure guidance, feedback, and command verb coaching for all levels. WhatsApp to arrange your first session.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Assignment Tutoring: Expert UK Tutors for All Levels"
+  description="Get CMI assignment tutoring from qualified UK experts. Structure guidance, feedback, and command verb coaching for all levels. WhatsApp to arrange your first session."
+  slug="/cmi-assignment-tutoring/"
+  schemas={schemas}
+  breadcrumb={[{ label: 'CMI Assignment Tutoring', href: '/cmi-assignment-tutoring/' }]}
+>
+  <article class="prose-page">
+    <Content />
+  </article>
+</BaseLayout>

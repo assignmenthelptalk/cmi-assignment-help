@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-assignment-help-online');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-assignment-help-online');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI Assignment Help Online: Remote Support for All Levels',
+    description: 'Get CMI assignment help online from UK-based writers. WhatsApp-first service, all levels and units covered, fast turnaround. Start your free quote today.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Assignment Help Online: Remote Support for All Levels"
+  description="Get CMI assignment help online from UK-based writers. WhatsApp-first service, all levels and units covered, fast turnaround. Start your free quote today."
+  slug="/cmi-assignment-help-online/"
+  schemas={schemas}
+  breadcrumb={[{ label: 'CMI Assignment Help Online', href: '/cmi-assignment-help-online/' }]}
+>
+  <article class="prose-page">
+    <Content />
+  </article>
+</BaseLayout>

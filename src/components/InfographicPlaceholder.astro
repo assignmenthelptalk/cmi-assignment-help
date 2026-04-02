@@ -1,0 +1,18 @@
+---
+interface Props {
+  label: string;
+  description: string;
+  altText: string;
+}
+const { label, description, altText } = Astro.props;
+---
+<div class="infographic-placeholder">
+  <div class="infographic-placeholder__inner" style="text-align:center">
+    <span class="infographic-placeholder__icon" style="font-size:2rem;display:block;margin-bottom:0.5rem">📊</span>
+    <p class="infographic-placeholder__label" style="font-weight:600;margin-bottom:0.25rem">{label}</p>
+    <p class="infographic-placeholder__desc" style="color:#6b7280;font-size:0.875rem;margin-bottom:0.25rem">{description}</p>
+    <p class="infographic-placeholder__alt" style="color:#9ca3af;font-size:0.75rem;font-style:italic">
+      <em>Alt text: {altText}</em>
+    </p>
+  </div>
+</div>

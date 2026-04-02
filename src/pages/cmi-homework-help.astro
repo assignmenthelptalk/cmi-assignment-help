@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-homework-help');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-homework-help');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI Homework Help: Expert Support for Every CMI Task',
+    description: 'Get expert CMI homework help for any level or unit task. UK-based writers and tutors help you complete CMI written work to assessment standards. WhatsApp now.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Homework Help: Expert Support for Every CMI Task"
+  description="Get expert CMI homework help for any level or unit task. UK-based writers and tutors help you complete CMI written work to assessment standards. WhatsApp now."
+  slug="/cmi-homework-help/"
+  schemas={schemas}
+  breadcrumb={[{ label: 'CMI Homework Help', href: '/cmi-homework-help/' }]}
+>
+  <article class="prose-page">
+    <Content />
+  </article>
+</BaseLayout>

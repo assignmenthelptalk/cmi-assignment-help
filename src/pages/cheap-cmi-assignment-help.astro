@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../utils/faq';
+
+const entry = await getEntry('pages', 'cheap-cmi-assignment-help');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cheap-cmi-assignment-help');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Cheap CMI Assignment Help UK: Affordable Quality Support',
+    description: 'Looking for affordable CMI assignment help? Get competitive pricing, UK-based writers, and quality results for all levels. WhatsApp for your free quote today.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="Cheap CMI Assignment Help UK: Affordable Quality Support"
+  description="Looking for affordable CMI assignment help? Get competitive pricing, UK-based writers, and quality results for all levels. WhatsApp for your free quote today."
+  slug="/cheap-cmi-assignment-help/"
+  schemas={schemas}
+  breadcrumb={[{ label: 'Affordable CMI Assignment Help', href: '/cheap-cmi-assignment-help/' }]}
+>
+  <article class="prose-page">
+    <Content />
+  </article>
+</BaseLayout>

@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 620" width="720" height="620" font-family="Inter, system-ui, sans-serif">
+
+  <!-- Background -->
+  <rect width="720" height="620" fill="#f9fafb" rx="12"/>
+
+  <!-- Title -->
+  <text x="360" y="34" text-anchor="middle" font-size="16" font-weight="700" fill="#1a2e4a">Gibbs' Reflective Cycle — Applied to CMI Assignments</text>
+  <text x="360" y="52" text-anchor="middle" font-size="12" fill="#6b7280">Word count guidance for a 2,500-word Level 5 reflective account (e.g. CMI Unit 525)</text>
+
+  <!-- Circle backdrop -->
+  <circle cx="360" cy="310" r="150" fill="none" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="6,4"/>
+
+  <!-- Centre label -->
+  <text x="360" y="302" text-anchor="middle" font-size="13" font-weight="700" fill="#1a2e4a">GIBBS'</text>
+  <text x="360" y="318" text-anchor="middle" font-size="13" font-weight="700" fill="#1a2e4a">REFLECTIVE</text>
+  <text x="360" y="334" text-anchor="middle" font-size="13" font-weight="700" fill="#1a2e4a">CYCLE</text>
+
+  <!-- Arrows around circle (curved arc hints as straight spokes) -->
+  <!-- Clockwise: Stage 1 at top, going clockwise -->
+
+  <!-- Stage 1 — Description (top) -->
+  <circle cx="360" cy="160" r="54" fill="#1a2e4a"/>
+  <text x="360" y="149" text-anchor="middle" font-size="10" font-weight="700" fill="#25D366">STAGE 1</text>
+  <text x="360" y="163" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Description</text>
+  <text x="360" y="176" text-anchor="middle" font-size="10" fill="#a5b4fc">What happened?</text>
+  <text x="360" y="90" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">300–400 words</text>
+  <text x="360" y="104" text-anchor="middle" font-size="10" fill="#6b7280">Factual account only · no analysis</text>
+
+  <!-- Stage 2 — Feelings (top-right) -->
+  <circle cx="490" cy="213" r="54" fill="#2d5282"/>
+  <text x="490" y="202" text-anchor="middle" font-size="10" font-weight="700" fill="#25D366">STAGE 2</text>
+  <text x="490" y="216" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Feelings</text>
+  <text x="490" y="229" text-anchor="middle" font-size="10" fill="#a5b4fc">What did you think/feel?</text>
+  <text x="580" y="168" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">200–300 words</text>
+  <text x="580" y="182" text-anchor="middle" font-size="10" fill="#6b7280">Honest emotional account</text>
+
+  <!-- Stage 3 — Evaluation (bottom-right) -->
+  <circle cx="490" cy="407" r="54" fill="#3b6ba8"/>
+  <text x="490" y="396" text-anchor="middle" font-size="10" font-weight="700" fill="#25D366">STAGE 3</text>
+  <text x="490" y="410" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Evaluation</text>
+  <text x="490" y="423" text-anchor="middle" font-size="10" fill="#bfdbfe">What was good/bad?</text>
+  <text x="588" y="440" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">400–500 words</text>
+  <text x="588" y="454" text-anchor="middle" font-size="10" fill="#6b7280">Named criteria applied</text>
+
+  <!-- Stage 4 — Analysis (bottom) -->
+  <circle cx="360" cy="460" r="54" fill="#25D366"/>
+  <text x="360" y="449" text-anchor="middle" font-size="10" font-weight="700" fill="#064e3b">STAGE 4</text>
+  <text x="360" y="463" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Analysis</text>
+  <text x="360" y="476" text-anchor="middle" font-size="10" fill="#d1fae5">What sense can you make?</text>
+  <text x="360" y="534" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">500–600 words</text>
+  <text x="360" y="548" text-anchor="middle" font-size="10" fill="#6b7280">Theory applied · Harvard refs required</text>
+  <text x="360" y="561" text-anchor="middle" font-size="10" fill="#ef4444" font-weight="600">Highest-marked section</text>
+
+  <!-- Stage 5 — Conclusion (bottom-left) -->
+  <circle cx="230" cy="407" r="54" fill="#4a85c8"/>
+  <text x="230" y="396" text-anchor="middle" font-size="10" font-weight="700" fill="#1a2e4a">STAGE 5</text>
+  <text x="230" y="410" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Conclusion</text>
+  <text x="230" y="423" text-anchor="middle" font-size="10" fill="#eff6ff">What else could you do?</text>
+  <text x="132" y="440" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">200–300 words</text>
+  <text x="132" y="454" text-anchor="middle" font-size="10" fill="#6b7280">Alternative actions identified</text>
+
+  <!-- Stage 6 — Action Plan (top-left) -->
+  <circle cx="230" cy="213" r="54" fill="#5e9de0"/>
+  <text x="230" y="202" text-anchor="middle" font-size="10" font-weight="700" fill="#1a2e4a">STAGE 6</text>
+  <text x="230" y="216" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Action Plan</text>
+  <text x="230" y="229" text-anchor="middle" font-size="10" fill="#eff6ff">What will you do next?</text>
+  <text x="132" y="168" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">200–300 words</text>
+  <text x="132" y="182" text-anchor="middle" font-size="10" fill="#6b7280">SMART format · table structure</text>
+
+  <!-- Clockwise arrows between stages -->
+  <defs>
+    <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="6" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#1a2e4a"/>
+    </marker>
+  </defs>
+  <!-- 1 to 2 -->
+  <path d="M 408,175 Q 460,175 468,195" fill="none" stroke="#1a2e4a" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <!-- 2 to 3 -->
+  <path d="M 505,265 Q 510,330 500,360" fill="none" stroke="#1a2e4a" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <!-- 3 to 4 -->
+  <path d="M 460,440 Q 430,462 415,462" fill="none" stroke="#1a2e4a" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <!-- 4 to 5 -->
+  <path d="M 307,462 Q 278,462 268,445" fill="none" stroke="#1a2e4a" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <!-- 5 to 6 -->
+  <path d="M 218,355 Q 212,295 222,265" fill="none" stroke="#1a2e4a" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <!-- 6 to 1 -->
+  <path d="M 256,177 Q 295,162 308,162" fill="none" stroke="#1a2e4a" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+  <!-- Key note box -->
+  <rect x="40" y="576" width="640" height="32" rx="8" fill="#ecfdf5" stroke="#25D366" stroke-width="1.5"/>
+  <text x="360" y="591" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">Stage 4 (Analysis) carries the highest mark weighting — theory must be applied to the specific experience, not described in general terms.</text>
+  <text x="360" y="602" text-anchor="middle" font-size="10" fill="#374151">Harvard referencing required in Stage 4. Most commonly used frameworks: Tuckman, Belbin, Kotter, Thomas-Kilmann, GROW, transformational leadership models.</text>
+
+  <!-- Footer -->
+  <text x="360" y="616" text-anchor="middle" font-size="10" fill="#9ca3af">cmiassignmentsupport.co.uk · CMI Assignment Structure Guide · Based on Gibbs (1988)</text>
+
+</svg>

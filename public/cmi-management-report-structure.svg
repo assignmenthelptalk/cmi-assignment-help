@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 600" width="720" height="600" font-family="Inter, system-ui, sans-serif">
+
+  <!-- Background -->
+  <rect width="720" height="600" fill="#f9fafb" rx="12"/>
+
+  <!-- Title -->
+  <text x="360" y="34" text-anchor="middle" font-size="16" font-weight="700" fill="#1a2e4a">CMI Management Report — Section Structure</text>
+  <text x="360" y="52" text-anchor="middle" font-size="12" fill="#6b7280">Word count proportions for a 4,000-word Level 5 management report</text>
+
+  <!-- Legend -->
+  <rect x="480" y="68" width="14" height="14" rx="3" fill="#ef4444"/>
+  <text x="498" y="80" font-size="10" fill="#374151">Most commonly missing or weak</text>
+
+  <!-- Section 1: Title Page -->
+  <rect x="60" y="68" width="380" height="36" rx="6" fill="#e5e7eb" stroke="#d1d5db" stroke-width="1"/>
+  <text x="80" y="83" font-size="12" font-weight="700" fill="#374151">1. Title Page</text>
+  <text x="80" y="97" font-size="10" fill="#6b7280">Unit code, student name, submission date, word count · not counted in word total</text>
+  <text x="452" y="90" font-size="11" fill="#9ca3af" text-anchor="middle">—</text>
+
+  <!-- Section 2: Executive Summary — FLAGGED -->
+  <rect x="60" y="112" width="380" height="44" rx="6" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+  <text x="80" y="129" font-size="12" font-weight="700" fill="#991b1b">2. Executive Summary</text>
+  <text x="80" y="145" font-size="10" fill="#374151">Summary of findings and recommendations · written LAST · standalone readable</text>
+  <rect x="452" y="118" width="74" height="30" rx="4" fill="#1a2e4a"/>
+  <text x="489" y="131" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">250–300</text>
+  <text x="489" y="143" text-anchor="middle" font-size="9" fill="#a5b4fc">words</text>
+  <text x="534" y="138" font-size="10" fill="#ef4444">⚠ Often missing</text>
+
+  <!-- Section 3: Table of Contents -->
+  <rect x="60" y="164" width="380" height="36" rx="6" fill="#e5e7eb" stroke="#d1d5db" stroke-width="1"/>
+  <text x="80" y="179" font-size="12" font-weight="700" fill="#374151">3. Table of Contents</text>
+  <text x="80" y="193" font-size="10" fill="#6b7280">Numbered headings with page numbers · updated last after formatting</text>
+  <text x="452" y="186" font-size="11" fill="#9ca3af" text-anchor="middle">—</text>
+
+  <!-- Section 4: Introduction -->
+  <rect x="60" y="208" width="380" height="44" rx="6" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1.5"/>
+  <text x="80" y="225" font-size="12" font-weight="700" fill="#1e40af">4. Introduction</text>
+  <text x="80" y="241" font-size="10" fill="#374151">Organisational context · report purpose and scope · structure outline · no analysis</text>
+  <rect x="452" y="214" width="74" height="30" rx="4" fill="#1a2e4a"/>
+  <text x="489" y="227" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">200–250</text>
+  <text x="489" y="239" text-anchor="middle" font-size="9" fill="#a5b4fc">words</text>
+
+  <!-- Section 5: Analysis Sections — LARGEST -->
+  <rect x="60" y="260" width="380" height="68" rx="6" fill="#1a2e4a" stroke="#1a2e4a" stroke-width="1.5"/>
+  <text x="80" y="279" font-size="12" font-weight="700" fill="#ffffff">5. Analysis Sections (Main Body)</text>
+  <text x="80" y="295" font-size="10" fill="#a5b4fc">One headed sub-section per Learning Outcome aspect · theory applied to organisational</text>
+  <text x="80" y="309" font-size="10" fill="#a5b4fc">context · command verb applied throughout · Harvard citations required (2–3 per section)</text>
+  <rect x="452" y="268" width="74" height="44" rx="4" fill="#25D366"/>
+  <text x="489" y="286" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">55–65%</text>
+  <text x="489" y="299" text-anchor="middle" font-size="9" fill="#d1fae5">of total</text>
+  <text x="489" y="311" text-anchor="middle" font-size="9" fill="#d1fae5">word count</text>
+
+  <!-- Section 6: Conclusion -->
+  <rect x="60" y="336" width="380" height="44" rx="6" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1.5"/>
+  <text x="80" y="353" font-size="12" font-weight="700" fill="#1e40af">6. Conclusion</text>
+  <text x="80" y="369" font-size="10" fill="#374151">Synthesis of analytical findings · no new information · bridge to recommendations</text>
+  <rect x="452" y="342" width="74" height="30" rx="4" fill="#1a2e4a"/>
+  <text x="489" y="355" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">200–300</text>
+  <text x="489" y="367" text-anchor="middle" font-size="9" fill="#a5b4fc">words</text>
+
+  <!-- Section 7: Recommendations — FLAGGED -->
+  <rect x="60" y="388" width="380" height="52" rx="6" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+  <text x="80" y="406" font-size="12" font-weight="700" fill="#991b1b">7. Recommendations</text>
+  <text x="80" y="421" font-size="10" fill="#374151">Minimum 3 SMART recommendations · each justified against analytical findings</text>
+  <text x="80" y="434" font-size="10" fill="#374151">Specific · Measurable · Achievable · Relevant · Time-bound</text>
+  <rect x="452" y="396" width="74" height="36" rx="4" fill="#1a2e4a"/>
+  <text x="489" y="410" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">400–500</text>
+  <text x="489" y="422" text-anchor="middle" font-size="9" fill="#a5b4fc">words</text>
+  <text x="489" y="433" text-anchor="middle" font-size="9" fill="#fca5a5">min 3</text>
+  <text x="534" y="416" font-size="10" fill="#ef4444">⚠ Often vague</text>
+
+  <!-- Section 8: Bibliography -->
+  <rect x="60" y="448" width="380" height="36" rx="6" fill="#e5e7eb" stroke="#d1d5db" stroke-width="1"/>
+  <text x="80" y="463" font-size="12" font-weight="700" fill="#374151">8. Bibliography — Harvard Format</text>
+  <text x="80" y="477" font-size="10" fill="#6b7280">L5: 10–12 sources · L6: 12–15 · L7: 15–20 · alphabetical · not counted in word total</text>
+  <text x="452" y="470" font-size="11" fill="#9ca3af" text-anchor="middle">—</text>
+
+  <!-- Section 9: Appendices -->
+  <rect x="60" y="492" width="380" height="36" rx="6" fill="#e5e7eb" stroke="#d1d5db" stroke-width="1"/>
+  <text x="80" y="507" font-size="12" font-weight="700" fill="#374151">9. Appendices</text>
+  <text x="80" y="521" font-size="10" fill="#6b7280">Supporting materials referenced in body · labelled A, B, C · not counted in word total</text>
+  <text x="452" y="514" font-size="11" fill="#9ca3af" text-anchor="middle">—</text>
+
+  <!-- Writing order note -->
+  <rect x="60" y="540" width="600" height="36" rx="8" fill="#ecfdf5" stroke="#25D366" stroke-width="1.5"/>
+  <text x="360" y="556" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">Recommended writing order: Introduction → Analysis → Conclusion → Recommendations → Executive Summary (last)</text>
+  <text x="360" y="569" text-anchor="middle" font-size="10" fill="#374151">Write the executive summary after the full report is complete — it summarises outcomes, not intentions.</text>
+
+  <!-- Footer -->
+  <text x="360" y="592" text-anchor="middle" font-size="10" fill="#9ca3af">cmiassignmentsupport.co.uk · CMI Assignment Structure Guide</text>
+
+</svg>

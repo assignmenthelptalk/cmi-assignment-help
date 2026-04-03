@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" width="720" height="480" font-family="Inter, system-ui, sans-serif">
+
+  <!-- Background -->
+  <rect width="720" height="480" fill="#f9fafb" rx="12"/>
+
+  <!-- Title -->
+  <text x="360" y="36" text-anchor="middle" font-size="16" font-weight="700" fill="#1a2e4a">CMI Command Verbs — What Each Grade Requires</text>
+  <text x="360" y="56" text-anchor="middle" font-size="12" fill="#6b7280">How the depth of command verb application determines your grade outcome</text>
+
+  <!-- Column headers -->
+  <!-- Pass -->
+  <rect x="40" y="72" width="196" height="44" rx="8" fill="#3b82f6"/>
+  <text x="138" y="91" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">PASS</text>
+  <text x="138" y="107" text-anchor="middle" font-size="11" fill="#dbeafe">Meets the verb at base level</text>
+
+  <!-- Merit -->
+  <rect x="262" y="72" width="196" height="44" rx="8" fill="#d97706"/>
+  <text x="360" y="91" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">MERIT</text>
+  <text x="360" y="107" text-anchor="middle" font-size="11" fill="#fef3c7">Consistent depth with evidence</text>
+
+  <!-- Distinction -->
+  <rect x="484" y="72" width="196" height="44" rx="8" fill="#25D366"/>
+  <text x="582" y="91" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">DISTINCTION</text>
+  <text x="582" y="107" text-anchor="middle" font-size="11" fill="#d1fae5">Critical awareness applied</text>
+
+  <!-- Row dividers and content -->
+
+  <!-- Row label: Identify / Describe -->
+  <rect x="40" y="128" width="640" height="14" rx="4" fill="#e5e7eb"/>
+  <text x="360" y="140" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">LEVEL 3 · Identify / Describe / Explain</text>
+
+  <rect x="40" y="144" width="196" height="58" rx="6" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="138" y="163" text-anchor="middle" font-size="11" fill="#1e40af" font-weight="600">Names items specifically</text>
+  <text x="138" y="178" text-anchor="middle" font-size="10" fill="#374151">Correct topic, correct</text>
+  <text x="138" y="191" text-anchor="middle" font-size="10" fill="#374151">verb met at surface level</text>
+
+  <rect x="262" y="144" width="196" height="58" rx="6" fill="#fffbeb" stroke="#fcd34d" stroke-width="1"/>
+  <text x="360" y="163" text-anchor="middle" font-size="11" fill="#92400e" font-weight="600">Specific + detailed</text>
+  <text x="360" y="178" text-anchor="middle" font-size="10" fill="#374151">Named theories, models,</text>
+  <text x="360" y="191" text-anchor="middle" font-size="10" fill="#374151">or legislation cited</text>
+
+  <rect x="484" y="144" width="196" height="58" rx="6" fill="#ecfdf5" stroke="#6ee7b7" stroke-width="1"/>
+  <text x="582" y="163" text-anchor="middle" font-size="11" fill="#065f46" font-weight="600">Specific + contextualised</text>
+  <text x="582" y="178" text-anchor="middle" font-size="10" fill="#374151">Applies to scenario with</text>
+  <text x="582" y="191" text-anchor="middle" font-size="10" fill="#374151">precise, sourced detail</text>
+
+  <!-- Row label: Analyse / Discuss -->
+  <rect x="40" y="214" width="640" height="14" rx="4" fill="#e5e7eb"/>
+  <text x="360" y="226" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">LEVEL 4 · Discuss / Analyse</text>
+
+  <rect x="40" y="230" width="196" height="58" rx="6" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="138" y="249" text-anchor="middle" font-size="11" fill="#1e40af" font-weight="600">Components listed</text>
+  <text x="138" y="264" text-anchor="middle" font-size="10" fill="#374151">Multiple perspectives or</text>
+  <text x="138" y="277" text-anchor="middle" font-size="10" fill="#374151">parts identified</text>
+
+  <rect x="262" y="230" width="196" height="58" rx="6" fill="#fffbeb" stroke="#fcd34d" stroke-width="1"/>
+  <text x="360" y="249" text-anchor="middle" font-size="11" fill="#92400e" font-weight="600">Relationships explained</text>
+  <text x="360" y="264" text-anchor="middle" font-size="10" fill="#374151">Components connected with</text>
+  <text x="360" y="277" text-anchor="middle" font-size="10" fill="#374151">"because" reasoning + evidence</text>
+
+  <rect x="484" y="230" width="196" height="58" rx="6" fill="#ecfdf5" stroke="#6ee7b7" stroke-width="1"/>
+  <text x="582" y="249" text-anchor="middle" font-size="11" fill="#065f46" font-weight="600">Limitations acknowledged</text>
+  <text x="582" y="264" text-anchor="middle" font-size="10" fill="#374151">Framework limitations named;</text>
+  <text x="582" y="277" text-anchor="middle" font-size="10" fill="#374151">alternative views engaged</text>
+
+  <!-- Row label: Evaluate / Justify -->
+  <rect x="40" y="300" width="640" height="14" rx="4" fill="#e5e7eb"/>
+  <text x="360" y="312" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">LEVEL 5–6 · Evaluate / Justify / Critically Evaluate</text>
+
+  <rect x="40" y="316" width="196" height="72" rx="6" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="138" y="335" text-anchor="middle" font-size="11" fill="#1e40af" font-weight="600">Criteria named</text>
+  <text x="138" y="350" text-anchor="middle" font-size="10" fill="#374151">Subject measured against</text>
+  <text x="138" y="363" text-anchor="middle" font-size="10" fill="#374151">explicit criteria; conclusion</text>
+  <text x="138" y="376" text-anchor="middle" font-size="10" fill="#374151">reached with evidence</text>
+
+  <rect x="262" y="316" width="196" height="72" rx="6" fill="#fffbeb" stroke="#fcd34d" stroke-width="1"/>
+  <text x="360" y="335" text-anchor="middle" font-size="11" fill="#92400e" font-weight="600">Criteria well-chosen</text>
+  <text x="360" y="350" text-anchor="middle" font-size="10" fill="#374151">Theory applied (not described);</text>
+  <text x="360" y="363" text-anchor="middle" font-size="10" fill="#374151">conclusion clearly supported</text>
+  <text x="360" y="376" text-anchor="middle" font-size="10" fill="#374151">by preceding analysis</text>
+
+  <rect x="484" y="316" width="196" height="72" rx="6" fill="#ecfdf5" stroke="#6ee7b7" stroke-width="1"/>
+  <text x="582" y="335" text-anchor="middle" font-size="11" fill="#065f46" font-weight="600">Criteria challenged</text>
+  <text x="582" y="350" text-anchor="middle" font-size="10" fill="#374151">Critiques own evaluation</text>
+  <text x="582" y="363" text-anchor="middle" font-size="10" fill="#374151">framework; alternative criteria</text>
+  <text x="582" y="376" text-anchor="middle" font-size="10" fill="#374151">considered; position defended</text>
+
+  <!-- Key takeaway -->
+  <rect x="40" y="404" width="640" height="40" rx="8" fill="#ecfdf5" stroke="#25D366" stroke-width="1.5"/>
+  <text x="360" y="421" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">Distinction does not require more content — it requires a higher-order cognitive move.</text>
+  <text x="360" y="437" text-anchor="middle" font-size="11" fill="#374151">Step outside the analysis and question its own foundations. That is the critical layer.</text>
+
+  <!-- Footer -->
+  <text x="360" y="468" text-anchor="middle" font-size="10" fill="#9ca3af">cmiassignmentsupport.co.uk · CMI Command Verbs Guide</text>
+
+</svg>

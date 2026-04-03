@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 504 Assignment Help — Managing Performance',
+    description: 'Expert CMI Unit 504 assignment writing for the Level 5 Diploma. UK-based writers, performance management systems, appraisal models, Evaluate command verb. Free quote on WhatsApp.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+];
+---
+<BaseLayout
+  title="CMI 504 Assignment Help — Managing Performance"
+  description="Expert CMI Unit 504 assignment writing for the Level 5 Diploma. UK-based writers, performance management systems, appraisal models, Evaluate command verb. Free quote on WhatsApp."
+  slug="/cmi-level-5/unit-504-managing-performance/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 5 Assignment Help', href: '/cmi-level-5-assignment-help/' },
+    { label: 'CMI 504 Assignment Help', href: '/cmi-level-5/unit-504-managing-performance/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <h1>CMI 504 Assignment Help — Managing Performance</h1>
+    <p>Full unit guide for CMI 504 coming soon. In the meantime, <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">WhatsApp us with your Unit 504 brief</a> for an immediate quote.</p>
+    <p>Unit 504 covers performance management systems — appraisal models, performance conversations, development planning, and managing underperformance. Uses the Evaluate command verb in a management report format, 3,000–4,000 words.</p>
+    <p>Return to: <a href="/cmi-level-5-assignment-help/">CMI Level 5 Assignment Help — All 25 Units</a></p>
+  </article>
+</BaseLayout>

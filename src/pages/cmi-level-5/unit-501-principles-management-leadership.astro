@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-5-unit-501');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-5-unit-501');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 501 Assignment Help — Principles of Management and Leadership',
+    description: 'Expert CMI Unit 501 assignment writing for the Level 5 Diploma. UK-based writers, Evaluate command verb, management report format, 3,000–4,000 words. Free quote on WhatsApp.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 501 Assignment Help — Principles of Management and Leadership"
+  description="Expert CMI Unit 501 assignment writing for the Level 5 Diploma. UK-based writers, Evaluate command verb, management report format, 3,000–4,000 words. Free quote on WhatsApp."
+  slug="/cmi-level-5/unit-501-principles-management-leadership/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 5 Assignment Help', href: '/cmi-level-5-assignment-help/' },
+    { label: 'CMI 501 Assignment Help', href: '/cmi-level-5/unit-501-principles-management-leadership/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

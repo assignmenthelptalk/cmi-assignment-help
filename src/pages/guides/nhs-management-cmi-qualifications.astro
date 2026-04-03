@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'nhs-management-cmi-qualifications');
+const { Content } = await render(entry);
+const faqs = extractFaqs('nhs-management-cmi-qualifications');
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: 'CMI Qualifications for NHS Managers — Band Guide and Assignment Support',
+    description: 'Which CMI level matches your NHS band? Full guide for NHS managers on CMI Level 5 and Level 7 qualifications, relevant units, funding, and assignment support.',
+    author: { '@type': 'Organization', name: 'CMI Assignment Support', url: 'https://cmiassignmentsupport.co.uk' },
+    publisher: { '@type': 'Organization', name: 'CMI Assignment Support', url: 'https://cmiassignmentsupport.co.uk' },
+    inLanguage: 'en-GB',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Qualifications for NHS Managers — Band Guide and Assignment Support"
+  description="Which CMI level matches your NHS band? Full guide for NHS managers on CMI Level 5 and Level 7 qualifications, relevant units, funding, and assignment support."
+  slug="/guides/nhs-management-cmi-qualifications/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'Guides', href: '/guides/' },
+    { label: 'CMI Qualifications for NHS Managers', href: '/guides/nhs-management-cmi-qualifications/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

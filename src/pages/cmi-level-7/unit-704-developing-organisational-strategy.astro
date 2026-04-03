@@ -1,12 +1,23 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-const schemas = [{
-  '@context': 'https://schema.org', '@type': 'Service',
-  name: 'CMI 704 Assignment Help — Developing Organisational Strategy',
-  description: 'Expert CMI Unit 704 strategic papers for the Level 7 Diploma. Senior UK writers, Porter, PESTLE, Ansoff, Resource-Based View, Critically Analyse depth. Free quote on WhatsApp.',
-  provider: { '@type': 'Organization', name: 'CMI Assignment Support', url: 'https://cmiassignmentsupport.co.uk' },
-  areaServed: 'GB', serviceType: 'CMI assignment writing support',
-}];
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-7-unit-704');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-7-unit-704');
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 704 Assignment Help — Developing Organisational Strategy',
+    description: 'Expert CMI Unit 704 strategic papers for the Level 7 Diploma. Senior UK writers, Porter, PESTLE, Ansoff, Resource-Based View, Critically Analyse depth. Free quote on WhatsApp.',
+    provider: { '@type': 'Organization', name: 'CMI Assignment Support', url: 'https://cmiassignmentsupport.co.uk' },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
 ---
 <BaseLayout
   title="CMI 704 Assignment Help — Developing Organisational Strategy"
@@ -19,9 +30,6 @@ const schemas = [{
   ]}
 >
   <article class="prose-page--wide">
-    <h1>CMI 704 Assignment Help — Developing Organisational Strategy</h1>
-    <p>Full unit guide for CMI 704 coming soon. In the meantime, <a href="https://wa.me/447916696894" target="_blank" rel="noopener noreferrer">WhatsApp us with your Unit 704 brief</a> for an immediate quote.</p>
-    <p>Unit 704 covers corporate and business-level strategy development — Porter's Five Forces, PESTLE, Ansoff Matrix, Resource-Based View, Balanced Scorecard — applied at Critically Analytical depth. Strategic paper format, 5,000–6,500 words.</p>
-    <p>Return to: <a href="/cmi-level-7-assignment-help/">CMI Level 7 Assignment Help — All 17 Units</a></p>
+    <Content />
   </article>
 </BaseLayout>

@@ -7,7 +7,7 @@
 import { visit } from 'unist-util-visit';
 import { h } from 'hastscript';
 
-const WHATSAPP_URL = 'https://wa.me/[WHATSAPP_NUMBER]';
+const WHATSAPP_URL = 'https://wa.me/447916696894';
 
 function isCommentNode(node) {
   return node.type === 'raw' && node.value && node.value.trim().startsWith('<!--');
@@ -21,17 +21,6 @@ function isInfographicLabel(text) {
   return /^(TRUST BADGE|LEVEL SELECTOR|PROCESS INFOGRAPHIC|PROCESS TIMELINE|LEVEL COMPARISON)/i.test(text);
 }
 
-/** Find the next non-whitespace sibling comment at or after siblings[startIndex] */
-function nextCommentSibling(siblings, startIndex) {
-  for (let i = startIndex; i < siblings.length; i++) {
-    const s = siblings[i];
-    if (isCommentNode(s)) return { node: s, index: i };
-    // Skip pure-whitespace text nodes
-    if (s.type === 'text' && s.value.trim() === '') continue;
-    break; // non-whitespace, non-comment — stop
-  }
-  return null;
-}
 
 function buildInfographicDiv(label, description, altText) {
   return h('div', { class: 'infographic-placeholder' }, [
@@ -90,30 +79,36 @@ export default function rehypeCmiTransforms() {
       if (!parent || index == null) return;
       if (!isCommentNode(node)) return;
 
-      const text = extractCommentText(node.value);
-      if (!isInfographicLabel(text)) return;
+      // Extract all individual comment blocks from this raw node
+      // (consecutive comment lines with no blank lines between them are one raw node)
+      const allComments = node.value.match(/<!--[\s\S]*?-->/g) || [];
+      if (allComments.length === 0) return;
 
-      const siblings = parent.children;
+      const firstText = extractCommentText(allComments[0]);
+      if (!isInfographicLabel(firstText)) return;
 
-      // Find desc and alt comment siblings, skipping whitespace text nodes
-      const descResult = nextCommentSibling(siblings, index + 1);
-      const altResult = descResult ? nextCommentSibling(siblings, descResult.index + 1) : null;
+      const label = firstText;
 
-      const descNode = descResult?.node;
-      const altNode = altResult?.node;
-      const lastIdx = altResult?.index ?? descResult?.index ?? index;
+      // Middle comments (between first and last) are the description
+      const middleComments = allComments.slice(1, allComments.length > 2 ? -1 : undefined);
+      const description = middleComments
+        .map((c) =>
+          extractCommentText(c)
+            .replace(/^Components?:\s*/i, '')
+            .replace(/^Steps?:\s*/i, '')
+            .replace(/^Icons?:\s*/i, '')
+            .replace(/^Labels?:\s*/i, '')
+        )
+        .join(' | ');
 
-      let description = '';
-      let altText = '';
+      // Last comment is the alt text (or second comment if only 2)
+      const lastComment = allComments[allComments.length - 1];
+      const altText = extractCommentText(lastComment)
+        .replace(/^Alt text:\s*/i, '')
+        .replace(/^"/, '')
+        .replace(/"$/, '');
 
-      if (descNode) {
-        description = extractCommentText(descNode.value).replace(/^Components?:\s*/i, '');
-      }
-      if (altNode) {
-        altText = extractCommentText(altNode.value).replace(/^Alt text:\s*/i, '').replace(/^"/, '').replace(/"$/, '');
-      }
-
-      nodesToReplace.push({ parent, index, lastIdx, label: text, description, altText });
+      nodesToReplace.push({ parent, index, lastIdx: index, label, description, altText });
     });
 
     // Replace in reverse order to preserve indices

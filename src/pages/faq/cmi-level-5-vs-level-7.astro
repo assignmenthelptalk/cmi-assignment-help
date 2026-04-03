@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'faq-cmi-level-5-vs-level-7');
+const { Content } = await render(entry);
+const faqs = extractFaqs('faq-cmi-level-5-vs-level-7');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: 'CMI Level 5 vs Level 7 — Five Key Differences Explained',
+    description: 'A detailed comparison of CMI Level 5 and Level 7 — scope, format, command verbs, academic sources, word count, and which level is right for your role.',
+    publisher: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Level 5 vs Level 7 — Five Key Differences Explained"
+  description="A detailed comparison of CMI Level 5 and Level 7 — scope, format, command verbs, academic sources, word count, and which level is right for your role."
+  slug="/faq/cmi-level-5-vs-level-7/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 5 vs Level 7', href: '/faq/cmi-level-5-vs-level-7/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

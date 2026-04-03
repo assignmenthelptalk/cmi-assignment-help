@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-7-unit-701');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-7-unit-701');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 701 Assignment Help — Strategic Leadership',
+    description: 'Expert CMI Unit 701 strategic papers for the Level 7 Diploma. Senior UK writers with director-level experience, Critically Analyse depth, 15–20 peer-reviewed sources. Free quote on WhatsApp.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 701 Assignment Help — Strategic Leadership | Level 7"
+  description="Expert CMI Unit 701 strategic papers for the Level 7 Diploma. Senior UK writers with director-level experience, Critically Analyse depth, 15–20 peer-reviewed sources. Free quote on WhatsApp."
+  slug="/cmi-level-7/unit-701-strategic-leadership/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 7 Assignment Help', href: '/cmi-level-7-assignment-help/' },
+    { label: 'CMI 701 Assignment Help', href: '/cmi-level-7/unit-701-strategic-leadership/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

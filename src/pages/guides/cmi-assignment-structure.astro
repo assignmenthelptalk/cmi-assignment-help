@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-assignment-structure');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-assignment-structure');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: 'How to Structure a CMI Assignment — Management Reports, Essays, and Reflective Accounts',
+    description: 'Section-by-section structure guide for every CMI assignment format — management reports, essays, and reflective accounts — with word count guidance and common errors to avoid.',
+    author: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="How to Structure a CMI Assignment — Management Reports, Essays and Reflective Accounts"
+  description="Section-by-section structure guide for every CMI assignment format — management reports, essays, and reflective accounts — with word count guidance and common errors to avoid."
+  slug="/guides/cmi-assignment-structure/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'Guides', href: '/guides/' },
+    { label: 'CMI Assignment Structure', href: '/guides/cmi-assignment-structure/' },
+  ]}
+>
+  <article class="prose-page">
+    <Content />
+  </article>
+</BaseLayout>

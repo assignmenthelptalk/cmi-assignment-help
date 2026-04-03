@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-command-verbs-explained');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-command-verbs-explained');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: 'CMI Command Verbs Explained — What Every Verb Requires at Each Level',
+    description: 'A complete guide to every CMI command verb from Identify to Critically Evaluate — what each verb requires, how it differs from similar verbs, and which levels use it.',
+    author: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Command Verbs Explained — What Every Verb Requires at Each Level"
+  description="A complete guide to every CMI command verb from Identify to Critically Evaluate — what each verb requires, how it differs from similar verbs, and which levels use it."
+  slug="/guides/cmi-command-verbs-explained/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'Guides', href: '/guides/' },
+    { label: 'CMI Command Verbs Explained', href: '/guides/cmi-command-verbs-explained/' },
+  ]}
+>
+  <article class="prose-page">
+    <Content />
+  </article>
+</BaseLayout>

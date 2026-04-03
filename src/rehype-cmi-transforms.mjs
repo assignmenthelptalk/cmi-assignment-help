@@ -18,11 +18,33 @@ function extractCommentText(raw) {
 }
 
 function isInfographicLabel(text) {
-  return /^(TRUST BADGE|LEVEL SELECTOR|PROCESS INFOGRAPHIC|PROCESS TIMELINE|LEVEL COMPARISON)/i.test(text);
+  return /^(TRUST BADGE|LEVEL SELECTOR|PROCESS INFOGRAPHIC|PROCESS TIMELINE|LEVEL COMPARISON|CMI COMMAND VERB|CMI MANAGEMENT REPORT|GIBBS REFLECTIVE)/i.test(text);
+}
+
+/** Map infographic label to public SVG path, if one exists */
+function infographicImageSrc(label) {
+  const u = label.toUpperCase();
+  if (u.startsWith('CMI COMMAND VERB COGNITIVE')) return '/cmi-command-verb-ladder.svg';
+  if (u.startsWith('CMI COMMAND VERB') || u.includes('GRADE BAND')) return '/cmi-command-verb-grades.svg';
+  if (u.startsWith('CMI MANAGEMENT REPORT')) return '/cmi-management-report-structure.svg';
+  if (u.startsWith('GIBBS REFLECTIVE')) return '/cmi-gibbs-reflective-cycle.svg';
+  return null;
 }
 
 
 function buildInfographicDiv(label, description, altText) {
+  const src = infographicImageSrc(label);
+  if (src) {
+    return h('figure', { class: 'infographic-figure', style: 'margin:2rem 0;text-align:center' }, [
+      h('img', {
+        src,
+        alt: altText,
+        loading: 'lazy',
+        style: 'max-width:100%;height:auto;border-radius:8px',
+      }),
+      altText ? h('figcaption', { style: 'font-size:0.8rem;color:#6b7280;margin-top:0.5rem' }, altText) : null,
+    ].filter(Boolean));
+  }
   return h('div', { class: 'infographic-placeholder' }, [
     h('div', { class: 'infographic-placeholder__inner', style: 'text-align:center' }, [
       h('span', { class: 'infographic-placeholder__icon', style: 'font-size:2rem;display:block;margin-bottom:0.5rem' }, '📊'),

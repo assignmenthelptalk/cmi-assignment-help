@@ -67,6 +67,12 @@
            my-8 p-8 text-center min-h-[200px] flex items-center justify-center;
   }
   .checklist li::before { content: "✓ "; @apply text-accent font-bold; }
+  /* Future links — broken href removed, text styled to show a link will go here */
+  .future-link {
+    @apply text-primary underline cursor-default;
+    text-decoration-style: dashed;
+    opacity: 0.7;
+  }
   .prose-page {
     @apply max-w-3xl mx-auto px-4 sm:px-6 py-8 sm:py-10;
   }

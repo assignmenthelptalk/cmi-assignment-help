@@ -149,7 +149,7 @@ Using an example as a format and quality reference is exactly what they are for.
 
 If you want a CMI assignment written specifically for your unit, brief, and context, our [CMI assignment writing service](/cmi-assignment-writing-service/) delivers submission-ready assignments from scratch.
 
-For guidance on structure and approach without full writing support, our [how to write a CMI assignment guide](/guides/how-to-write-a-cmi-assignment/) and [CMI assignment structure guide](/guides/cmi-assignment-structure/) walk through the format requirements in detail. For a full breakdown of command verb requirements, see our [CMI command verbs explained guide](/guides/cmi-command-verbs-explained/).
+For guidance on structure and approach without full writing support, our <span class="future-link">how to write a CMI assignment guide</span> and [CMI assignment structure guide](/guides/cmi-assignment-structure/) walk through the format requirements in detail. For a full breakdown of command verb requirements, see our [CMI command verbs explained guide](/guides/cmi-command-verbs-explained/).
 
 ---
 

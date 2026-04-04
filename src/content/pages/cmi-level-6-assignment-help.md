@@ -64,52 +64,52 @@ For a full breakdown of all CMI command verbs, see our [CMI command verbs guide]
 CMI Level 6 includes 16 units covering the full range of professional management and leadership practice. Assignment help is available for all 16 units below.
 
 ### CMI 601 — Professional Management and Leadership Practice
-The core Level 6 unit — critically evaluates management and leadership philosophy, professional practice standards, and ethical leadership responsibilities within an organisational context. Advanced management paper format. 4,000–5,000 words. [Get help with CMI 601](/cmi-level-6/unit-601-professional-management-leadership-practice/)
+The core Level 6 unit — critically evaluates management and leadership philosophy, professional practice standards, and ethical leadership responsibilities within an organisational context. Advanced management paper format. 4,000–5,000 words. <span class="future-link">Get help with CMI 601</span>
 
 ### CMI 602 — Developing, Managing and Leading Individuals and Teams
-Advanced team leadership — critically evaluates high-performance team development models, talent strategy, and leadership effectiveness across culturally diverse and cross-functional teams. 4,000–5,000 words. [Get help with CMI 602](/cmi-level-6/unit-602-developing-managing-leading-teams/)
+Advanced team leadership — critically evaluates high-performance team development models, talent strategy, and leadership effectiveness across culturally diverse and cross-functional teams. 4,000–5,000 words. <span class="future-link">Get help with CMI 602</span>
 
 ### CMI 603 — Organisational Culture
-Critically assesses organisational culture models — Schein's three levels of culture, Hofstede's cultural dimensions — and the senior leader's role in shaping, sustaining, or transforming organisational culture through strategic intervention. 4,000–5,000 words. [Get help with CMI 603](/cmi-level-6/unit-603-organisational-culture/)
+Critically assesses organisational culture models — Schein's three levels of culture, Hofstede's cultural dimensions — and the senior leader's role in shaping, sustaining, or transforming organisational culture through strategic intervention. 4,000–5,000 words. <span class="future-link">Get help with CMI 603</span>
 
 ### CMI 604 — Strategic Programme and Project Management
-Strategic-level programme management — covers programme portfolio governance, benefits realisation frameworks, and the leadership of complex multi-stakeholder programmes in organisational settings. 4,000–5,000 words. [Get help with CMI 604](/cmi-level-6/unit-604-strategic-programme-project-management/)
+Strategic-level programme management — covers programme portfolio governance, benefits realisation frameworks, and the leadership of complex multi-stakeholder programmes in organisational settings. 4,000–5,000 words. <span class="future-link">Get help with CMI 604</span>
 
 ### CMI 605 — Innovation and Change
-Critically evaluates innovation strategy, disruptive innovation management frameworks, and the leadership competencies required to lead transformational change at an organisational or sector level. 4,000–5,000 words. [Get help with CMI 605](/cmi-level-6/unit-605-innovation-and-change/)
+Critically evaluates innovation strategy, disruptive innovation management frameworks, and the leadership competencies required to lead transformational change at an organisational or sector level. 4,000–5,000 words. <span class="future-link">Get help with CMI 605</span>
 
 ### CMI 606 — Finance for Strategic Leaders
-Advanced financial analysis and decision-making for senior managers — strategic investment appraisal, financial risk management, and the financial leadership responsibilities of professional managers. 4,000–5,000 words. [Get help with CMI 606](/cmi-level-6/unit-606-finance-for-strategic-leaders/)
+Advanced financial analysis and decision-making for senior managers — strategic investment appraisal, financial risk management, and the financial leadership responsibilities of professional managers. 4,000–5,000 words. <span class="future-link">Get help with CMI 606</span>
 
 ### CMI 607 — Procurement, Purchasing and Contracting
-Strategic procurement frameworks, supplier relationship management, contracting and tendering processes, and commercial leadership responsibilities at an organisational level. 4,000–5,000 words. [Get help with CMI 607](/cmi-level-6/unit-607-procurement-purchasing-contracting/)
+Strategic procurement frameworks, supplier relationship management, contracting and tendering processes, and commercial leadership responsibilities at an organisational level. 4,000–5,000 words. <span class="future-link">Get help with CMI 607</span>
 
 ### CMI 608 — Strategic Corporate Social Responsibility and Sustainability
-CSR strategy, ESG (Environmental, Social, and Governance) frameworks, sustainability leadership practice, and the senior manager's accountability for organisational social and environmental impact. 4,000–5,000 words. [Get help with CMI 608](/cmi-level-6/unit-608-corporate-social-responsibility-sustainability/)
+CSR strategy, ESG (Environmental, Social, and Governance) frameworks, sustainability leadership practice, and the senior manager's accountability for organisational social and environmental impact. 4,000–5,000 words. <span class="future-link">Get help with CMI 608</span>
 
 ### CMI 609 — Leading Equality, Diversity and Inclusion
-Strategy-level EDI leadership — critically evaluates organisational approaches to equality and diversity, the senior leader's role in systemic inclusion, and the evidence base for EDI strategy effectiveness. 4,000 words. [Get help with CMI 609](/cmi-level-6/unit-609-equality-diversity-inclusion/)
+Strategy-level EDI leadership — critically evaluates organisational approaches to equality and diversity, the senior leader's role in systemic inclusion, and the evidence base for EDI strategy effectiveness. 4,000 words. <span class="future-link">Get help with CMI 609</span>
 
 ### CMI 610 — Principles and Practices of Policy Development
-Policy development lifecycle, evidence-based policy design, stakeholder consultation methods, and policy evaluation frameworks. High relevance for senior public sector and NHS leaders. 4,000–5,000 words. [Get help with CMI 610](/cmi-level-6/unit-610-policy-development/)
+Policy development lifecycle, evidence-based policy design, stakeholder consultation methods, and policy evaluation frameworks. High relevance for senior public sector and NHS leaders. 4,000–5,000 words. <span class="future-link">Get help with CMI 610</span>
 
 ### CMI 611 — Strategic Knowledge Management
-Knowledge management frameworks, intellectual capital theory, organisational learning systems, and knowledge transfer strategies for professional managers. 4,000 words. [Get help with CMI 611](/cmi-level-6/unit-611-strategic-knowledge-management/)
+Knowledge management frameworks, intellectual capital theory, organisational learning systems, and knowledge transfer strategies for professional managers. 4,000 words. <span class="future-link">Get help with CMI 611</span>
 
 ### CMI 612 — Coaching Skills for Leaders
-Advanced coaching models applied at leadership level — developing a coaching culture throughout an organisation, and the senior leader's role as coach and enabler of performance. 4,000 words. [Get help with CMI 612](/cmi-level-6/unit-612-coaching-skills-for-leaders/)
+Advanced coaching models applied at leadership level — developing a coaching culture throughout an organisation, and the senior leader's role as coach and enabler of performance. 4,000 words. <span class="future-link">Get help with CMI 612</span>
 
 ### CMI 613 — Leading the Development of a Quality Strategy
-Quality strategy design and implementation — quality leadership responsibilities, strategic quality culture, performance measurement frameworks, and quality improvement at an organisational level. 4,000 words. [Get help with CMI 613](/cmi-level-6/unit-613-quality-strategy/)
+Quality strategy design and implementation — quality leadership responsibilities, strategic quality culture, performance measurement frameworks, and quality improvement at an organisational level. 4,000 words. <span class="future-link">Get help with CMI 613</span>
 
 ### CMI 614 — Personal and Professional Development for Professional Managers and Leaders
-CPD at senior management level — reflective leadership practice, personal development planning aligned to strategic organisational goals. Reflective paper format. 4,000 words. [Get help with CMI 614](/cmi-level-6/unit-614-personal-professional-development/)
+CPD at senior management level — reflective leadership practice, personal development planning aligned to strategic organisational goals. Reflective paper format. 4,000 words. <span class="future-link">Get help with CMI 614</span>
 
 ### CMI 615 — Strategic Healthcare Leadership
-Healthcare-specific leadership unit — NHS leadership frameworks (Leadership Model, People Promise), patient safety culture, strategic planning in healthcare, and clinical governance responsibilities. Highly relevant for NHS Band 8+ managers and healthcare directors. 4,000–5,000 words. [Get help with CMI 615](/cmi-level-6/unit-615-strategic-healthcare-leadership/)
+Healthcare-specific leadership unit — NHS leadership frameworks (Leadership Model, People Promise), patient safety culture, strategic planning in healthcare, and clinical governance responsibilities. Highly relevant for NHS Band 8+ managers and healthcare directors. 4,000–5,000 words. <span class="future-link">Get help with CMI 615</span>
 
 ### CMI 616 — Principles of Mental Health and Wellbeing in the Workplace
-Organisational mental health and wellbeing strategy — management responsibilities, wellbeing frameworks, psychological safety in teams, and strategic workforce wellbeing planning. 4,000 words. [Get help with CMI 616](/cmi-level-6/unit-616-mental-health-wellbeing-workplace/)
+Organisational mental health and wellbeing strategy — management responsibilities, wellbeing frameworks, psychological safety in teams, and strategic workforce wellbeing planning. 4,000 words. <span class="future-link">Get help with CMI 616</span>
 
 **WhatsApp us with your unit number for a quote on any of the 16 units above.**
 

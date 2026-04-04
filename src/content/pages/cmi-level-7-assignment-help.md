@@ -88,40 +88,40 @@ Critically analyses strategic change leadership — applying and critiquing Kott
 Enterprise risk management — risk strategy design, risk governance frameworks at board level, strategic risk appetite, crisis leadership, and reputational risk in complex organisations. 5,000–6,000 words. [Get help with CMI 708](/cmi-level-7/unit-708-strategic-risk-management/)
 
 ### CMI 703 — Collaboration and Partnerships
-Strategic partnership development, inter-organisational collaboration models, joint ventures and consortia governance, public-private partnership frameworks, and the strategic leader's role in managing complex external relationships. 5,000 words. [Get help with CMI 703](/cmi-level-7/unit-703-collaboration-and-partnerships/)
+Strategic partnership development, inter-organisational collaboration models, joint ventures and consortia governance, public-private partnership frameworks, and the strategic leader's role in managing complex external relationships. 5,000 words. <span class="future-link">Get help with CMI 703</span>
 
 ### CMI 706 — Finance for Strategic Leaders
-Advanced financial leadership at board level — capital allocation strategy, investment appraisal at strategic scale, financial risk management, shareholder value, and the executive's financial governance responsibilities. 5,000–6,000 words. [Get help with CMI 706](/cmi-level-7/unit-706-finance-for-strategic-leaders/)
+Advanced financial leadership at board level — capital allocation strategy, investment appraisal at strategic scale, financial risk management, shareholder value, and the executive's financial governance responsibilities. 5,000–6,000 words. <span class="future-link">Get help with CMI 706</span>
 
 ### CMI 707 — Organisational Design and Development
-Strategic organisational design — structure models (functional, divisional, matrix, network), organisational development frameworks, restructuring at scale, span of control theory, and the strategic implications of design choices on performance and culture. 5,000–6,000 words. [Get help with CMI 707](/cmi-level-7/unit-707-organisational-design-development/)
+Strategic organisational design — structure models (functional, divisional, matrix, network), organisational development frameworks, restructuring at scale, span of control theory, and the strategic implications of design choices on performance and culture. 5,000–6,000 words. <span class="future-link">Get help with CMI 707</span>
 
 ### CMI 709 — Strategic Management of Data and Information
-Data governance strategy, digital transformation leadership, analytics strategy, artificial intelligence in strategic decision-making, and information security governance at the executive level. 5,000 words. [Get help with CMI 709](/cmi-level-7/unit-709-strategic-management-data-information/)
+Data governance strategy, digital transformation leadership, analytics strategy, artificial intelligence in strategic decision-making, and information security governance at the executive level. 5,000 words. <span class="future-link">Get help with CMI 709</span>
 
 ### CMI 710 — Marketing Strategy
-Strategic marketing analysis — market positioning, competitive strategy frameworks (Porter's Generic Strategies), brand strategy, digital strategy, and customer value proposition development at an organisational level. 5,000 words. [Get help with CMI 710](/cmi-level-7/unit-710-marketing-strategy/)
+Strategic marketing analysis — market positioning, competitive strategy frameworks (Porter's Generic Strategies), brand strategy, digital strategy, and customer value proposition development at an organisational level. 5,000 words. <span class="future-link">Get help with CMI 710</span>
 
 ### CMI 711 — Entrepreneurial Practice
-Entrepreneurial and intrapreneurial leadership, venture strategy, growth strategy for entrepreneurial organisations, and the strategic management of innovation-driven business development. 5,000 words. [Get help with CMI 711](/cmi-level-7/unit-711-entrepreneurial-practice/)
+Entrepreneurial and intrapreneurial leadership, venture strategy, growth strategy for entrepreneurial organisations, and the strategic management of innovation-driven business development. 5,000 words. <span class="future-link">Get help with CMI 711</span>
 
 ### CMI 712 — Strategic Management Project
-The most extensive Level 7 assignment — an applied strategic research project analysing a real organisational challenge or opportunity and producing strategic recommendations using formal research methodology. Strategic project report format, 8,000–12,000 words. Requires original research design. [Get help with CMI 712](/cmi-level-7/unit-712-strategic-management-project/)
+The most extensive Level 7 assignment — an applied strategic research project analysing a real organisational challenge or opportunity and producing strategic recommendations using formal research methodology. Strategic project report format, 8,000–12,000 words. Requires original research design. <span class="future-link">Get help with CMI 712</span>
 
 ### CMI 713 — Applied Research for Strategic Leaders
-Research design for strategic leadership — mixed methods research, research ethics at organisational scale, strategic research questions, analysis of primary and secondary data, and presenting research findings for strategic decision-making. 6,000–8,000 words. [Get help with CMI 713](/cmi-level-7/unit-713-applied-research-strategic-leaders/)
+Research design for strategic leadership — mixed methods research, research ethics at organisational scale, strategic research questions, analysis of primary and secondary data, and presenting research findings for strategic decision-making. 6,000–8,000 words. <span class="future-link">Get help with CMI 713</span>
 
 ### CMI 714 — Personal and Professional Development for Strategic Leaders
-Reflective leadership practice at senior executive level — personal development planning aligned to strategic role, CPD portfolio at board level. Reflective paper format, 5,000 words. [Get help with CMI 714](/cmi-level-7/unit-714-personal-professional-development/)
+Reflective leadership practice at senior executive level — personal development planning aligned to strategic role, CPD portfolio at board level. Reflective paper format, 5,000 words. <span class="future-link">Get help with CMI 714</span>
 
 ### CMI 715 — Strategic Approaches to Equality, Diversity and Inclusion
-EDI at board and executive level — organisational EDI strategy development, legislative framework (Equality Act 2010), board accountability for EDI outcomes, and systemic inclusion leadership across large organisations. 5,000 words. [Get help with CMI 715](/cmi-level-7/unit-715-equality-diversity-inclusion/)
+EDI at board and executive level — organisational EDI strategy development, legislative framework (Equality Act 2010), board accountability for EDI outcomes, and systemic inclusion leadership across large organisations. 5,000 words. <span class="future-link">Get help with CMI 715</span>
 
 ### CMI 716 — Strategic Approaches to Mental Health and Wellbeing
-Wellbeing strategy at organisational and board level — the business case for strategic wellbeing investment, mental health governance, psychological safety at scale, and board-level responsibilities for workforce health. 5,000 words. [Get help with CMI 716](/cmi-level-7/unit-716-mental-health-wellbeing/)
+Wellbeing strategy at organisational and board level — the business case for strategic wellbeing investment, mental health governance, psychological safety at scale, and board-level responsibilities for workforce health. 5,000 words. <span class="future-link">Get help with CMI 716</span>
 
 ### CMI 717 — Corporate Social Responsibility and Sustainability Strategy
-CSR strategy development, ESG (Environmental, Social, and Governance) reporting frameworks, circular economy strategy, sustainability governance at board level, and regulatory compliance with emerging sustainability legislation. 5,000 words. [Get help with CMI 717](/cmi-level-7/unit-717-csr-sustainability/)
+CSR strategy development, ESG (Environmental, Social, and Governance) reporting frameworks, circular economy strategy, sustainability governance at board level, and regulatory compliance with emerging sustainability legislation. 5,000 words. <span class="future-link">Get help with CMI 717</span>
 
 **WhatsApp us with your unit number for a quote on any of the 17 units above.**
 
@@ -201,7 +201,7 @@ Further reading:
 - [CMI Level 5 assignment help](/cmi-level-5-assignment-help/) — the most popular applied management level
 - [CMI Level 6 assignment help](/cmi-level-6-assignment-help/) — Professional Management and Leadership
 - [CMI Level 5 vs Level 7 — which is right for you?](/faq/cmi-level-5-vs-level-7/)
-- [Is a CMI qualification worth it?](/faq/is-cmi-qualification-worth-it/)
+- <span class="future-link">Is a CMI qualification worth it?</span>
 
 ---
 

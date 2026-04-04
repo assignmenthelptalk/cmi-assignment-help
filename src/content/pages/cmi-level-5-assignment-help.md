@@ -85,22 +85,22 @@ Performance management systems — appraisal models, performance conversations, 
 Stakeholder identification, power-interest analysis, stakeholder communication strategies, and managing complex or conflicting stakeholder expectations. Management report, Evaluate/Justify. 3,000–4,000 words. [Get help with CMI 509](/cmi-level-5/unit-509-managing-stakeholder-relationships/)
 
 ### CMI 505 — Forming Successful Teams
-Team formation models, high-performance team characteristics, psychological safety, and team composition strategies for a management role. 3,000 words. [Get help with CMI 505](/cmi-level-5/unit-505-forming-successful-teams/)
+Team formation models, high-performance team characteristics, psychological safety, and team composition strategies for a management role. 3,000 words. <span class="future-link">Get help with CMI 505</span>
 
 ### CMI 506 — Managing Equality, Diversity and Inclusion
-Equality Act 2010, organisational EDI strategy, unconscious bias, inclusive management practices and responsibilities. 3,000 words. [Get help with CMI 506](/cmi-level-5/unit-506-equality-diversity-inclusion/)
+Equality Act 2010, organisational EDI strategy, unconscious bias, inclusive management practices and responsibilities. 3,000 words. <span class="future-link">Get help with CMI 506</span>
 
 ### CMI 507 — Principles of Delivering Coaching and Mentoring
-GROW model, coaching vs mentoring, how to design and deliver coaching conversations for individuals, measuring coaching outcomes. 3,000 words. [Get help with CMI 507](/cmi-level-5/unit-507-coaching-and-mentoring/)
+GROW model, coaching vs mentoring, how to design and deliver coaching conversations for individuals, measuring coaching outcomes. 3,000 words. <span class="future-link">Get help with CMI 507</span>
 
 ### CMI 508 — Principles of Developing a Skilled and Talented Workforce
-Talent management frameworks, skills gap analysis, workforce development strategies, succession planning. 3,000 words. [Get help with CMI 508](/cmi-level-5/unit-508-skilled-talented-workforce/)
+Talent management frameworks, skills gap analysis, workforce development strategies, succession planning. 3,000 words. <span class="future-link">Get help with CMI 508</span>
 
 ### CMI 510 — Managing Conflict
-Conflict sources and escalation stages, Thomas-Kilmann conflict model, mediation and dispute resolution, grievance and disciplinary processes. 2,500–3,000 words. [Get help with CMI 510](/cmi-level-5/unit-510-managing-conflict/)
+Conflict sources and escalation stages, Thomas-Kilmann conflict model, mediation and dispute resolution, grievance and disciplinary processes. 2,500–3,000 words. <span class="future-link">Get help with CMI 510</span>
 
 ### CMI 511 — Principles of Innovation
-Innovation theories, disruptive and incremental innovation, building an innovation culture, applying innovation thinking in a management context. 3,000 words. [Get help with CMI 511](/cmi-level-5/unit-511-principles-of-innovation/)
+Innovation theories, disruptive and incremental innovation, building an innovation culture, applying innovation thinking in a management context. 3,000 words. <span class="future-link">Get help with CMI 511</span>
 
 ### CMI 512 — Principles of Change Management
 Change management frameworks — Kotter's 8-Step Model, Lewin's Force Field Analysis, ADKAR — change communication strategies, resistance management. Applied to a real or hypothetical organisational change. 3,000–4,000 words. [Get help with CMI 512](/cmi-level-5/unit-512-change-management/)
@@ -109,40 +109,40 @@ Change management frameworks — Kotter's 8-Step Model, Lewin's Force Field Anal
 Project management lifecycle, PRINCE2 overview, scope management, stakeholder involvement in projects, monitoring and reporting. 3,000–4,000 words. [Get help with CMI 513](/cmi-level-5/unit-513-managing-projects/)
 
 ### CMI 514 — Managing Budgets and Resources
-Budget planning, variance analysis, resource allocation, cost management and cost control responsibilities for managers. 3,000 words. [Get help with CMI 514](/cmi-level-5/unit-514-managing-budgets-resources/)
+Budget planning, variance analysis, resource allocation, cost management and cost control responsibilities for managers. 3,000 words. <span class="future-link">Get help with CMI 514</span>
 
 ### CMI 515 — Creating and Delivering Operational Plans
-Operational planning process, SMART objectives, KPI selection and monitoring, performance against operational plan, corrective action. 3,000–4,000 words. [Get help with CMI 515](/cmi-level-5/unit-515-operational-plans/)
+Operational planning process, SMART objectives, KPI selection and monitoring, performance against operational plan, corrective action. 3,000–4,000 words. <span class="future-link">Get help with CMI 515</span>
 
 ### CMI 516 — Managing Data and Information
-Data governance, information quality management, GDPR and data protection responsibilities for managers, data-driven decision-making. 2,500–3,000 words. [Get help with CMI 516](/cmi-level-5/unit-516-managing-data-information/)
+Data governance, information quality management, GDPR and data protection responsibilities for managers, data-driven decision-making. 2,500–3,000 words. <span class="future-link">Get help with CMI 516</span>
 
 ### CMI 517 — Principles of Communication in the Workplace
-Communication frameworks, barriers to effective communication, adapting communication style to different audiences, communication strategy in change and crisis contexts. 2,500–3,000 words. [Get help with CMI 517](/cmi-level-5/unit-517-communication-workplace/)
+Communication frameworks, barriers to effective communication, adapting communication style to different audiences, communication strategy in change and crisis contexts. 2,500–3,000 words. <span class="future-link">Get help with CMI 517</span>
 
 ### CMI 518 — Managing Risk
-Risk identification and assessment, risk registers, risk appetite and tolerance, risk mitigation strategies, manager responsibilities in organisational risk management. 3,000 words. [Get help with CMI 518](/cmi-level-5/unit-518-managing-risk/)
+Risk identification and assessment, risk registers, risk appetite and tolerance, risk mitigation strategies, manager responsibilities in organisational risk management. 3,000 words. <span class="future-link">Get help with CMI 518</span>
 
 ### CMI 519 — Managing Quality
-TQM principles, ISO 9001 quality management framework, continuous improvement methodologies (Lean, Kaizen), quality culture and management responsibility. 3,000 words. [Get help with CMI 519](/cmi-level-5/unit-519-managing-quality/)
+TQM principles, ISO 9001 quality management framework, continuous improvement methodologies (Lean, Kaizen), quality culture and management responsibility. 3,000 words. <span class="future-link">Get help with CMI 519</span>
 
 ### CMI 520 — Managing Finance
-Financial statements for managers, P&L understanding, financial KPIs, investment vs cost decisions, financial accountability in a management role. 3,000 words. [Get help with CMI 520](/cmi-level-5/unit-520-managing-finance/)
+Financial statements for managers, P&L understanding, financial KPIs, investment vs cost decisions, financial accountability in a management role. 3,000 words. <span class="future-link">Get help with CMI 520</span>
 
 ### CMI 521 — Using Data and Information for Decision Making
-Data analysis methods for managers, evidence-based decision-making, presenting analytical findings to stakeholders, decision frameworks. 3,000 words. [Get help with CMI 521](/cmi-level-5/unit-521-data-information-decision-making/)
+Data analysis methods for managers, evidence-based decision-making, presenting analytical findings to stakeholders, decision frameworks. 3,000 words. <span class="future-link">Get help with CMI 521</span>
 
 ### CMI 522 — Managing the Customer Experience
-Customer journey mapping, service quality frameworks (SERVQUAL), customer feedback systems, managing service recovery. 3,000 words. [Get help with CMI 522](/cmi-level-5/unit-522-managing-customer-experience/)
+Customer journey mapping, service quality frameworks (SERVQUAL), customer feedback systems, managing service recovery. 3,000 words. <span class="future-link">Get help with CMI 522</span>
 
 ### CMI 523 — Principles of Marketing Products and Services
-Marketing mix (7Ps), market analysis, customer segmentation, digital marketing fundamentals, applying marketing principles in a management context. 3,000 words. [Get help with CMI 523](/cmi-level-5/unit-523-marketing-products-services/)
+Marketing mix (7Ps), market analysis, customer segmentation, digital marketing fundamentals, applying marketing principles in a management context. 3,000 words. <span class="future-link">Get help with CMI 523</span>
 
 ### CMI 524 — Conducting Management Research
-Research methodology, qualitative vs quantitative approaches, research ethics, literature review structure, data collection and analysis methods for management research. 4,000+ words. [Get help with CMI 524](/cmi-level-5/unit-524-conducting-management-research/)
+Research methodology, qualitative vs quantitative approaches, research ethics, literature review structure, data collection and analysis methods for management research. 4,000+ words. <span class="future-link">Get help with CMI 524</span>
 
 ### CMI 525 — Using Reflective Practice to Inform Personal and Professional Development
-Gibbs' Reflective Cycle, Kolb's Experiential Learning model, personal development planning, CPD portfolio evidence. Reflective account format — first-person narrative. 3,000–4,000 words. [Get help with CMI 525](/cmi-level-5/unit-525-reflective-practice/)
+Gibbs' Reflective Cycle, Kolb's Experiential Learning model, personal development planning, CPD portfolio evidence. Reflective account format — first-person narrative. 3,000–4,000 words. <span class="future-link">Get help with CMI 525</span>
 
 **WhatsApp us with your unit number to get a quote on any of the 25 units above.**
 
@@ -199,7 +199,7 @@ CMI Level 5 sits at the centre of the CMI qualification pathway:
 
 Completing the Level 5 Diploma supports application for Associate Member (ACMI) status with CMI — one of the professional membership pathways recognised by UK employers.
 
-Further reading: [How to write a CMI management report](/guides/how-to-write-management-report-cmi/) · [CMI Level 5 vs Level 7 — which is right for you?](/faq/cmi-level-5-vs-level-7/)
+Further reading: <span class="future-link">How to write a CMI management report</span> · [CMI Level 5 vs Level 7 — which is right for you?](/faq/cmi-level-5-vs-level-7/)
 
 ---
 

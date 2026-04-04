@@ -48,7 +48,7 @@ CMI assignment help pricing is determined by three factors: your qualification l
 
 For a transparent, fixed quote based on your specific unit, word count, and deadline, message us on WhatsApp. Quotes are provided within 1 hour during trading hours. There is no obligation to proceed after receiving a quote.
 
-[View full pricing](/pricing/)
+<span class="future-link">View full pricing</span>
 
 ### CMI Level 3 and 4 — Entry-Level Assignment Pricing
 
@@ -86,7 +86,7 @@ For students completing a full Diploma across multiple units, per-unit payment i
 
 If your budget is constrained and you need a longer payment window, mention this on WhatsApp. We accommodate students with genuine financial constraints where we can, and will always be transparent about what is possible.
 
-[View full pricing information](/pricing/)
+<span class="future-link">View full pricing information</span>
 
 ---
 

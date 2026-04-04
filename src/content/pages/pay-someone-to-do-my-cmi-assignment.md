@@ -116,7 +116,7 @@ The cost of having a CMI assignment done depends on three factors: your qualific
 
 We accept payment by bank transfer, PayPal, and card. Payment is structured as a deposit on order and the balance on delivery.
 
-[View full pricing](/pricing/)
+<span class="future-link">View full pricing</span>
 
 ---
 

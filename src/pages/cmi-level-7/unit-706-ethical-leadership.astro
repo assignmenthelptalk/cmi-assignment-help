@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-7-unit-706');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-7-unit-706');
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 706 Assignment Help — Ethical Leadership',
+    description: 'Expert CMI Unit 706 strategic papers for the Level 7 Diploma. Senior UK writers, ethical frameworks at Critically Analyse depth, moral disengagement, corporate governance. Free quote on WhatsApp.',
+    provider: { '@type': 'Organization', name: 'CMI Assignment Support', url: 'https://cmiassignmentsupport.co.uk' },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 706 Assignment Help — Ethical Leadership"
+  description="Expert CMI Unit 706 strategic papers for the Level 7 Diploma. Senior UK writers, ethical frameworks at Critically Analyse depth, moral disengagement, corporate governance. Free quote on WhatsApp."
+  slug="/cmi-level-7/unit-706-ethical-leadership/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 7 Assignment Help', href: '/cmi-level-7-assignment-help/' },
+    { label: 'CMI 706 Assignment Help', href: '/cmi-level-7/unit-706-ethical-leadership/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

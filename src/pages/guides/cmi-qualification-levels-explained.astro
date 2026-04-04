@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-qualification-levels-explained');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-qualification-levels-explained');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: 'CMI Qualification Levels Explained — Level 3 to Level 7 Guide',
+    description: 'A complete guide to CMI qualification levels — what each level covers, who it suits, equivalent qualifications, command verbs, and how to choose the right level for your career stage.',
+    author: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Qualification Levels Explained — Level 3 to Level 7 Guide"
+  description="A complete guide to CMI qualification levels — what each level covers, who it suits, equivalent qualifications, command verbs, and how to choose the right level for your career stage."
+  slug="/guides/cmi-qualification-levels-explained/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'Guides', href: '/guides/' },
+    { label: 'CMI Qualification Levels Explained', href: '/guides/cmi-qualification-levels-explained/' },
+  ]}
+>
+  <article class="prose-page">
+    <Content />
+  </article>
+</BaseLayout>

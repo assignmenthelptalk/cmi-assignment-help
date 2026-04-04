@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-5-unit-506');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-5-unit-506');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 506 Assignment Help — Managing Resources and Finance',
+    description: 'Expert CMI Unit 506 assignment writing for the Level 5 Diploma. UK-based writers, budget types, variance analysis, financial information Evaluation, management report format. Free quote on WhatsApp.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 506 Assignment Help — Managing Resources and Finance"
+  description="Expert CMI Unit 506 assignment writing for the Level 5 Diploma. UK-based writers, budget types, variance analysis, financial information Evaluation, management report format. Free quote on WhatsApp."
+  slug="/cmi-level-5/unit-506-managing-resources-finance/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 5 Assignment Help', href: '/cmi-level-5-assignment-help/' },
+    { label: 'CMI 506 Assignment Help', href: '/cmi-level-5/unit-506-managing-resources-finance/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

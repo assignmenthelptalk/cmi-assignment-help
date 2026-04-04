@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-assignment-resubmission');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-assignment-resubmission');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: 'CMI Assignment Resubmission — Why Assignments Fail and How to Fix Them',
+    description: 'A complete guide to CMI assignment resubmission — what a Refer means, how to read assessor feedback, the five most common failure reasons, and a step-by-step fix for every level.',
+    author: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Assignment Resubmission — Why Assignments Fail and How to Fix Them"
+  description="A complete guide to CMI assignment resubmission — what a Refer means, how to read assessor feedback, the five most common failure reasons, and a step-by-step fix for every level."
+  slug="/guides/cmi-assignment-resubmission/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'Guides', href: '/guides/' },
+    { label: 'CMI Assignment Resubmission', href: '/guides/cmi-assignment-resubmission/' },
+  ]}
+>
+  <article class="prose-page">
+    <Content />
+  </article>
+</BaseLayout>

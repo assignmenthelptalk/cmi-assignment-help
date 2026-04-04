@@ -252,6 +252,7 @@ const schemas = [
     position: relative;
   }
 
+  /* Left-to-right fade — covers baked-in text on left/centre of photo */
   .hero__image-wrap::before {
     content: '';
     position: absolute;
@@ -260,8 +261,25 @@ const schemas = [
     background: linear-gradient(
       to right,
       #1a2e4a 0%,
-      rgba(26, 46, 74, 0.5) 30%,
-      transparent 65%
+      rgba(26, 46, 74, 0.85) 20%,
+      rgba(26, 46, 74, 0.5) 45%,
+      rgba(26, 46, 74, 0.2) 70%,
+      rgba(26, 46, 74, 0.2) 100%
+    );
+    pointer-events: none;
+  }
+
+  /* Bottom-to-top fade — covers the "EXPLORE PROGRAMS" button */
+  .hero__image-wrap::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: linear-gradient(
+      to top,
+      rgba(26, 46, 74, 0.75) 0%,
+      rgba(26, 46, 74, 0.3) 20%,
+      transparent 45%
     );
     pointer-events: none;
   }

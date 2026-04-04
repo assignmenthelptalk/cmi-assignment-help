@@ -7,7 +7,7 @@
 import { visit } from 'unist-util-visit';
 import { h } from 'hastscript';
 
-const WHATSAPP_URL = 'https://wa.me/447916696894';
+const WHATSAPP_URL = 'https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment.%20Can%20I%20get%20a%20free%20quote%3F';
 
 function isCommentNode(node) {
   return node.type === 'raw' && node.value && node.value.trim().startsWith('<!--');

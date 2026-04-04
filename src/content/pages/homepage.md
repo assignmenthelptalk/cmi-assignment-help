@@ -7,9 +7,9 @@ Every assignment we deliver is written against CMI's official Learning Outcomes 
 **Get CMI Assignment Help on WhatsApp — Free Quote**
 Message us now to discuss your assignment, level, and deadline.
 
-<!-- TRUST BADGE ROW — Place below H1, above first H2 -->
-<!-- Components: CMI logo reference | "UK-Based Writers" badge | Trustpilot star rating widget | "All Levels 3–7 Covered" badge -->
-<!-- Alt text: "CMI assignment help — UK-based service, all levels covered, 5-star rated" -->
+<figure style="margin:2rem 0;text-align:center">
+  <img src="/trust-badge.png" alt="CMI assignment help — UK-based service, all levels covered, 5-star rated" style="max-width:100%;height:auto;border-radius:8px" />
+</figure>
 
 ---
 

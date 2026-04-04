@@ -249,13 +249,28 @@ const schemas = [
 
   .hero__image-wrap {
     overflow: hidden;
+    position: relative;
+  }
+
+  .hero__image-wrap::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: linear-gradient(
+      to right,
+      #1a2e4a 0%,
+      rgba(26, 46, 74, 0.5) 30%,
+      transparent 65%
+    );
+    pointer-events: none;
   }
 
   .hero__image {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    object-position: center;
+    object-position: right center;
     display: block;
   }
 
@@ -361,6 +376,13 @@ const schemas = [
     .hero__image-wrap {
       order: -1;
       height: 260px;
+    }
+    .hero__image-wrap::before {
+      background: linear-gradient(
+        to bottom,
+        transparent 40%,
+        #1a2e4a 100%
+      );
     }
     .hero__text {
       padding: 2rem 1.25rem;

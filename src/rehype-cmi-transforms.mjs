@@ -21,9 +21,10 @@ function isInfographicLabel(text) {
   return /^(TRUST BADGE|LEVEL SELECTOR|PROCESS INFOGRAPHIC|PROCESS TIMELINE|LEVEL COMPARISON|CMI COMMAND VERB|CMI MANAGEMENT REPORT|GIBBS REFLECTIVE|UNIT INFO BADGE|LEADERSHIP THEORIES|MENDELOW|STAKEHOLDER COMMUNICATION|STRATEGIC LEADERSHIP MODELS|CRITICALLY ANALYSE VS|CMI LEVEL 5 VS|STUDENT PROFILE|PORTER'S FIVE FORCES|ANSOFF MATRIX|KOTTER'S 8-STEP|CHANGE MANAGEMENT FRAMEWORKS|NHS BAND TO CMI LEVEL|CMI UNITS RELEVANT TO NHS|9-BOX GRID|HPWS PRACTICE)/i.test(text);
 }
 
-/** Map infographic label to public SVG path, if one exists */
+/** Map infographic label to public image path, if one exists */
 function infographicImageSrc(label) {
   const u = label.toUpperCase();
+  if (u.startsWith('TRUST BADGE')) return '/trust-badge.png';
   if (u.startsWith('CMI COMMAND VERB COGNITIVE')) return '/cmi-command-verb-ladder.svg';
   if (u.startsWith('CMI COMMAND VERB') || u.includes('GRADE BAND')) return '/cmi-command-verb-grades.svg';
   if (u.startsWith('CMI MANAGEMENT REPORT')) return '/cmi-management-report-structure.svg';

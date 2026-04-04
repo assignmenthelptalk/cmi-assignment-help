@@ -1,0 +1,194 @@
+---
+// LevelSelectorGrid.astro
+// Usage: <LevelSelectorGrid />
+// Place: after level table, above "Assignment Writing, Tutoring" H3 on homepage
+// Alt text: "CMI qualification levels 3 to 7 assignment help — click your level to find specific unit support"
+
+const levels = [
+  {
+    number: 3,
+    name: "First Line Management",
+    type: "Award / Certificate / Diploma",
+    units: 12,
+    href: "/cmi-level-3-assignment-help/",
+    colour: "#e8f0f7",
+    border: "#b8cfe8",
+  },
+  {
+    number: 4,
+    name: "Management and Leadership",
+    type: "Award / Certificate / Diploma",
+    units: 11,
+    href: "/cmi-level-4-assignment-help/",
+    colour: "#dceaf5",
+    border: "#a0bedd",
+  },
+  {
+    number: 5,
+    name: "Management and Leadership",
+    type: "Award / Certificate / Diploma",
+    units: 25,
+    href: "/cmi-level-5-assignment-help/",
+    colour: "#1a2e4a",
+    border: "#1a2e4a",
+    dark: true,
+  },
+  {
+    number: 6,
+    name: "Professional Management",
+    type: "Award / Certificate / Diploma",
+    units: 16,
+    href: "/cmi-level-6-assignment-help/",
+    colour: "#dceaf5",
+    border: "#a0bedd",
+  },
+  {
+    number: 7,
+    name: "Strategic Management & Leadership",
+    type: "Award / Certificate / Diploma",
+    units: 17,
+    href: "/cmi-level-7-assignment-help/",
+    colour: "#e8f0f7",
+    border: "#b8cfe8",
+  },
+];
+---
+
+<nav
+  class="level-grid"
+  aria-label="CMI qualification levels 3 to 7 — click your level to find specific unit support"
+>
+  {levels.map((level) => (
+    <a
+      href={level.href}
+      class:list={["level-tile", { "level-tile--dark": level.dark }]}
+      style={`background:${level.colour}; border-color:${level.border};`}
+      aria-label={`CMI Level ${level.number} — ${level.name} — ${level.units} units covered`}
+    >
+      <span class="level-tile__number">Level {level.number}</span>
+      <span class="level-tile__name">{level.name}</span>
+      <span class="level-tile__type">{level.type}</span>
+      <span class="level-tile__units">{level.units} units covered</span>
+      <span class="level-tile__cta" aria-hidden="true">
+        Get help →
+      </span>
+      {level.dark && (
+        <span class="level-tile__popular" aria-label="Most popular">Most popular</span>
+      )}
+    </a>
+  ))}
+</nav>
+
+<style>
+  .level-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0.75rem;
+    margin: 2rem 0;
+  }
+
+  .level-tile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 1.25rem 0.75rem;
+    border: 2px solid transparent;
+    border-radius: 12px;
+    text-decoration: none;
+    color: #1a2e4a;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    position: relative;
+    gap: 0.25rem;
+  }
+
+  .level-tile:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(26, 46, 74, 0.15);
+    text-decoration: none;
+  }
+
+  .level-tile--dark {
+    color: #ffffff;
+  }
+
+  .level-tile__number {
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+  }
+
+  .level-tile__name {
+    font-size: 0.8rem;
+    font-weight: 600;
+    line-height: 1.3;
+    margin-top: 0.125rem;
+  }
+
+  .level-tile__type {
+    font-size: 0.7rem;
+    opacity: 0.7;
+    margin-top: 0.25rem;
+  }
+
+  .level-tile__units {
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-top: 0.5rem;
+    opacity: 0.9;
+  }
+
+  .level-tile__cta {
+    font-size: 0.75rem;
+    font-weight: 700;
+    margin-top: 0.5rem;
+    color: #25D366;
+  }
+
+  .level-tile--dark .level-tile__cta {
+    color: #86efac;
+  }
+
+  .level-tile__popular {
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #25D366;
+    color: white;
+    font-size: 0.65rem;
+    font-weight: 700;
+    padding: 0.2rem 0.6rem;
+    border-radius: 50px;
+    white-space: nowrap;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  /* Tablet: 3 + 2 grid */
+  @media (max-width: 900px) {
+    .level-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  /* Mobile: 2 column grid */
+  @media (max-width: 600px) {
+    .level-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .level-tile {
+      padding: 1rem 0.6rem;
+    }
+    .level-tile__type {
+      display: none;
+    }
+  }
+
+  /* Very small: single column */
+  @media (max-width: 360px) {
+    .level-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

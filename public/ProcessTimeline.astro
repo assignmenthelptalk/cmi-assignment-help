@@ -1,0 +1,272 @@
+---
+// ProcessTimeline.astro
+// Usage: <ProcessTimeline variant="homepage" /> or <ProcessTimeline variant="writing-service" />
+// Place: above Step 1 in the "How It Works" section
+// Alt text (homepage): "CMI assignment help process — 5 steps from WhatsApp brief to submission-ready document"
+// Alt text (writing): "CMI assignment writing service order process — 5 steps from WhatsApp brief to final Word document"
+
+interface Props {
+  variant?: "homepage" | "writing-service";
+}
+
+const { variant = "homepage" } = Astro.props;
+
+const homepageSteps = [
+  {
+    number: 1,
+    title: "WhatsApp brief",
+    desc: "Send your unit, level, word count & deadline",
+    icon: `<svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
+  },
+  {
+    number: 2,
+    title: "Quote within 1 hour",
+    desc: "Fixed price, confirmed turnaround, writer background",
+    icon: `<svg width="24" height="24" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="10" stroke="white" stroke-width="2"/><path d="M12 6v6l4 2" stroke="white" stroke-width="2" stroke-linecap="round"/></svg>`,
+  },
+  {
+    number: 3,
+    title: "Writer assigned",
+    desc: "Matched to your level and unit subject",
+    icon: `<svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2" stroke="white" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="7" r="4" stroke="white" stroke-width="2"/></svg>`,
+  },
+  {
+    number: 4,
+    title: "Draft delivered",
+    desc: "5–7 business days standard, 48 hr express available",
+    icon: `<svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z" stroke="white" stroke-width="2" stroke-linecap="round"/><path d="M14 2v6h6M16 13H8M16 17H8M10 9H8" stroke="white" stroke-width="2" stroke-linecap="round"/></svg>`,
+  },
+  {
+    number: 5,
+    title: "Submission-ready document",
+    desc: "Formatted to CMI standards, Harvard referenced",
+    icon: `<svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M22 11.08V12a10 10 0 11-5.93-9.14" stroke="white" stroke-width="2" stroke-linecap="round"/><path d="M22 4L12 14.01l-3-3" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
+  },
+];
+
+const writingSteps = [
+  {
+    number: 1,
+    title: "WhatsApp brief",
+    desc: "Unit number, assignment question, word count, deadline",
+    icon: homepageSteps[0].icon,
+  },
+  {
+    number: 2,
+    title: "Quote within the hour",
+    desc: "Fixed price, turnaround date, writer background",
+    icon: homepageSteps[1].icon,
+  },
+  {
+    number: 3,
+    title: "Brief confirmed",
+    desc: "Writer assigned and work begins immediately",
+    icon: homepageSteps[2].icon,
+  },
+  {
+    number: 4,
+    title: "Draft delivered",
+    desc: "With one round of revisions included",
+    icon: homepageSteps[3].icon,
+  },
+  {
+    number: 5,
+    title: "Final Word document",
+    desc: "CMI formatted, Harvard referenced, ready to submit",
+    icon: homepageSteps[4].icon,
+  },
+];
+
+const steps = variant === "writing-service" ? writingSteps : homepageSteps;
+---
+
+<div
+  class="process-timeline"
+  role="region"
+  aria-label={variant === "writing-service"
+    ? "CMI assignment writing service order process — 5 steps from WhatsApp brief to final Word document"
+    : "CMI assignment help process — 5 steps from WhatsApp brief to submission-ready document"}
+>
+  {steps.map((step, i) => (
+    <div class="process-step">
+      <div class="process-step__icon-wrap">
+        <div class="process-step__icon" aria-hidden="true" set:html={step.icon} />
+        {i < steps.length - 1 && (
+          <div class="process-step__connector" aria-hidden="true">
+            <svg class="process-step__arrow" width="20" height="20" viewBox="0 0 20 20" fill="none">
+              <path d="M4 10h12M12 6l4 4-4 4" stroke="#1a2e4a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        )}
+      </div>
+      <div class="process-step__content">
+        <span class="process-step__number">Step {step.number}</span>
+        <strong class="process-step__title">{step.title}</strong>
+        <p class="process-step__desc">{step.desc}</p>
+      </div>
+    </div>
+  ))}
+</div>
+
+<style>
+  .process-timeline {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 0;
+    margin: 2rem 0 2.5rem;
+    overflow: visible;
+  }
+
+  .process-step {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    position: relative;
+  }
+
+  .process-step__icon-wrap {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    position: relative;
+    margin-bottom: 0.75rem;
+  }
+
+  .process-step__icon {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background: #1a2e4a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    z-index: 1;
+    box-shadow: 0 2px 8px rgba(26, 46, 74, 0.25);
+  }
+
+  .process-step__connector {
+    position: absolute;
+    left: calc(50% + 26px);
+    right: calc(-50% + 26px);
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* Horizontal line behind connector */
+  .process-step__connector::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 20px;
+    height: 2px;
+    background: #e5e7eb;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .process-step__arrow {
+    position: relative;
+    z-index: 1;
+    background: white;
+    border-radius: 50%;
+  }
+
+  .process-step__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.15rem;
+    padding: 0 0.5rem;
+  }
+
+  .process-step__number {
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: #6b7280;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .process-step__title {
+    font-size: 0.875rem;
+    font-weight: 700;
+    color: #1a2e4a;
+    line-height: 1.3;
+  }
+
+  .process-step__desc {
+    font-size: 0.75rem;
+    color: #6b7280;
+    line-height: 1.4;
+    margin: 0;
+  }
+
+  /* Mobile: vertical stack */
+  @media (max-width: 640px) {
+    .process-timeline {
+      flex-direction: column;
+      gap: 0;
+    }
+
+    .process-step {
+      flex-direction: row;
+      align-items: flex-start;
+      text-align: left;
+      gap: 1rem;
+      padding-bottom: 1.25rem;
+    }
+
+    .process-step__icon-wrap {
+      flex-direction: column;
+      width: auto;
+      flex-shrink: 0;
+      margin-bottom: 0;
+    }
+
+    .process-step__connector {
+      position: static;
+      transform: none;
+      left: auto;
+      right: auto;
+      top: auto;
+      width: 2px;
+      height: 24px;
+      flex-direction: column;
+      justify-content: center;
+      margin: 4px 0 4px 25px;
+    }
+
+    .process-step__connector::before {
+      left: 50%;
+      right: auto;
+      width: 2px;
+      height: 100%;
+      top: 0;
+      transform: translateX(-50%);
+    }
+
+    .process-step__arrow {
+      display: none;
+    }
+
+    .process-step__content {
+      align-items: flex-start;
+      padding: 0;
+    }
+
+    .process-step__icon {
+      width: 44px;
+      height: 44px;
+    }
+  }
+</style>

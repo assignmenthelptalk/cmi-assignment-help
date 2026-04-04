@@ -1,0 +1,105 @@
+---
+// TrustBadgeRow.astro
+// Usage: <TrustBadgeRow />
+// Place: below H1, above first H2 on homepage
+// Alt text: "CMI assignment help — UK-based service, all levels covered, 5-star rated"
+---
+
+<div
+  class="trust-badge-row"
+  role="region"
+  aria-label="CMI assignment help — UK-based service, all levels covered, 5-star rated"
+>
+  <!-- Badge 1: CMI Aligned -->
+  <div class="trust-badge">
+    <span class="trust-badge__icon" aria-hidden="true">
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="14" cy="14" r="13" stroke="#1a2e4a" stroke-width="2"/>
+        <path d="M8 14l4 4 8-8" stroke="#1a2e4a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </span>
+    <span class="trust-badge__text">CMI Aligned Content</span>
+  </div>
+
+  <!-- Badge 2: UK Based -->
+  <div class="trust-badge">
+    <span class="trust-badge__icon" aria-hidden="true">
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="14" cy="14" r="13" stroke="#1a2e4a" stroke-width="2"/>
+        <path d="M14 7v7l4 4" stroke="#1a2e4a" stroke-width="2.5" stroke-linecap="round"/>
+        <circle cx="14" cy="14" r="2" fill="#1a2e4a"/>
+      </svg>
+    </span>
+    <span class="trust-badge__text">UK-Based Writers</span>
+  </div>
+
+  <!-- Badge 3: Star Rating -->
+  <div class="trust-badge trust-badge--stars">
+    <span class="trust-badge__stars" aria-label="5 star rated">
+      ★★★★★
+    </span>
+    <span class="trust-badge__text">5-Star Rated Service</span>
+  </div>
+
+  <!-- Badge 4: All Levels -->
+  <div class="trust-badge">
+    <span class="trust-badge__icon" aria-hidden="true">
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="3" y="18" width="5" height="7" rx="1" fill="#1a2e4a"/>
+        <rect x="10" y="13" width="5" height="12" rx="1" fill="#1a2e4a" opacity="0.7"/>
+        <rect x="17" y="8" width="5" height="17" rx="1" fill="#1a2e4a" opacity="0.5"/>
+        <rect x="24" y="3" width="1" height="22" rx="0.5" fill="#1a2e4a" opacity="0.3"/>
+      </svg>
+    </span>
+    <span class="trust-badge__text">Levels 3–7 Covered</span>
+  </div>
+</div>
+
+<style>
+  .trust-badge-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    justify-content: center;
+    margin: 1.5rem 0 2rem;
+    padding: 0 0.5rem;
+  }
+
+  .trust-badge {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: #ffffff;
+    border: 1.5px solid #e5e7eb;
+    border-radius: 50px;
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #1a2e4a;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    white-space: nowrap;
+  }
+
+  .trust-badge--stars .trust-badge__stars {
+    color: #f59e0b;
+    font-size: 1rem;
+    letter-spacing: 0.05em;
+  }
+
+  .trust-badge__icon {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+  }
+
+  /* Mobile: 2-column wrap */
+  @media (max-width: 640px) {
+    .trust-badge-row {
+      gap: 0.5rem;
+    }
+    .trust-badge {
+      font-size: 0.8rem;
+      padding: 0.45rem 0.875rem;
+    }
+  }
+</style>

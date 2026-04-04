@@ -1,0 +1,218 @@
+---
+// LevelComparisonInfographic.astro
+// Usage: <LevelComparisonInfographic />
+// Place: cmi-level-7-assignment-help.md — above the five differences list
+// Alt text: "CMI Level 5 vs Level 7 comparison — operational management vs strategic leadership"
+
+const level5 = {
+  level: "Level 5",
+  qualification: "Management and Leadership",
+  icon: `<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <rect x="8" y="28" width="8" height="14" rx="2" fill="white" opacity="0.9"/>
+    <rect x="20" y="20" width="8" height="22" rx="2" fill="white" opacity="0.9"/>
+    <rect x="32" y="12" width="8" height="30" rx="2" fill="white" opacity="0.9"/>
+    <circle cx="12" cy="22" r="5" fill="white"/>
+    <circle cx="24" cy="14" r="5" fill="white"/>
+    <circle cx="36" cy="6" r="5" fill="white"/>
+    <path d="M12 22 L24 14 L36 6" stroke="white" stroke-width="2" stroke-dasharray="3 2"/>
+  </svg>`,
+  focus: "Operational",
+  description: "Team and department management",
+  attributes: [
+    { label: "Command verbs", value: "Analyse, Evaluate" },
+    { label: "Typical word count", value: "2,500–4,000 words" },
+    { label: "Sources expected", value: "12–15 per assignment" },
+    { label: "Assessment focus", value: "Management practice" },
+    { label: "Typical student", value: "Middle manager" },
+    { label: "Report format", value: "Management report" },
+  ],
+  colour: "#2d6a9f",
+};
+
+const level7 = {
+  level: "Level 7",
+  qualification: "Strategic Management & Leadership",
+  icon: `<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <rect x="6" y="20" width="36" height="24" rx="3" fill="white" opacity="0.15" stroke="white" stroke-width="1.5"/>
+    <rect x="12" y="26" width="6" height="6" rx="1" fill="white" opacity="0.8"/>
+    <rect x="21" y="26" width="6" height="6" rx="1" fill="white" opacity="0.8"/>
+    <rect x="30" y="26" width="6" height="6" rx="1" fill="white" opacity="0.8"/>
+    <path d="M16 20V14M24 20V10M32 20V16" stroke="white" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="24" cy="6" r="4" fill="white"/>
+    <path d="M16 14l8-8 8 8" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>`,
+  focus: "Strategic",
+  description: "Organisational strategy and senior leadership",
+  attributes: [
+    { label: "Command verbs", value: "Critically Analyse, Justify, Develop" },
+    { label: "Typical word count", value: "4,000–6,000 words" },
+    { label: "Sources expected", value: "20–25+ per assignment" },
+    { label: "Assessment focus", value: "Strategic decision-making" },
+    { label: "Typical student", value: "Director / Senior leader" },
+    { label: "Report format", value: "Strategic report / case study" },
+  ],
+  colour: "#1a2e4a",
+};
+---
+
+<div class="level-comparison" role="region" aria-label="CMI Level 5 vs Level 7 comparison">
+  {[level5, level7].map((lvl) => (
+    <div class="level-col" style={`background: ${lvl.colour};`}>
+      <div class="level-col__header">
+        <div class="level-col__icon" set:html={lvl.icon} />
+        <div>
+          <span class="level-col__level">{lvl.level}</span>
+          <span class="level-col__qual">{lvl.qualification}</span>
+          <span class="level-col__focus">{lvl.focus}</span>
+        </div>
+      </div>
+      <p class="level-col__desc">{lvl.description}</p>
+      <ul class="level-col__attrs" role="list">
+        {lvl.attributes.map((attr) => (
+          <li class="level-col__attr">
+            <span class="level-col__attr-label">{attr.label}</span>
+            <span class="level-col__attr-value">{attr.value}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  ))}
+  <div class="level-comparison__vs" aria-hidden="true">VS</div>
+</div>
+
+<style>
+  .level-comparison {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin: 2rem 0;
+    position: relative;
+  }
+
+  .level-col {
+    border-radius: 12px;
+    padding: 1.5rem 1.25rem;
+    color: white;
+    position: relative;
+  }
+
+  .level-col__header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .level-col__icon {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    background: rgba(255,255,255,0.15);
+    border-radius: 12px;
+  }
+
+  .level-col__level {
+    display: block;
+    font-size: 1.125rem;
+    font-weight: 800;
+    line-height: 1;
+  }
+
+  .level-col__qual {
+    display: block;
+    font-size: 0.8rem;
+    opacity: 0.85;
+    line-height: 1.3;
+    margin-top: 0.2rem;
+  }
+
+  .level-col__focus {
+    display: inline-block;
+    margin-top: 0.4rem;
+    background: rgba(255,255,255,0.2);
+    border-radius: 50px;
+    padding: 0.15rem 0.75rem;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .level-col__desc {
+    font-size: 0.875rem;
+    opacity: 0.85;
+    margin: 0 0 1rem;
+    line-height: 1.4;
+  }
+
+  .level-col__attrs {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .level-col__attr {
+    display: flex;
+    flex-direction: column;
+    background: rgba(255,255,255,0.1);
+    border-radius: 8px;
+    padding: 0.5rem 0.75rem;
+    gap: 0.1rem;
+  }
+
+  .level-col__attr-label {
+    font-size: 0.65rem;
+    font-weight: 600;
+    opacity: 0.7;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .level-col__attr-value {
+    font-size: 0.8rem;
+    font-weight: 600;
+  }
+
+  .level-comparison__vs {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    color: #1a2e4a;
+    font-weight: 900;
+    font-size: 0.75rem;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    z-index: 2;
+    letter-spacing: 0.05em;
+  }
+
+  /* Mobile: stacked */
+  @media (max-width: 640px) {
+    .level-comparison {
+      grid-template-columns: 1fr;
+    }
+    .level-comparison__vs {
+      position: static;
+      transform: none;
+      margin: -0.5rem auto;
+      z-index: 2;
+    }
+    .level-col__icon {
+      width: 48px;
+      height: 48px;
+    }
+  }
+</style>

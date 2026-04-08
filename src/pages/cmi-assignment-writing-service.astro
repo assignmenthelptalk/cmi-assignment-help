@@ -1,12 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getEntry, render } from 'astro:content';
-import PageHeaderImage from '../components/PageHeaderImage.astro';
 import { extractFaqs, buildFaqSchema } from '../utils/faq';
 
 const entry = await getEntry('pages', 'cmi-assignment-writing-service');
-const { Content, headings } = await render(entry);
-const pageHeading = headings.find((heading) => heading.depth === 1)?.text ?? 'CMI Assignment Writing Service UK | Professional Writers';
+const { Content } = await render(entry);
 const faqs = extractFaqs('cmi-assignment-writing-service');
 
 const schemas = [
@@ -34,8 +32,6 @@ const schemas = [
   breadcrumb={[{ label: 'CMI Assignment Writing Service', href: '/cmi-assignment-writing-service/' }]}
 >
   <article class="prose-page">
-    <h1>{pageHeading}</h1>
-    <PageHeaderImage slug="/cmi-assignment-writing-service/" title={pageHeading} />
     <Content />
   </article>
 </BaseLayout>

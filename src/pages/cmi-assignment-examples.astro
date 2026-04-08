@@ -1,12 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getEntry, render } from 'astro:content';
-import PageHeaderImage from '../components/PageHeaderImage.astro';
 import { extractFaqs, buildFaqSchema } from '../utils/faq';
 
 const entry = await getEntry('pages', 'cmi-assignment-examples');
-const { Content, headings } = await render(entry);
-const pageHeading = headings.find((heading) => heading.depth === 1)?.text ?? 'CMI Assignment Examples: Free Samples Across All Levels';
+const { Content } = await render(entry);
 const faqs = extractFaqs('cmi-assignment-examples');
 
 const schemas = [
@@ -28,8 +26,6 @@ const schemas = [
   breadcrumb={[{ label: 'CMI Assignment Examples', href: '/cmi-assignment-examples/' }]}
 >
   <article class="prose-page">
-    <h1>{pageHeading}</h1>
-    <PageHeaderImage slug="/cmi-assignment-examples/" title={pageHeading} />
     <Content />
   </article>
 </BaseLayout>

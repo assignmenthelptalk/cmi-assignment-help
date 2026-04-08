@@ -1,12 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getEntry, render } from 'astro:content';
-import PageHeaderImage from '../components/PageHeaderImage.astro';
 import { extractFaqs, buildFaqSchema } from '../utils/faq';
 
 const entry = await getEntry('pages', 'cmi-coursework-help');
-const { Content, headings } = await render(entry);
-const pageHeading = headings.find((heading) => heading.depth === 1)?.text ?? 'CMI Coursework Help | All Units, All Levels | UK Support';
+const { Content } = await render(entry);
 const faqs = extractFaqs('cmi-coursework-help');
 
 const schemas = [
@@ -34,8 +32,6 @@ const schemas = [
   breadcrumb={[{ label: 'CMI Coursework Help', href: '/cmi-coursework-help/' }]}
 >
   <article class="prose-page">
-    <h1>{pageHeading}</h1>
-    <PageHeaderImage slug="/cmi-coursework-help/" title={pageHeading} />
     <Content />
   </article>
 </BaseLayout>

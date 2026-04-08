@@ -4,7 +4,6 @@ import Footer from '../components/Footer.astro';
 import WhatsAppButton from '../components/WhatsAppButton.astro';
 import Breadcrumb from '../components/Breadcrumb.astro';
 import SchemaOrg from '../components/SchemaOrg.astro';
-import { getHeaderImageMeta } from '../utils/header-images.mjs';
 import '../styles/global.css';
 
 interface BreadcrumbItem {
@@ -23,9 +22,8 @@ interface Props {
 const { title, description, slug, schemas, breadcrumb } = Astro.props;
 const BASE_URL = 'https://cmiassignmentsupport.co.uk';
 const canonicalUrl = BASE_URL + slug;
-const headerImage = getHeaderImageMeta(slug, title);
-const socialImageUrl = headerImage ? `${BASE_URL}${headerImage.src}` : `${BASE_URL}/og-default.png`;
-const socialImageAlt = headerImage?.alt || title;
+const socialImageUrl = `${BASE_URL}/og-default.png`;
+const socialImageAlt = title;
 ---
 <html lang="en-GB">
   <head>
@@ -44,8 +42,8 @@ const socialImageAlt = headerImage?.alt || title;
     <meta property="og:url" content={canonicalUrl} />
     <meta property="og:image" content={socialImageUrl} />
     <meta property="og:image:alt" content={socialImageAlt} />
-    <meta property="og:image:width" content={String(headerImage?.width || 1200)} />
-    <meta property="og:image:height" content={String(headerImage?.height || 630)} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />

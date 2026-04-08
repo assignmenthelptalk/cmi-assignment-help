@@ -1,12 +1,10 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getEntry, render } from 'astro:content';
-import PageHeaderImage from '../../components/PageHeaderImage.astro';
 import { extractFaqs, buildFaqSchema } from '../../utils/faq';
 
 const entry = await getEntry('pages', 'cmi-level-7-unit-705');
-const { Content, headings } = await render(entry);
-const pageHeading = headings.find((heading) => heading.depth === 1)?.text ?? 'CMI 705 Assignment Help — Leading Strategic Change';
+const { Content } = await render(entry);
 const faqs = extractFaqs('cmi-level-7-unit-705');
 const schemas = [
   {
@@ -32,8 +30,6 @@ const schemas = [
   ]}
 >
   <article class="prose-page--wide">
-    <h1>{pageHeading}</h1>
-    <PageHeaderImage slug="/cmi-level-7/unit-705-leading-strategic-change/" title={pageHeading} />
     <Content />
   </article>
 </BaseLayout>

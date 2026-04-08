@@ -7,7 +7,6 @@ Every CMI 501 assignment we deliver is written by a Level 5 or Level 7 CMI-quali
 <!-- UNIT INFO BADGE ROW: Place below H1 intro paragraph, above first H2 -->
 <!-- Components: "CMI Unit 501" badge | "Level 5 Diploma" badge | "Management Report Format" badge | "3,000–4,000 Words" badge | "Evaluate Command Verb" badge -->
 <!-- Alt text: "CMI Unit 501: Principles of Management and Leadership - Level 5 Diploma, management report format, Evaluate command verb, 3,000 to 4,000 words" -->
-
 **Get CMI 501 Assignment Help on WhatsApp: Free Quote**
 Send your unit brief, word count requirement, and deadline for an immediate response.
 
@@ -71,7 +70,6 @@ CMI 501 assignments are submitted as management reports. This is the primary for
 <!-- CMI MANAGEMENT REPORT STRUCTURE DIAGRAM: Place below the section table, above the Key Theories H2 -->
 <!-- Components: Visual diagram of management report sections in sequence. Use cmi-management-report-structure.svg as the base asset. -->
 <!-- Alt text: "CMI 501 management report structure: sections from title page to bibliography, with word count guidance for each section of the Principles of Management and Leadership report" -->
-
 For a full section-by-section management report guide, see [how to structure a CMI assignment](/guides/cmi-assignment-structure/).
 
 ---
@@ -125,7 +123,6 @@ Goleman's Emotional Intelligence framework identifies five competencies of effec
 <!-- LEADERSHIP THEORIES COMPARISON GRAPHIC: Place between Key Theories section and Evaluate section -->
 <!-- Components: Visual comparison table or matrix: rows: Transformational, Transactional, Situational, Contingency | columns: Theoretical focus, Primary criteria for CMI 501 evaluation, Key limitation, Recommended use in 501 response -->
 <!-- Alt text: "CMI 501 leadership theories comparison: transformational, transactional, situational, and contingency leadership evaluated against criteria for Unit 501 Principles of Management and Leadership" -->
-
 ## How to Evaluate Leadership Theories in CMI 501: What the Command Verb Requires
 
 Evaluate is the primary command verb in CMI 501. It governs AC2 and AC3, and its correct application is the most significant differentiator between a Pass, a Merit, and a referral.
@@ -144,7 +141,6 @@ A second common failure: "In my experience as a manager, transformational leader
 <!-- CMI COMMAND VERB LADDER: Place below the Evaluate explanation, above the "What Does Not Count" H3 -->
 <!-- Components: Cognitive depth ladder visual showing verb hierarchy. Highlight "Evaluate" tier. Use cmi-command-verb-ladder.svg as the base asset. -->
 <!-- Alt text: "CMI command verb cognitive depth ladder: Evaluate highlighted as the primary command verb for CMI Unit 501 Principles of Management and Leadership" -->
-
 For a full breakdown of what every CMI command verb requires across all levels, see our [CMI command verbs guide](/guides/cmi-command-verbs-explained/).
 
 ### What Does Not Count as Evaluate in CMI 501

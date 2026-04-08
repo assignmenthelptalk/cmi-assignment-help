@@ -7,20 +7,18 @@ This is the unit where non-financial managers most commonly underestimate the co
 ---
 
 <!-- UNIT INFO BADGE ROW: Place below H1, above first H2 -->
-<!-- Components: Six badges in a horizontal row: Unit: 506 | Title: Managing Resources and Finance | Level: 5 | Word Count: 3,500–4,500 | Sources: 10–12 | Command Verb: Evaluate -->
+<!-- Components: Six badges in a horizontal row: Unit: 506 | Title: Managing Resources and Finance | Level: 5 | Word Count: 3,500-4,500 | Sources: 10-12 | Command Verb: Evaluate -->
 <!-- Alt text: "CMI Unit 506 Managing Resources and Finance: Level 5 Diploma, 3500-4500 words, 10-12 sources, Evaluate command verb" -->
-
 ---
 
-## What Is CMI Unit 506?
-
+## What Is CMI Unit 506
 CMI Unit 506 - Managing Resources and Finance - is a Level 5 Diploma unit assessing how managers plan, allocate, and control resources and financial budgets. The typical assessment criteria are:
 
 - **AC1**: Evaluate approaches to planning and managing resources
 - **AC2**: Evaluate approaches to setting and managing budgets
 - **AC3**: Evaluate the use of financial information in management decision-making
 
-All three criteria require **Evaluate** - weigh the evidence on multiple approaches, examine their strengths and limitations, and reach a justified conclusion about which approach is most appropriate in a given context. The output is a management report of 3,500–4,500 words, with an executive summary, analysis sections aligned to each AC, conclusions and SMART recommendations, and a reference list of 10–12 Harvard-formatted sources.
+All three criteria require **Evaluate** - weigh the evidence on multiple approaches, examine their strengths and limitations, and reach a justified conclusion about which approach is most appropriate in a given context. The output is a management report of 3,500-4,500 words, with an executive summary, analysis sections aligned to each AC, conclusions and SMART recommendations, and a reference list of 10-12 Harvard-formatted sources.
 
 ---
 
@@ -30,13 +28,13 @@ CMI 506 is submitted as a management report. Structure:
 
 | Section | Content |
 |---|---|
-| Executive Summary | 150–200 words; key findings and recommendations |
+| Executive Summary | 150-200 words; key findings and recommendations |
 | Introduction | Context, scope, purpose - what organisation/context is being examined |
 | AC1 | Resource planning and management evaluation |
 | AC2 | Budget setting and management evaluation |
 | AC3 | Financial information for decision-making evaluation |
 | Conclusions and Recommendations | SMART recommendations directly from your analysis |
-| References | 10–12 sources, Harvard format |
+| References | 10-12 sources, Harvard format |
 
 SMART recommendations in CMI 506 should connect financial decisions to management outcomes, not just "improve the budget process" but specific, measurable improvements to resource allocation or financial reporting aligned to your organisation's strategic context.
 
@@ -60,7 +58,7 @@ Kaplan and Norton's (1992) Balanced Scorecard framework is directly relevant her
 
 ### Capacity Planning and Resource Constraints
 
-Resource planning requires matching capacity to demand. Capacity planning involves forecasting demand (how many customers, patients, service users, students will need this resource at what point?), assessing current capacity (what can we deliver with current resources?), and identifying and addressing gaps. In public sector organisations - where demand often exceeds capacity - resource planning is inseparable from prioritisation decisions: which services are protected, which are reduced, and on what basis.
+Resource planning requires matching capacity to demand. Capacity planning involves forecasting demand (how many customers, patients, service users, students will need this resource at what point - ), assessing current capacity (what can we deliver with current resources - ), and identifying and addressing gaps. In public sector organisations - where demand often exceeds capacity - resource planning is inseparable from prioritisation decisions: which services are protected, which are reduced, and on what basis.
 
 Evaluating approaches to capacity planning means engaging with the methods - qualitative forecasting (expert judgement, scenario planning), quantitative forecasting (trend analysis, regression), workforce planning models - and their limitations. Demand forecasting in complex service environments is inherently uncertain; resource plans built on overly optimistic demand projections create structural undersupply.
 
@@ -73,7 +71,6 @@ Evaluating approaches to capacity planning means engaging with the methods - qua
 <!-- BUDGET TYPES COMPARISON: Place after budget types section heading -->
 <!-- Components: Comparison table: four columns: Incremental Budgeting | Zero-Based Budgeting | Activity-Based Budgeting | Rolling Budget; rows: Definition (one sentence each) | Best suited to (context/organisation type) | Key advantage | Key limitation; use colour coding to differentiate columns -->
 <!-- Alt text: "Budget types comparison for CMI 506: incremental, zero-based, activity-based, and rolling budgets compared by definition, suitability, advantage, and limitation" -->
-
 **Incremental budgeting** takes the previous year's approved budget as the starting point and applies adjustments: inflation, known cost changes, new activities - to produce the current year's budget. It is the most widely used budgeting approach in both public and private sector organisations.
 
 *Strengths*: fast, relatively simple, provides continuity and predictability for budget holders, reduces conflict about base allocations.
@@ -103,9 +100,8 @@ Evaluating approaches to capacity planning means engaging with the methods - qua
 ### Budget Variance Analysis
 
 <!-- VARIANCE ANALYSIS EXPLAINER: Place after variance section heading -->
-<!-- Components: Simple two-row visual table: Row 1: Cost line example (e.g. "Agency Staff Costs - Budget: £120,000 | Actual: £145,000 | Variance: £25,000 Adverse"); Row 2: Revenue line example (e.g. "Service Income - Budget: £200,000 | Actual: £215,000 | Variance: £15,000 Favourable"); below the table: two boxes - "Favourable Variance: actual better than budget (lower cost or higher revenue)"; "Adverse Variance: actual worse than budget (higher cost or lower revenue)"; below: "Management Response: Investigate root cause - Corrective action or revised forecast" -->
+<!-- Components: Simple two-row visual table: Row 1: Cost line example (e.g. "Agency Staff Costs - Budget: Â£120,000 | Actual: Â£145,000 | Variance: Â£25,000 Adverse"); Row 2: Revenue line example (e.g. "Service Income - Budget: Â£200,000 | Actual: Â£215,000 | Variance: Â£15,000 Favourable"); below the table: two boxes - "Favourable Variance: actual better than budget (lower cost or higher revenue)"; "Adverse Variance: actual worse than budget (higher cost or lower revenue)"; below: "Management Response: Investigate root cause - Corrective action or revised forecast" -->
 <!-- Alt text: "Budget variance analysis: favourable vs adverse variance with cost and revenue examples and management response framework" -->
-
 Variance analysis compares actual financial performance against the budget, identifying where and by how much performance has deviated. Variances are classified as:
 
 - **Favourable (F)**: actual performance is better than budget - costs lower than budgeted, or income higher than budgeted
@@ -117,7 +113,7 @@ Variance analysis decomposes into component variances:
 - **Price/rate variance**: the budget assumed a certain cost per unit; actual cost per unit differed; the difference explained by price or rate change
 - **Efficiency variance**: the budget assumed a certain resource input per unit of output; actual efficiency differed; the difference explained by efficiency change
 
-**Evaluating variance analysis** at Level 5 means examining its purpose and its limitations. Variance analysis tells a manager that something has deviated from plan: it does not automatically explain why or what to do. The management response depends on root cause investigation: was the variance caused by a controllable factor (inefficiency, poor procurement, demand management failure) or an uncontrollable factor (price inflation, unexpected demand, supply disruption)? Controllable variances require corrective action; uncontrollable variances may require budget revision rather than management intervention.
+**Evaluating variance analysis** at Level 5 means examining its purpose and its limitations. Variance analysis tells a manager that something has deviated from plan: it does not automatically explain why or what to do. The management response depends on root cause investigation: was the variance caused by a controllable factor (inefficiency, poor procurement, demand management failure) or an uncontrollable factor (price inflation, unexpected demand, supply disruption) - Controllable variances require corrective action; uncontrollable variances may require budget revision rather than management intervention.
 
 Budget variance analysis also has a systemic limitation: it assumes the budget was a reliable baseline. If the budget was set too high or too low, variance analysis measures deviation from a flawed standard.
 
@@ -129,8 +125,8 @@ Budget variance analysis also has a systemic limitation: it assumes the budget w
 
 Managers are not required to prepare financial statements - that is the role of accounting and finance functions. They are required to interpret and use them:
 
-- **Income statement (Profit and Loss account)**: shows revenue, costs, and the resulting profit or loss over a period. For a manager, the key questions are: which cost lines are increasing faster than revenue? where is the organisation generating or destroying value?
-- **Balance sheet**: shows assets (what the organisation owns or controls), liabilities (what it owes), and net assets at a point in time. For a manager, the balance sheet reveals financial stability - can the organisation meet its obligations? is it accumulating or depleting reserves?
+- **Income statement (Profit and Loss account)**: shows revenue, costs, and the resulting profit or loss over a period. For a manager, the key questions are: which cost lines are increasing faster than revenue - where is the organisation generating or destroying value - 
+- **Balance sheet**: shows assets (what the organisation owns or controls), liabilities (what it owes), and net assets at a point in time. For a manager, the balance sheet reveals financial stability - can the organisation meet its obligations - is it accumulating or depleting reserves - 
 - **Cash flow statement**: shows cash inflows and outflows over a period. Profitable organisations can fail through poor cash flow management - profit is an accounting measure, cash is real. Managers overseeing projects or services with significant timing differences between expenditure and income need to understand cash flow implications.
 
 ### Cost-Benefit Analysis
@@ -150,7 +146,7 @@ In practice, CBA is considerably more complex:
 
 Return on Investment (ROI) is the ratio of net benefit to total cost, expressed as a percentage:
 
-ROI = (Net Benefit / Total Cost) �- 100
+ROI = (Net Benefit / Total Cost) Ã- 100
 
 ROI is widely used because of its simplicity. Its limitations are equally well-known: it does not account for the time value of money, does not capture non-financial returns, and can be manipulated by adjusting what counts as "cost" or "benefit."
 
@@ -164,7 +160,7 @@ More sophisticated investment appraisal methods include:
 
 ---
 
-## What Evaluate Requires Across AC1–AC3
+## What Evaluate Requires Across AC1-AC3
 
 **AC1: Evaluate approaches to resource planning and management**
 
@@ -172,7 +168,7 @@ Do not list what resources are. Evaluate the approaches to planning and allocati
 
 **AC2: Evaluate approaches to setting and managing budgets**
 
-Do not describe what a budget is. Compare incremental, zero-based, activity-based, and rolling approaches - in what contexts is each most appropriate? What are their evidence-based strengths and limitations? Evaluate variance analysis as a management tool - what it reveals and what it cannot tell you. Reach a justified conclusion about the most appropriate budgeting approach for your organisational context.
+Do not describe what a budget is. Compare incremental, zero-based, activity-based, and rolling approaches - in what contexts is each most appropriate - What are their evidence-based strengths and limitations - Evaluate variance analysis as a management tool - what it reveals and what it cannot tell you. Reach a justified conclusion about the most appropriate budgeting approach for your organisational context.
 
 **AC3: Evaluate the use of financial information in management decision-making**
 
@@ -183,7 +179,6 @@ Do not state that financial information is useful. Evaluate how it is used, wher
 <!-- COMMAND VERB LADDER: In command verb section -->
 <!-- Components: Use cmi-command-verb-ladder.svg: highlight Evaluate tier -->
 <!-- Alt text: "CMI command verb ladder: Evaluate highlighted as the primary command verb for CMI Level 5 Unit 506 Managing Resources and Finance" -->
-
 ---
 
 ## Common Mistakes in CMI 506
@@ -204,7 +199,7 @@ Do not state that financial information is useful. Evaluate how it is used, wher
 
 A **Merit** Evaluates budget types with genuine comparative analysis, applies variance analysis as a management tool with engagement with its limitations, and uses financial information concepts (CBA, ROI) with appropriate management application.
 
-A **Distinction** does all of the above and constructs a coherent argument across AC1–AC3 about the relationship between resource management and strategic delivery. It examines where financial metrics fail to capture strategic value, engages explicitly with the public sector value-for-money framework or commercial investment appraisal depending on context, and produces SMART recommendations that connect resource management improvements to specific strategic outcomes.
+A **Distinction** does all of the above and constructs a coherent argument across AC1-AC3 about the relationship between resource management and strategic delivery. It examines where financial metrics fail to capture strategic value, engages explicitly with the public sector value-for-money framework or commercial investment appraisal depending on context, and produces SMART recommendations that connect resource management improvements to specific strategic outcomes.
 
 ---
 
@@ -230,27 +225,27 @@ Message us on WhatsApp with your unit brief, organisational context, and deadlin
 
 ## FAQ
 
-**What is CMI Unit 506?**
+**What is CMI Unit 506 - **
 
 CMI Unit 506 - Managing Resources and Finance - assesses how managers plan and allocate resources, set and manage budgets, and use financial information in decision-making. The primary command verb is Evaluate. It covers resource planning approaches, budget types (incremental, zero-based, activity-based, rolling), variance analysis, cost-benefit analysis, financial statements, and investment appraisal at management level.
 
-**What format does CMI 506 take?**
+**What format does CMI 506 take - **
 
-Management report, 3,500–4,500 words, with an executive summary, introduction, AC-aligned analysis sections, conclusions and SMART recommendations, and 10–12 Harvard-formatted sources.
+Management report, 3,500-4,500 words, with an executive summary, introduction, AC-aligned analysis sections, conclusions and SMART recommendations, and 10-12 Harvard-formatted sources.
 
-**What is the difference between incremental and zero-based budgeting in CMI 506?**
+**What is the difference between incremental and zero-based budgeting in CMI 506 - **
 
 Incremental budgeting takes the previous year's budget as the baseline and adjusts it. It is fast but perpetuates historical inefficiency. Zero-based budgeting requires every line to be justified from scratch - it eliminates embedded inefficiency and forces strategic alignment, but is resource-intensive and produces political conflict. AC2 requires Evaluating when each approach is most appropriate, not simply defining them.
 
-**What is variance analysis in CMI 506?**
+**What is variance analysis in CMI 506 - **
 
 The systematic comparison of actual financial performance against budgeted figures, classifying deviations as favourable (better than budget) or adverse (worse than budget). Used by managers to identify performance gaps and investigate root causes. AC2 requires Evaluating variance analysis as a management tool - including its limitation that it measures deviation from a plan that may itself have been flawed.
 
-**What does AC3 require in CMI 506?**
+**What does AC3 require in CMI 506 - **
 
 Evaluate the use of financial information in management decision-making - examining how financial data (P&L statements, variance reports, CBA, ROI, NPV) informs decisions, alongside the limitations of financial information: it is historical, quantitative, excludes non-financial value, and is subject to measurement error. Sound management uses financial information alongside qualitative judgement, strategic fit, and risk assessment.
 
-**Can you help with CMI 506 resubmission?**
+**Can you help with CMI 506 resubmission - **
 
 Yes. The most common resubmission gaps are: AC2 describing budget types without Evaluating when each is appropriate; financial jargon used without management application; and AC3 treating financial information as comprehensively useful without engaging with its limitations. We identify exactly which assessment criteria your submission failed to meet and address them directly.
 

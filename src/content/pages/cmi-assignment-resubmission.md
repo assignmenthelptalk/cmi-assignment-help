@@ -9,7 +9,6 @@ This guide explains what the Refer result means, how to read your assessor feedb
 <!-- CMI GRADING SYSTEM: Place below H1, above first H2 -->
 <!-- Components: Four horizontal bars in descending order: "Distinction" (darkest, gold-tinted); "Merit" (mid-dark, silver-tinted); "Pass" (mid-light, green-tinted); "Refer" (lightest, amber-tinted); each bar shows the grade name and a one-line descriptor; below the Refer bar: a dashed arrow labelled "Resubmission opportunity" pointing upward toward Pass; annotation: "Most centres cap resubmissions at Pass grade" -->
 <!-- Alt text: "CMI grading system: Distinction Merit Pass and Refer; Refer indicates a resubmission opportunity; most centres cap resubmissions at Pass grade" -->
-
 ---
 
 ## What a CMI Refer Result Means
@@ -39,7 +38,7 @@ You have explained what the framework or concept says but have not Evaluated it.
 This appears most commonly on Level 7 assessments. Critical engagement means examining the assumptions underlying the framework, engaging with contradictory evidence, and Critically Analysing rather than describing or evaluating. Fix: return to the flagged sections, identify the core assumptions of the framework you have used, examine where those assumptions break down, and engage with the academic literature on the framework's limitations.
 
 **"Insufficient academic evidence" / "Sources not at the required level"**
-Your referencing does not meet the standard for the level. At Level 5, this usually means too few sources, or too many websites and textbooks without peer-reviewed journal articles. At Level 7, this means the reference list is dominated by textbooks rather than peer-reviewed journals. Fix: identify 3–5 additional peer-reviewed journal articles directly relevant to the flagged sections, integrate them into the analysis, and add them to the reference list.
+Your referencing does not meet the standard for the level. At Level 5, this usually means too few sources, or too many websites and textbooks without peer-reviewed journal articles. At Level 7, this means the reference list is dominated by textbooks rather than peer-reviewed journals. Fix: identify 3-5 additional peer-reviewed journal articles directly relevant to the flagged sections, integrate them into the analysis, and add them to the reference list.
 
 **"Your recommendation is not SMART"**
 Your conclusions section contains general suggestions rather than Specific, Measurable, Achievable, Relevant, Time-bound recommendations. Fix: revisit each recommendation and apply the SMART test. "Improve team communication" is not SMART. "Introduce weekly structured team briefings of 20 minutes by [date], measured by attendance rate and team member feedback in the next quarterly survey" is SMART.
@@ -57,7 +56,6 @@ A full AC has been omitted or so briefly addressed that it does not constitute a
 <!-- FIVE MOST COMMON RESUBMISSION TRIGGERS: Place after reasons section heading -->
 <!-- Components: Five numbered blocks arranged vertically each block: number (large, bold, coloured); trigger title (bold); assessor feedback phrase example (in quote marks, italic); one-line fix instruction; Block 1: Command Verb Not Met; Block 2: Assessment Criteria Not Addressed; Block 3: Insufficient Evidence-Based Referencing; Block 4: Framework Applied Rather Than Analysed; Block 5: AC3 Underdeveloped -->
 <!-- Alt text: "Five most common CMI assignment resubmission triggers: command verb, assessment criteria gaps, sourcing, framework application, AC3 underdevelopment" -->
-
 **1. The command verb was not met**
 
 This is the single most common reason for a Refer at every level. The command verb . Identify, Describe, Explain, Evaluate, Critically Analyse specifies the depth of thinking required. Submitting description when Evaluate is required, or submitting Evaluation when Critically Analyse is required, will result in a Refer regardless of how accurate the content is.
@@ -80,7 +78,7 @@ Every analytical claim in a CMI assignment should be supported by a source. "Lea
 
 *Common assessor phrase*: "Your work needs stronger academic evidence." / "Sources are not at the required academic level for Level 7."
 
-*Fix*: At Level 5: identify which claims in the submission lack citations and add them. At Level 7: audit the reference list. If fewer than 8�10 sources are peer-reviewed journal articles, find additional journal sources through Google Scholar or your centre's library access and integrate them.
+*Fix*: At Level 5: identify which claims in the submission lack citations and add them. At Level 7: audit the reference list. If fewer than 8–10 sources are peer-reviewed journal articles, find additional journal sources through Google Scholar or your centre's library access and integrate them.
 
 **4. Frameworks applied rather than analysed**
 
@@ -108,11 +106,11 @@ Level 3 refers most commonly result from: submissions that are too short (word c
 
 **Level 5 Resubmissions**
 
-Level 5 refers most commonly result from: description where Evaluate is required (the most common gap at this level); SMART recommendations that are either absent or not genuinely SMART; insufficient peer-reviewed sources (10–12 required, with some journal articles); and AC3 underdevelopment (particularly in performance management, EDI, and change units where the final AC requires concrete recommendations).
+Level 5 refers most commonly result from: description where Evaluate is required (the most common gap at this level); SMART recommendations that are either absent or not genuinely SMART; insufficient peer-reviewed sources (10-12 required, with some journal articles); and AC3 underdevelopment (particularly in performance management, EDI, and change units where the final AC requires concrete recommendations).
 
 **Level 7 Resubmissions**
 
-Level 7 refers most commonly result from: Evaluation where Critically Analyse is required (the single most important distinction); reference lists dominated by textbooks rather than peer-reviewed journals (15–20 required, predominantly journals); maintaining operational rather than strategic scope (describing a team-level intervention when the AC requires organisational-scale analysis); and absence of complexity theory, resilience thinking, or other advanced frameworks that L7 assessors expect engagement with.
+Level 7 refers most commonly result from: Evaluation where Critically Analyse is required (the single most important distinction); reference lists dominated by textbooks rather than peer-reviewed journals (15-20 required, predominantly journals); maintaining operational rather than strategic scope (describing a team-level intervention when the AC requires organisational-scale analysis); and absence of complexity theory, resilience thinking, or other advanced frameworks that L7 assessors expect engagement with.
 
 ---
 
@@ -121,7 +119,6 @@ Level 7 refers most commonly result from: Evaluation where Critically Analyse is
 <!-- RESUBMISSION CHECKLIST: Place after step-by-step section -->
 <!-- Components: Visual checklist with checkboxes: 10 items; items scannable and actionable; grouped into: "Before you start" (2 items), "While revising" (5 items), "Before submitting" (3 items); design: clean, box-checked aesthetic, suitable for printing or screenshotting -->
 <!-- Alt text: "CMI assignment resubmission checklist: 10 steps from reading assessor feedback to final submission check" -->
-
 **Step 1: Read the feedback in full before changing anything**
 
 Resist the impulse to immediately start revising. Read the entire feedback document first. Identify every gap. Make a list of each AC that requires work and what specifically needs to change.
@@ -199,7 +196,7 @@ Assessor feedback identifies each AC that was not met and explains why. Common p
 
 **How long do I have to resubmit a CMI assignment**
 
-Resubmission deadlines are set by your CMI-registered centre. Most allow 4–8 weeks from the feedback date. Check immediately on receiving your feedback; missing the deadline may require re-registering for the unit. Do not delay in reading the feedback and planning your resubmission.
+Resubmission deadlines are set by your CMI-registered centre. Most allow 4-8 weeks from the feedback date. Check immediately on receiving your feedback; missing the deadline may require re-registering for the unit. Do not delay in reading the feedback and planning your resubmission.
 
 **Can you help me with a CMI resubmission**
 

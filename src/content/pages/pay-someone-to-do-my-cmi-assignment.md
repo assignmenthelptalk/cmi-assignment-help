@@ -7,8 +7,7 @@ Send your unit brief and deadline. Quote within 1 hour.
 
 ---
 
-## Is It Safe to Pay Someone to Do My CMI Assignment?
-
+## Is It Safe to Pay Someone to Do My CMI Assignment
 Using a professional CMI assignment writing service is a legal, widely used form of academic support in the UK. No UK law prohibits academic writing services. The service operates as a model answer and academic guidance provision - comparable in principle to hiring a private tutor who produces structured notes, frameworks, and written examples to support your qualification.
 
 CMI's own regulations focus on the integrity of the assessment submission process. They do not prohibit students from receiving external writing support, consulting expert guidance, or using model answer services. The model answer you receive is a document that demonstrates how a professional CMI practitioner would address your specific assignment brief. What you do with that document is your decision.
@@ -25,8 +24,7 @@ Files are deleted from our systems on request after delivery. We do not retain c
 
 No client information - name, employer, qualification details - is shared with any third party under any circumstances.
 
-### Is CMI Assignment Help Legal in the UK?
-
+### Is CMI Assignment Help Legal in the UK
 No UK law prohibits using a professional academic writing service. Contract Cheating legislation in the UK (Higher Education (Freedom of Speech) Act and its associated guidance) applies specifically to higher education institutions and their enrolled students' assessment submissions within those institutions. CMI qualifications are workplace management qualifications regulated by Ofqual as vocational qualifications, not higher education degree programmes subject to the same institutional frameworks.
 
 Using a model answer service for a CMI qualification is a professional support choice, not an academic offence under UK law. If you have specific concerns about your training provider's guidance, review their student handbook - and consider that the majority of training providers do not prohibit external academic support.
@@ -104,8 +102,7 @@ Two revisions are included. If anything does not match your brief requirements, 
 
 ---
 
-## How Much Does It Cost to Pay Someone to Do My CMI Assignment?
-
+## How Much Does It Cost to Pay Someone to Do My CMI Assignment
 The cost of having a CMI assignment done depends on three factors: your qualification level, the word count specified in your brief, and your turnaround requirement.
 
 **Qualification level** determines the base pricing tier. Level 3 essays (1,500–2,500 words) are the most affordable. Level 5 Diploma reports (3,000–5,000 words) are mid-range. Level 7 strategic papers (5,000–6,500 words) are the highest tier: reflecting the Master's-level analysis, 15–20 sources, and strategic paper format required.
@@ -120,8 +117,7 @@ We accept payment by bank transfer, PayPal, and card. Payment is structured as a
 
 ---
 
-## What Happens If I'm Not Satisfied with My CMI Assignment?
-
+## What Happens If I'm Not Satisfied with My CMI Assignment
 Two revisions are included at no additional cost. If any section of the delivered assignment does not meet your brief requirements - whether the command verb depth, the Learning Outcome coverage, the word count distribution, or the organisational context applied - message us via WhatsApp with specific revision instructions and we correct it.
 
 Revisions are not a bureaucratic formality. They are a genuine rework guarantee: the writer revisits the specific section you identify and rewrites it to meet your requirements. If a revision does not resolve the issue to your satisfaction, we rework it again.
@@ -146,22 +142,22 @@ If your unit is not listed, message us on WhatsApp with your unit code. If CMI o
 
 ## FAQ: Pay Someone to Do My CMI Assignment
 
-**Will anyone find out I paid for CMI assignment help?**
+**Will anyone find out I paid for CMI assignment help - **
 No. your identity and assignment are kept completely private in a dedicated 1-to-1 WhatsApp channel. We do not share client information with any third party. Files are deleted on request after delivery. No public record of individual orders exists.
 
-**What if the assignment doesn't meet the Learning Outcomes?**
+**What if the assignment doesn't meet the Learning Outcomes - **
 Your assignment is written to explicitly address each Learning Outcome in your unit brief. If any Learning Outcome is not met in the delivered document, we rewrite that section at no extra cost under our revision policy. We stand behind the Learning Outcome alignment of every assignment we produce.
 
-**Can you do urgent CMI assignments?**
+**Can you do urgent CMI assignments - **
 Yes. a 48-hour express service is available for assignments up to approximately 2,500 words. For Level 5 assignments (3,000–5,000 words) and Level 7 papers (5,000–6,500 words), a 72–96 hour express turnaround is available where writer capacity allows. Message on WhatsApp with your deadline first - we confirm availability before taking your order.
 
-**Do you do CMI assignments for Level 7?**
+**Do you do CMI assignments for Level 7 - **
 Yes. Our writers include CMI Level 7 Diploma holders with strategic leadership, organisational development, and senior management experience. [View Level 7 assignment help](/cmi-level-7-assignment-help/) for full unit coverage.
 
-**Do I need to provide information about my workplace?**
+**Do I need to provide information about my workplace - **
 Only if your unit brief requires workplace context. Many CMI units ask you to apply theory to your own organisation or management experience. If so, share as much or as little as you are comfortable with via WhatsApp - a general description of your sector, team size, and the management situation the brief refers to is sufficient for most units. For students who prefer complete anonymity, we write using a generalised professional management context.
 
-**How do I know the assignment will be good enough to pass?**
+**How do I know the assignment will be good enough to pass - **
 Every assignment is written by a CMI-experienced writer to meet your unit's specific Assessment Criteria at pass standard or above. Harvard referencing, command verb compliance, and Learning Outcomes alignment are built in. They are not aspirational features, they are the production standard. If your assessor returns the work with feedback, we support resubmission at no extra charge for sections covered by our revision policy.
 
 ---

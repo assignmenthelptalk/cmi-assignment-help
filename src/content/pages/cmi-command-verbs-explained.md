@@ -29,7 +29,6 @@ CMI command verbs form a cognitive hierarchy. Lower-order verbs require knowledg
 <!-- CMI COMMAND VERB COGNITIVE DEPTH LADDER: Place between H2 Ladder intro and H2 Every Verb -->
 <!-- Components: Vertical ladder or pyramid diagram | Six tiers: Knowledge (Identify, Describe) | Understanding (Explain) | Application (Demonstrate) | Analysis (Discuss, Analyse, Compare) | Evaluation (Evaluate, Justify, Assess, Review) | Critical Evaluation (Critically Analyse, Critically Evaluate) | Each tier labelled with typical CMI level in parentheses -->
 <!-- Alt text: "CMI command verb cognitive depth ladder: from Identify at foundation level through to Critically Evaluate at Level 6 to 7, showing six tiers of cognitive demand" -->
-
 The practical implication: a Merit response at Level 5 meets Evaluate at a consistent level with evidence and criteria. A Distinction response applies Critically Evaluate - even if the Learning Outcome only states Evaluate - by acknowledging the limitations of the criteria used. Understanding where your required verb sits on this ladder tells you how much further you need to go.
 
 ---
@@ -239,7 +238,6 @@ The practical implication: Distinction does not require more content. It require
 <!-- COMMAND VERB GRADE BAND TABLE: Place after H2 grades section, before Contextual Border -->
 <!-- Components: Three-column visual comparison | Pass column (blue tones) | Merit column (amber tones) | Distinction column (green tones) | Each column lists the cognitive markers for that grade band with icons or check symbols | Sub-heading for each level: L3/L4, L5/L6, L7 showing how the standard shifts -->
 <!-- Alt text: "CMI command verb grade band comparison: what Pass, Merit and Distinction require at Levels 3 to 7" -->
-
 ---
 
 ## How to Identify the Command Verb in Your CMI Unit Brief

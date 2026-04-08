@@ -3,7 +3,7 @@
 A CMI essay is an academic-format assignment required by specific CMI units, typically those using command verbs such as Discuss, Analyse, or Critically Analyse. It differs from a CMI management report in structure, voice, and purpose. Our CMI essay writing help service covers all levels and all units that require essay format, delivered by writers who understand the specific cognitive depth each command verb demands.
 
 **Get Your CMI Essay Written: WhatsApp for a Free Quote**
-Not sure if you need an essay or a report? Send your unit brief and we'll confirm the format immediately.
+Not sure if you need an essay or a report - Send your unit brief and we'll confirm the format immediately.
 
 ---
 
@@ -109,22 +109,22 @@ Our essay writing service is available across all CMI levels, with the format ca
 
 ## FAQ: CMI Essay Writing Help
 
-**What is the correct structure for a CMI essay?**
+**What is the correct structure for a CMI essay - **
 A CMI essay follows a standard academic structure: Introduction (define key terms, state the argument approach), Body paragraphs using PEEL structure (Point, Evidence, Explanation, Link - one analytical point per paragraph), Conclusion (synthesis of key arguments, no new information), Bibliography (Harvard format, minimum 6–8 sources). The specific depth of each paragraph is determined by the command verb in the task.
 
-**How long should a CMI essay be?**
+**How long should a CMI essay be - **
 Depends on the unit and your training provider's specific guidance. Typical CMI essay word counts: Level 3 - 1,500–2,500 words; Level 4 - 2,000–3,000 words; Level 5 - 2,500–3,500 words. Always follow the word count specified in your unit brief rather than the general range.
 
-**Do CMI essays need referencing?**
+**Do CMI essays need referencing - **
 Yes. Harvard referencing is required for CMI essays at all levels. A minimum of 6–8 academic and management sources is expected, with in-text citations throughout the body and a full bibliography at the end. Poor or absent referencing is one of the most common causes of referral at Level 3 and 4.
 
-**Can you write my CMI essay for any unit?**
+**Can you write my CMI essay for any unit - **
 Yes. Our writers cover all CMI units from Level 3 to Level 7. Send your unit number and assignment question via WhatsApp and we'll confirm availability and pricing within the hour.
 
-**What is the difference between Analyse and Critically Analyse in a CMI essay?**
+**What is the difference between Analyse and Critically Analyse in a CMI essay - **
 Analyse requires breaking the subject into its components and examining how they relate - explaining why and how, not just what. Critically Analyse requires all of that plus engaging with the limitations of the frameworks used, considering alternative perspectives, and producing a nuanced conclusion that acknowledges complexity. Our writers apply both at the exact cognitive depth CMI assessors expect for each level.
 
-**How quickly can I get a CMI essay written?**
+**How quickly can I get a CMI essay written - **
 Standard turnaround is 5–7 business days from order confirmation. Express 48-hour turnaround is available for urgent submissions. Message us on WhatsApp with your deadline to confirm availability before placing your order.
 
 ---

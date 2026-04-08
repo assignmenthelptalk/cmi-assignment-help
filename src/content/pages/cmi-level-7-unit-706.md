@@ -2,18 +2,16 @@
 
 CMI Unit 706 is one of the most philosophically demanding units in the Level 7 Diploma. It requires Critically Analysing the ethical theories that underpin leadership decisions, not describing what consequentialism or virtue ethics mean, but examining their assumptions, contradictions, and limitations when applied to the decisions strategic leaders actually face. It then requires examining how leaders build and sustain ethical cultures, not by stating values, but by shaping the conditions under which ethical behaviour is the default rather than the exception.
 
-The risk in Unit 706 is moral generality: producing a paper that agrees ethics is important, lists some ethical theories, and recommends that leaders model good behaviour. That is not Level 7. Level 7 requires confronting the hard questions - why do organisations with ethical frameworks act unethically? How do leaders create the conditions for ethical voice? What does corporate governance actually achieve, and where does it fail?
+The risk in Unit 706 is moral generality: producing a paper that agrees ethics is important, lists some ethical theories, and recommends that leaders model good behaviour. That is not Level 7. Level 7 requires confronting the hard questions - why do organisations with ethical frameworks act unethically - How do leaders create the conditions for ethical voice - What does corporate governance actually achieve, and where does it fail - 
 
 ---
 
 <!-- UNIT INFO BADGE ROW: Place below H1, above first H2 -->
 <!-- Components: Six badges in a horizontal row: Unit: 706 | Title: Ethical Leadership | Level: 7 | Word Count: 5,000–6,000 | Sources: 15–20 peer-reviewed | Command Verb: Critically Analyse -->
 <!-- Alt text: "CMI Unit 706 Ethical Leadership: Level 7 Diploma, 5000-6000 words, 15-20 peer-reviewed sources, Critically Analyse command verb" -->
-
 ---
 
-## What Is CMI Unit 706?
-
+## What Is CMI Unit 706
 CMI Unit 706 - Ethical Leadership - is a Level 7 Diploma unit assessing how strategic leaders understand, apply, and embed ethical frameworks in organisational decision-making and culture. The typical assessment criteria are:
 
 - **AC1**: Critically analyse ethical frameworks and their application to strategic leadership decisions
@@ -31,7 +29,6 @@ AC1 and AC2 require **Critically Analyse** - interrogating assumptions, engaging
 <!-- ETHICAL THEORIES COMPARISON MATRIX: Place after ethical theories section heading -->
 <!-- Components: Comparison table: rows: Consequentialism / Utilitarianism | Deontological Ethics | Virtue Ethics | Care Ethics; columns: Basis for ethical judgement | Key theorist(s) | Strength in leadership context | Critical limitation; cells kept concise - one sentence each -->
 <!-- Alt text: "Ethical theories comparison for CMI 706: consequentialism deontology virtue ethics care ethics compared by basis theorists strengths and limitations" -->
-
 **Consequentialism / Utilitarianism**
 
 Consequentialist ethics - developed by Bentham and Mill - holds that the moral value of an action is determined entirely by its consequences. The right action is the one that produces the greatest good for the greatest number. For strategic leaders, consequentialism provides a familiar decision framework: evaluate options by their outcomes; choose the option that maximises aggregate benefit.
@@ -50,13 +47,13 @@ Kant's deontological ethics holds that the moral value of an action is determine
 
 **Virtue Ethics**
 
-Aristotle's virtue ethics shifts attention from acts to character. The ethical question is not "what should I do?" but "what kind of person should I be?" Virtuous action flows from virtuous character - and practical wisdom (phronesis) is the master virtue that enables leaders to exercise good judgement in complex, context-dependent situations where rules and outcomes are insufficient guides.
+Aristotle's virtue ethics shifts attention from acts to character. The ethical question is not "what should I do - " but "what kind of person should I be - " Virtuous action flows from virtuous character - and practical wisdom (phronesis) is the master virtue that enables leaders to exercise good judgement in complex, context-dependent situations where rules and outcomes are insufficient guides.
 
 MacIntyre (1981) revived virtue ethics as a critique of both consequentialism and deontology - arguing that both frameworks are attempts to codify ethics in a way that removes the need for practical wisdom, and that this codification is both impossible and undesirable.
 
 *Strength in leadership*: directly applicable to leadership development - virtue ethics asks what kind of leader you should become, not what decisions you should make; phronesis provides a framework for the kind of contextual ethical judgement that strategic leadership requires; aligns with authentic leadership theory.
 
-*Critical limitations at Level 7*: which virtues? Different cultures and traditions produce different lists; virtue ethics provides limited guidance in specific dilemmas; it can be used to justify existing power structures by defining virtuous behaviour as behaviour that conforms to existing norms.
+*Critical limitations at Level 7*: which virtues - Different cultures and traditions produce different lists; virtue ethics provides limited guidance in specific dilemmas; it can be used to justify existing power structures by defining virtuous behaviour as behaviour that conforms to existing norms.
 
 **Care Ethics**
 
@@ -97,7 +94,6 @@ The distinction matters for AC1: ethical leadership (Brown et al.) is a set of b
 <!-- SCHEIN CULTURE MODEL APPLIED TO ETHICS: Place after culture section heading -->
 <!-- Components: Three-level concentric diagram (largest circle on outside, smallest innermost): Outer ring: "Artefacts" - visible structures and behaviours: codes of conduct, ethics training programmes, whistleblowing hotlines, ethics reporting procedures, stated values on office walls; Middle ring: "Espoused Values" - stated strategies and goals: mission statements, ethics policies, leadership communications about values, corporate responsibility reports; Inner core: "Underlying Assumptions" - taken-for-granted beliefs: what leaders actually reward and sanction, how decisions are really made, what behaviour is tolerated under pressure, what the organisation actually values; annotation: "Ethical culture is embedded at the level of underlying assumptions, not at the level of artefacts" -->
 <!-- Alt text: "Schein culture model applied to ethics: artefacts espoused values and underlying assumptions showing how ethical culture is embedded or undermined at each level" -->
-
 Schein's (1985) three-level model of organisational culture - artefacts, espoused values, and underlying assumptions - provides a powerful analytical framework for AC2.
 
 **Artefacts** are the visible expressions of ethical culture: codes of conduct, ethics training programmes, whistleblowing hotlines, speak-up procedures, ethics committee structures. These are necessary but not sufficient for ethical culture. An organisation can have comprehensive ethics artefacts and still have a deeply unethical culture: if the underlying assumptions about what is actually rewarded and what is actually tolerated contradict the artefact layer.
@@ -178,12 +174,11 @@ Do not describe what the UK Corporate Governance Code requires. Evaluate whether
 <!-- COMMAND VERB LADDER: In command verb section -->
 <!-- Components: Use cmi-command-verb-ladder.svg: highlight Critically Analyse tier -->
 <!-- Alt text: "CMI command verb ladder: Critically Analyse highlighted as the primary command verb for CMI Level 7 Unit 706 Ethical Leadership" -->
-
 ---
 
 ## Common Mistakes in CMI 706
 
-**Ethical theories described, not Critically Analysed.** Presenting consequentialism, deontology, and virtue ethics as three valid alternative views without examining their assumptions and contradictions is description, not Critical Analysis. At Level 7, each framework must be interrogated: what does it assume, where does it break down, where does it conflict with the others?
+**Ethical theories described, not Critically Analysed.** Presenting consequentialism, deontology, and virtue ethics as three valid alternative views without examining their assumptions and contradictions is description, not Critical Analysis. At Level 7, each framework must be interrogated: what does it assume, where does it break down, where does it conflict with the others - 
 
 **No moral disengagement.** The most significant analytical omission in CMI 706 submissions. Explaining why organisations with ethical frameworks act unethically requires Bandura's mechanisms: without them, AC2 has no explanation for ethical failure beyond "leaders should try harder."
 
@@ -226,27 +221,27 @@ Message us on WhatsApp with your unit brief and deadline. We produce CMI 706 str
 
 ## FAQ
 
-**What is CMI Unit 706?**
+**What is CMI Unit 706 - **
 
 CMI Unit 706 - Ethical Leadership - assesses how strategic leaders Critically Analyse ethical frameworks and apply them to leadership decisions, build and sustain an ethical organisational culture, and govern ethical practice through corporate governance and accountability mechanisms. Primary command verb: Critically Analyse. Key frameworks: consequentialism, deontology, virtue ethics, care ethics, moral disengagement (Bandura), ethical leadership (Brown et al.), organisational culture (Schein), whistleblowing, and the UK Corporate Governance Code.
 
-**What format does CMI 706 take?**
+**What format does CMI 706 take - **
 
 Strategic paper, 5,000–6,000 words, 15–20 peer-reviewed sources with Harvard referencing. No prescribed structure beyond the assessment criteria sections (AC1, AC2, AC3), but requires a coherent analytical argument, not a framework-by-framework description.
 
-**What ethical theories are in CMI 706?**
+**What ethical theories are in CMI 706 - **
 
 Consequentialism / utilitarianism (Mill, Bentham), deontological ethics (Kant - categorical imperative), virtue ethics (Aristotle, MacIntyre - phronesis), and care ethics (Gilligan, Noddings). At Level 7, these are Critically Analysed for their assumptions, contradictions, and practical limitations in strategic leadership decisions, not described as alternative views.
 
-**What is moral disengagement in CMI 706?**
+**What is moral disengagement in CMI 706 - **
 
 Bandura's (1999) theory explaining the psychological mechanisms through which individuals and organisations with ethical commitments nonetheless engage in unethical behaviour: moral justification, euphemistic labelling, advantageous comparison, displacement of responsibility, and dehumanisation. Essential for AC2 - without it, there is no explanation for why organisations with sophisticated ethical frameworks fail ethically.
 
-**What does AC3 require in CMI 706?**
+**What does AC3 require in CMI 706 - **
 
 Evaluate approaches to corporate governance and accountability - examining the UK Corporate Governance Code (2024), the Nolan Principles (public sector), principal-agent theory, board composition and independence, whistleblowing frameworks, and the conditions under which governance mechanisms produce genuine ethical accountability versus formal compliance. Reach a justified conclusion about the most effective governance approaches for your organisational context.
 
-**Can you help with CMI 706 resubmission?**
+**Can you help with CMI 706 resubmission - **
 
 Yes. The most common resubmission gaps are: ethical theories described rather than Critically Analysed; moral disengagement absent from AC2; AC2 listing ethical leader behaviours without examining the mechanisms through which culture is built or destroyed; and AC3 describing governance frameworks rather than Evaluating their effectiveness. We identify what is missing and address it directly.
 

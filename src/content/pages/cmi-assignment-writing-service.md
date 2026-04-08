@@ -60,7 +60,6 @@ Ordering your CMI assignment takes a single WhatsApp message. No lengthy registr
 <!-- Steps: 1. WhatsApp brief → 2. Quote within 1 hour → 3. Writer assigned → 4. Draft delivered → 5. Final Word document -->
 <!-- Icons: WhatsApp icon | clock icon | writer icon | draft document icon | tick/checkmark icon -->
 <!-- Alt text: "CMI assignment writing service order process: 5 steps from WhatsApp brief to final Word document" -->
-
 **Step 1: Message us on WhatsApp with your assignment details**
 Send your unit number and level, the full assignment question or task brief (a screenshot is fine), your required word count, and your deadline. If you have specific instructions from your assessor, include those too.
 

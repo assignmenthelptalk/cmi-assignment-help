@@ -9,7 +9,6 @@ This guide explains each CMI level - who it suits, what it covers, what it is eq
 <!-- CMI LEVELS ON THE RQF FRAMEWORK: Place below H1, above first H2 -->
 <!-- Components: Vertical ladder diagram: eight rungs labelled Level 1 through Level 8; CMI qualification markers at Levels 3, 4, 5, 6, and 7; at each marked level, a small label showing equivalent qualification (Level 3: A Level / BTEC National; Level 4: HNC / Year 1 Undergraduate; Level 5: HND / Foundation Degree / Year 2 Undergraduate; Level 6: Bachelor's Degree; Level 7: Master's Degree); CMI logo or "CMI" label at each marker; non-CMI levels shown in lighter grey to indicate CMI does not operate there -->
 <!-- Alt text: "CMI qualification levels on the Regulated Qualifications Framework: Level 3 equivalent to A Level through Level 7 equivalent to Master's Degree" -->
-
 ---
 
 ## The CMI Qualification Framework
@@ -103,7 +102,6 @@ This is the level where the shift from descriptive to analytical writing first b
 <!-- LEVEL COMPARISON TABLE: Place after individual level sections -->
 <!-- Components: Comparison table: rows: Level 3, Level 4, Level 5, Level 6, Level 7; columns: Who it suits (role/experience), Equivalent qualification, Primary command verb, Word count range, Source requirement, Assessment format; use alternating row shading; bold the command verb column to emphasise the depth shift across levels -->
 <!-- Alt text: "CMI qualification levels comparison table: Level 3 through Level 7 compared by who they suit command verb word count source requirement and format" -->
-
 ---
 
 ## Level Comparisons
@@ -146,12 +144,10 @@ The most common mistake is choosing a level below your experience. Experienced s
 
 ---
 
-## Award vs Certificate vs Diploma: Which to Choose?
-
+## Award vs Certificate vs Diploma: Which to Choose
 <!-- AWARD VS CERTIFICATE VS DIPLOMA: Place after section heading -->
-<!-- Components: Three-column visual: Column 1: "Award" (light colour); Column 2: "Certificate" (medium colour); Column 3: "Diploma" (darkest colour, highlighted); each column: size label, typical unit count (Award: 1-2, Certificate: 2-3, Diploma: full), typical completion time, best suited to, CMgr pathway eligible? (No/No/Yes) -->
+<!-- Components: Three-column visual: Column 1: "Award" (light colour); Column 2: "Certificate" (medium colour); Column 3: "Diploma" (darkest colour, highlighted); each column: size label, typical unit count (Award: 1-2, Certificate: 2-3, Diploma: full), typical completion time, best suited to, CMgr pathway eligible - (No/No/Yes) -->
 <!-- Alt text: "CMI Award Certificate and Diploma comparison: Diploma is the full qualification required for the Chartered Manager pathway" -->
-
 - **Award**: one or two units; targeted professional development; faster to complete; does not provide the breadth of the Diploma; not eligible for the Chartered Manager (CMgr) pathway alone
 - **Certificate**: two or three units; broader than an Award; still limited in scope compared to the Diploma
 - **Diploma**: the full qualification; most units; most professionally recognised; required (with experience) for the Chartered Manager (CMgr) pathway; most valuable for career development and credibility
@@ -184,27 +180,27 @@ If you need help with CMI assignments at any level:
 
 ## FAQ
 
-**What are the CMI qualification levels?**
+**What are the CMI qualification levels - **
 
 CMI offers qualifications at Levels 3 through 8 on the Regulated Qualifications Framework. The most commonly studied are Level 3 (First Line Management - equivalent to A Level), Level 5 (Management and Leadership Diploma - equivalent to HND), Level 6 (Professional Management - equivalent to a Bachelor's Degree), and Level 7 (Strategic Management and Leadership - equivalent to a Master's Degree).
 
-**Which CMI level should I do?**
+**Which CMI level should I do - **
 
 Match your level to your management experience and responsibility. Team leaders and junior managers: Level 3. Experienced team or department managers: Level 5. Senior managers with cross-functional or strategic responsibility: Level 6–7. Strategic leaders at board or director level: Level 7. Your CMI centre will assess suitability based on your professional background - prior CMI qualifications are not required to enter any level.
 
-**What is CMI Level 5 equivalent to?**
+**What is CMI Level 5 equivalent to - **
 
 CMI Level 5 is equivalent to a Higher National Diploma (HND) or the second year of an undergraduate degree on the Regulated Qualifications Framework. It is a professional management qualification, not a degree, but it is professionally recognised at that level.
 
-**What is CMI Level 7 equivalent to?**
+**What is CMI Level 7 equivalent to - **
 
 CMI Level 7 is equivalent to a Master's degree on the Regulated Qualifications Framework. The Diploma in Strategic Management and Leadership is the full Level 7 qualification. Completing it with sufficient management experience makes you eligible for the Chartered Manager (CMgr) designation.
 
-**What is the difference between a CMI Award, Certificate, and Diploma?**
+**What is the difference between a CMI Award, Certificate, and Diploma - **
 
 Award: 1–2 units, targeted development, fastest to complete. Certificate: 2–3 units, broader than an Award. Diploma: the full qualification, most units, most professionally recognised, required for the Chartered Manager pathway. For career development, the Diploma is almost always the right choice.
 
-**Can I do CMI Level 7 without Level 5?**
+**Can I do CMI Level 7 without Level 5 - **
 
 Yes. CMI level entry is based on your management experience and current role, not on prior CMI qualifications. Many managers enter at Level 7 without having completed Level 5. Your CMI-registered centre will assess your professional suitability. The most important factor is whether your current role genuinely operates at strategic level - if you are making board-level decisions and leading organisational strategy, Level 7 is appropriate regardless of whether you have completed lower levels.
 

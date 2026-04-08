@@ -8,7 +8,7 @@ Every assignment we deliver is written against CMI's official Learning Outcomes 
 Message us now to discuss your assignment, level, and deadline.
 
 <figure style="margin:2rem 0;text-align:center">
-  <img src="/trust-badge.png" alt="CMI assignment help - UK-based service, all levels covered, 5-star rated" style="max-width:100%;height:auto;border-radius:8px" />
+ <img src="/trust-badge.png" alt="CMI assignment help - UK-based service, all levels covered, 5-star rated" style="max-width:100%;height:auto;border-radius:8px" />
 </figure>
 
 ---
@@ -37,7 +37,6 @@ Browse by level: [Level 3](/cmi-level-3-assignment-help/) · [Level 4](/cmi-leve
 <!-- Component: Visual tile grid, one tile per level (3–7). Each tile shows: Level number, qualification name, "X units covered", click-through to hub page. -->
 <!-- Labels: Award / Certificate / Diploma displayed under each level tile. -->
 <!-- Alt text: "CMI qualification levels 3 to 7 assignment help: click your level to find specific unit support" -->
-
 ### Assignment Writing, Tutoring, and Coursework Guidance: All in One Place
 
 - **CMI assignment writing service** - A complete, submission-ready assignment written to your brief, your level, and your specific unit's Learning Outcomes. You receive a finished document.
@@ -76,7 +75,6 @@ Getting CMI assignment help starts with a single WhatsApp message. There is no l
 <!-- Steps: 1. WhatsApp brief → 2. Quote within 1 hour → 3. Writer assigned → 4. Draft delivered (5–7 days) → 5. Submission-ready document received -->
 <!-- Icons: WhatsApp icon | clock icon | writer/person icon | document icon | tick/checkmark icon -->
 <!-- Alt text: "CMI assignment help process: 5 steps from WhatsApp brief to submission-ready document" -->
-
 **Step 1: Send your assignment brief on WhatsApp**
 Share your unit number, level, word count requirement, deadline, and any specific instructions from your assessor. A screenshot of your assignment task works perfectly.
 
@@ -101,7 +99,6 @@ You receive a complete, formatted assignment document ready to submit through yo
 ## CMI Assignment Help Reviews: What Our Students Say
 
 <!-- TESTIMONIAL WIDGETS: Insert live reviews here -->
-
 > "I was struggling with Unit 502 at Level 5 and had already received one referral. The writer understood exactly what the assessors wanted and structured the argument in a way I hadn't considered. I passed with a Merit."
 > - *Level 5 student, NHS manager, Unit 502*
 
@@ -115,8 +112,7 @@ You receive a complete, formatted assignment document ready to submit through yo
 
 ---
 
-## Not Sure Which Type of CMI Assignment Help You Need?
-
+## Not Sure Which Type of CMI Assignment Help You Need
 The right type of support depends on where you are in your assignment process and how much of the work you want to do yourself.
 
 If your assignment task is clear but you do not have time to write it, or if academic writing is not a strength, a **full assignment writing service** delivers a complete document to your specification.
@@ -149,22 +145,22 @@ Different CMI units require different output formats - some require an essay res
 
 ## FAQ: Your CMI Assignment Help Questions Answered
 
-**Is CMI assignment help legal in the UK?**
+**Is CMI assignment help legal in the UK - **
 CMI assignment support services operate in the same way as professional tutoring and model answer services. CMI, as an awarding body, does not prohibit students from seeking academic guidance, subject-matter expertise, or reference materials. Students are responsible for submitting work in accordance with their institution's academic integrity policy. Our service provides expert guidance, model answers, and professional writing support - the same category of service as private tutoring, academic coaching, and study skills support. We do not submit work on your behalf.
 
-**How quickly can I get CMI assignment help?**
+**How quickly can I get CMI assignment help - **
 Express turnaround is available in 48 hours for urgent submissions. Standard turnaround is 5–7 business days from the point your order is confirmed. For tight deadlines, WhatsApp is the fastest way to confirm whether your timeframe is feasible before placing an order.
 
-**Do you cover all CMI units?**
+**Do you cover all CMI units - **
 Yes. All units from Level 3 (Units 301–312) through Level 7 (Units 701–717) are covered - over 80 units across the full qualification framework. For specific unit availability, message us on WhatsApp with your unit number and level. Browse by level: [Level 3](/cmi-level-3-assignment-help/) · [Level 4](/cmi-level-4-assignment-help/) · [Level 5](/cmi-level-5-assignment-help/) · [Level 6](/cmi-level-6-assignment-help/) · [Level 7](/cmi-level-7-assignment-help/)
 
-**How much does CMI assignment help cost?**
+**How much does CMI assignment help cost - **
 Pricing depends on your CMI level, the assignment word count, and the turnaround time required. Level 7 strategic management assignments require more depth than Level 3 first-line management work - pricing reflects that difference. For a specific quote based on your assignment, <span class="future-link">view our pricing page</span> or WhatsApp us directly for an instant response.
 
-**Can you help with a CMI assignment resubmission?**
+**Can you help with a CMI assignment resubmission - **
 Yes. Resubmission support is one of the most common requests we receive. If you have received assessor feedback and been referred, our writers review the specific Learning Outcomes marked as unmet and rewrite or restructure only those sections. We do not charge a full-assignment rate for targeted resubmission work. Send your original submission and assessor feedback via WhatsApp to get a resubmission quote.
 
-**Do your writers have CMI qualifications?**
+**Do your writers have CMI qualifications - **
 Many writers on our team hold Level 5 or Level 7 CMI qualifications, or equivalent management-level academic credentials from UK institutions. Several have worked as CMI assessors or management tutors. All writers are selected for direct familiarity with CMI's assessment criteria, command verb requirements, and qualification-level expectations. [Learn more about our writers](/our-writers/)
 
 ---

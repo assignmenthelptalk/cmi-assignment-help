@@ -7,14 +7,12 @@ Every CMI 701 assignment we deliver is written by a writer with director or seni
 <!-- UNIT INFO BADGE ROW: Place below H1 intro paragraph, above first H2 -->
 <!-- Components: "CMI Unit 701" badge | "Level 7 Diploma" badge | "Strategic Paper Format" badge | "5,000–6,500 Words" badge | "Critically Analyse" badge (visually distinct: highest cognitive tier) -->
 <!-- Alt text: "CMI Unit 701: Strategic Leadership - Level 7 Diploma in Strategic Management and Leadership, strategic paper format, Critically Analyse command verb, 5,000 to 6,500 words" -->
-
 **Get CMI 701 Assignment Help on WhatsApp: Senior Strategic Writers**
 Send your unit brief, assignment question, and deadline for an immediate response.
 
 ---
 
-## What Is CMI Unit 701 and What Makes It Different?
-
+## What Is CMI Unit 701 and What Makes It Different
 CMI Unit 701 - Strategic Leadership sits at the apex of the CMI qualification framework. It is not an advanced version of Level 5 leadership content. It is a qualitatively different academic undertaking, operating at a different scope, requiring a different command verb, and demanding a different quality of evidence.
 
 At Level 5, a student evaluates transformational leadership against criteria and applies it to their management team. At Level 7, a student Critically Analyses strategic leadership - examining the empirical evidence for and against multiple competing leadership frameworks, engaging with the theoretical limitations that researchers have identified, placing those frameworks in dialogue with each other, and synthesising an original strategic position on which approaches to strategic leadership create sustainable organisational performance advantage, in which contexts, and under what conditions.
@@ -131,7 +129,6 @@ Heifetz and Laurie (1997) distinguish between technical problems (challenges wit
 <!-- STRATEGIC LEADERSHIP MODELS COMPARISON MATRIX: Place after key theories section, before Critically Analyse command verb section -->
 <!-- Components: Matrix table: rows: Transformational Leadership | Distributed Leadership | Authentic Leadership | Adaptive Leadership. Columns: Core Proposition | Empirical Evidence Base | Key Theoretical Limitation | Strategic Application Context. -->
 <!-- Alt text: "Strategic leadership models comparison matrix for CMI Unit 701: Transformational, Distributed, Authentic, and Adaptive leadership compared by empirical evidence, theoretical limitation, and strategic application" -->
-
 ### Strategic Leadership and Organisational Culture: Schein
 
 Edgar Schein's (1985, 2010) three-level culture model identifies culture operating at: the level of observable artefacts, espoused beliefs and values, and basic underlying assumptions. The deepest level basic assumptions is the most powerful and hardest to change.
@@ -149,7 +146,6 @@ Critically Analyse is the defining command verb of CMI Level 7 and the most dema
 <!-- CRITICALLY ANALYSE VS EVALUATE COMPARISON: Place below intro to this section, above the breakdown list -->
 <!-- Components: Two-column comparison: left column "Evaluate (CMI Level 5)" vs right column "Critically Analyse (CMI Level 7)". Rows: What it requires | Evidence standard | Treatment of limitations | Treatment of competing perspectives | Output. -->
 <!-- Alt text: "Critically Analyse versus Evaluate comparison: CMI Level 7 Critically Analyse requirements compared to CMI Level 5 Evaluate for Unit 701 Strategic Leadership" -->
-
 **What Critically Analyse requires in CMI 701**
 
 1. **Decompose the strategic concept** - break strategic leadership into its constituent components, empirical evidence base, assumptions about leadership and followership, and proposed mechanisms for producing performance outcomes.
@@ -165,7 +161,6 @@ Critically Analyse is the defining command verb of CMI Level 7 and the most dema
 <!-- CMI COMMAND VERB LADDER: Place below the five-point breakdown, above "What Does Not Count" H3 -->
 <!-- Components: Cognitive depth ladder: Identify - Describe - Explain - Discuss - Analyse - Evaluate - Critically Evaluate - Critically Analyse. Highlight "Critically Analyse" tier at the top. Use cmi-command-verb-ladder.svg as base. -->
 <!-- Alt text: "CMI command verb cognitive depth ladder: Critically Analyse highlighted at the apex as the defining command verb for CMI Unit 701 Strategic Leadership, Level 7" -->
-
 ### What Does Not Count as Critically Analyse in CMI 701
 
 **Evaluating leadership theories at Level 5 depth:** Establishing criteria, applying evidence, and reaching a conclusion is Evaluate: the Level 5 standard. A Level 7 response that reads as a thorough Evaluate response will not achieve the AC2 standard because it has not engaged with theoretical limitations, competing perspectives, or synthesised an original position.
@@ -199,8 +194,7 @@ AC3 receives one or two paragraphs because word count is consumed by AC2 theory 
 
 ---
 
-## What Separates a Merit from a Distinction in CMI 701?
-
+## What Separates a Merit from a Distinction in CMI 701
 At **Merit**, all three Assessment Criteria are addressed at the appropriate command verb depth. AC1 Critically Analyses strategic leadership's performance impact with peer-reviewed empirical evidence and upper echelons theory. AC2 Critically Analyses at least four leadership models engaging theoretical limitations for each, placing at least two in direct dialogue. AC3 Evaluates the culture-leadership relationship using Schein and an ethical leadership framework. 15+ peer-reviewed sources cited, strategic recommendations at organisational scope.
 
 At **Distinction**, the response does all of the above plus:
@@ -234,7 +228,7 @@ Our senior writers target Merit or Distinction by default for Level 7 assignment
 
 **[CMI 705: Leading Strategic Change](/cmi-level-7/unit-705-leading-strategic-change/)** - the adaptive leadership framework (Heifetz and Laurie) introduced in Unit 701 is the foundational theory for managing strategic change.
 
-**[CMI Level 5 vs Level 7: which is right for you?](/faq/cmi-level-5-vs-level-7/)** - if you are deciding between the two levels, this page explains the five key differences in scope, format, command verb, academic standard, and student profile.
+**[CMI Level 5 vs Level 7: which is right for you - ](/faq/cmi-level-5-vs-level-7/)** - if you are deciding between the two levels, this page explains the five key differences in scope, format, command verb, academic standard, and student profile.
 
 Return to the full unit list: [CMI Level 7 Assignment Help - All 17 Units](/cmi-level-7-assignment-help/)
 
@@ -242,22 +236,22 @@ Return to the full unit list: [CMI Level 7 Assignment Help - All 17 Units](/cmi-
 
 ## FAQ: CMI 701 Assignment Help
 
-**What is CMI Unit 701?**
+**What is CMI Unit 701 - **
 CMI Unit 701 - Strategic Leadership is the core unit of the Level 7 Diploma in Strategic Management and Leadership. It covers the nature and impact of strategic leadership (AC1), a Critically Analytical examination of strategic leadership styles - transformational, distributed, authentic, adaptive (AC2), and the relationship between strategic leadership, organisational culture, values, and ethics (AC3). Assessed as a strategic paper of 5,000–6,500 words.
 
-**What format does a CMI 701 assignment take?**
+**What format does a CMI 701 assignment take - **
 A strategic paper, not a management report. Sections include: title page, executive summary (300–400 words, board-briefing standard), contents, introduction establishing the strategic context, analysis sections for AC1–AC3 at the correct command verb depth, conclusion with original strategic synthesis, strategic recommendations at organisational scope, and Harvard bibliography (15–20 peer-reviewed sources minimum).
 
-**Which leadership theories are covered in CMI 701?**
+**Which leadership theories are covered in CMI 701 - **
 The most expected are transformational leadership (Bass and Avolio), distributed leadership (Spillane, Gronn), authentic leadership (Avolio and Gardner), adaptive leadership (Heifetz and Laurie), and the strategic leadership vs operational management distinction (Hambrick and Mason, upper echelons theory). All must be Critically Analysed, not evaluated.
 
-**What does Critically Analyse mean in CMI 701?**
+**What does Critically Analyse mean in CMI 701 - **
 Critically Analyse requires: decomposing the strategic leadership concept into its components, applying empirical evidence from peer-reviewed research, identifying the theoretical assumptions and limitations of each framework, placing competing models in direct dialogue, and synthesising an original defended strategic position. It is qualitatively different from Evaluate.
 
-**How is CMI 701 different from Level 5 leadership content?**
+**How is CMI 701 different from Level 5 leadership content - **
 CMI Level 5 evaluates leadership theory at an operational management scope using Evaluate and management textbooks. CMI 701 Critically Analyses strategic leadership at an organisational scope using Critically Analyse and peer-reviewed empirical research. The scope, command verb, source standard, and professional perspective required are all fundamentally different.
 
-**Can you help with a CMI 701 resubmission?**
+**Can you help with a CMI 701 resubmission - **
 Yes. The most common CMI 701 referral cause is Evaluate depth used where Critically Analyse is required - the response demonstrates Level 5 analytical engagement at a Level 7 unit. The second most common is management textbook sources rather than peer-reviewed research. We review your assessor's feedback, identify the specific shortfalls, and rewrite to the Level 7 standard.
 
 ---

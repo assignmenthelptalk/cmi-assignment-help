@@ -9,14 +9,12 @@ Send your unit brief and we'll confirm the report format requirements and pricin
 
 ---
 
-## What Is a CMI Management Report and When Is It Required?
-
+## What Is a CMI Management Report and When Is It Required
 A CMI management report is required when your unit brief uses command verbs that call for evaluation, justification, and recommendation - Evaluate, Justify, Assess, and Develop a plan - applied to a real management context within your organisation or a case study. These command verbs signal that the assessor wants a professional document, not an academic argument.
 
 The management report is the dominant format at Level 5 (Diploma in Management and Leadership), Level 6 (Professional Management and Leadership), and Level 7 (Strategic Management and Leadership). At Level 5, the majority of Diploma units - including 501, 502, 503, 504, 509, 513, and 515 - require management reports.
 
-### Which CMI Units Require a Management Report?
-
+### Which CMI Units Require a Management Report
 Units that use command verbs Evaluate, Justify, Assess, or Recommend typically require a management report:
 
 - **Level 5**: Unit 504 (Managing Performance) - "Evaluate performance management frameworks and Justify an approach to improving team performance." Unit 509 (Stakeholder Relationships) - "Evaluate and Justify stakeholder management strategies." Unit 513 (Managing Projects) - "Develop and Evaluate a project plan."
@@ -85,9 +83,9 @@ Generic, vague, or unjustified recommendations are one of the most common causes
 
 CMI management reports use command verbs that require analytical and evaluative engagement - applied to a professional management context, not just a theoretical discussion.
 
-**Evaluate**: Applies criteria to weigh the strengths, limitations, or effectiveness of a management theory, approach, system, or decision. Does not mean list advantages and disadvantages. Evaluate requires: what criteria am I applying? Against those criteria, how does this approach perform? Where does it fall short? What does the evidence support?
+**Evaluate**: Applies criteria to weigh the strengths, limitations, or effectiveness of a management theory, approach, system, or decision. Does not mean list advantages and disadvantages. Evaluate requires: what criteria am I applying - Against those criteria, how does this approach perform - Where does it fall short - What does the evidence support - 
 
-**Justify**: Provides evidence-backed reasoning for a specific choice, approach, or recommendation. Not personal preference, not "in my experience." Justify requires: which management theory supports this? What empirical evidence supports this? Why is this approach preferable to alternatives given the specific organisational context?
+**Justify**: Provides evidence-backed reasoning for a specific choice, approach, or recommendation. Not personal preference, not "in my experience." Justify requires: which management theory supports this - What empirical evidence supports this - Why is this approach preferable to alternatives given the specific organisational context - 
 
 **Assess**: Measures a situation, outcome, or approach against defined criteria or standards. Distinct from Evaluate in that it focuses on measurement rather than overall merit. "Assess the current performance management system" requires identifying the criteria for effective performance management, measuring the current system against them, and identifying gaps.
 
@@ -115,8 +113,7 @@ We confirm a fixed price, turnaround date, and writer match within the hour. Sta
 
 ---
 
-## How Do You Structure Recommendations in a CMI Management Report?
-
+## How Do You Structure Recommendations in a CMI Management Report
 CMI recommendations must be specific, justified, and connected to the analysis in the main body. Vague recommendations - "improve leadership communication" or "increase team motivation" - fail because they are neither specific nor justified by evidence.
 
 A correctly structured Level 5 recommendation: "Implement Tuckman's team development framework as a structured onboarding process for newly formed project teams, with a designated 30-day forming and storming phase facilitated by the line manager, to reduce performance disruption during team transitions. This approach is supported by Tuckman and Jensen's (1977) finding that teams with structured formation processes reach the performing stage 40% faster than those without formal onboarding protocols."
@@ -141,22 +138,22 @@ Our CMI report writing service covers all levels where the management report for
 
 ## FAQ: CMI Report Writing Help
 
-**What sections should a CMI management report include?**
+**What sections should a CMI management report include - **
 A complete CMI management report includes: title page, table of contents, executive summary (250–300 words), introduction, main body sections organised by assessment criteria, conclusion, recommendations (minimum 3, SMART and justified), bibliography (Harvard, 10+ sources for Level 5), and appendices. The executive summary and recommendations are the two sections most commonly missing or underdeveloped in student submissions.
 
-**How long should a CMI management report be?**
+**How long should a CMI management report be - **
 Level 5: typically 3,000–5,000 words per unit. Level 6: typically 4,000–5,000 words. Level 7: typically 5,000–6,500 words. Always follow the word count specified in your unit brief - training provider guidance may differ from the CMI default range.
 
-**Does a CMI report need an executive summary?**
+**Does a CMI report need an executive summary - **
 Yes. an executive summary is a standard expectation for CMI management reports at Level 5 and above. It is written after the main report body, summarises key findings and recommendations in 250–300 words, and reads as a standalone document. It is not an introduction written in future tense.
 
-**How many references does a CMI report need?**
+**How many references does a CMI report need - **
 A minimum of 10–15 Harvard-referenced sources for Level 5 management reports. Level 6 typically requires 12–15 sources. Level 7 requires 15–20 sources, including peer-reviewed academic and management journals. All sources cited in-text with a full bibliography.
 
-**Can you write a CMI report for any unit?**
+**Can you write a CMI report for any unit - **
 Yes. Our writers cover all units at all CMI levels that require management report format. Send your unit code and brief via WhatsApp for an immediate quote.
 
-**Can you help me improve a CMI report I've already written?**
+**Can you help me improve a CMI report I've already written - **
 Yes. we offer draft review and restructuring for existing reports. If you have already written a draft and need help meeting the command verb requirements, improving the recommendations section, or ensuring the executive summary is correctly structured, send your draft via WhatsApp and we will provide written feedback with specific corrections.
 
 ---

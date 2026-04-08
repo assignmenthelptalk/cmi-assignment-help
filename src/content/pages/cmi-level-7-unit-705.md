@@ -76,7 +76,7 @@ At Level 5, students Evaluate Kotter. At Level 7, students Critically Analyse it
 
 **Empirical evidence base:** Kotter's model is widely applied but weakly evidenced. It is derived from Kotter's observation of failed change programmes rather than from controlled empirical studies of successful ones. The "70% of change programmes fail" statistic Kotter cites has itself been challenged â Kotter (1995) cited it without primary data, and subsequent attempts to verify the figure have found no robust empirical basis (Hughes, 2011).
 
-**Step-level critical analysis:**
+**Step-level critical analysis**
 
 Step 1 (Establish urgency): Creating urgency is presented as a prerequisite for change, but research on crisis and urgency in organisations suggests that artificial urgency â manufactured rather than genuine â produces anxiety rather than mobilisation and can damage the psychological safety conditions required for the learning and adaptation that complex change requires (Edmondson, 2018).
 
@@ -92,7 +92,7 @@ Step 8 (Anchor in culture): Culture change is presented as the final step â
 
 Kurt Lewin (1951) proposed two foundational contributions to change theory. Force Field Analysis views any situation as held in equilibrium by driving forces (pushing toward change) and restraining forces (resisting change). Change is achieved either by strengthening driving forces or weakening restraining forces â with the latter generally producing less resistance. The three-stage model â unfreezing (destabilising the existing equilibrium), changing (moving to the new state), and refreezing (stabilising the new equilibrium) â provides the conceptual basis for most planned change approaches.
 
-**Critical Analysis at Level 7:**
+**Critical Analysis at Level 7**
 
 Force Field Analysis retains significant practical utility at strategic scale â its core logic (identify what is driving and what is resisting change, intervene to shift the balance) is applicable at any organisational level. Its limitation is its assumption of identifiable, relatively stable forces that the leader can assess and act on sequentially. In complex, rapidly changing environments, the forces are themselves dynamic â new restraining forces emerge as driving forces are strengthened; removing one restraining force reveals others previously masked.
 
@@ -102,7 +102,7 @@ The refreezing concept has attracted the most sustained critique. Burnes (2004) 
 
 The ADKAR model (Prosci) addresses change at the individual level: Awareness (of the need for change), Desire (to support and participate), Knowledge (of how to change), Ability (to implement the change), and Reinforcement (to sustain the change). It is the most practitioner-oriented of the major change frameworks and the most widely used in organisational change management programmes.
 
-**Critical Analysis at Level 7:**
+**Critical Analysis at Level 7**
 
 ADKAR's individual focus is both its strength and its fundamental limitation for strategic-scale change analysis. It provides a granular diagnostic tool for understanding why individuals in an organisation are not changing â which of the five building blocks is the primary barrier? This is genuinely useful at the implementation level, where change programme managers need to diagnose and address individual adoption barriers.
 
@@ -141,7 +141,7 @@ Resistance to strategic change is not primarily a people problem. It is a system
 - Leadership modelling: the strategic leader visibly and consistently embodying the changed behaviours, particularly when under pressure to revert
 - Short-term wins acknowledged and celebrated: Kotter's step 6 has strong empirical support â celebrating early successes sustains motivation and reinforces the credibility of the change programme
 
-**Organisational resilience â Weick and Sutcliffe:**
+**Organisational resilience â Weick and Sutcliffe**
 
 Karl Weick and Kathleen Sutcliffe's (2007) research on high reliability organisations (HROs) â aviation, nuclear power, emergency services â identified the mindfulness practices that enable organisations to operate safely under conditions of high complexity and potential failure. The five HRO principles â preoccupation with failure, reluctance to simplify, sensitivity to operations, commitment to resilience, and deference to expertise â describe the cultural and operational conditions that produce organisations capable of sustaining performance and adapting in the face of unexpected challenges.
 

@@ -116,7 +116,7 @@ Igor Ansoff (1957) provided a simple but analytically powerful framework for cat
 - **Diversification** (new market, new products): grow by entering entirely new markets with new offerings. Highest risk. Related diversification (new market or product adjacent to existing business) is lower risk than unrelated diversification.
 
 <!-- ANSOFF MATRIX â Place after Ansoff explanation, before Porter's Generic Strategies H3 -->
-<!-- Components: 2Ã2 matrix â horizontal axis: "Markets" (Existing | New); vertical axis: "Products/Services" (Existing | New). Four quadrants: bottom-left = "Market Penetration" (lowest risk â "grow existing"); bottom-right = "Market Development" (moderate risk â "reach new markets"); top-left = "Product Development" (moderate risk â "create new offers"); top-right = "Diversification" (highest risk â "new territory"). Each quadrant includes: strategy name, risk level indicator, and one-line description. Colour gradient: green (low risk) â amber (moderate) â red (highest risk). -->
+<!-- Components: 2Ã�-2 matrix â horizontal axis: "Markets" (Existing | New); vertical axis: "Products/Services" (Existing | New). Four quadrants: bottom-left = "Market Penetration" (lowest risk â "grow existing"); bottom-right = "Market Development" (moderate risk â "reach new markets"); top-left = "Product Development" (moderate risk â "create new offers"); top-right = "Diversification" (highest risk â "new territory"). Each quadrant includes: strategy name, risk level indicator, and one-line description. Colour gradient: green (low risk) â amber (moderate) â red (highest risk). -->
 <!-- Alt text: "Ansoff Matrix for CMI Unit 704 â four strategic growth directions: Market Penetration, Market Development, Product Development, and Diversification, with risk levels indicated" -->
 
 **How to use in CMI 704 AC3:** The Ansoff Matrix positions the recommended strategic direction against alternatives. The justification in AC3 must explain why the recommended direction (e.g., market development) is preferable to the alternatives (e.g., product development or diversification) given the specific AC1 environmental analysis and AC2 capability assessment. The strategy must be internally consistent â an organisation with strong existing product capabilities and limited market development experience should not recommend diversification without acknowledging the capability gap that makes it high risk.
@@ -131,13 +131,13 @@ Porter's three generic strategies describe the basis on which a firm competes in
 
 ## What Critically Analyse and Develop Require in CMI 704
 
-**For AC1 and AC2 â Critically Analyse:**
+**For AC1 and AC2 â Critically Analyse**
 The five requirements from Unit 701 apply: decompose the strategic concept, apply peer-reviewed empirical evidence, identify limitations, engage competing perspectives, synthesise an original position. For CMI 704, this means:
 - Not listing PESTLE factors â selecting and analysing the two or three most strategically significant
 - Not rating Porter's forces â examining which are most constraining and how they are changing
 - Not describing VRIO â applying it to named organisational resources with specific evidence of value, rarity, and inimitability
 
-**For AC3 â Develop:**
+**For AC3 â Develop**
 Develop requires producing an original strategic recommendation â not identifying a generic strategy from a textbook. The recommendation must:
 - Follow logically from the AC1 and AC2 analysis
 - Evaluate strategic alternatives and justify the recommended direction against them

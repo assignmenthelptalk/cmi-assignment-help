@@ -6,7 +6,6 @@
  */
 import { visit } from 'unist-util-visit';
 import { h } from 'hastscript';
-import { getHeaderImageMetaFromContentPath } from './utils/header-images.mjs';
 
 const WHATSAPP_URL = 'https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment.%20Can%20I%20get%20a%20free%20quote%3F';
 
@@ -95,9 +94,7 @@ function buildStepBlock(stepNum, stepText) {
 
 // Export as a unified plugin (factory function is the correct form)
 export default function rehypeCmiTransforms() {
-  return function (tree, file) {
-    injectPageHeaderImage(tree, file);
-
+  return function (tree) {
     // Pass 1: collect consecutive comment nodes for infographic placeholders
     const nodesToReplace = [];
 
@@ -203,40 +200,4 @@ function getTextContent(node) {
   if (node.type === 'text') return node.value || '';
   if (node.children) return node.children.map(getTextContent).join('');
   return '';
-}
-
-function injectPageHeaderImage(tree, file) {
-  if (!file) return;
-
-  let headingNode = null;
-  let headingParent = null;
-  let headingIndex = -1;
-
-  visit(tree, 'element', (node, index, parent) => {
-    if (headingNode || !parent || index == null) return;
-    if (node.tagName !== 'h1') return;
-    headingNode = node;
-    headingParent = parent;
-    headingIndex = index;
-  });
-
-  if (!headingNode || !headingParent || headingIndex < 0) return;
-
-  const title = getTextContent(headingNode).trim();
-  const image = getHeaderImageMetaFromContentPath(file.history?.[0], title);
-  if (!image) return;
-
-  const figure = h('figure', { class: 'page-header-image' }, [
-    h('img', {
-      src: image.src,
-      alt: image.alt,
-      width: String(image.width),
-      height: String(image.height),
-      loading: 'eager',
-      decoding: 'async',
-      fetchpriority: 'high',
-    }),
-  ]);
-
-  headingParent.children.splice(headingIndex + 1, 0, figure);
 }

@@ -103,6 +103,14 @@
     border: 1px solid #d6dde8;
     box-shadow: 0 20px 40px rgba(15, 23, 42, 0.12);
   }
+  .prose-page > h1 + .page-header-image + h1,
+  .prose-page--wide > h1 + .page-header-image + h1 {
+    display: none;
+  }
+  .prose-page > h1 + .page-header-image + h1 + .page-header-image,
+  .prose-page--wide > h1 + .page-header-image + h1 + .page-header-image {
+    display: none;
+  }
   /* Step blocks mobile */
   .step-block {
     @apply flex gap-3 items-start mb-5;

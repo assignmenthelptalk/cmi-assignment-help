@@ -1,0 +1,24 @@
+---
+import { getHeaderImageMeta } from '../utils/header-images.mjs';
+
+interface Props {
+  slug: string;
+  title: string;
+}
+
+const { slug, title } = Astro.props;
+const image = getHeaderImageMeta(slug, title);
+---
+{image && (
+  <figure class="page-header-image">
+    <img
+      src={image.src}
+      alt={image.alt}
+      width={image.width}
+      height={image.height}
+      loading="eager"
+      decoding="async"
+      fetchpriority="high"
+    />
+  </figure>
+)}

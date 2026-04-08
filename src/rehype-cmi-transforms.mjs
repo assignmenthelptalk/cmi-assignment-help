@@ -6,6 +6,7 @@
  */
 import { visit } from 'unist-util-visit';
 import { h } from 'hastscript';
+import { getHeaderImageMetaFromContentPath } from './utils/header-images.mjs';
 
 const WHATSAPP_URL = 'https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment.%20Can%20I%20get%20a%20free%20quote%3F';
 
@@ -92,9 +93,42 @@ function buildStepBlock(stepNum, stepText) {
   ]);
 }
 
+function buildPageHeaderImage(image) {
+  return h('figure', { class: 'page-header-image' }, [
+    h('img', {
+      src: image.src,
+      alt: image.alt,
+      width: String(image.width),
+      height: String(image.height),
+      loading: 'eager',
+      decoding: 'async',
+      fetchpriority: 'high',
+    }),
+  ]);
+}
+
 // Export as a unified plugin (factory function is the correct form)
 export default function rehypeCmiTransforms() {
-  return function (tree) {
+  return function (tree, file) {
+    let firstHeadingText = '';
+
+    visit(tree, 'element', (node) => {
+      if (!firstHeadingText && node.tagName === 'h1') {
+        firstHeadingText = getTextContent(node).trim();
+      }
+    });
+
+    const headerImage = getHeaderImageMetaFromContentPath(file?.path || file?.history?.[0], firstHeadingText);
+    if (headerImage) {
+      let inserted = false;
+      visit(tree, 'element', (node, index, parent) => {
+        if (inserted || !parent || index == null) return;
+        if (node.tagName !== 'h1') return;
+        parent.children.splice(index + 1, 0, buildPageHeaderImage(headerImage));
+        inserted = true;
+      });
+    }
+
     // Pass 1: collect consecutive comment nodes for infographic placeholders
     const nodesToReplace = [];
 

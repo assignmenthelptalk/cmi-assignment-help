@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { width: 960px; height: 480px; overflow: hidden; font-family: sans-serif; background: #111; }
+  .header { position: relative; width: 960px; height: 480px; overflow: hidden; }
+  .bg, .grid-container { position: absolute; inset: 0; }
+  .grid-container { display: grid; gap: 2px; background: #2f5b8a; grid-template-columns: 1fr 1fr; }
+  .grid-item { background-size: cover; background-position: center; filter: brightness(0.65); }
+  .border-frame { position: absolute; inset: 12px; border: 1px solid rgba(255,255,255,0.15); pointer-events: none; z-index: 5; }
+  .title-panel {
+    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+    background: rgba(20, 30, 45, 0.90); padding: 36px 48px; backdrop-filter: blur(14px); z-index: 20;
+    box-shadow: 0 25px 55px rgba(0,0,0,0.5); width: 85%; max-width: 680px; text-align: center;
+    border: 1px solid rgba(255,255,255,0.05); border-top: 3px solid #2f5b8a;
+  }
+  .title { font-family: 'Cinzel', serif; font-size: 34px; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: 0.08em; line-height: 1.25; margin-bottom: 12px; }
+  .title span { color: #2f5b8a; filter: brightness(1.7); font-size: 0.9em; }
+  .subtitle { font-family: 'Cinzel', serif; font-size: 13px; font-weight: 400; color: rgba(255,255,255,0.7); text-transform: uppercase; letter-spacing: 0.16em; line-height: 1.4; }
+  .logo-area { position: absolute; top: 40px; right: 40px; z-index: 25; color: white; text-align: right; }
+  .geo-pattern { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; z-index: 10; }
+</style>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="header">
+  <div class="grid-container grid-2nd">
+    <div class="grid-item" style="background-image: url('file:///c:/Users/jobmu/my-skills/data/input/cipd_blog_images/Screenshot_6.png')"></div>
+    <div class="grid-item" style="background-image: url('file:///c:/Users/jobmu/my-skills/data/input/cipd_blog_images/Screenshot_7.png')"></div>
+  </div>
+  <svg class="geo-pattern" xmlns="http://www.w3.org/2000/svg">
+    <defs><pattern id="geo" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse"><polygon points="15,0 30,15 15,30 0,15" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="0.8"/><circle cx="15" cy="15" r="1.5" fill="rgba(255,255,255,0.05)"/></pattern></defs>
+    <rect x="0" y="0" width="960" height="18" fill="url(#geo)"/>
+    <rect x="0" y="462" width="960" height="18" fill="url(#geo)"/>
+    <rect x="0" y="0" width="18" height="480" fill="url(#geo)"/>
+    <rect x="942" y="0" width="18" height="480" fill="url(#geo)"/>
+  </svg>
+  <div class="border-frame"></div>
+  <div class="title-panel">
+    <div class="title">Level 4 Support</div>
+    <div class="subtitle">CMI Assignment Help & Resources</div>
+  </div>
+  <div class="logo-area">
+    <div style="font-size:10px; letter-spacing:0.2em; border-bottom: 1px solid rgba(255,255,255,0.3); padding-bottom: 4px; margin-bottom: 4px;">CMI LEVEL 4</div>
+    <div style="font-size:9px; opacity:0.6; letter-spacing:0.1em;">ASSIGNMENT SUPPORT</div>
+  </div>
+</div>
+</body>
+</html>

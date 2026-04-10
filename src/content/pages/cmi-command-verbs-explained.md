@@ -1,4 +1,15 @@
 # CMI Command Verbs Explained: What Every Verb Requires at Each Level
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-guides-cmi-command-verbs-explained-header.webp"
+    alt="CMI Command Verbs Explained: What Every Verb Requires at Each Level"
+    title="CMI Command Verbs Explained: What Every Verb Requires at Each Level"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 Every CMI assignment is governed by a command verb. The verb is the instruction word in your unit's Learning Outcome that tells you exactly what cognitive process the assessor is marking. Getting the content right but misreading the verb is one of the most common causes of CMI resubmissions. This guide covers every command verb used across CMI Levels 3 to 7 - what each one means in assessment terms, how it differs from similar verbs, what a compliant response includes, and which levels use it most.
 

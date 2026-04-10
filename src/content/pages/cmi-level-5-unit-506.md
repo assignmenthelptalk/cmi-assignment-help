@@ -1,4 +1,15 @@
 # CMI 506 Assignment Help: Managing Resources and Finance
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-level-5-unit-506-managing-resources-finance-header.webp"
+    alt="CMI 506 Assignment Help: Managing Resources and Finance"
+    title="CMI 506 Assignment Help: Managing Resources and Finance"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI Unit 506 sits at the intersection of operational management and financial literacy. It is not an accounting unit - it does not require you to prepare financial statements or calculate depreciation schedules. It requires you to **Evaluate** how managers plan and use resources, how budgets are set and controlled, and how financial information informs management decisions. The distinction matters: your assessor is not examining your knowledge of finance. They are examining your ability to critically evaluate financial management practice.
 

@@ -1,4 +1,15 @@
 # CMI Qualifications for NHS Managers â Band Guide and Assignment Support
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-guides-nhs-management-cmi-qualifications-header.webp"
+    alt="CMI Qualifications for NHS Managers â Band Guide and Assignment Support"
+    title="CMI Qualifications for NHS Managers â Band Guide and Assignment Support"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 The NHS is the largest single employer of CMI students in the UK. Across Trusts, ICBs, and NHS England bodies, tens of thousands of managers at every band are completing CMI Level 5 and Level 7 qualifications â most of them while working full clinical or operational rotas, managing stretched teams, and navigating system-wide restructuring.
 

@@ -1,4 +1,15 @@
 # CMI Coursework Help: Expert Support Across All Units and Levels
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-coursework-help-header.webp"
+    alt="CMI Coursework Help: Expert Support Across All Units and Levels"
+    title="CMI Coursework Help: Expert Support Across All Units and Levels"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI coursework help at CMI Assignment Support supports students through every unit and submission across their qualification, not just a single assignment. Whether you are studying a CMI Award, Certificate, or Diploma, our service covers the full coursework requirement from the first unit to the final submission, with full writing, guided support, and resubmission help available unit by unit.
 

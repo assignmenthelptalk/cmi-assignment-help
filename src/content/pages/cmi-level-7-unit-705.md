@@ -1,4 +1,15 @@
 # CMI 705 Assignment Help â Leading Strategic Change
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-level-7-unit-705-leading-strategic-change-header.webp"
+    alt="CMI 705 Assignment Help â Leading Strategic Change"
+    title="CMI 705 Assignment Help â Leading Strategic Change"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI Unit 705 â Leading Strategic Change is the fourth most-requested Level 7 unit and one of the most practically urgent for senior leaders. Strategic change â full organisational transformations, digital overhauls, structural redesigns, post-merger integration, culture change at scale â is among the most demanding leadership challenges at board and executive level. CMI 705 requires the student to critically analyse the theoretical frameworks through which strategic change is understood and led, examine the strategic leader's specific role in managing resistance and building change capability, and evaluate approaches to sustaining change and building the organisational resilience that makes future change possible. Assignments are submitted as strategic papers of 5,000â6,000 words at Critically Analyse depth, with 15â20 peer-reviewed sources.
 

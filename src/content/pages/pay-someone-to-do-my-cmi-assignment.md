@@ -1,4 +1,15 @@
 # Pay Someone to Do Your CMI Assignment: Trusted UK Writers, All Levels
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-pay-someone-to-do-my-cmi-assignment-header.webp"
+    alt="Pay Someone to Do Your CMI Assignment: Trusted UK Writers, All Levels"
+    title="Pay Someone to Do Your CMI Assignment: Trusted UK Writers, All Levels"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 Our CMI assignment service writes your assignment to your exact unit brief - delivered submission-ready, fully referenced, and written by a CMI-experienced professional. You send the brief; we return a finished, formatted document aligned to your unit's Learning Outcomes and Assessment Criteria.
 

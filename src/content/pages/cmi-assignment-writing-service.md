@@ -1,4 +1,15 @@
 # CMI Assignment Writing Service: Professional UK Writers for All Levels
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-assignment-writing-service-header.webp"
+    alt="CMI Assignment Writing Service: Professional UK Writers for All Levels"
+    title="CMI Assignment Writing Service: Professional UK Writers for All Levels"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 Our CMI assignment writing service delivers submission-ready assignments written by practising managers and CMI-qualified writers across all qualification levels from Level 3 to Level 7. Students receive a complete, formatted assignment document written to their specific unit's Learning Outcomes and Assessment Criteria, not a generic template or a reused piece of work.
 

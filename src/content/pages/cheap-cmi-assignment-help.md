@@ -1,4 +1,15 @@
 # Affordable CMI Assignment Help UK: Professional Support at Competitive Prices
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cheap-cmi-assignment-help-header.webp"
+    alt="Affordable CMI Assignment Help UK: Professional Support at Competitive Prices"
+    title="Affordable CMI Assignment Help UK: Professional Support at Competitive Prices"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 Our CMI assignment help is priced competitively providing fully referenced, professionally written assignments for all CMI levels without the premium agency pricing. Affordable pricing does not mean a reduced service: every assignment we write, at every price point, is produced by a CMI-experienced writer, aligned to your unit's Learning Outcomes, and delivered with Harvard referencing and command verb compliance included as standard.
 

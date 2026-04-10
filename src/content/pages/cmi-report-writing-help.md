@@ -1,4 +1,15 @@
 # CMI Report Writing Help: Professional Management Reports for All Levels
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-report-writing-help-header.webp"
+    alt="CMI Report Writing Help: Professional Management Reports for All Levels"
+    title="CMI Report Writing Help: Professional Management Reports for All Levels"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 A CMI management report is the most common assignment format at Level 5 and above, requiring students to evaluate, justify, and recommend using management theory applied to a real organisational context. It is a professional business document, not an academic essay - and it follows a specific structure that assessors mark against, section by section.
 

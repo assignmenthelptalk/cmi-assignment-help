@@ -1,4 +1,15 @@
 # CMI Level 4 Assignment Help: Expert Support for All Management and Leadership Units
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-level-4-assignment-help-header.webp"
+    alt="CMI Level 4 Assignment Help: Expert Support for All Management and Leadership Units"
+    title="CMI Level 4 Assignment Help: Expert Support for All Management and Leadership Units"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI Level 4 is the Management and Leadership qualification level - designed for managers responsible for teams, departments, or operational areas who want to develop their formal management practice. Level 4 takes the foundational skills introduced at Level 3 and applies them at a greater analytical depth, requiring students to demonstrate not just understanding but the ability to Analyse, Evaluate, and Assess management situations with evidence.
 

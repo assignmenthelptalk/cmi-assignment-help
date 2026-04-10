@@ -1,4 +1,15 @@
 # CMI 706 Assignment Help: Ethical Leadership
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-level-7-unit-706-ethical-leadership-header.webp"
+    alt="CMI 706 Assignment Help: Ethical Leadership"
+    title="CMI 706 Assignment Help: Ethical Leadership"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI Unit 706 is one of the most philosophically demanding units in the Level 7 Diploma. It requires Critically Analysing the ethical theories that underpin leadership decisions, not describing what consequentialism or virtue ethics mean, but examining their assumptions, contradictions, and limitations when applied to the decisions strategic leaders actually face. It then requires examining how leaders build and sustain ethical cultures, not by stating values, but by shaping the conditions under which ethical behaviour is the default rather than the exception.
 

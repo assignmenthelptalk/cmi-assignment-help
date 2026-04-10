@@ -1,4 +1,15 @@
 # CMI Assignment Help: Expert Support for Every Level and Unit
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-home-header.webp"
+    alt="CMI Assignment Help: Expert Support for Every Level and Unit"
+    title="CMI Assignment Help: Expert Support for Every Level and Unit"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI Assignment Help at CMI Assignment Support provides professional writing, tutoring, and coursework guidance for students enrolled in Chartered Management Institute qualifications from Level 3 through Level 7. Our service supports working professionals - managers, team leaders, NHS staff, and public sector workers - who need expert assistance to complete and pass their CMI assignments to a required standard.
 

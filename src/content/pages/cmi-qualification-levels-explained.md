@@ -1,4 +1,15 @@
 # CMI Qualification Levels Explained: Level 3 to Level 7 Guide
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-guides-cmi-qualification-levels-explained-header.webp"
+    alt="CMI Qualification Levels Explained: Level 3 to Level 7 Guide"
+    title="CMI Qualification Levels Explained: Level 3 to Level 7 Guide"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI qualifications run from Level 3 to Level 8 on the Regulated Qualifications Framework (RQF) - the national system that calibrates the difficulty and depth of qualifications across England, Wales, and Northern Ireland. Understanding where your CMI qualification sits on this framework tells you what it is equivalent to, what depth of thinking it requires, and whether it is the right level for your experience and career stage.
 

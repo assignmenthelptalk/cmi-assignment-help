@@ -1,4 +1,15 @@
 # CMI Assignment Answers: Professional Written Responses for Every Unit Question
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-assignment-answers-header.webp"
+    alt="CMI Assignment Answers: Professional Written Responses for Every Unit Question"
+    title="CMI Assignment Answers: Professional Written Responses for Every Unit Question"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 Our CMI assignment answer service provides fully written, structured responses to your specific CMI assignment questions, aligned to your unit's Learning Outcomes and Assessment Criteria. Whether your brief contains a single command verb question or a multi-part scenario, we deliver a complete, submission-ready answer written by a CMI-experienced professional.
 

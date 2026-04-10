@@ -1,4 +1,15 @@
 # CMI Assignment Resubmission: Why Assignments Fail and How to Fix Them
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-guides-cmi-assignment-resubmission-header.webp"
+    alt="CMI Assignment Resubmission: Why Assignments Fail and How to Fix Them"
+    title="CMI Assignment Resubmission: Why Assignments Fail and How to Fix Them"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 Receiving a Refer on a CMI assignment is more common than most students expect and it is more fixable than it feels in the moment. A Refer result does not mean your work was poor. In most cases it means one or two specific things went wrong: the command verb was not met, a specific assessment criterion was not addressed, or the analysis stayed at description level when evaluation or critical analysis was required.
 

@@ -1,4 +1,15 @@
 # CMI Level 5 Assignment Help: Expert Support for the Management and Leadership Diploma
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-level-5-assignment-help-header.webp"
+    alt="CMI Level 5 Assignment Help: Expert Support for the Management and Leadership Diploma"
+    title="CMI Level 5 Assignment Help: Expert Support for the Management and Leadership Diploma"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI Level 5 is the Management and Leadership qualification taken by thousands of UK managers each year. It is available as an Award, Certificate, or Diploma, with the Diploma covering up to 25 specialist units across the full range of management and leadership practice. It is the most widely studied CMI qualification level and the most commercially significant for managers who want a formal credential that reflects their practising management experience.
 

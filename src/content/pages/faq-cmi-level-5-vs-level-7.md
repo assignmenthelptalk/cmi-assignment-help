@@ -1,4 +1,15 @@
 # CMI Level 5 vs Level 7: Five Key Differences Explained
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-faq-cmi-level-5-vs-level-7-header.webp"
+    alt="CMI Level 5 vs Level 7: Five Key Differences Explained"
+    title="CMI Level 5 vs Level 7: Five Key Differences Explained"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI Level 5 and Level 7 are the two most studied and most compared CMI qualification levels. Level 5 is the Management and Leadership Diploma - the most widely pursued CMI credential for practising managers. Level 7 is the Strategic Management and Leadership Diploma - the highest CMI qualification, equivalent to a Master's degree. Students considering both often ask the same question: which one is right for me, and what exactly is different about each - 
 

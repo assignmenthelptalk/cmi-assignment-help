@@ -1,4 +1,15 @@
 # CMI 704 Assignment Help - Developing Organisational Strategy
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-level-7-unit-704-developing-organisational-strategy-header.webp"
+    alt="CMI 704 Assignment Help - Developing Organisational Strategy"
+    title="CMI 704 Assignment Help - Developing Organisational Strategy"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI Unit 704 - Developing Organisational Strategy is the third most-requested Level 7 unit and the strategic analysis core of the Diploma. It requires the student to critically analyse the external environment in which the organisation operates, critically analyse the internal capabilities that differentiate the organisation, and develop and justify a strategic direction that connects environmental opportunities and threats to organisational strengths and limitations. Assignments are submitted as strategic papers of 5,000-6,500 words, assessed using Critically Analyse and the Develop command verb, with 15-20 peer-reviewed sources.
 

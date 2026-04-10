@@ -1,4 +1,15 @@
 # CMI Assignment Tutoring: Expert Guidance for Every Unit and Level
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-assignment-tutoring-header.webp"
+    alt="CMI Assignment Tutoring: Expert Guidance for Every Unit and Level"
+    title="CMI Assignment Tutoring: Expert Guidance for Every Unit and Level"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 Our CMI assignment tutoring service helps you structure, develop, and improve your own work, guided by a CMI-experienced tutor who knows exactly what assessors are looking for. You write the assignment. The tutor guides your structure, command verb application, and Learning Outcome alignment so the work you submit reflects your understanding, not someone else's.
 

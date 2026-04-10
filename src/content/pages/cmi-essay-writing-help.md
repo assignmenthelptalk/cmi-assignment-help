@@ -1,4 +1,15 @@
 # CMI Essay Writing Help: Expert Writers for All CMI Levels and Units
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-essay-writing-help-header.webp"
+    alt="CMI Essay Writing Help: Expert Writers for All CMI Levels and Units"
+    title="CMI Essay Writing Help: Expert Writers for All CMI Levels and Units"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 A CMI essay is an academic-format assignment required by specific CMI units, typically those using command verbs such as Discuss, Analyse, or Critically Analyse. It differs from a CMI management report in structure, voice, and purpose. Our CMI essay writing help service covers all levels and all units that require essay format, delivered by writers who understand the specific cognitive depth each command verb demands.
 

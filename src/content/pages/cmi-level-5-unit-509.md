@@ -1,4 +1,15 @@
 # CMI 509 Assignment Help: Managing Stakeholder Relationships
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-level-5-unit-509-managing-stakeholder-relationships-header.webp"
+    alt="CMI 509 Assignment Help: Managing Stakeholder Relationships"
+    title="CMI 509 Assignment Help: Managing Stakeholder Relationships"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI Unit 509 - Managing Stakeholder Relationships is the fifth most-requested Level 5 unit and one of the most practically immediate for managers working in complex organisational environments. Every management project, change initiative, or operational decision involves stakeholders - people and groups with the power to influence the outcome and varying degrees of interest in it. CMI 509 requires the student to evaluate how stakeholders are identified and mapped, how relationships are managed and communication is tailored to different stakeholder types, and how conflicting stakeholder expectations are handled when different stakeholder groups place incompatible demands on the manager. Assignments are submitted as a management report of 3,000-4,000 words, assessed using the Evaluate and Justify command verbs.
 

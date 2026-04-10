@@ -1,4 +1,15 @@
 # CMI Level 3 Assignment Help: Expert Support for First Line Management Units
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-level-3-assignment-help-header.webp"
+    alt="CMI Level 3 Assignment Help: Expert Support for First Line Management Units"
+    title="CMI Level 3 Assignment Help: Expert Support for First Line Management Units"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI Level 3 is the entry-point qualification for team leaders and first-line managers - covering the fundamentals of management and leadership through units that apply directly to the workplace. Students studying for a CMI Level 3 Award, Certificate, or Diploma in First Line Management are typically in their first supervisory or management role, often without prior experience of academic writing at this level.
 

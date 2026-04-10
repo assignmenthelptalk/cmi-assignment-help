@@ -1,4 +1,15 @@
 # CMI Assignment Help Online: Remote Expert Support for All Levels
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-assignment-help-online-header.webp"
+    alt="CMI Assignment Help Online: Remote Expert Support for All Levels"
+    title="CMI Assignment Help Online: Remote Expert Support for All Levels"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 Our CMI assignment help is delivered entirely online, via WhatsApp and email, and is accessible to students anywhere in the UK and internationally. Every service we offer, from fully written assignments to tutoring and resubmission support, is available remotely through a private digital channel. No in-person sessions, no fixed appointment times, no geographic restriction.
 

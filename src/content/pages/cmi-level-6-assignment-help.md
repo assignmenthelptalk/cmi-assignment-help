@@ -1,4 +1,15 @@
 # CMI Level 6 Assignment Help: Expert Support for Professional Management and Leadership
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-level-6-assignment-help-header.webp"
+    alt="CMI Level 6 Assignment Help: Expert Support for Professional Management and Leadership"
+    title="CMI Level 6 Assignment Help: Expert Support for Professional Management and Leadership"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI Level 6 is the Professional Management and Leadership qualification - designed for senior managers and directors who need to demonstrate critically evaluative management practice at an advanced academic level. Level 6 is degree-level equivalent and covers 16 specialist units across professional management, strategic leadership, and senior-level organisational practice.
 

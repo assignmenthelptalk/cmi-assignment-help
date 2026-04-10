@@ -1,4 +1,15 @@
 # CMI Homework Help: Expert Support for Every Written CMI Task
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-homework-help-header.webp"
+    alt="CMI Homework Help: Expert Support for Every Written CMI Task"
+    title="CMI Homework Help: Expert Support for Every Written CMI Task"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 Whether your training provider calls it homework, a written task, or a unit assignment - our CMI homework help service covers every written piece you need to complete for your CMI qualification. CMI uses the term "assignment" in its official documentation, but many training providers and students use "homework" or "written task" to describe the same thing. The assessment standard and the support we provide are identical, regardless of what the piece is called.
 

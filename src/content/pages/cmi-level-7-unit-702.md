@@ -1,4 +1,15 @@
 # CMI 702 Assignment Help: Leading and Developing People to Optimise Performance
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-level-7-unit-702-leading-developing-people-header.webp"
+    alt="CMI 702 Assignment Help: Leading and Developing People to Optimise Performance"
+    title="CMI 702 Assignment Help: Leading and Developing People to Optimise Performance"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI Unit 702 - Leading and Developing People to Optimise Performance is the second most-requested Level 7 unit and the direct companion to Unit 701. Where Unit 701 examines strategic leadership as a practice and a philosophy, Unit 702 examines what strategic leaders do to develop the human capability of the organisation - talent strategy, succession planning, building the conditions for high performance at enterprise scale, and the cultural architecture the strategic leader creates and sustains. Assignments are submitted as strategic papers of 5,000-6,000 words, assessed at Critically Analyse depth with 15-20 peer-reviewed sources.
 

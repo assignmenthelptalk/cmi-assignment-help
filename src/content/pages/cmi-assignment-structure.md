@@ -1,4 +1,15 @@
 # How to Structure a CMI Assignment: Management Reports, Essays, and Reflective Accounts
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-guides-cmi-assignment-structure-header.webp"
+    alt="How to Structure a CMI Assignment: Management Reports, Essays, and Reflective Accounts"
+    title="How to Structure a CMI Assignment: Management Reports, Essays, and Reflective Accounts"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 Structuring a CMI assignment correctly is not a stylistic choice; it is an assessment requirement. The format your unit requires is determined by the command verb in your Learning Outcome and the nature of the task. Using the wrong format, or omitting required sections, directly reduces your grade regardless of the quality of your content. This guide covers every CMI assignment format in full: the management report, the essay, and the reflective account, section by section, with word count guidance and the most common structural errors at each stage.
 

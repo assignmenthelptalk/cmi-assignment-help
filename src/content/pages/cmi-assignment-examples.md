@@ -1,4 +1,15 @@
 # CMI Assignment Examples: Real Samples Across All Levels and Formats
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-assignment-examples-header.webp"
+    alt="CMI Assignment Examples: Real Samples Across All Levels and Formats"
+    title="CMI Assignment Examples: Real Samples Across All Levels and Formats"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 This page contains real CMI assignment examples across Levels 3–7, covering management reports, essays, and reflective accounts written by our professional CMI writers. Each example demonstrates the format, structure, command verb application, and referencing standard that CMI assessors use to evaluate submissions.
 

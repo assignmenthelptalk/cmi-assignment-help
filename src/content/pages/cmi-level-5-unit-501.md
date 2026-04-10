@@ -1,4 +1,15 @@
 # CMI 501 Assignment Help: Principles of Management and Leadership
+<figure style="margin:0 0 2rem 0">
+  <img
+    src="/cmi-headers/webp/cmi-cmi-level-5-unit-501-principles-management-leadership-header.webp"
+    alt="CMI 501 Assignment Help: Principles of Management and Leadership"
+    title="CMI 501 Assignment Help: Principles of Management and Leadership"
+    width="960"
+    height="480"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="eager"
+  />
+</figure>
 
 CMI Unit 501 - Principles of Management and Leadership is the foundational core unit of the Level 5 Diploma in Management and Leadership. It is the most frequently studied unit in the Level 5 qualification and the most commonly requested for assignment help. The unit covers the relationship between management and leadership, a range of management and leadership theories and models, and how those theories are applied to improve organisational performance. Assignments are submitted as a management report of 3,000–4,000 words and assessed against three Assessment Criteria using the Evaluate command verb.
 

@@ -4,9 +4,12 @@
 @tailwind utilities;
 
 @layer base {
-  html { @apply text-text-body; scroll-behavior: smooth; }
+  /* overflow-x: clip prevents any child from expanding the document width
+     while keeping position:sticky working (unlike overflow-x: hidden) */
+  html { @apply text-text-body; scroll-behavior: smooth; overflow-x: clip; }
   /* Bottom padding ensures content never hides behind floating FABs */
-  body { padding-bottom: 5rem; }
+  body { padding-bottom: 5rem; max-width: 100%; }
+  img, figure, video, iframe { max-width: 100%; }
   h1 { @apply text-2xl sm:text-3xl font-bold text-primary leading-tight mb-4; }
   h2 { @apply text-xl sm:text-2xl font-semibold text-primary leading-snug mt-8 sm:mt-10 mb-3 sm:mb-4; }
   h3 { @apply text-lg sm:text-xl font-semibold text-primary mt-6 sm:mt-8 mb-2 sm:mb-3; }
@@ -18,12 +21,12 @@
   li { @apply leading-relaxed; }
   strong { @apply font-semibold; }
   blockquote { @apply border-l-4 border-accent pl-4 italic text-text-muted my-6; }
-  /* Tables: scrollable wrapper injected via JS-free CSS trick */
-  table { @apply w-full border-collapse mb-6 text-sm; min-width: 480px; }
+  /* Tables: scrollable on mobile via display:block + overflow-x:auto on the element */
+  table { @apply border-collapse mb-6 text-sm; }
   th { @apply bg-primary text-white font-semibold px-3 py-2 text-left text-xs sm:text-sm sm:px-4 sm:py-3; }
   td { @apply border border-border px-3 py-2 text-xs sm:text-sm sm:px-4 sm:py-3; }
   tr:nth-child(even) td { @apply bg-bg-subtle; }
-  /* Wrap every table in an overflow scroll container */
+  /* Make every table independently scrollable without expanding the document */
   .prose-page table, .prose-page--wide table {
     display: block;
     overflow-x: auto;

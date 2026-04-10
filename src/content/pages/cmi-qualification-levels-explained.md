@@ -189,6 +189,15 @@ If you need help with CMI assignments at any level:
 
 ---
 
+## Related Pages
+
+- [CMI assignment tutoring](/cmi-assignment-tutoring/)
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+- [CMI assignment structure guide](/guides/cmi-assignment-structure/)
+- [CMI homework help](/cmi-homework-help/)
+
+---
+
 ## FAQ
 
 **What are the CMI qualification levels?**

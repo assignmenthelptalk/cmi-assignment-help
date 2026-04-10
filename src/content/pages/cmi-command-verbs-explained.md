@@ -289,6 +289,14 @@ For help understanding assignment format alongside verb requirements, see our [C
 
 ---
 
+## Related Pages
+
+- [CMI assignment writing service](/cmi-assignment-writing-service/)
+- [CMI assignment tutoring](/cmi-assignment-tutoring/)
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+
+---
+
 ## FAQ: CMI Command Verbs Explained
 
 **What is the difference between Evaluate and Critically Evaluate in CMI**

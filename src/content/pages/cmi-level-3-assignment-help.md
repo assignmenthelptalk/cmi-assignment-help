@@ -166,6 +166,14 @@ Further reading: <span class="future-link">How to write a CMI assignment</span> 
 
 ---
 
+## Related Pages
+
+- [CMI qualification levels explained](/guides/cmi-qualification-levels-explained/)
+- [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+
+---
+
 ## FAQ: CMI Level 3 Assignment Help
 
 **What units are included in CMI Level 3**

@@ -130,6 +130,13 @@ Our tutoring service covers all five CMI qualification levels. The type and dept
 
 ---
 
+## Related Pages
+
+- [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+
+---
+
 ## FAQ: CMI Assignment Tutoring
 
 **What is the difference between CMI tutoring and CMI assignment writing**

@@ -187,6 +187,16 @@ Send us your assessor feedback and we'll tell you exactly what the resubmission 
 
 ---
 
+## Related Pages
+
+- [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI assignment structure guide](/guides/cmi-assignment-structure/)
+- [CMI Level 3 assignment help](/cmi-level-3-assignment-help/)
+- [CMI Level 4 assignment help](/cmi-level-4-assignment-help/)
+- [CMI Level 6 assignment help](/cmi-level-6-assignment-help/)
+
+---
+
 ## FAQ
 
 **What does Refer mean on a CMI assignment**

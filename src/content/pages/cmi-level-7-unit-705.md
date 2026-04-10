@@ -239,6 +239,14 @@ Return to the full unit list: [CMI Level 7 Assignment Help — All 17 Units](/cm
 
 ---
 
+## Related Pages
+
+- [CMI command verbs explained](/guides/cmi-command-verbs-explained/)
+- [CMI Level 5 vs Level 7](/faq/cmi-level-5-vs-level-7/)
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+
+---
+
 ## FAQ — CMI 705 Assignment Help
 
 **What is CMI Unit 705?**

@@ -158,6 +158,14 @@ Our answer service covers all five CMI levels, each with its own brief structure
 
 ---
 
+## Related Pages
+
+- [CMI assignment tutoring](/cmi-assignment-tutoring/)
+- [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI command verbs explained](/guides/cmi-command-verbs-explained/)
+
+---
+
 ## FAQ: CMI Assignment Answers Questions
 
 **Can I get my CMI assignment question answered by a professional**

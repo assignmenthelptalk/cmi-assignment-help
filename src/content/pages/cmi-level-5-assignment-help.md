@@ -217,6 +217,14 @@ Further reading: <span class="future-link">How to write a CMI management report<
 
 ---
 
+## Related Pages
+
+- [CMI qualification levels explained](/guides/cmi-qualification-levels-explained/)
+- [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+
+---
+
 ## FAQ: CMI Level 5 Assignment Help
 
 **How many units are in the CMI Level 5 Diploma**

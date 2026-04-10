@@ -125,6 +125,14 @@ Our coursework support covers all five CMI qualification levels. The coursework 
 
 ---
 
+## Related Pages
+
+- [CMI command verbs explained](/guides/cmi-command-verbs-explained/)
+- [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+
+---
+
 ## FAQ: CMI Coursework Help
 
 **How is CMI coursework help different from assignment help**

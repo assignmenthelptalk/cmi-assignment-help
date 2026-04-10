@@ -143,6 +143,14 @@ Whether you are studying Level 5 or Level 7, the quality of the assignment suppo
 
 ---
 
+## Related Pages
+
+- [CMI assignment tutoring](/cmi-assignment-tutoring/)
+- [CMI qualification levels explained](/guides/cmi-qualification-levels-explained/)
+- [CMI command verbs explained](/guides/cmi-command-verbs-explained/)
+
+---
+
 ## FAQ: CMI Level 5 vs Level 7
 
 **What is the difference between CMI Level 5 and Level 7?**

@@ -247,6 +247,13 @@ Return to the full unit list: [CMI Level 7 Assignment Help - All 17 Units](/cmi-
 
 ---
 
+## Related Pages
+
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+- [CMI assignment examples](/cmi-assignment-examples/)
+
+---
+
 ## FAQ: CMI 701 Assignment Help
 
 **What is CMI Unit 701?**

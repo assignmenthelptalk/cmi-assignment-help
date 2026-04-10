@@ -111,6 +111,14 @@ Our homework help service covers all CMI qualification levels - from Level 3 fir
 
 ---
 
+## Related Pages
+
+- [CMI assignment answers](/cmi-assignment-answers/)
+- [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI command verbs explained](/guides/cmi-command-verbs-explained/)
+
+---
+
 ## FAQ: CMI Homework Help
 
 **What is CMI homework**

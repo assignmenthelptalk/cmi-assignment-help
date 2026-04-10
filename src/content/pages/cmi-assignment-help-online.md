@@ -130,6 +130,13 @@ All five CMI qualification levels are available through our online service:
 
 ---
 
+## Related Pages
+
+- [CMI command verbs explained](/guides/cmi-command-verbs-explained/)
+- [CMI assignment examples](/cmi-assignment-examples/)
+
+---
+
 ## FAQ: CMI Assignment Help Online
 
 **How do I get CMI assignment help online**

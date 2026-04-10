@@ -227,6 +227,13 @@ Return to the full unit list: [CMI Level 5 Assignment Help - All 25 Units](/cmi-
 
 ---
 
+## Related Pages
+
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+- [CMI assignment examples](/cmi-assignment-examples/)
+
+---
+
 ## FAQ: CMI 509 Assignment Help
 
 **What is CMI Unit 509?**

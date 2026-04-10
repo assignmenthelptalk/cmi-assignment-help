@@ -171,6 +171,13 @@ If you are an NHS manager preparing for a specific unit, the pages below give de
 
 ---
 
+## Related Pages
+
+- [CMI qualification levels explained](/guides/cmi-qualification-levels-explained/)
+- [CMI Level 5 vs Level 7](/faq/cmi-level-5-vs-level-7/)
+
+---
+
 ## FAQ
 
 **Which CMI level is right for Band 7 NHS managers?**

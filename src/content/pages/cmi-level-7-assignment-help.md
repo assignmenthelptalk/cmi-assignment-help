@@ -213,6 +213,15 @@ Further reading:
 
 ---
 
+## Related Pages
+
+- [CMI qualification levels explained](/guides/cmi-qualification-levels-explained/)
+- [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+- [CMI assignment structure guide](/guides/cmi-assignment-structure/)
+
+---
+
 ## FAQ: CMI Level 7 Assignment Help
 
 **What is CMI Level 7?**

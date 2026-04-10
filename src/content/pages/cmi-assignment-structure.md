@@ -321,6 +321,15 @@ For level-specific guidance on assignment requirements, see:
 
 ---
 
+## Related Pages
+
+- [CMI assignment tutoring](/cmi-assignment-tutoring/)
+- [CMI report writing help](/cmi-report-writing-help/)
+- [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+
+---
+
 ## FAQ: CMI Assignment Structure
 
 **Does a CMI assignment need an executive summary**

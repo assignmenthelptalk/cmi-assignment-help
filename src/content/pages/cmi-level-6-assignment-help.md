@@ -181,6 +181,15 @@ Completion of the CMI Level 6 Diploma supports progress toward CMI Chartered Man
 
 ---
 
+## Related Pages
+
+- [CMI qualification levels explained](/guides/cmi-qualification-levels-explained/)
+- [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+- [CMI Level 5 vs Level 7](/faq/cmi-level-5-vs-level-7/)
+
+---
+
 ## FAQ: CMI Level 6 Assignment Help
 
 **What is CMI Level 6?**

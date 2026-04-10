@@ -158,6 +158,14 @@ At Level 4, the management frameworks most frequently applied include contingenc
 
 ---
 
+## Related Pages
+
+- [CMI qualification levels explained](/guides/cmi-qualification-levels-explained/)
+- [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+
+---
+
 ## FAQ: CMI Level 4 Assignment Help
 
 **What are the CMI Level 4 units**

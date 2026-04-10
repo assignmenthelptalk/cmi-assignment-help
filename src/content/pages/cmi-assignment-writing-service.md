@@ -129,6 +129,14 @@ Our CMI assignment writing service covers all five qualification levels. The com
 
 ---
 
+## Related Pages
+
+- [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI command verbs explained](/guides/cmi-command-verbs-explained/)
+- [CMI assignment structure guide](/guides/cmi-assignment-structure/)
+
+---
+
 ## FAQ: CMI Assignment Writing Service Questions
 
 **Can someone write my CMI assignment for me**

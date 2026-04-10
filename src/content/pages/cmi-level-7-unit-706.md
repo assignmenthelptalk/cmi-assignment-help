@@ -230,6 +230,13 @@ Message us on WhatsApp with your unit brief and deadline. We produce CMI 706 str
 
 ---
 
+## Related Pages
+
+- [CMI command verbs explained](/guides/cmi-command-verbs-explained/)
+- [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
+
+---
+
 ## FAQ
 
 **What is CMI Unit 706?**

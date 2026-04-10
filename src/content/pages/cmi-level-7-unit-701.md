@@ -249,22 +249,22 @@ Return to the full unit list: [CMI Level 7 Assignment Help - All 17 Units](/cmi-
 
 ## FAQ: CMI 701 Assignment Help
 
-**What is CMI Unit 701?\*\*
+**What is CMI Unit 701?**
 CMI Unit 701 - Strategic Leadership is the core unit of the Level 7 Diploma in Strategic Management and Leadership. It covers the nature and impact of strategic leadership (AC1), a Critically Analytical examination of strategic leadership styles - transformational, distributed, authentic, adaptive (AC2), and the relationship between strategic leadership, organisational culture, values, and ethics (AC3). Assessed as a strategic paper of 5,000–6,500 words.
 
-**What format does a CMI 701 assignment take?\*\*
+**What format does a CMI 701 assignment take?**
 A strategic paper, not a management report. Sections include: title page, executive summary (300–400 words, board-briefing standard), contents, introduction establishing the strategic context, analysis sections for AC1–AC3 at the correct command verb depth, conclusion with original strategic synthesis, strategic recommendations at organisational scope, and Harvard bibliography (15–20 peer-reviewed sources minimum).
 
-**Which leadership theories are covered in CMI 701?\*\*
+**Which leadership theories are covered in CMI 701?**
 The most expected are transformational leadership (Bass and Avolio), distributed leadership (Spillane, Gronn), authentic leadership (Avolio and Gardner), adaptive leadership (Heifetz and Laurie), and the strategic leadership vs operational management distinction (Hambrick and Mason, upper echelons theory). All must be Critically Analysed, not evaluated.
 
-**What does Critically Analyse mean in CMI 701?\*\*
+**What does Critically Analyse mean in CMI 701?**
 Critically Analyse requires: decomposing the strategic leadership concept into its components, applying empirical evidence from peer-reviewed research, identifying the theoretical assumptions and limitations of each framework, placing competing models in direct dialogue, and synthesising an original defended strategic position. It is qualitatively different from Evaluate.
 
-**How is CMI 701 different from Level 5 leadership content?\*\*
+**How is CMI 701 different from Level 5 leadership content?**
 CMI Level 5 evaluates leadership theory at an operational management scope using Evaluate and management textbooks. CMI 701 Critically Analyses strategic leadership at an organisational scope using Critically Analyse and peer-reviewed empirical research. The scope, command verb, source standard, and professional perspective required are all fundamentally different.
 
-**Can you help with a CMI 701 resubmission?\*\*
+**Can you help with a CMI 701 resubmission?**
 Yes. The most common CMI 701 referral cause is Evaluate depth used where Critically Analyse is required - the response demonstrates Level 5 analytical engagement at a Level 7 unit. The second most common is management textbook sources rather than peer-reviewed research. We review your assessor's feedback, identify the specific shortfalls, and rewrite to the Level 7 standard.
 
 ---

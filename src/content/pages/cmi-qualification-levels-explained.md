@@ -191,27 +191,27 @@ If you need help with CMI assignments at any level:
 
 ## FAQ
 
-**What are the CMI qualification levels?\*\*
+**What are the CMI qualification levels?**
 
 CMI offers qualifications at Levels 3 through 8 on the Regulated Qualifications Framework. The most commonly studied are Level 3 (First Line Management - equivalent to A Level), Level 5 (Management and Leadership Diploma - equivalent to HND), Level 6 (Professional Management - equivalent to a Bachelor's Degree), and Level 7 (Strategic Management and Leadership - equivalent to a Master's Degree).
 
-**Which CMI level should I do?\*\*
+**Which CMI level should I do?**
 
 Match your level to your management experience and responsibility. Team leaders and junior managers: Level 3. Experienced team or department managers: Level 5. Senior managers with cross-functional or strategic responsibility: Level 6–7. Strategic leaders at board or director level: Level 7. Your CMI centre will assess suitability based on your professional background - prior CMI qualifications are not required to enter any level.
 
-**What is CMI Level 5 equivalent to?\*\*
+**What is CMI Level 5 equivalent to?**
 
 CMI Level 5 is equivalent to a Higher National Diploma (HND) or the second year of an undergraduate degree on the Regulated Qualifications Framework. It is a professional management qualification, not a degree, but it is professionally recognised at that level.
 
-**What is CMI Level 7 equivalent to?\*\*
+**What is CMI Level 7 equivalent to?**
 
 CMI Level 7 is equivalent to a Master's degree on the Regulated Qualifications Framework. The Diploma in Strategic Management and Leadership is the full Level 7 qualification. Completing it with sufficient management experience makes you eligible for the Chartered Manager (CMgr) designation.
 
-**What is the difference between a CMI Award, Certificate, and Diploma?\*\*
+**What is the difference between a CMI Award, Certificate, and Diploma?**
 
 Award: 1–2 units, targeted development, fastest to complete. Certificate: 2–3 units, broader than an Award. Diploma: the full qualification, most units, most professionally recognised, required for the Chartered Manager pathway. For career development, the Diploma is almost always the right choice.
 
-**Can I do CMI Level 7 without Level 5?\*\*
+**Can I do CMI Level 7 without Level 5?**
 
 Yes. CMI level entry is based on your management experience and current role, not on prior CMI qualifications. Many managers enter at Level 7 without having completed Level 5. Your CMI-registered centre will assess your professional suitability. The most important factor is whether your current role genuinely operates at strategic level - if you are making board-level decisions and leading organisational strategy, Level 7 is appropriate regardless of whether you have completed lower levels.
 

@@ -173,26 +173,26 @@ If you are an NHS manager preparing for a specific unit, the pages below give de
 
 ## FAQ
 
-**Which CMI level is right for Band 7 NHS managers?\*\*
+**Which CMI level is right for Band 7 NHS managers?**
 
 CMI Level 5 Diploma is the standard alignment for Band 7. It covers management and leadership at team and department level — matching the scope of a ward manager, clinical department head, or service team leader. The unit content maps directly to Band 7 responsibilities: managing team performance, stakeholder relationships, resources, and departmental delivery. Some Band 7 managers in senior clinical leadership roles are directed toward Level 7 — confirm with your workforce development lead.
 
-**Is the Mary Seacole Programme the same as CMI Level 5?\*\*
+**Is the Mary Seacole Programme the same as CMI Level 5?**
 
 Not automatically. The Mary Seacole Programme is an NHS Leadership Academy programme for aspiring leaders. Some cohorts are CMI-accredited, meaning participants receive CMI Level 5 credit on completion. Whether your cohort was CMI-accredited depends on how your Trust commissioned it. Check your programme documentation or contact your Trust's workforce development team to confirm whether your completion translates to a formal CMI qualification.
 
-**Can the NHS fund my CMI qualification?\*\*
+**Can the NHS fund my CMI qualification?**
 
 Yes — NHS Trusts allocate CPD funding for management qualifications including CMI Level 5 and Level 7. Funding is not automatic: apply at the start of the financial year through your line manager and workforce development team. ICBs also fund senior leadership programmes at Level 7. Some cohort programmes through the NHS Leadership Academy are NHS England-funded. Self-funding is an option if employer funding is unavailable or oversubscribed.
 
-**What CMI units are most relevant for NHS managers?\*\*
+**What CMI units are most relevant for NHS managers?**
 
 At Level 5: Unit 501 (management and leadership principles), Unit 502 and 503 (developing and managing teams), Unit 504 (performance management), Unit 509 (stakeholder relationships). At Level 7: Unit 701 (strategic leadership), Unit 702 (people and talent strategy), Unit 704 (organisational strategy), Unit 705 (leading strategic change). All of these units map directly to NHS management responsibilities at the relevant band.
 
-**Why do NHS managers struggle with CMI assignments?\*\*
+**Why do NHS managers struggle with CMI assignments?**
 
 Three reasons recur. First, shift patterns and operational unpredictability make long uninterrupted study sessions rare. Second, the shift from clinical or operational documentation to academic analytical writing is harder than it appears — CMI requires Evaluation or Critical Analysis, not description. Third, NHS examples require care around patient confidentiality and data governance. Expert assignment support addresses all three: structured writing, correct analytical depth, and appropriate use of NHS context.
 
-**Can you help an NHS manager with a CMI assignment?\*\*
+**Can you help an NHS manager with a CMI assignment?**
 
 Yes. We have supported NHS managers at Band 6 through Band 9 across Level 5 and Level 7 units. Our writers understand NHS context — ICS structures, Trust governance, NHS workforce frameworks, NHS leadership programmes — and apply it within CMI assessment criteria at the correct command verb depth. Message us on WhatsApp with your unit, band, and deadline for a free quote.

@@ -145,22 +145,22 @@ Whether you are studying Level 5 or Level 7, the quality of the assignment suppo
 
 ## FAQ: CMI Level 5 vs Level 7
 
-**What is the difference between CMI Level 5 and Level 7?\*\*
+**What is the difference between CMI Level 5 and Level 7?**
 Five key differences: scope (operational/team vs strategic/organisational), format (management report vs strategic paper), command verbs (Evaluate vs Critically Analyse), academic sources (10–12 management texts vs 15–20 peer-reviewed journals), and word count (3,000–5,000 per unit vs 5,000–6,500 per unit). Level 7 is not Level 5 at a higher word count. It is a qualitatively different academic undertaking.
 
-**Which is harder: CMI Level 5 or Level 7?\*\*
+**Which is harder: CMI Level 5 or Level 7?**
 Level 7 is harder in a qualitative sense, not just a quantitative one. The Critically Analyse command verb requires a different mode of academic engagement - decomposing strategic concepts, applying empirical research, engaging with competing theoretical perspectives, and synthesising an original strategic position. Level 5's Evaluate requires criteria and evidence; Level 7's Critically Analyse requires all of that plus theoretical limitation analysis and an original defended synthesis.
 
-**Can I go straight to CMI Level 7 without doing Level 5?\*\*
+**Can I go straight to CMI Level 7 without doing Level 5?**
 Yes. Entry to Level 7 is based on professional experience and employer or training provider decision, not on prior CMI qualification. Many Level 7 students have not studied at Level 5. The entry requirement is a senior leadership role with strategic or organisational-level accountability, not a prerequisite qualification.
 
-**How long does CMI Level 5 take compared to Level 7?\*\*
+**How long does CMI Level 5 take compared to Level 7?**
 The Level 5 Diploma typically takes 12–24 months studying alongside full-time work. The Level 7 Diploma typically takes 18–36 months - reflecting the higher per-unit word count, the more demanding academic standard, and the additional research requirements.
 
-**What CMI membership do I get from Level 5 vs Level 7?\*\*
+**What CMI membership do I get from Level 5 vs Level 7?**
 Completing the Level 5 Diploma supports application for ACMI (Associate Member of CMI). Completing the Level 7 Diploma supports application for FCMI (Fellow of CMI) - the most prestigious CMI membership grade. Level 6 supports MCMI (Member of CMI).
 
-**What is CMI Level 6 and where does it fit between Level 5 and Level 7?\*\*
+**What is CMI Level 6 and where does it fit between Level 5 and Level 7?**
 CMI Level 6 - Professional Management and Leadership - sits between Level 5 and Level 7. Its primary command verb is Critically Evaluate - more demanding than Level 5's Evaluate but below Level 7's Critically Analyse. Level 6 is appropriate for senior managers operating above operational management but below strategic/director level.
 
 ---

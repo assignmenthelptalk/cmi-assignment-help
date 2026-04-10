@@ -241,22 +241,22 @@ Return to the full unit list: [CMI Level 7 Assignment Help — All 17 Units](/cm
 
 ## FAQ — CMI 705 Assignment Help
 
-**What is CMI Unit 705?\*\*
+**What is CMI Unit 705?**
 CMI Unit 705 — Leading Strategic Change covers critical analysis of strategic change leadership frameworks (Kotter, Lewin, ADKAR, complexity theory — AC1), critical analysis of the strategic leader's role in managing resistance and building change capability at organisational scale (AC2), and evaluation of approaches to sustaining strategic change and building organisational resilience (AC3). Assessed as a strategic paper of 5,000–6,000 words.
 
-**How is CMI 705 different from CMI Level 5 change management?\*\*
+**How is CMI 705 different from CMI Level 5 change management?**
 CMI Level 5 Unit 512 applies Kotter and Lewin to an organisational change at Evaluate depth. CMI 705 Critically Analyses change leadership at the scale of full organisational transformation — complexity theory challenge to planned change models, political and systemic dimensions of resistance, board-level change governance, and organisational resilience. The scope, command verb, and source standard are categorically different.
 
-**Which frameworks are covered in CMI 705?\*\*
+**Which frameworks are covered in CMI 705?**
 The core frameworks for AC1 are Kotter's 8-Step Model (1996), Lewin's Force Field Analysis and freeze model (1951), ADKAR (Prosci), and complexity theory (Stacey, 1996, 2001). AC2 draws on resistance theory, Kanter's change leadership roles, and Edmondson's psychological safety in change. AC3 draws on Weick and Sutcliffe's high reliability organisation framework and the conditions for cultural embedding of change (Schein).
 
-**What does Critically Analyse mean for change frameworks in CMI 705?\*\*
+**What does Critically Analyse mean for change frameworks in CMI 705?**
 For each framework: examine its empirical evidence base (is Kotter empirically validated - ), identify the assumptions it makes about how organisations work (can planned change manage complexity - ), engage with the research that challenges those assumptions (Hughes on Kotter, Stacey on complexity), and synthesise a defended position on which approach best serves strategic change leadership in the defined organisational context.
 
-**What does AC3 require in CMI 705?\*\*
+**What does AC3 require in CMI 705?**
 AC3 uses Evaluate — not Critically Analyse — and requires a thorough evaluation of how strategic change is sustained beyond initial implementation, and how the organisation builds adaptive resilience for future change. This includes structural alignment, cultural embedding (Schein), high reliability organisation principles (Weick and Sutcliffe), and the governance conditions that hold change accountable at board level.
 
-**Can you help with a CMI 705 resubmission?\*\*
+**Can you help with a CMI 705 resubmission?**
 Yes. The most common CMI 705 referral causes are Kotter applied as a framework to follow rather than Critically Analysed as a model with limitations, absence of complexity theory in AC1, resistance framed as a communication problem rather than a systemic and political phenomenon, and AC3 underdeveloped. We review your assessor feedback and rewrite only the sections that need to change.
 
 ---

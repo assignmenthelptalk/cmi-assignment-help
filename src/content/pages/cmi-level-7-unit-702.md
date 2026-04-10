@@ -212,22 +212,22 @@ Return to the full unit list: [CMI Level 7 Assignment Help - All 17 Units](/cmi-
 
 ## FAQ: CMI 702 Assignment Help
 
-**What is CMI Unit 702?\*\*
+**What is CMI Unit 702?**
 CMI Unit 702 - Leading and Developing People to Optimise Performance covers strategic talent management and succession planning (AC1), approaches to developing organisational capability and workforce performance (AC2), and the strategic leader's role in creating a high-performance culture (AC3). Assessed as a strategic paper of 5,000-6,000 words at Critically Analyse depth.
 
-**How is CMI 702 different from CMI Level 5 people management units?\*\*
+**How is CMI 702 different from CMI Level 5 people management units?**
 CMI Level 5 units 502 and 503 cover team-level people development - Tuckman's team development model, Belbin's roles, Maslow and Herzberg. CMI 702 operates at enterprise level - strategic talent pipelines, workforce capability architecture, HPWS, and the cultural conditions created by the strategic leader across the whole organisation.
 
-**Which frameworks are covered in CMI 702?\*\*
+**Which frameworks are covered in CMI 702?**
 The core frameworks are Collings and Mellahi's pivotal positions model and the 9-box grid (AC1), Senge's learning organisation, Argyris and SchÃ¶n's double-loop learning, HPWS (Combs et al.), human capital theory (Becker), and Ulrich and Smallwood's organisational capability framework (AC2). Schein's primary embedding mechanisms and Edmondson's psychological safety at scale apply to AC3.
 
-**What does Critically Analyse mean for CMI 702?\*\*
+**What does Critically Analyse mean for CMI 702?**
 For each framework: decompose it, apply peer-reviewed empirical evidence from SHRM and OB journals, identify theoretical limitations and assumptions, place competing frameworks in direct dialogue, and synthesise a defended strategic position on which approach best develops talent and capability in the defined organisational context.
 
-**What does AC3 require in CMI 702?\*\*
+**What does AC3 require in CMI 702?**
 AC3 uses Evaluate, not Critically Analyse - and requires a thorough evaluation of the strategic leader's specific role in creating a high-performance culture, including Schein's primary embedding mechanisms, Edmondson's psychological safety conditions at organisational scale, and the HPWS practices that create a high-performance cultural environment.
 
-**Can you help with a CMI 702 resubmission?\*\*
+**Can you help with a CMI 702 resubmission?**
 Yes. The most common CMI 702 referral causes are team-level frameworks applied at enterprise scope and AC3 addressed in one or two paragraphs rather than at full Evaluate depth. We review your assessor's feedback and rewrite only what needs to change.
 
 ---

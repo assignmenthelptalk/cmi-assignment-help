@@ -46,6 +46,11 @@ CMI assignment help pricing is determined by three factors: your qualification l
 
 For a transparent, fixed quote based on your specific unit, word count, and deadline, message us on WhatsApp. Quotes are provided within 1 hour during trading hours. There is no obligation to proceed after receiving a quote.
 
+<!-- PRICING TIERS: Place below the pricing factors section -->
+<!-- Components: Three-tier visual showing Level 3-4 (entry pricing), Level 5 (mid-range), Level 7 (premium). Each tier: typical word count range, turnaround options, included features. -->
+<!-- Alt text: CMI assignment help pricing tiers: from Level 3 entry pricing to Level 7 strategic paper pricing -->
+
+
 <span class="future-link">View full pricing</span>
 
 ### CMI Level 3 and 4: Entry-Level Assignment Pricing

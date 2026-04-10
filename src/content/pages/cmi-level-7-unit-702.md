@@ -91,6 +91,7 @@ The distinction between replacement planning and succession management is the mo
 <!-- 9-BOX GRID: Place after succession planning section, before Human Capital Theory H3 -->
 <!-- Components: 3Ã-3 grid: horizontal axis: "Performance" (Low | Moderate | High); vertical axis: "Potential" (Low | Moderate | High). Nine cells with talent management response labels. -->
 <!-- Alt text: "9-box talent grid for CMI Unit 702: nine cells mapping employee performance against potential, with strategic talent management response for each category" -->
+
 ### Human Capital Theory: Becker
 
 Gary Becker (1964) established the theoretical foundation for treating investment in people as investment in productive assets - human capital. Distinguishing between general human capital (skills transferable across employers) and firm-specific human capital (skills valuable only within the current organisation), Becker's framework provides the economic logic for talent development investment.
@@ -114,6 +115,7 @@ High-performance work systems (HPWS) are bundles of HR practices - selective rec
 <!-- HPWS PRACTICE BUNDLES DIAGRAM: Place after HPWS section, before Organisational Capability H3 -->
 <!-- Components: Hub-and-spoke diagram: central node: "Organisational Performance Outcomes"; surrounding nodes: Selective Recruitment | Extensive Training | Performance-Contingent Compensation | Participative Decision-Making | Job Enrichment | Information Sharing. Connecting lines between all nodes showing interdependence. -->
 <!-- Alt text: "High-Performance Work Systems practice bundles diagram for CMI Unit 702: six interconnected HR practices producing organisational performance outcomes" -->
+
 ### Organisational Capability: Ulrich and Smallwood
 
 Dave Ulrich and Norm Smallwood (2004) define organisational capability as what the organisation is known for being able to do - its identity in the marketplace. Capabilities such as talent, speed, shared mindset, accountability, collaboration, learning, and innovation are the enduring strengths that outlast any individual leader. The strategic leader's role is to identify the capabilities that create competitive advantage, invest in them deliberately, and ensure they are embedded in systems, processes, and culture rather than dependent on specific individuals.
@@ -131,6 +133,7 @@ The Critically Analyse command verb applies to AC1 and AC2. The same five requir
 <!-- CMI COMMAND VERB LADDER: Place below Critically Analyse explanation, above "What Does Not Count" H3 -->
 <!-- Components: Cognitive depth ladder: Identify - Describe - Explain - Discuss - Analyse - Evaluate - Critically Evaluate - Critically Analyse. Highlight "Critically Analyse" at apex. Use cmi-command-verb-ladder.svg as base. -->
 <!-- Alt text: "CMI command verb ladder for CMI Unit 702: Critically Analyse highlighted for AC1 and AC2, Evaluate for AC3" -->
+
 ### What Does Not Count as Critically Analyse in CMI 702
 
 **Applying Level 5 team development frameworks:** Tuckman, Belbin, Maslow, and Herzberg are team-level frameworks. Their presence in a CMI 702 submission signals that the student has approached a Level 7 unit with Level 5 analytical tools.
@@ -198,22 +201,22 @@ Return to the full unit list: [CMI Level 7 Assignment Help - All 17 Units](/cmi-
 
 ## FAQ: CMI 702 Assignment Help
 
-**What is CMI Unit 702 - **
+**What is CMI Unit 702?\*\*
 CMI Unit 702 - Leading and Developing People to Optimise Performance covers strategic talent management and succession planning (AC1), approaches to developing organisational capability and workforce performance (AC2), and the strategic leader's role in creating a high-performance culture (AC3). Assessed as a strategic paper of 5,000-6,000 words at Critically Analyse depth.
 
-**How is CMI 702 different from CMI Level 5 people management units - **
+**How is CMI 702 different from CMI Level 5 people management units?\*\*
 CMI Level 5 units 502 and 503 cover team-level people development - Tuckman's team development model, Belbin's roles, Maslow and Herzberg. CMI 702 operates at enterprise level - strategic talent pipelines, workforce capability architecture, HPWS, and the cultural conditions created by the strategic leader across the whole organisation.
 
-**Which frameworks are covered in CMI 702 - **
+**Which frameworks are covered in CMI 702?\*\*
 The core frameworks are Collings and Mellahi's pivotal positions model and the 9-box grid (AC1), Senge's learning organisation, Argyris and SchÃ¶n's double-loop learning, HPWS (Combs et al.), human capital theory (Becker), and Ulrich and Smallwood's organisational capability framework (AC2). Schein's primary embedding mechanisms and Edmondson's psychological safety at scale apply to AC3.
 
-**What does Critically Analyse mean for CMI 702 - **
+**What does Critically Analyse mean for CMI 702?\*\*
 For each framework: decompose it, apply peer-reviewed empirical evidence from SHRM and OB journals, identify theoretical limitations and assumptions, place competing frameworks in direct dialogue, and synthesise a defended strategic position on which approach best develops talent and capability in the defined organisational context.
 
-**What does AC3 require in CMI 702 - **
+**What does AC3 require in CMI 702?\*\*
 AC3 uses Evaluate, not Critically Analyse - and requires a thorough evaluation of the strategic leader's specific role in creating a high-performance culture, including Schein's primary embedding mechanisms, Edmondson's psychological safety conditions at organisational scale, and the HPWS practices that create a high-performance cultural environment.
 
-**Can you help with a CMI 702 resubmission - **
+**Can you help with a CMI 702 resubmission?\*\*
 Yes. The most common CMI 702 referral causes are team-level frameworks applied at enterprise scope and AC3 addressed in one or two paragraphs rather than at full Evaluate depth. We review your assessor's feedback and rewrite only what needs to change.
 
 ---

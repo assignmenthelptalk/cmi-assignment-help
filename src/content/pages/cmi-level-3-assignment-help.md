@@ -23,6 +23,11 @@ For many Level 3 students, this is the first higher-level academic qualification
 | CMI Level 3 Certificate in First Line Management | 3–4 units | 4,500–7,500 words total | 6–12 months |
 | CMI Level 3 Diploma in First Line Management | 6+ units | 9,000+ words total | 12–18 months |
 
+<!-- LEVEL 3 QUALIFICATION STRUCTURE: Place below qualification table -->
+<!-- Components: Three tiles showing Award (1-2 units), Certificate (3-4 units), Diploma (6+ units) with word count and study duration. -->
+<!-- Alt text: CMI Level 3 Award, Certificate and Diploma comparison: units, word count, and study duration -->
+
+
 The Award is the quickest route to a Level 3 credential - suitable for students who need qualification evidence without committing to a full programme. The Certificate covers a broader range of management fundamentals. The Diploma is the most comprehensive Level 3 qualification, covering the full First Line Management unit range.
 
 ---
@@ -146,7 +151,7 @@ CMI Level 3 is the first step in the CMI qualification pathway. After Level 3, m
 
 CMI qualifications also connect to CMI professional membership: Level 3 completion supports Affiliate membership, while Level 5 and above connect to Associate (ACMI) and then full Member (MCMI) status.
 
-Further reading: <span class="future-link">How to write a CMI assignment</span> · <span class="future-link">CMI Award vs Certificate vs Diploma - what's the difference-</span>
+Further reading: <span class="future-link">How to write a CMI assignment</span> · <span class="future-link">CMI Award vs Certificate vs Diploma: what's the difference?</span>
 
 ---
 

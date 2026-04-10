@@ -225,27 +225,27 @@ Message us on WhatsApp with your unit brief, organisational context, and deadlin
 
 ## FAQ
 
-**What is CMI Unit 506 - **
+**What is CMI Unit 506?\*\*
 
 CMI Unit 506 - Managing Resources and Finance - assesses how managers plan and allocate resources, set and manage budgets, and use financial information in decision-making. The primary command verb is Evaluate. It covers resource planning approaches, budget types (incremental, zero-based, activity-based, rolling), variance analysis, cost-benefit analysis, financial statements, and investment appraisal at management level.
 
-**What format does CMI 506 take - **
+**What format does CMI 506 take?\*\*
 
 Management report, 3,500-4,500 words, with an executive summary, introduction, AC-aligned analysis sections, conclusions and SMART recommendations, and 10-12 Harvard-formatted sources.
 
-**What is the difference between incremental and zero-based budgeting in CMI 506 - **
+**What is the difference between incremental and zero-based budgeting in CMI 506?\*\*
 
 Incremental budgeting takes the previous year's budget as the baseline and adjusts it. It is fast but perpetuates historical inefficiency. Zero-based budgeting requires every line to be justified from scratch - it eliminates embedded inefficiency and forces strategic alignment, but is resource-intensive and produces political conflict. AC2 requires Evaluating when each approach is most appropriate, not simply defining them.
 
-**What is variance analysis in CMI 506 - **
+**What is variance analysis in CMI 506?\*\*
 
 The systematic comparison of actual financial performance against budgeted figures, classifying deviations as favourable (better than budget) or adverse (worse than budget). Used by managers to identify performance gaps and investigate root causes. AC2 requires Evaluating variance analysis as a management tool - including its limitation that it measures deviation from a plan that may itself have been flawed.
 
-**What does AC3 require in CMI 506 - **
+**What does AC3 require in CMI 506?\*\*
 
 Evaluate the use of financial information in management decision-making - examining how financial data (P&L statements, variance reports, CBA, ROI, NPV) informs decisions, alongside the limitations of financial information: it is historical, quantitative, excludes non-financial value, and is subject to measurement error. Sound management uses financial information alongside qualitative judgement, strategic fit, and risk assessment.
 
-**Can you help with CMI 506 resubmission - **
+**Can you help with CMI 506 resubmission?\*\*
 
 Yes. The most common resubmission gaps are: AC2 describing budget types without Evaluating when each is appropriate; financial jargon used without management application; and AC3 treating financial information as comprehensively useful without engaging with its limitations. We identify exactly which assessment criteria your submission failed to meet and address them directly.
 

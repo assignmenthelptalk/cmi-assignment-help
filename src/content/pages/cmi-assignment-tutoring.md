@@ -57,6 +57,11 @@ This is targeted, surgical coaching. The goal is not to rewrite the entire assig
 
 **Send Your Draft for Expert Feedback: WhatsApp Us**
 
+<!-- TUTORING SERVICE FORMATS: Place below the three service format descriptions -->
+<!-- Components: Three-column comparison showing Assignment Planning, Draft Review, Resubmission Coaching. Each column: when to use, what you send, what you receive, turnaround time. -->
+<!-- Alt text: CMI assignment tutoring formats comparison: planning, draft review, and resubmission coaching -->
+
+
 ---
 
 ## Our CMI Tutors: Credentials and Expertise

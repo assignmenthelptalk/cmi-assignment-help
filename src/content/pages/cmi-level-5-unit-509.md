@@ -146,6 +146,7 @@ Evaluate is the command verb for all three Assessment Criteria. The structure re
 <!-- CMI COMMAND VERB LADDER: Place below evaluation criteria, above "What Does Not Count" H3 -->
 <!-- Components: Cognitive depth ladder: Identify - Describe - Explain - Discuss - Analyse - Evaluate - Critically Evaluate - Critically Analyse. Highlight "Evaluate" tier. Use cmi-command-verb-ladder.svg as base. -->
 <!-- Alt text: "CMI command verb ladder: Evaluate highlighted as the primary command verb for CMI Unit 509 Managing Stakeholder Relationships" -->
+
 ### What Does Not Count as Evaluate in CMI 509
 
 **Drawing Mendelow's matrix without evaluating it:** Plotting stakeholders on the matrix and labelling the quadrants is not Evaluate. The evaluative question is: how effective is Mendelow's framework for identifying and prioritising stakeholder engagement in this management context - 
@@ -217,22 +218,22 @@ Return to the full unit list: [CMI Level 5 Assignment Help - All 25 Units](/cmi-
 
 ## FAQ: CMI 509 Assignment Help
 
-**What is CMI Unit 509 - **
+**What is CMI Unit 509?\*\*
 CMI Unit 509 - Managing Stakeholder Relationships covers stakeholder identification and mapping (Mendelow's Power/Interest Matrix, Freeman's stakeholder theory), communication strategy tailored to different stakeholder types, and approaches to managing conflicting stakeholder expectations. It is assessed by management report using Evaluate and Justify command verbs.
 
-**What format does a CMI 509 assignment take - **
+**What format does a CMI 509 assignment take?\*\*
 A management report: title page, executive summary (250-300 words, written last), contents, introduction defining the management scenario, analysis sections for AC1 (mapping), AC2 (communication), and AC3 (conflict management), conclusion, SMART recommendations, and Harvard bibliography. Word count is 3,000-4,000 words.
 
-**What is Mendelow's matrix and how is it used in CMI 509 - **
+**What is Mendelow's matrix and how is it used in CMI 509?\*\*
 Mendelow's Power/Interest Matrix maps stakeholders on two axes - power (ability to influence the outcome) and interest (degree of concern with the outcome) - producing four quadrants: Keep Satisfied (high power, low interest), Manage Closely (high power, high interest), Monitor (low power, low interest), and Keep Informed (low power, high interest). In CMI 509, the matrix must be evaluated, not just applied - which means assessing its effectiveness, applicability, and limitations as a stakeholder mapping framework.
 
-**Which frameworks are used in CMI 509 - **
+**Which frameworks are used in CMI 509?\*\*
 The core frameworks are Freeman's stakeholder theory (AC1 definition), Mendelow's Power/Interest Matrix (AC1 mapping), Mitchell Agle and Wood's stakeholder salience model (AC1 prioritisation), and the Thomas-Kilmann Conflict Mode Instrument (AC3 conflict management). Communication strategy frameworks (tailored by quadrant) address AC2.
 
-**What does AC3 require in CMI 509 - **
+**What does AC3 require in CMI 509?\*\*
 AC3 requires evaluation of approaches to managing conflicting stakeholder expectations - when different stakeholder groups have incompatible demands on the same management situation. The Thomas-Kilmann model provides five conflict management modes (Competing, Collaborating, Compromising, Avoiding, Accommodating) that are evaluated against the specific stakeholder conflict scenario defined in the report.
 
-**Can you help with a CMI 509 resubmission - **
+**Can you help with a CMI 509 resubmission?\*\*
 Yes. The most common CMI 509 referral causes are Mendelow's matrix plotted but not evaluated, AC3 absent or underdeveloped, and no specific management scenario providing the contextual grounding for the stakeholder analysis. We review your assessor's feedback and rewrite only the sections that need to change.
 
 ---

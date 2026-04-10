@@ -143,6 +143,7 @@ Develop requires producing an original strategic recommendation - not identifyin
 <!-- CMI COMMAND VERB LADDER - Place below Develop explanation, above "What Does Not Count" H3 -->
 <!-- Components: Cognitive depth ladder - Identify -> Describe -> Explain -> Discuss -> Analyse -> Evaluate -> Critically Evaluate -> Critically Analyse. Highlight "Critically Analyse" tier. Use cmi-command-verb-ladder.svg as base. Add callout box: "CMI 704: AC1 and AC2 = Critically Analyse. AC3 = Develop - an original justified strategic recommendation, not an evaluation of options." -->
 <!-- Alt text: "CMI command verb ladder for CMI Unit 704 - Critically Analyse highlighted for AC1 and AC2, with note that AC3 uses the Develop command verb requiring an original strategic recommendation" -->
+
 ### What Does Not Count in CMI 704
 
 **A PESTLE list without strategic prioritisation:** Six categories with three or four factors each, rated as opportunities or threats with no evidence of which matter most strategically, does not satisfy AC1. Strategic significance must be argued, not assumed.
@@ -214,22 +215,22 @@ Return to the full unit list: [CMI Level 7 Assignment Help - All 17 Units](/cmi-
 
 ## FAQ - CMI 704 Assignment Help
 
-**What is CMI Unit 704 - **
+**What is CMI Unit 704?\*\*
 CMI Unit 704 - Developing Organisational Strategy covers critical analysis of the external environment (PESTLE, Porter's Five Forces - AC1), critical analysis of internal organisational capabilities (Resource-Based View, VRIO, dynamic capabilities - AC2), and the development and justification of a strategic direction aligned to environmental and capability analysis (AC3). It is assessed as a strategic paper of 5,000-6,500 words.
 
-**Which strategic frameworks are covered in CMI 704 - **
+**Which strategic frameworks are covered in CMI 704?\*\*
 For AC1: PESTLE and Porter's Five Forces (1979, 1980). For AC2: the Resource-Based View (Barney, 1991), the VRIO framework, and dynamic capabilities (Teece, Pisano and Shuen, 1997). For AC3: Ansoff Matrix, Porter's Generic Strategies, and the Balanced Scorecard (Kaplan and Norton, 1992). All must be Critically Analysed - not applied as checklists.
 
-**What is the difference between PESTLE and Porter's Five Forces - **
+**What is the difference between PESTLE and Porter's Five Forces?\*\*
 PESTLE analyses the macro-environment - the political, economic, social, technological, legal, and environmental factors that affect all organisations in a given context. Porter's Five Forces analyses the competitive dynamics within the industry - the structural forces that determine how value is distributed among competitors, suppliers, and buyers. Both are required for a complete external analysis in CMI 704 AC1.
 
-**What does AC3 require in CMI 704 - **
+**What does AC3 require in CMI 704?\*\*
 AC3 uses the Develop command verb - not Critically Analyse. It requires the student to produce an original strategic recommendation that: emerges logically from the AC1 and AC2 analysis, is evaluated against strategic alternatives, is justified with evidence from strategy research or comparable cases, and is presented with governance and resource implications at board scope.
 
-**What is the Resource-Based View and how is it used in CMI 704 - **
+**What is the Resource-Based View and how is it used in CMI 704?\*\*
 The Resource-Based View (Barney, 1991) proposes that sustainable competitive advantage comes from internal resources and capabilities rather than external competitive positioning. The VRIO framework applies four criteria to each resource: Valuable, Rare, Inimitable, and Organised. In CMI 704 AC2, VRIO is applied to specific named organisational resources - not generic descriptions - to identify which capabilities provide genuine competitive advantage.
 
-**Can you help with a CMI 704 resubmission - **
+**Can you help with a CMI 704 resubmission?\*\*
 Yes. The most common CMI 704 referral causes are frameworks applied mechanically (PESTLE listed, Porter rated) rather than Critically Analysed, VRIO applied generically rather than to specific named resources, and AC3 strategy not logically grounded in the AC1 and AC2 analysis. We review your assessor feedback and rewrite only the sections that need to change.
 
 ---

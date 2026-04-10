@@ -24,6 +24,11 @@ The primary reason Level 5 students seek assignment help is workload. A Level 5 
 | CMI Level 5 Certificate in Management and Leadership | 2–3 units | 6,000–12,000 words | 6–12 months | Broader management qualification |
 | CMI Level 5 Diploma in Management and Leadership | 6–8+ units | 18,000–30,000+ words | 12–24 months | Full professional qualification - MCMI pathway |
 
+<!-- LEVEL 5 QUALIFICATION STRUCTURE: Place below qualification table -->
+<!-- Components: Three tiles showing Award (1-2 units), Certificate (2-3 units), Diploma (6-8+ units) with word count range and study duration. -->
+<!-- Alt text: CMI Level 5 Award, Certificate and Diploma structure: from short credential to full management qualification -->
+
+
 The Diploma is the most commonly pursued Level 5 qualification. It provides the broadest management and leadership foundation and supports application for Associate Member (ACMI) status with CMI. For most full-time managers studying Level 5, the Diploma is the target, and it is a significant undertaking.
 
 ---
@@ -52,7 +57,7 @@ The executive summary and the recommendations section are the two elements most 
 
 ### Evaluate and Justify: The Core Command Verbs at Level 5
 
-**Evaluate**: the most important command verb at Level 5. Evaluate requires applying criteria to weigh the strengths, limitations, or effectiveness of a management theory, approach, or decision. It is not the same as Analyse. Analyse at Level 4 deconstructs components and examines their relationships. Evaluate at Level 5 applies a criteria framework to make a reasoned judgement about merit or effectiveness. "Pros and cons" is not Evaluate. It is description with labels. A proper Evaluate response answers three questions: what are the criteria, how does the approach perform against them, and what evidence supports that judgement - 
+**Evaluate**: the most important command verb at Level 5. Evaluate requires applying criteria to weigh the strengths, limitations, or effectiveness of a management theory, approach, or decision. It is not the same as Analyse. Analyse at Level 4 deconstructs components and examines their relationships. Evaluate at Level 5 applies a criteria framework to make a reasoned judgement about merit or effectiveness. "Pros and cons" is not Evaluate. It is description with labels. A proper Evaluate response answers three questions: what are the criteria, how does the approach perform against them, and what evidence supports that judgement.
 
 **Justify**: Justify requires evidence-backed reasoning for a chosen position, approach, or recommendation. Personal opinion is not Justify. "In my experience" is not Justify. A proper Justify response answers three questions: which management theory supports this, what organisational evidence supports it, and why this approach is preferable to the alternatives in the specific context.
 
@@ -197,7 +202,7 @@ CMI Level 5 sits at the centre of the CMI qualification pathway:
 
 Completing the Level 5 Diploma supports application for Associate Member (ACMI) status with CMI - one of the professional membership pathways recognised by UK employers.
 
-Further reading: <span class="future-link">How to write a CMI management report</span> · [CMI Level 5 vs Level 7 - which is right for you-](/faq/cmi-level-5-vs-level-7/)
+Further reading: <span class="future-link">How to write a CMI management report</span> · [CMI Level 5 vs Level 7: which is right for you?](/faq/cmi-level-5-vs-level-7/)
 
 ---
 

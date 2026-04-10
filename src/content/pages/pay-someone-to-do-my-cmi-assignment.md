@@ -58,6 +58,11 @@ When you pay for your CMI assignment, you receive a complete, submission-ready d
 - **Bibliography** formatted in Harvard style, listed alphabetically, matching all in-text citations
 - **File delivered as .docx** - editable in Microsoft Word for any final personal touches
 
+<!-- SUBMISSION-READY CHECKLIST: Place below the deliverables checklist -->
+<!-- Components: Visual checklist with tick icons: Title page, Table of contents, Executive summary, Correct structure, Within word count, Harvard referencing, .docx format. -->
+<!-- Alt text: CMI submission-ready assignment checklist: every element included in every completed order -->
+
+
 You receive a document you can submit. Not a draft. Not a framework. A completed assignment.
 
 ---
@@ -142,22 +147,22 @@ If your unit is not listed, message us on WhatsApp with your unit code. If CMI o
 
 ## FAQ: Pay Someone to Do My CMI Assignment
 
-**Will anyone find out I paid for CMI assignment help - **
+**Will anyone find out I paid for CMI assignment help?**
 No. your identity and assignment are kept completely private in a dedicated 1-to-1 WhatsApp channel. We do not share client information with any third party. Files are deleted on request after delivery. No public record of individual orders exists.
 
-**What if the assignment doesn't meet the Learning Outcomes - **
+**What if the assignment doesn't meet the Learning Outcomes?**
 Your assignment is written to explicitly address each Learning Outcome in your unit brief. If any Learning Outcome is not met in the delivered document, we rewrite that section at no extra cost under our revision policy. We stand behind the Learning Outcome alignment of every assignment we produce.
 
-**Can you do urgent CMI assignments - **
+**Can you do urgent CMI assignments?**
 Yes. a 48-hour express service is available for assignments up to approximately 2,500 words. For Level 5 assignments (3,000–5,000 words) and Level 7 papers (5,000–6,500 words), a 72–96 hour express turnaround is available where writer capacity allows. Message on WhatsApp with your deadline first - we confirm availability before taking your order.
 
-**Do you do CMI assignments for Level 7 - **
+**Do you do CMI assignments for Level 7?**
 Yes. Our writers include CMI Level 7 Diploma holders with strategic leadership, organisational development, and senior management experience. [View Level 7 assignment help](/cmi-level-7-assignment-help/) for full unit coverage.
 
-**Do I need to provide information about my workplace - **
+**Do I need to provide information about my workplace?**
 Only if your unit brief requires workplace context. Many CMI units ask you to apply theory to your own organisation or management experience. If so, share as much or as little as you are comfortable with via WhatsApp - a general description of your sector, team size, and the management situation the brief refers to is sufficient for most units. For students who prefer complete anonymity, we write using a generalised professional management context.
 
-**How do I know the assignment will be good enough to pass - **
+**How do I know the assignment will be good enough to pass?**
 Every assignment is written by a CMI-experienced writer to meet your unit's specific Assessment Criteria at pass standard or above. Harvard referencing, command verb compliance, and Learning Outcomes alignment are built in. They are not aspirational features, they are the production standard. If your assessor returns the work with feedback, we support resubmission at no extra charge for sections covered by our revision policy.
 
 ---

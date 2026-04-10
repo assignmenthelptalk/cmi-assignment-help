@@ -40,6 +40,11 @@ CMI assessment operates at three outcomes: Pass, Merit, and Distinction. Each re
 
 Our writers produce answers to the grade level you specify pass-level for an assured pass, merit or distinction level if you are targeting a higher outcome.
 
+<!-- CMI GRADE STANDARD COMPARISON: Place below the Pass/Merit/Distinction breakdown -->
+<!-- Components: Three-column visual showing Pass, Merit, Distinction. Each column: command verb depth, theory application, referencing standard, recommendation quality. -->
+<!-- Alt text: CMI assignment grade comparison: what Pass, Merit and Distinction look like in command verb depth and evidence -->
+
+
 ---
 
 ## How Our Writers Answer CMI Assignment Questions

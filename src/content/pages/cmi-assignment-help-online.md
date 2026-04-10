@@ -57,6 +57,11 @@ WhatsApp's features make it particularly effective for assignment support: files
 
 For deadline-driven students which describes the majority of CMI students. The speed and directness of WhatsApp communication reduces turnaround significantly compared to email-only services.
 
+<!-- ONLINE SERVICE PROCESS: Place below the WhatsApp channel description -->
+<!-- Components: 6-step visual showing the online order flow: 1. Message > 2. Quote > 3. Writer assigned > 4. Clarification channel > 5. Draft delivered > 6. Revisions. Each step with timing note. -->
+<!-- Alt text: CMI assignment help online process: from first WhatsApp message to submission-ready document in 6 steps -->
+
+
 ### Email Delivery for CMI Assignments
 
 Email is available as an alternative or supplementary delivery channel. Some students prefer to receive their completed assignment as an email attachment rather than a WhatsApp file, particularly for record-keeping or easy forwarding to their training provider's submission platform.

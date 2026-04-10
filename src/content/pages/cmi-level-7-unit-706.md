@@ -221,27 +221,27 @@ Message us on WhatsApp with your unit brief and deadline. We produce CMI 706 str
 
 ## FAQ
 
-**What is CMI Unit 706 - **
+**What is CMI Unit 706?\*\*
 
 CMI Unit 706 - Ethical Leadership - assesses how strategic leaders Critically Analyse ethical frameworks and apply them to leadership decisions, build and sustain an ethical organisational culture, and govern ethical practice through corporate governance and accountability mechanisms. Primary command verb: Critically Analyse. Key frameworks: consequentialism, deontology, virtue ethics, care ethics, moral disengagement (Bandura), ethical leadership (Brown et al.), organisational culture (Schein), whistleblowing, and the UK Corporate Governance Code.
 
-**What format does CMI 706 take - **
+**What format does CMI 706 take?\*\*
 
 Strategic paper, 5,000–6,000 words, 15–20 peer-reviewed sources with Harvard referencing. No prescribed structure beyond the assessment criteria sections (AC1, AC2, AC3), but requires a coherent analytical argument, not a framework-by-framework description.
 
-**What ethical theories are in CMI 706 - **
+**What ethical theories are in CMI 706?\*\*
 
 Consequentialism / utilitarianism (Mill, Bentham), deontological ethics (Kant - categorical imperative), virtue ethics (Aristotle, MacIntyre - phronesis), and care ethics (Gilligan, Noddings). At Level 7, these are Critically Analysed for their assumptions, contradictions, and practical limitations in strategic leadership decisions, not described as alternative views.
 
-**What is moral disengagement in CMI 706 - **
+**What is moral disengagement in CMI 706?\*\*
 
 Bandura's (1999) theory explaining the psychological mechanisms through which individuals and organisations with ethical commitments nonetheless engage in unethical behaviour: moral justification, euphemistic labelling, advantageous comparison, displacement of responsibility, and dehumanisation. Essential for AC2 - without it, there is no explanation for why organisations with sophisticated ethical frameworks fail ethically.
 
-**What does AC3 require in CMI 706 - **
+**What does AC3 require in CMI 706?\*\*
 
 Evaluate approaches to corporate governance and accountability - examining the UK Corporate Governance Code (2024), the Nolan Principles (public sector), principal-agent theory, board composition and independence, whistleblowing frameworks, and the conditions under which governance mechanisms produce genuine ethical accountability versus formal compliance. Reach a justified conclusion about the most effective governance approaches for your organisational context.
 
-**Can you help with CMI 706 resubmission - **
+**Can you help with CMI 706 resubmission?\*\*
 
 Yes. The most common resubmission gaps are: ethical theories described rather than Critically Analysed; moral disengagement absent from AC2; AC2 listing ethical leader behaviours without examining the mechanisms through which culture is built or destroyed; and AC3 describing governance frameworks rather than Evaluating their effectiveness. We identify what is missing and address it directly.
 

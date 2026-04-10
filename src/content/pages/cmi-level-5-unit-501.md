@@ -123,6 +123,7 @@ Goleman's Emotional Intelligence framework identifies five competencies of effec
 <!-- LEADERSHIP THEORIES COMPARISON GRAPHIC: Place between Key Theories section and Evaluate section -->
 <!-- Components: Visual comparison table or matrix: rows: Transformational, Transactional, Situational, Contingency | columns: Theoretical focus, Primary criteria for CMI 501 evaluation, Key limitation, Recommended use in 501 response -->
 <!-- Alt text: "CMI 501 leadership theories comparison: transformational, transactional, situational, and contingency leadership evaluated against criteria for Unit 501 Principles of Management and Leadership" -->
+
 ## How to Evaluate Leadership Theories in CMI 501: What the Command Verb Requires
 
 Evaluate is the primary command verb in CMI 501. It governs AC2 and AC3, and its correct application is the most significant differentiator between a Pass, a Merit, and a referral.

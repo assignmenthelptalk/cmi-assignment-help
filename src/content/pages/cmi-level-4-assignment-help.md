@@ -24,6 +24,11 @@ The key difference between Level 3 and Level 4 is not the management subject mat
 | CMI Level 4 Certificate in Management and Leadership | 3–4 units | 6,000–12,000 words total | 6–12 months |
 | CMI Level 4 Diploma in Management and Leadership | 6+ units | 14,000+ words total | 12–18 months |
 
+<!-- LEVEL 4 QUALIFICATION STRUCTURE: Place below qualification table -->
+<!-- Components: Three tiles showing Award, Certificate, Diploma with unit count, approximate word count, and typical study duration. -->
+<!-- Alt text: CMI Level 4 Award, Certificate and Diploma structure: units required, word count, and study duration -->
+
+
 The Award is the shortest route to a Level 4 credential. The Diploma is the most comprehensive and provides the broadest management foundation. Most students studying Level 4 as part of employer-funded CPD are on the Certificate or Diploma pathway.
 
 ---
@@ -121,7 +126,7 @@ Your assignment is matched to a writer with Level 4 or above CMI qualification e
 ## How Does CMI Level 4 Prepare You for Level 5
 Level 4 builds the analytical habits that Level 5 takes significantly further. At Level 4, students develop confidence with Analyse and Evaluate - applying them to team-level and departmental management contexts. At Level 5, those same command verbs are applied to strategic and organisational-level questions, with greater word count expectations (typically 3,000–4,000 words per unit) and a requirement to engage with more complex theoretical frameworks.
 
-The key transition between Level 4 and Level 5 is the shift from operational to strategic thinking. Level 4 asks: how does this manager handle this team or department situation- Level 5 asks: how does this organisation approach this strategic management challenge- The unit topics change, the depth of expected analysis increases, and the scope of evidence required expands from departmental to organisational.
+The key transition between Level 4 and Level 5 is the shift from operational to strategic thinking. Level 4 asks: how does this manager handle this team or department situation? Level 5 asks: how does this organisation approach this strategic management challenge? The unit topics change, the depth of expected analysis increases, and the scope of evidence required expands from departmental to organisational.
 
 Students who complete Level 4 with strong analytical writing - applying Analyse and Evaluate rigorously - are well-positioned for Level 5. Those who have produced descriptive Level 4 responses (accurately describing theory without applying Analyse) often find Level 5 a significant step.
 

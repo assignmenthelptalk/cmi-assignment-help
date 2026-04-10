@@ -21,6 +21,11 @@ For most CMI students, the challenge is not understanding the management content
 | CMI Certificate | 2–3 units | 6,000–10,500 words | Manager building a formal qualification foundation |
 | CMI Diploma | 6–13 units | 15,000–40,000+ words | Manager committed to a comprehensive, multi-unit qualification |
 
+<!-- CMI QUALIFICATION JOURNEY: Place below the coursework comparison table -->
+<!-- Components: Timeline visual showing Award to Certificate to Diploma progression, with unit counts and approximate study durations at each stage. -->
+<!-- Alt text: CMI qualification journey: Award to Certificate to Diploma, unit count and study duration at each stage -->
+
+
 The Diploma carries the most significant coursework load. A Level 5 Diploma student typically completes 6–8 units - approximately 18,000–30,000 words - over 12–24 months, alongside a full-time management role. A Level 7 Diploma student faces the same workload at a higher academic standard: 5,000–6,500 words per unit, Critically Analytical writing, and 15–20 peer-reviewed sources per submission.
 
 ---

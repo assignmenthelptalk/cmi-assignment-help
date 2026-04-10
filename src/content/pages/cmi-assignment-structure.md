@@ -37,6 +37,7 @@ The management report is assessed section by section. Missing or underdeveloped 
 <!-- CMI MANAGEMENT REPORT STRUCTURE INFOGRAPHIC: Place directly after management report H2 intro, before Title Page H3 -->
 <!-- Components: Vertical document stack showing all nine sections in order | Each section labelled with name, word count proportion, and one-line function description | Sections: Title Page, Executive Summary (250-300w), Table of Contents, Introduction (200-250w), Analysis Sections (55-65% of word count), Conclusion (200-300w), Recommendations (400-500w, min 3 SMART), Bibliography, Appendices | Executive Summary and Recommendations highlighted as the most commonly missing sections -->
 <!-- Alt text: "CMI management report structure: nine sections from title page to appendices, with word count proportions for a 4,000-word Level 5 management report" -->
+
 ### Title Page
 
 The title page carries the unit code and title, the student's name and registration number, the training provider's name, the submission date, and the word count. It occupies its own page. It does not count toward the word count. The training provider may supply a template cover sheet, so always check before creating a title page independently.
@@ -182,6 +183,7 @@ Free-form personal narrative, writing about what happened and what you think abo
 <!-- GIBBS REFLECTIVE CYCLE DIAGRAM: Place directly after reflective account H2 intro, before Stage 1 H3 -->
 <!-- Components: Circular or spiral diagram showing the six stages of Gibbs' Reflective Cycle | Stage labels: 1. Description (What happened-) | 2. Feelings (What were you thinking and feeling-) | 3. Evaluation (What was good and bad-) | 4. Analysis (What sense can you make of it-) | 5. Conclusion (What else could you have done-) | 6. Action Plan (If it arose again, what would you do-) | Each stage shows approximate word count contribution for a 2,500-word account | CMI unit 525 and professional development context noted below the diagram -->
 <!-- Alt text: "Gibbs Reflective Cycle applied to CMI reflective account: six stages from Description through to Action Plan, with word count guidance for a 2,500-word Level 5 reflective assignment" -->
+
 ### Stage 1: Description, 300 to 400 Words
 
 A factual account of the specific experience, event, or situation being reflected upon. What happened, who was involved, where and when it occurred, and what the immediate outcome was. First-person voice, past tense. No analysis, interpretation, or evaluation at this stage; description only.

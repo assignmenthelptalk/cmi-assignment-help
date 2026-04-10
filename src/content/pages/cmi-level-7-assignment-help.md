@@ -197,29 +197,29 @@ Whether you are completing Level 7 as part of a sponsored senior leadership deve
 Further reading:
 - [CMI Level 5 assignment help](/cmi-level-5-assignment-help/): the most popular applied management level
 - [CMI Level 6 assignment help](/cmi-level-6-assignment-help/): Professional Management and Leadership
-- [CMI Level 5 vs Level 7: which is right for you - ](/faq/cmi-level-5-vs-level-7/)
-- <span class="future-link">Is a CMI qualification worth it - </span>
+- [CMI Level 5 vs Level 7: which is right for you?](/faq/cmi-level-5-vs-level-7/)
+- <span class="future-link">Is a CMI qualification worth it?</span>
 
 ---
 
 ## FAQ: CMI Level 7 Assignment Help
 
-**What is CMI Level 7 - **
+**What is CMI Level 7?**
 CMI Level 7 is the Strategic Management and Leadership qualification - equivalent to Master's level on the UK National Qualifications Framework. It is the highest CMI credential, available as an Award, Certificate, or Diploma, and designed for senior leaders, directors, and executives responsible for strategic decision-making at an organisational or sector level.
 
-**How long are CMI Level 7 assignments - **
+**How long are CMI Level 7 assignments?**
 Typically 5,000–6,500 words per unit - the most demanding word count in the CMI framework. The CMI 712 Strategic Management Project and CMI 713 Applied Research unit extend to 8,000–12,000 words, requiring applied research methodology and comprehensive strategic analysis.
 
-**What makes Level 7 assignments different from Level 5 - **
+**What makes Level 7 assignments different from Level 5?**
 Five key differences: scope (organisational/strategic vs operational/team), format (strategic paper vs management report), command verbs (Critically Analyse vs Evaluate), academic sources (15–20 peer-reviewed vs 10–12 textbook sources), and the required perspective (strategic executive vs management practitioner). Level 7 is not Level 5 at a higher word count. It is a qualitatively different academic and professional undertaking.
 
-**Can you help with the CMI 712 Strategic Management Project - **
+**Can you help with the CMI 712 Strategic Management Project?**
 Yes. CMI 712 is one of our most complex and extensively supported Level 7 assignments. It requires applied strategic research methodology, original analysis of a strategic challenge or opportunity, and comprehensive strategic recommendations. Our Level 7 writers have specific experience with extended strategic research projects and understand what a distinction-standard 712 submission requires.
 
-**Do your writers have strategic leadership experience for Level 7 - **
+**Do your writers have strategic leadership experience for Level 7?**
 Yes. Level 7 assignments are matched exclusively to writers with strategic leader or director-level professional backgrounds and CMI Level 7 or equivalent postgraduate management qualifications (MBA, MSc Management). We do not assign Level 7 work to management practitioners - the strategic scope and Critically Analytical depth require writers who have operated at executive level.
 
-**How much does CMI Level 7 assignment help cost - **
+**How much does CMI Level 7 assignment help cost?**
 Level 7 is our highest-priced tier, reflecting the strategic complexity of the work and the credential requirement of the writers matched to it. Pricing varies by unit, word count, and turnaround. WhatsApp us with your unit code and assignment brief for a transparent, confirmed quote with no hidden fees.
 
 ---

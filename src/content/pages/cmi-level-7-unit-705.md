@@ -40,7 +40,7 @@ AC1 requires Critical Analysis of the major change leadership frameworks — Kot
 
 **AC1 — Critically analyse theoretical frameworks for leading strategic change**
 
-The assessor expects engagement with the empirical evidence base and the theoretical limitations of each major change framework — not application of Kotter's 8 steps or Lewin's freeze model to a change scenario. Which steps in Kotter's model have the strongest empirical support - Where does the model fail in complex, multi-stakeholder organisations - What does complexity theory say about the fundamental assumptions all planned change models share - These are the analytical questions AC1 requires.
+The assessor expects engagement with the empirical evidence base and the theoretical limitations of each major change framework — not application of Kotter's 8 steps or Lewin's freeze model to a change scenario. Which steps in Kotter's model have the strongest empirical support? Where does the model fail in complex, multi-stakeholder organisations? What does complexity theory say about the fundamental assumptions all planned change models share? These are the analytical questions AC1 requires.
 
 **AC2 — Critically analyse the strategic leader's role in managing resistance and building change capability**
 
@@ -83,7 +83,7 @@ John Kotter's (1996) 8-Step Change Model is the most widely cited change leaders
 
 At Level 5, students Evaluate Kotter. At Level 7, students Critically Analyse it.
 
-**Empirical evidence base:** Kotter's model is widely applied but weakly evidenced. It is derived from Kotter's observation of failed change programmes rather than from controlled empirical studies of successful ones. The "70% of change programmes fail" statistic Kotter cites has itself been challenged — Kotter (1995) cited it without primary data, and subsequent attempts to verify the figure have found no robust empirical basis (Hughes, 2011).
+**Empirical evidence base:** Kotter's model is widely applied but weakly evidenced. It is derived from Kotter's observation of failed change programmes rather than from controlled empirical studies of successful ones. The "70% of change programmes fail" statistic Kotter cites has itself been challenged — Kotter (1995) cited it without primary data, and subsequent attempts to verify the figure have found no solid empirical basis (Hughes, 2011).
 
 **Step-level critical analysis**
 
@@ -113,7 +113,7 @@ The ADKAR model (Prosci) addresses change at the individual level: Awareness (of
 
 **Critical Analysis at Level 7**
 
-ADKAR's individual focus is both its strength and its fundamental limitation for strategic-scale change analysis. It provides a granular diagnostic tool for understanding why individuals in an organisation are not changing — which of the five building blocks is the primary barrier - This is genuinely useful at the implementation level, where change programme managers need to diagnose and address individual adoption barriers.
+ADKAR's individual focus is both its strength and its fundamental limitation for strategic-scale change analysis. It provides a granular diagnostic tool for understanding why individuals in an organisation are not changing — which of the five building blocks is the primary barrier. This is genuinely useful at the implementation level, where change programme managers need to diagnose and address individual adoption barriers.
 
 Its limitation at strategic scale is that it treats organisational change as the aggregate of individual changes, missing the systemic, structural, and political dimensions that determine whether change succeeds at organisational level. A change programme in which every individual achieves ADKAR alignment can still fail if the structural systems, incentive structures, and power dynamics of the organisation remain misaligned with the desired new state (Kotter and Cohen, 2002). The model also provides limited guidance on the sequencing and interdependency of individual changes across large, complex organisations.
 
@@ -129,13 +129,13 @@ Ralph Stacey (1996, 2001) drew on complexity science to challenge the fundamenta
 
 Resistance to strategic change is not primarily a people problem. It is a systemic, political, and cultural phenomenon. At organisational scale, resistance manifests through:
 
-**Institutional inertia:** The structural systems, processes, incentive structures, and role designs that were optimised for the current state create momentum against change. People are not resisting the change because they prefer the old way — they are behaving rationally within a system that has not yet been redesigned to support the new way.
+Institutional inertia: The structural systems, processes, incentive structures, and role designs that were optimised for the current state create momentum against change. People are not resisting the change because they prefer the old way — they are behaving rationally within a system that has not yet been redesigned to support the new way.
 
-**Vested interests and political dynamics:** Strategic change produces winners and losers — those whose power, resources, and influence increase under the new structure, and those whose position is diminished. Political resistance from those who lose power is rational, not irrational, and cannot be addressed through communication or urgency-creation alone. It requires structural changes to the power distribution, which is the most politically sensitive dimension of any strategic transformation.
+Vested interests and political dynamics: Strategic change produces winners and losers — those whose power, resources, and influence increase under the new structure, and those whose position is diminished. Political resistance from those who lose power is rational, not irrational, and cannot be addressed through communication or urgency-creation alone. It requires structural changes to the power distribution, which is the most politically sensitive dimension of any strategic transformation.
 
-**Legitimate concerns:** Not all resistance to strategic change reflects self-interest or aversion to change. Some resistance reflects substantive concerns about whether the change will achieve its intended outcomes, whether unintended consequences have been adequately considered, or whether the change process itself is fair and transparent. At Level 7, the strategic leader's role is to distinguish legitimate concerns from political resistance and respond differently to each.
+Legitimate concerns: Not all resistance to strategic change reflects self-interest or aversion to change. Some resistance reflects substantive concerns about whether the change will achieve its intended outcomes, whether unintended consequences have been adequately considered, or whether the change process itself is fair and transparent. At Level 7, the strategic leader's role is to distinguish legitimate concerns from political resistance and respond differently to each.
 
-**Building change capability at organisational scale:** The strategic leader's role in AC2 goes beyond managing resistance to a specific change — it includes building the organisational capability to change repeatedly and effectively. This requires investment in change leadership skills across the organisation, participative design processes that build broader ownership of change, and the psychological safety conditions that allow people to surface concerns, experiment, and learn during the change process.
+Building change capability at organisational scale: The strategic leader's role in AC2 goes beyond managing resistance to a specific change — it includes building the organisational capability to change repeatedly and effectively. This requires investment in change leadership skills across the organisation, participative design processes that build broader ownership of change, and the psychological safety conditions that allow people to surface concerns, experiment, and learn during the change process.
 
 <!-- CHANGE MANAGEMENT FRAMEWORKS COMPARISON MATRIX — Place after resistance management section, before Critically Analyse command verb section -->
 <!-- Components: Comparison matrix — rows: Kotter 8-Step | Lewin Force Field/Freeze | ADKAR | Complexity Theory (Stacey). Columns: Level of analysis (individual/team/org/system) | Empirical evidence base (strong/moderate/limited) | Primary assumption challenged at L7 | Strategic application context. Header row in primary colour. Note: "CMI 705 AC1 requires Critical Analysis of each framework — not application." -->
@@ -166,7 +166,7 @@ The same five requirements from Units 701, 702, and 704 apply — but directed a
 2. **Apply peer-reviewed evidence** — not Kotter (1996) as a practitioner guide but the research that tests Kotter's claims (Hughes, 2011; Appelbaum et al., 2012)
 3. **Identify limitations** — the planned change assumption challenged by complexity theory; the refreezing metaphor challenged by continuous change contexts; ADKAR's individual focus inadequate for systemic change
 4. **Engage competing perspectives** — complexity theory vs planned change; emergent vs designed change; participative vs leader-driven transformation
-5. **Synthesise an original position** — which approach to strategic change leadership best serves the defined organisational context, and under what conditions do the alternatives retain validity - 
+5. **Synthesise an original position** — which approach to strategic change leadership best serves the defined organisational context, and under what conditions do the alternatives retain validity.
 
 <!-- CMI COMMAND VERB LADDER — Place below Critically Analyse explanation, above "What Does Not Count" H3 -->
 <!-- Components: Cognitive depth ladder — Identify â Describe â Explain â Discuss â Analyse â Evaluate â Critically Evaluate â Critically Analyse. Highlight "Critically Analyse" at apex. Use cmi-command-verb-ladder.svg as base. Callout: "CMI 705 AC1 and AC2 = Critically Analyse. AC3 = Evaluate. The same rule as CMI 701, 702, 704 — AC3 always uses Evaluate at Level 7." -->
@@ -259,7 +259,7 @@ CMI Level 5 Unit 512 applies Kotter and Lewin to an organisational change at Eva
 The core frameworks for AC1 are Kotter's 8-Step Model (1996), Lewin's Force Field Analysis and freeze model (1951), ADKAR (Prosci), and complexity theory (Stacey, 1996, 2001). AC2 draws on resistance theory, Kanter's change leadership roles, and Edmondson's psychological safety in change. AC3 draws on Weick and Sutcliffe's high reliability organisation framework and the conditions for cultural embedding of change (Schein).
 
 **What does Critically Analyse mean for change frameworks in CMI 705?**
-For each framework: examine its empirical evidence base (is Kotter empirically validated - ), identify the assumptions it makes about how organisations work (can planned change manage complexity - ), engage with the research that challenges those assumptions (Hughes on Kotter, Stacey on complexity), and synthesise a defended position on which approach best serves strategic change leadership in the defined organisational context.
+For each framework: examine its empirical evidence base (is Kotter empirically validated?), identify the assumptions it makes about how organisations work (can planned change manage complexity?), engage with the research that challenges those assumptions (Hughes on Kotter, Stacey on complexity), and synthesise a defended position on which approach best serves strategic change leadership in the defined organisational context.
 
 **What does AC3 require in CMI 705?**
 AC3 uses Evaluate — not Critically Analyse — and requires a thorough evaluation of how strategic change is sustained beyond initial implementation, and how the organisation builds adaptive resilience for future change. This includes structural alignment, cultural embedding (Schein), high reliability organisation principles (Weick and Sutcliffe), and the governance conditions that hold change accountable at board level.

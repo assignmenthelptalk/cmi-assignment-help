@@ -15,7 +15,7 @@ CMI Unit 705 — Leading Strategic Change is the fourth most-requested Level 7 u
 
 The critical distinction students must establish from the outset: CMI 705 is not CMI Level 5 Unit 512 at a higher word count. Unit 512 — Principles of Change Management — applies Kotter's 8-Step Model and Lewin's Force Field Analysis to an organisational or departmental change at Evaluate depth. CMI 705 Critically Analyses strategic change leadership at the scale of full organisational transformation — board-level governance of change, complexity theory challenges to planned change models, multi-year programme leadership, and building the organisational resilience that enables adaptive response to continuous change. The scope, command verb, source standard, and analytical depth are categorically different.
 
-Every CMI 705 assignment we deliver is written by a senior writer with direct experience leading or governing organisational-scale change — NHS transformation programmes, public sector restructuring, commercial change at executive level — where the gap between change theory and change practice is well understood.
+Every CMI 705 assignment we deliver is written by a senior writer with direct experience leading or governing organisational-scale change (NHS transformation programmes, public sector restructuring, commercial change at executive level) where the gap between change theory and change practice is well understood.
 
 <!-- UNIT INFO BADGE ROW — Place below H1 intro, above first H2 -->
 <!-- Components: "CMI Unit 705" badge | "Level 7 Diploma" badge | "Strategic Paper Format" badge | "5,000–6,000 Words" badge | "Critically Analyse" badge -->
@@ -48,7 +48,7 @@ Resistance to change is not a people problem to be managed away — it is a syst
 
 **AC3 — Evaluate approaches to sustaining strategic change and building organisational resilience**
 
-Note that AC3 uses Evaluate — not Critically Analyse. It requires a thorough evaluation of the conditions, governance structures, and leadership behaviours that make strategic change stick after the initial transformation, and that build the organisational capacity to absorb and adapt to future change. Organisational resilience is the emergent outcome — not a programme to implement but a capability to develop.
+Note that AC3 uses Evaluate — not Critically Analyse. It requires a thorough evaluation of the conditions, governance structures, and leadership behaviours that make strategic change stick after the initial transformation, and that build the organisational capacity to absorb and adapt to future change. Organisational resilience is the emergent outcome, not a programme to implement but a capability to develop.
 
 ---
 
@@ -56,7 +56,7 @@ Note that AC3 uses Evaluate — not Critically Analyse. It requires a thorough e
 
 **Word count:** 5,000–6,000 words per your training provider's specification.
 
-**Academic sources:** 15–20 peer-reviewed sources, drawn from organisational change, strategic leadership, and complexity theory journals — Journal of Change Management, Organization Science, Academy of Management Review, Leadership Quarterly, Journal of Applied Behavioral Science. Kotter (1996) is a practitioner text that should be cited alongside the empirical research that tests his claims — not as the primary theoretical authority on change.
+**Academic sources:** 15–20 peer-reviewed sources, drawn from organisational change, strategic leadership, and complexity theory journals: Journal of Change Management, Organization Science, Academy of Management Review, Leadership Quarterly, Journal of Applied Behavioral Science. Kotter (1996) is a practitioner text that should be cited alongside the empirical research that tests his claims, not as the primary theoretical authority on change.
 
 ### CMI 705 Strategic Paper — Section by Section
 
@@ -83,11 +83,11 @@ John Kotter's (1996) 8-Step Change Model is the most widely cited change leaders
 
 At Level 5, students Evaluate Kotter. At Level 7, students Critically Analyse it.
 
-**Empirical evidence base:** Kotter's model is widely applied but weakly evidenced. It is derived from Kotter's observation of failed change programmes rather than from controlled empirical studies of successful ones. The "70% of change programmes fail" statistic Kotter cites has itself been challenged — Kotter (1995) cited it without primary data, and subsequent attempts to verify the figure have found no solid empirical basis (Hughes, 2011).
+**Empirical evidence base:** Kotter's model is widely applied but weakly evidenced. It is derived from Kotter's observation of failed change programmes rather than from controlled empirical studies of successful ones. The "70% of change programmes fail" statistic Kotter cites has itself been challenged: Kotter (1995) cited it without primary data, and subsequent attempts to verify the figure have found no solid empirical basis (Hughes, 2011).
 
 **Step-level critical analysis**
 
-Step 1 (Establish urgency): Creating urgency is presented as a prerequisite for change, but research on crisis and urgency in organisations suggests that artificial urgency — manufactured rather than genuine — produces anxiety rather than mobilisation and can damage the psychological safety conditions required for the learning and adaptation that complex change requires (Edmondson, 2018).
+Step 1 (Establish urgency): Creating urgency is presented as a prerequisite for change, but research on crisis and urgency in organisations suggests that artificial urgency (manufactured rather than genuine) produces anxiety rather than mobilisation and can damage the psychological safety conditions required for the learning and adaptation that complex change requires (Edmondson, 2018).
 
 Steps 2–3 (Guiding coalition and vision): The model assumes that a small group of leaders can design and communicate a change vision that the broader organisation will adopt. Complexity theory (Stacey, 2001) challenges this assumption — in complex adaptive systems, change outcomes emerge from the interactions of many agents, not from the plans of a guiding coalition. Participative design approaches produce more durable change than top-down vision communication in organisations with high levels of professional expertise (NHS, education, professional services).
 
@@ -129,9 +129,9 @@ Ralph Stacey (1996, 2001) drew on complexity science to challenge the fundamenta
 
 Resistance to strategic change is not primarily a people problem. It is a systemic, political, and cultural phenomenon. At organisational scale, resistance manifests through:
 
-Institutional inertia: The structural systems, processes, incentive structures, and role designs that were optimised for the current state create momentum against change. People are not resisting the change because they prefer the old way — they are behaving rationally within a system that has not yet been redesigned to support the new way.
+Institutional inertia: The structural systems, processes, incentive structures, and role designs that were optimised for the current state create momentum against change. People are not resisting the change because they prefer the old way. They are behaving rationally within a system that has not yet been redesigned to support the new way.
 
-Vested interests and political dynamics: Strategic change produces winners and losers — those whose power, resources, and influence increase under the new structure, and those whose position is diminished. Political resistance from those who lose power is rational, not irrational, and cannot be addressed through communication or urgency-creation alone. It requires structural changes to the power distribution, which is the most politically sensitive dimension of any strategic transformation.
+Vested interests and political dynamics: Strategic change produces winners and losers: those whose power, resources, and influence increase under the new structure, and those whose position is diminished. Political resistance from those who lose power is rational, not irrational, and cannot be addressed through communication or urgency-creation alone. It requires structural changes to the power distribution, which is the most politically sensitive dimension of any strategic transformation.
 
 Legitimate concerns: Not all resistance to strategic change reflects self-interest or aversion to change. Some resistance reflects substantive concerns about whether the change will achieve its intended outcomes, whether unintended consequences have been adequately considered, or whether the change process itself is fair and transparent. At Level 7, the strategic leader's role is to distinguish legitimate concerns from political resistance and respond differently to each.
 
@@ -148,7 +148,7 @@ Building change capability at organisational scale: The strategic leader's role 
 - Structural alignment: systems, incentives, role designs, and governance structures reconfigured to support the new state rather than the old one
 - Cultural embedding: Schein's primary embedding mechanisms used deliberately to signal and reinforce the values and behaviours the new state requires
 - Leadership modelling: the strategic leader visibly and consistently embodying the changed behaviours, particularly when under pressure to revert
-- Short-term wins acknowledged and celebrated: Kotter's step 6 has strong empirical support — celebrating early successes sustains motivation and reinforces the credibility of the change programme
+- Short-term wins acknowledged and celebrated: Kotter's step 6 has strong empirical support: celebrating early successes sustains motivation and reinforces the credibility of the change programme
 
 **Organisational resilience — Weick and Sutcliffe**
 
@@ -199,7 +199,7 @@ Resistance managed through communication plans and engagement strategies rather 
 The most significant theoretical challenge to planned change models is absent from AC1. Without complexity theory, the Critical Analysis of change frameworks remains within the planned change paradigm rather than challenging its foundations.
 
 **5. AC3 underdeveloped**
-Sustaining change receives one or two paragraphs after AC1 and AC2 consume the word count. Organisational resilience — Weick and Sutcliffe, HRO principles, adaptive capacity — requires full Evaluate treatment.
+Sustaining change receives one or two paragraphs after AC1 and AC2 consume the word count. Organisational resilience (Weick and Sutcliffe, HRO principles, adaptive capacity) requires full Evaluate treatment.
 
 ---
 
@@ -208,7 +208,7 @@ At **Merit**, all three Assessment Criteria are addressed at the correct depth. 
 
 At **Distinction**, the response adds:
 
-- **Integrates complexity theory into AC2** — if change in complex systems is emergent rather than planned (Stacey), the strategic leader's role in managing resistance and building change capability must shift from designing and implementing to facilitating and enabling. The Distinction response examines what this shift requires of the strategic leader — epistemic humility, participative design, sense-making investment — and defends it against the planned change alternative
+- **Integrates complexity theory into AC2** — if change in complex systems is emergent rather than planned (Stacey), the strategic leader's role in managing resistance and building change capability must shift from designing and implementing to facilitating and enabling. The Distinction response examines what this shift requires of the strategic leader (epistemic humility, participative design, sense-making investment) and defends it against the planned change alternative
 - **Connects AC1 to AC3 analytically** — the limitation of Lewin's refreezing concept (AC1) directly informs the evaluation of how change is sustained (AC3). If refreezing is a misapplication of Lewin's intent and stability is an illusion in complex organisations, then sustaining change is better conceptualised as building adaptive capacity (Weick) than as anchoring a fixed new state (Kotter Step 8)
 - **Engages the wellbeing dimension** — at NHS and public sector scale, the human cost of sustained strategic change — change fatigue, burnout, moral injury in clinical and professional staff — is a legitimate governance concern at board level. The Distinction response acknowledges this dimension and evaluates what the strategic leader's responsibility is for the wellbeing impact of transformational change
 - **Synthesises a defended change leadership approach** — produces a specific, argued position on which combination of change theory and change leadership practice best serves the defined organisational context under the specific conditions of complexity and resistance identified in AC1 and AC2
@@ -219,7 +219,7 @@ At **Distinction**, the response adds:
 
 **Full CMI 705 writing service** — A complete strategic paper: change frameworks Critically Analysed (AC1), resistance management and change capability at strategic scale Critically Analysed (AC2), sustaining change and organisational resilience Evaluated (AC3). 15–20 peer-reviewed sources. Board-level strategic recommendations. [View CMI assignment writing service](/cmi-assignment-writing-service/)
 
-**CMI 705 tutoring** — We plan your strategic paper structure, guide your Critical Analysis approach for AC1 and AC2 — specifically helping you engage complexity theory and the limitations of Kotter — and provide feedback on your draft. [View CMI assignment tutoring](/cmi-assignment-tutoring/)
+**CMI 705 tutoring** — We plan your strategic paper structure, guide your Critical Analysis approach for AC1 and AC2, specifically helping you engage complexity theory and the limitations of Kotter, and provide feedback on your draft. [View CMI assignment tutoring](/cmi-assignment-tutoring/)
 
 **CMI 705 resubmission support** — We review your assessor feedback, identify where Kotter was applied rather than Critically Analysed and where AC3 was underdeveloped, and rewrite to Level 7 standard. WhatsApp your submission and feedback.
 
@@ -233,7 +233,7 @@ At **Distinction**, the response adds:
 
 **[CMI 704 — Developing Organisational Strategy](/cmi-level-7/unit-704-developing-organisational-strategy/)** — the strategic direction developed in 704 is implemented through the change leadership examined in 705. The two units form the strategy development (704) and strategy execution (705) pair of the Level 7 Diploma.
 
-**[CMI 702 — Leading and Developing People](/cmi-level-7/unit-702-leading-developing-people/)** — building the organisational capability for change (702 — learning organisation, HPWS, psychological safety) is a prerequisite for effective strategic change leadership (705). The double-loop learning conditions created in 702 are the cultural foundation on which change in 705 succeeds or fails.
+**[CMI 702 — Leading and Developing People](/cmi-level-7/unit-702-leading-developing-people/)** — building the organisational capability for change (702: learning organisation, HPWS, psychological safety) is a prerequisite for effective strategic change leadership (705). The double-loop learning conditions created in 702 are the cultural foundation on which change in 705 succeeds or fails.
 
 Return to the full unit list: [CMI Level 7 Assignment Help — All 17 Units](/cmi-level-7-assignment-help/)
 
@@ -262,7 +262,7 @@ The core frameworks for AC1 are Kotter's 8-Step Model (1996), Lewin's Force Fiel
 For each framework: examine its empirical evidence base (is Kotter empirically validated?), identify the assumptions it makes about how organisations work (can planned change manage complexity?), engage with the research that challenges those assumptions (Hughes on Kotter, Stacey on complexity), and synthesise a defended position on which approach best serves strategic change leadership in the defined organisational context.
 
 **What does AC3 require in CMI 705?**
-AC3 uses Evaluate — not Critically Analyse — and requires a thorough evaluation of how strategic change is sustained beyond initial implementation, and how the organisation builds adaptive resilience for future change. This includes structural alignment, cultural embedding (Schein), high reliability organisation principles (Weick and Sutcliffe), and the governance conditions that hold change accountable at board level.
+AC3 uses Evaluate, not Critically Analyse, and requires a thorough evaluation of how strategic change is sustained beyond initial implementation, and how the organisation builds adaptive resilience for future change. This includes structural alignment, cultural embedding (Schein), high reliability organisation principles (Weick and Sutcliffe), and the governance conditions that hold change accountable at board level.
 
 **Can you help with a CMI 705 resubmission?**
 Yes. The most common CMI 705 referral causes are Kotter applied as a framework to follow rather than Critically Analysed as a model with limitations, absence of complexity theory in AC1, resistance framed as a communication problem rather than a systemic and political phenomenon, and AC3 underdeveloped. We review your assessor feedback and rewrite only the sections that need to change.

@@ -63,9 +63,9 @@ Send your unit brief, word count, and deadline for an immediate response.
 
 CMI Unit 309 — Leading Equality, Diversity and Inclusion is a legal and behavioural competence unit that develops a first-line manager's understanding of the UK statutory framework for equality, the practical responsibilities that framework places on managers, and the methods available for creating and sustaining an inclusive team environment. The unit does not require expertise in employment law litigation. It requires a working knowledge of the Equality Act 2010, the nine protected characteristics, the types of prohibited conduct, and the manager's role in translating legal obligation into daily management practice.
 
-The three Assessment Criteria create a logical structure. AC1 covers the legislative foundation — what the law requires and what organisational policy typically adds on top. AC2 covers the first-line manager's specific responsibilities — what they must do to create an inclusive environment, within the scope of their role. AC3 covers the practical methods for promoting equality and diversity — training, inclusive communication, reasonable adjustments, and creating psychological safety.
+The three Assessment Criteria create a logical structure. AC1 covers the legislative foundation: what the law requires and what organisational policy typically adds on top. AC2 covers the first-line manager's specific responsibilities: what they must do to create an inclusive environment, within the scope of their role. AC3 covers the practical methods for promoting equality and diversity: training, inclusive communication, reasonable adjustments, and creating psychological safety.
 
-At [CMI Level 3](/cmi-level-3-assignment-help/), command verbs are Identify, Describe, and Explain. The assignment requires the student to demonstrate a sound working knowledge of the legal and professional requirements — naming specific provisions of the Equality Act, not just asserting that equality matters. Specificity distinguishes a compliant response from a general statement.
+At [CMI Level 3](/cmi-level-3-assignment-help/), command verbs are Identify, Describe, and Explain. The assignment requires the student to demonstrate a sound working knowledge of the legal and professional requirements, naming specific provisions of the Equality Act, not just asserting that equality matters. Specificity distinguishes a compliant response from a general statement.
 
 ### Assessment Criteria: What the Assessor Is Marking
 
@@ -97,15 +97,15 @@ Apply the Equality Act throughout AC1 to provide the legal grounding for the ent
 
 The nine protected characteristics defined in Section 4 of the Equality Act 2010 are: age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation. Each characteristic is defined in detail in the Act, with specific provisions that vary by characteristic. Marriage and civil partnership protection, for example, applies only in the employment context. Pregnancy and maternity protection applies from the point of notification of pregnancy and for a period defined by maternity leave legislation.
 
-Apply this in AC1 by identifying all nine characteristics with their correct legal terminology, and noting where specific provisions differ between characteristics. The assessor is looking for legal accuracy — not a general statement that "people come from different backgrounds."
+Apply this in AC1 by identifying all nine characteristics with their correct legal terminology, and noting where specific provisions differ between characteristics. The assessor is looking for legal accuracy, not a general statement that "people come from different backgrounds."
 
 ### Equality, Equity, and Inclusion: The Distinction
 
-Equality provides the same resources, opportunities, or treatment to all individuals regardless of their circumstances. Equity provides resources or adjustments proportionate to individual need — recognising that individuals start from different positions and that identical treatment can produce unequal outcomes. Inclusion is the practice of ensuring that all individuals feel valued, respected, and able to contribute fully, regardless of protected characteristic.
+Equality provides the same resources, opportunities, or treatment to all individuals regardless of their circumstances. Equity provides resources or adjustments proportionate to individual need, recognising that individuals start from different positions and that identical treatment can produce unequal outcomes. Inclusion is the practice of ensuring that all individuals feel valued, respected, and able to contribute fully, regardless of protected characteristic.
 
 This distinction is critical for AC2 and AC3. A first-line manager who provides identical access to development opportunities to all team members may be meeting the equality standard while failing on equity: a team member with a disability who cannot access a physical training venue has not received equitable provision. A manager who provides the same feedback in the same format to all team members may be meeting equality while undermining inclusion for team members who process feedback differently.
 
-Include this distinction in AC2 when describing manager responsibilities — the responsibility is not simply to treat everyone the same. It is to ensure that treatment is fair, that adjustments are made where needed, and that all team members can participate fully in team life.
+Include this distinction in AC2 when describing manager responsibilities: the responsibility is not simply to treat everyone the same. It is to ensure that treatment is fair, that adjustments are made where needed, and that all team members can participate fully in team life.
 
 ### Inclusive Management Behaviours
 
@@ -119,7 +119,7 @@ Apply these in AC2 as specific, named behaviours, connected to the legal framewo
 
 **Identify** requires the student to name the legal and organisational requirements with accuracy. Saying "the Equality Act protects people from discrimination" is not sufficient. An identification names the Act, the year, the four types of prohibited conduct, and all nine protected characteristics by their correct legal terms.
 
-**Describe** in AC2 requires the student to set out what a first-line manager's responsibilities look like in practice — the actual behaviours, the actual obligations, connected to the legal framework. A description that lists manager responsibilities without connecting them to specific provisions of the Equality Act (Section 20 reasonable adjustments, prohibited conduct definitions) lacks the legal grounding the assessor expects.
+**Describe** in AC2 requires the student to set out what a first-line manager's responsibilities look like in practice: the actual behaviours, the actual obligations, connected to the legal framework. A description that lists manager responsibilities without connecting them to specific provisions of the Equality Act (Section 20 reasonable adjustments, prohibited conduct definitions) lacks the legal grounding the assessor expects.
 
 **Explain** in AC3 requires the student to articulate not just what the promotion methods are, but why they work. Stating that "challenging discriminatory behaviour promotes equality" is an assertion. An Explanation sets out the mechanism: challenging discriminatory behaviour immediately signals to all team members that discriminatory conduct has consequences, reinforces the standard of treatment the manager expects, and prevents normalisation of language or behaviour that could constitute harassment under the Act.
 
@@ -164,7 +164,7 @@ CMI Unit 309 — Leading Equality, Diversity and Inclusion is a Level 3 First Li
 The nine protected characteristics defined in Section 4 of the Equality Act 2010 are: age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation. Each is defined in the Act with specific provisions. CMI 309 requires students to name all nine accurately, using the correct legal terminology.
 
 **What is the difference between equality and equity?**
-Equality provides the same resources or treatment to all individuals. Equity provides resources or adjustments proportionate to individual need, recognising that individuals start from different positions. In a management context, providing identical training to all team members meets the equality standard but may fail the equity standard if some members cannot access the training without adjustments — such as a team member with a disability requiring a different format.
+Equality provides the same resources or treatment to all individuals. Equity provides resources or adjustments proportionate to individual need, recognising that individuals start from different positions. In a management context, providing identical training to all team members meets the equality standard but may fail the equity standard if some members cannot access the training without adjustments, such as a team member with a disability requiring a different format.
 
 **What are a first-line manager's responsibilities for EDI?**
 A first-line manager's EDI responsibilities include: applying consistent and fair treatment in task allocation and development opportunities, making reasonable adjustments under Section 20 of the Equality Act for disabled team members, challenging discriminatory language and behaviour promptly, completing mandatory EDI training, and creating a team environment in which team members feel safe to raise concerns or disclose protected characteristics.

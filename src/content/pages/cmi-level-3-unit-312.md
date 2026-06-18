@@ -63,9 +63,9 @@ Send your unit brief, word count, and deadline for an immediate response.
 
 CMI Unit 312 — Managing Daily Activities to Achieve Results is an operational management unit that addresses the core daily responsibilities of a first-line manager: organising work, allocating people and resources efficiently, and keeping track of whether the team is hitting its targets. The unit operates at the level of day-to-day management practice — shift planning, task assignment, performance monitoring, exception reporting — rather than strategic planning or long-term change management.
 
-The three Assessment Criteria follow a logical operational sequence. AC1 covers how the manager plans and prioritises the workload — what comes first and why. AC2 covers how resources are allocated to operational tasks — who does what, with what equipment and time, within what budget. AC3 covers how team performance is monitored against the operational targets that the allocation is designed to achieve.
+The three Assessment Criteria follow a logical operational sequence. AC1 covers how the manager plans and prioritises the workload: what comes first and why. AC2 covers how resources are allocated to operational tasks: who does what, with what equipment and time, within what budget. AC3 covers how team performance is monitored against the operational targets that the allocation is designed to achieve.
 
-At [CMI Level 3](/cmi-level-3-assignment-help/), the command verbs Identify, Describe, and Explain set the standard. The assignment requires named frameworks applied to a real or realistic management context — not theoretical discussion in the abstract. A first-line manager writing about how they prioritise their team's daily workload, allocate resources, and monitor performance against shift targets is demonstrating precisely the competence the unit is designed to assess.
+At [CMI Level 3](/cmi-level-3-assignment-help/), the command verbs Identify, Describe, and Explain set the standard. The assignment requires named frameworks applied to a real or realistic management context, not theoretical discussion in the abstract. A first-line manager writing about how they prioritise their team's daily workload, allocate resources, and monitor performance against shift targets is demonstrating precisely the competence the unit is designed to assess.
 
 ### Assessment Criteria: What the Assessor Is Marking
 
@@ -79,7 +79,7 @@ This criterion requires a description of how a first-line manager allocates the 
 
 **AC3: Explain how to monitor team performance against operational targets**
 
-This criterion requires an Explanation of how a manager tracks whether the team is hitting its operational targets — and what they do when it is not. KPIs, daily briefings, exception reporting, and direct observation are the primary monitoring tools at first-line management level. The Explanation must cover both the monitoring mechanism and the corrective action trigger — when does the manager intervene, and what does intervention look like?
+This criterion requires an Explanation of how a manager tracks whether the team is hitting its operational targets — and what they do when it is not. KPIs, daily briefings, exception reporting, and direct observation are the primary monitoring tools at first-line management level. The Explanation must cover both the monitoring mechanism and the corrective action trigger: when does the manager intervene, and what does intervention look like?
 
 ---
 
@@ -91,25 +91,25 @@ The Eisenhower Matrix — named after President Dwight D. Eisenhower and popular
 
 **Quadrant 1 — Urgent and Important**: Do immediately. These tasks have both a time pressure and a significant consequence if not completed. Examples: a safety incident requiring immediate response, a system failure affecting operations, a deadline that is today.
 
-**Quadrant 2 — Important but Not Urgent**: Schedule deliberately. These tasks contribute most to long-term performance but have no immediate deadline — development conversations with team members, process improvement, planning and preparation. Covey's insight is that first-line managers who spend all their time in Quadrant 1 do so because they have never protected time for Quadrant 2. Neglected Quadrant 2 tasks become Quadrant 1 crises.
+**Quadrant 2 — Important but Not Urgent**: Schedule deliberately. These tasks contribute most to long-term performance but have no immediate deadline: development conversations with team members, process improvement, planning and preparation. Covey's insight is that first-line managers who spend all their time in Quadrant 1 do so because they have never protected time for Quadrant 2. Neglected Quadrant 2 tasks become Quadrant 1 crises.
 
 **Quadrant 3 — Urgent but Not Important**: Delegate. These tasks have a time pressure but do not require the manager's personal attention. A phone call that interrupts a planned activity, an administrative task that a team member can handle, an approval that can be processed by a team lead.
 
 **Quadrant 4 — Neither Urgent nor Important**: Eliminate or defer. These tasks consume time without contributing to operational objectives.
 
-Apply this in AC1 by describing how a first-line manager uses the matrix to structure daily workload decisions — and by acknowledging the practical constraint that urgent-and-important crises cannot always be anticipated, which is why Quadrant 2 planning is essential to preventing them.
+Apply this in AC1 by describing how a first-line manager uses the matrix to structure daily workload decisions, and by acknowledging the practical constraint that urgent-and-important crises cannot always be anticipated, which is why Quadrant 2 planning is essential to preventing them.
 
 ### Resource Allocation Principles
 
 Resource allocation is the process by which a first-line manager assigns the resources available to them — people, equipment, time, and financial resource — to the tasks and activities that must be completed to meet operational objectives.
 
-**People allocation** requires matching the capability of the individual to the requirement of the task. A qualified team member is not a substitute for a differently qualified one — a clinical manager allocating staff in an NHS ward must match registration, competency, and experience to the patient dependency requirements of each shift. A production manager allocating operatives must match the trained capability to the technical requirement of the machine or process.
+**People allocation** requires matching the capability of the individual to the requirement of the task. A qualified team member is not a substitute for a differently qualified one. A clinical manager allocating staff in an NHS ward must match registration, competency, and experience to the patient dependency requirements of each shift. A production manager allocating operatives must match the trained capability to the technical requirement of the machine or process.
 
 **Equipment allocation** requires ensuring that the right tools, machinery, or materials are available at the right time. Equipment unavailability — through maintenance downtime, inadequate stock, or scheduling conflicts — is one of the most common causes of operational underperformance. A first-line manager who plans equipment availability as part of daily operational preparation reduces reactive disruption.
 
 **Time allocation** requires protecting planned activity from unplanned interruption. The Eisenhower Matrix provides the prioritisation logic; time blocking — scheduling specific times for specific tasks and protecting those blocks from lower-priority demands — is the implementation mechanism. A first-line manager who does not protect time for important, non-urgent activities (team development conversations, process review, planning) will always be reactive.
 
-**Financial allocation** requires a manager to operate within their delegated authority limits — not committing expenditure they are not authorised to approve, not over-ordering resources that create inventory cost or waste, and flagging adverse budget variances before they escalate.
+**Financial allocation** requires a manager to operate within their delegated authority limits, not committing expenditure they are not authorised to approve, not over-ordering resources that create inventory cost or waste, and flagging adverse budget variances before they escalate.
 
 ### Performance Monitoring Tools
 
@@ -119,9 +119,9 @@ Performance monitoring at first-line management level operates through three pri
 
 **Daily team briefing** is a short, structured meeting — typically 10–15 minutes, held at the start of the shift or working day — in which the manager aligns the team on priorities, identifies any resource issues or information updates, and creates a brief window for team members to raise concerns. The daily briefing is both a communication tool and a performance monitoring mechanism: it surfaces issues before they affect operational output.
 
-**Exception reporting** is the process of flagging when actual performance deviates from target by a defined threshold — either upward (performance is unexpectedly exceeding target, raising questions about capacity planning) or downward (performance is below target, requiring investigation and corrective action). Exception reporting concentrates management attention on deviations rather than routine performance, which is appropriate for a first-line manager who has limited time.
+**Exception reporting** is the process of flagging when actual performance deviates from target by a defined threshold: either upward (performance is unexpectedly exceeding target, raising questions about capacity planning) or downward (performance is below target, requiring investigation and corrective action). Exception reporting concentrates management attention on deviations rather than routine performance, which is appropriate for a first-line manager who has limited time.
 
-Apply performance monitoring in AC3 by describing all three mechanisms, explaining how they connect to the operational targets the team is working towards, and setting out what happens when monitoring reveals a shortfall — the corrective action cycle that constitutes performance management at the first-line level.
+Apply performance monitoring in AC3 by describing all three mechanisms, explaining how they connect to the operational targets the team is working towards, and setting out what happens when monitoring reveals a shortfall: the corrective action cycle that constitutes performance management at the first-line level.
 
 ### Delegation
 

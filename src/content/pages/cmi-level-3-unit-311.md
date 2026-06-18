@@ -63,7 +63,7 @@ Send your unit brief, word count, and deadline for an immediate response.
 
 CMI Unit 311 — Contributing to the Delivery of a Project is a project management unit at first-line management level. It develops a manager's understanding of the components that constitute a project plan, the mechanisms used to track and control progress, the role of stakeholders in project delivery, and the process for managing the risks and issues that arise during a project. The framing of the unit is deliberate: "contributing to the delivery" positions the student as a participant in a project — a team leader or departmental manager involved in a project — rather than assuming they hold the role of overall project manager or programme director.
 
-The unit has four Assessment Criteria, which is more than most Level 3 units. AC1 covers the structural components of a project plan. AC2 covers monitoring and control — how a manager tracks whether the project is on course. AC3 and AC4 both use Explain, covering stakeholder engagement and risk management respectively.
+The unit has four Assessment Criteria, which is more than most Level 3 units. AC1 covers the structural components of a project plan. AC2 covers monitoring and control: how a manager tracks whether the project is on course. AC3 and AC4 both use Explain, covering stakeholder engagement and risk management respectively.
 
 At [CMI Level 3](/cmi-level-3-assignment-help/), the academic standard requires named frameworks applied to a real or realistic project context. SMART objectives (Doran, 1981), the Gantt chart, and a basic risk register with a likelihood-impact assessment are the standard tools at this level. The assignment does not require mastery of PRINCE2 or Agile methodologies — those are covered at higher qualification levels.
 
@@ -85,7 +85,7 @@ This criterion requires an Explanation of how stakeholders — the individuals o
 
 **AC4: Explain how to manage risks and issues within a project**
 
-This criterion requires an Explanation of the risk management process: identifying risks before they materialise, assessing their likelihood and potential impact, assigning a risk owner, planning mitigation actions, and escalating risks that materialise into issues. The distinction between a risk (something that might happen) and an issue (something that has happened) is important — the management response differs.
+This criterion requires an Explanation of the risk management process: identifying risks before they materialise, assessing their likelihood and potential impact, assigning a risk owner, planning mitigation actions, and escalating risks that materialise into issues. The distinction between a risk (something that might happen) and an issue (something that has happened) is important: the management response differs.
 
 ---
 
@@ -131,7 +131,7 @@ Apply risk management in AC4 by describing the full risk management cycle: ident
 
 ### Stakeholder Engagement
 
-Stakeholders in a project are the individuals, teams, or external organisations that have an interest in the project's outcome — either because they are affected by it, because they contribute resources to it, or because they have authority over it. Stakeholder engagement is the ongoing process of identifying stakeholders, understanding their interests and concerns, and communicating with them in a way that maintains their support (or manages their opposition) throughout the project.
+Stakeholders in a project are the individuals, teams, or external organisations that have an interest in the project's outcome: either because they are affected by it, because they contribute resources to it, or because they have authority over it. Stakeholder engagement is the ongoing process of identifying stakeholders, understanding their interests and concerns, and communicating with them in a way that maintains their support (or manages their opposition) throughout the project.
 
 A simple stakeholder map identifies stakeholders on two dimensions: their level of interest in the project outcome, and their level of influence over the project. High-influence, high-interest stakeholders require close engagement — regular communication, involvement in key decisions, and proactive management of their concerns. High-influence, low-interest stakeholders need to be kept satisfied without being overwhelmed with detail. Low-influence, high-interest stakeholders should be kept informed. Low-influence, low-interest stakeholders require minimal engagement.
 

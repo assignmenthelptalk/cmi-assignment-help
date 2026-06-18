@@ -49,7 +49,7 @@ Send your unit brief, assignment question, and deadline for an immediate respons
 
 CMI Unit 605 — Innovation and Change requires senior managers to analyse innovation strategy and transformational change leadership as strategic disciplines. The unit is not concerned with incremental operational improvement or project-level change management. It examines how organisations create the conditions for innovation at scale, how senior leaders develop the competencies to lead transformational change that alters the organisation's fundamental business model or operating structure, and how innovation cultures are embedded and sustained against the resistance that disruption inevitably generates.
 
-The typical CMI 605 student is a senior manager, director, or NHS transformation lead responsible for driving organisational change that extends beyond their own function. They may be leading a digital transformation, a service redesign, or an organisational restructuring. Unit 605 asks them to examine the theoretical frameworks that describe innovation and change at critical depth — not to apply them uncritically, but to understand their assumptions and limitations before deploying them.
+The typical CMI 605 student is a senior manager, director, or NHS transformation lead responsible for driving organisational change that extends beyond their own function. They may be leading a digital transformation, a service redesign, or an organisational restructuring. Unit 605 asks them to examine the theoretical frameworks that describe innovation and change at critical depth, not to apply them uncritically, but to understand their assumptions and limitations before deploying them.
 
 The unit is assessed against three Assessment Criteria:
 

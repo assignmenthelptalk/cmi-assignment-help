@@ -107,7 +107,7 @@ Kotter and Schlesinger's 1979 Harvard Business Review article "Choosing Strategi
 
 The six management strategies are: education and communication (addressing misunderstanding and lack of trust), participation and involvement (drawing resisters into the planning process — they are less likely to resist a change they helped design), facilitation and support (coaching, counselling, training — appropriate for individuals who are anxious rather than opposed), negotiation and agreement (offering incentives or concessions — appropriate when resisters have clear self-interest concerns), manipulation and cooptation (used with caution — co-opting a resistant voice into a leadership role in the change), and explicit or implicit coercion (last resort — use only when speed is essential and the change is non-negotiable).
 
-For a first-line manager at Level 3, the practically available strategies are education and communication, participation and involvement, and facilitation and support. Negotiation is sometimes within a first-line manager's remit — adjusting shift patterns, work allocation, or task design in response to concerns. Coercion is not an appropriate first-line strategy. The Explanation in AC3 must be realistic about the manager's authority level.
+For a first-line manager at Level 3, the practically available strategies are education and communication, participation and involvement, and facilitation and support. Negotiation is sometimes within a first-line manager's remit, adjusting shift patterns, work allocation, or task design in response to concerns. Coercion is not an appropriate first-line strategy. The Explanation in AC3 must be realistic about the manager's authority level.
 
 ---
 
@@ -127,7 +127,7 @@ CMI Unit 308 introduces the foundational vocabulary of change management — dri
 
 At [CMI Level 4](/cmi-level-4-assignment-help/), Unit 410 (Managing Change) requires students to Analyse the change process — examining why a particular change approach was chosen, what assumptions it rests on, and how those assumptions hold up against alternative frameworks. At [CMI Level 5](/cmi-level-5-assignment-help/), Unit 512 uses Evaluate — requiring criteria to be established before the theory is applied, and a defended conclusion about which change approach is most effective for a specific organisational context.
 
-The practical implication: a CMI 308 student who understands Lewin's model clearly and can Explain the causes of resistance accurately is building the foundation that Level 4 and Level 5 change management units extend. Unit 308 is not a simpler version of Level 5 change management — it is a coherent and complete treatment of first-line change management competence at the appropriate academic level.
+The practical implication: a CMI 308 student who understands Lewin's model clearly and can Explain the causes of resistance accurately is building the foundation that Level 4 and Level 5 change management units extend. Unit 308 is not a simpler version of Level 5 change management. It is a coherent and complete treatment of first-line change management competence at the appropriate academic level.
 
 ---
 

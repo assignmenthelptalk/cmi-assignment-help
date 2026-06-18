@@ -99,7 +99,7 @@ The core vocabulary of budget management at operational level includes: **Budget
 
 Organisations use different budget types depending on their sector, size, and financial management approach. A **fixed budget** is set for a defined period and does not adjust when activity levels change — common in public sector organisations where the budget allocation is determined in advance by central government or a commissioning body. A **flexible budget** adjusts based on actual activity levels — more common in commercial environments where revenue and cost both vary with volume. An **incremental budget** starts from the previous period's budget and adjusts by a percentage (typically inflation or a fixed uplift) — the most common budget type in public sector organisations, though it is criticised for embedding historical inefficiencies. A **zero-based budget** requires every line of expenditure to be justified from scratch, regardless of previous spend — used selectively to challenge spending assumptions, but resource-intensive to produce.
 
-A first-line manager is unlikely to choose which budget type their organisation uses. The value of understanding budget types is that it explains why the budget they are given looks the way it does — and why an adverse variance in a fixed budget has different implications from an adverse variance in a flexible budget.
+A first-line manager is unlikely to choose which budget type their organisation uses. The value of understanding budget types is that it explains why the budget they are given looks the way it does, and why an adverse variance in a fixed budget has different implications from an adverse variance in a flexible budget.
 
 ### The Budget Cycle
 
@@ -131,7 +131,7 @@ CMI Unit 310 at Level 3 covers financial awareness — the vocabulary, the proce
 
 At [CMI Level 4](/cmi-level-4-assignment-help/), Unit 404 (Planning, Managing and Monitoring Budgets) requires the manager to move beyond awareness into active management — analysing variance reports, evaluating budget performance against operational objectives, and developing plans for managing within tight financial constraints. The Analyse command verb requires the student to examine cause and effect in financial performance, not simply to identify what a variance is.
 
-At CMI Level 6, Unit 606 (Finance for Strategic Leaders) extends this into strategic financial decision-making: capital allocation, investment appraisal, financial risk management, and the interpretation of organisational financial statements. The trajectory from Unit 310 to Level 6 is a progression from financial literacy to financial strategy — each level building directly on the foundation established at the level below.
+At CMI Level 6, Unit 606 (Finance for Strategic Leaders) extends this into strategic financial decision-making: capital allocation, investment appraisal, financial risk management, and the interpretation of organisational financial statements. The trajectory from Unit 310 to Level 6 is a progression from financial literacy to financial strategy, with each level building directly on the foundation established at the level below.
 
 ---
 
@@ -160,7 +160,7 @@ CMI Unit 310 — Understanding Finance in the Workplace is a Level 3 First Line 
 No. CMI Unit 310 tests conceptual understanding of financial terms and processes — what a budget variance is, how the budget cycle works, what a first-line manager is responsible for. It does not require numerical calculation or the production of financial statements. Students who struggle with numbers often perform well in CMI 310 because the assessment is about understanding financial concepts in a management context, not mathematical computation.
 
 **What is a budget variance in CMI 310?**
-A budget variance is the difference between the budgeted amount for a period and the actual amount spent. A favourable variance occurs when actual spend is less than the budget — the team has spent less than planned. An adverse variance occurs when actual spend exceeds the budget — the team has overspent. Understanding and explaining variances is a core first-line management responsibility in AC3.
+A budget variance is the difference between the budgeted amount for a period and the actual amount spent. A favourable variance occurs when actual spend is less than the budget: the team has spent less than planned. An adverse variance occurs when actual spend exceeds the budget: the team has overspent. Understanding and explaining variances is a core first-line management responsibility in AC3.
 
 **What financial terminology is covered in CMI 310?**
 AC1 covers: budget (financial plan allocating resources), actual spend (real expenditure incurred), variance (difference between budgeted and actual — favourable or adverse), cost centre (unit that incurs costs without generating revenue), CAPEX (capital expenditure on long-term assets), and OPEX (operational expenditure on day-to-day running costs). The assessment expects accurate definitions with brief organisational examples.

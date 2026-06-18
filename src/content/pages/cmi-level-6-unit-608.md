@@ -112,6 +112,8 @@ Our writers hold CMI Level 6 and Level 7 qualifications and have extensive exper
 
 The service covers all assessment criteria, full Harvard referencing to 12–15+ sources, the correct 4,000–5,000 word advanced management paper format, and critical engagement with Carroll, Freeman, Friedman, Porter and Kramer, and dissenting scholarship. Turnaround options range from standard to urgent. All papers are written from scratch to the candidate's unit brief and organisational context.
 
+Our [CMI assignment writing service](/cmi-assignment-writing-service/) delivers Unit 608 as a complete advanced management paper. For students developing their own response with expert support, [CMI assignment tutoring](/cmi-assignment-tutoring/) provides coaching on CSR and ESG frameworks and command verb compliance at Level 6.
+
 **Ready to start your CMI Unit 608 assignment? Contact us on WhatsApp for a free quote.**
 Message us with your unit brief, word count requirement, and submission deadline.
 

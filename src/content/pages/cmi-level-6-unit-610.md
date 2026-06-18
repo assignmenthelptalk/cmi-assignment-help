@@ -118,6 +118,8 @@ Our writers include experienced public sector managers and academics with direct
 
 The service covers all three assessment criteria, full Harvard referencing to 12–15+ sources, the correct 4,000–5,000 word format, and rigorous engagement with the theory-practice gap in public policy. Contact us on WhatsApp with your unit brief, organisational context, and deadline for an immediate quote and writer match.
 
+Our [CMI assignment writing service](/cmi-assignment-writing-service/) delivers Unit 610 as a complete advanced management paper. For students developing their own response, [CMI assignment tutoring](/cmi-assignment-tutoring/) provides expert coaching on applying Critically Evaluate to policy frameworks and structuring evidence-based policy analysis.
+
 **Ready to start your CMI Unit 610 assignment? Contact us on WhatsApp for a free quote.**
 Message us with your unit brief, word count requirement, and submission deadline.
 

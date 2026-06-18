@@ -169,6 +169,8 @@ Our CMI 306 assignment help covers the full range of support.
 
 **[CMI 307: Developing Knowledge and Skills]** — the individual development planning content of Unit 307 creates the objectives that coaching conversations in Unit 306 address. The two units are complementary: 307 identifies what development is needed; 306 provides the process for delivering it.
 
+At Level 6, coaching becomes a strategic leadership discipline. [CMI Level 6 Unit 612 — Coaching Skills for Leaders](/cmi-level-6/unit-612-coaching-skills-leaders/) examines the GROW and CLEAR models at critical evaluation depth, explores the conditions required for an organisational coaching culture, and addresses the authority tension unique to senior leaders who coach their own direct reports — a significant progression from the first-line coaching principles in Unit 306.
+
 Return to the full unit list: [CMI Level 3 Assignment Help — All Units](/cmi-level-3-assignment-help/)
 
 ---

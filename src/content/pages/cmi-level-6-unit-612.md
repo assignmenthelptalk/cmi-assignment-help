@@ -108,7 +108,9 @@ The third error is failing to address the authority tension in senior leader as 
 
 ## CMI 612 Writing Service: Senior UK Writers
 
-Our senior writers have coaching and leadership development experience at the level CMI 612 requires — understanding both the academic framework debates and the practical realities of senior leader coaching in NHS, public sector, and large private organisations. We write the full advanced management paper, matched to your specific assessment brief, word count, and deadline. Contact us on WhatsApp for a free quote.
+Our senior writers have coaching and leadership development experience at the level CMI 612 requires — understanding both the academic framework debates and the practical realities of senior leader coaching in NHS, public sector, and large private organisations. We write the full advanced management paper, matched to your specific assessment brief, word count, and deadline.
+
+Our [CMI assignment writing service](/cmi-assignment-writing-service/) delivers Unit 612 as a fully written advanced management paper. For students who prefer to write their own paper with expert coaching on critical depth and framework application, [CMI assignment tutoring](/cmi-assignment-tutoring/) is available. Contact us on WhatsApp for a free quote.
 
 **Ready to start your CMI 612 assignment? Contact us on WhatsApp for a free quote.**
 Message us with your unit brief, word count requirement, and submission deadline.
@@ -116,7 +118,7 @@ Message us with your unit brief, word count requirement, and submission deadline
 ## Related CMI Units
 
 - [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/) — full Level 6 qualification overview
-- [CMI Level 3 Assignment Help](/cmi-level-3-assignment-help/) — Level 3 coaching unit for comparison at first-line manager level
+- [CMI 306 — Principles of Coaching and Mentoring at Level 3](/cmi-level-3/unit-306-principles-coaching-mentoring/) — foundational coaching principles (GROW, OSCAR, coaching vs mentoring distinction) that CMI 612 extends to senior leadership critical depth
 
 ## Frequently Asked Questions
 

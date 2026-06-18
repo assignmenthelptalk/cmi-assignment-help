@@ -114,13 +114,15 @@ Our writers hold CMI Level 6 and Level 7 qualifications and have produced Unit 6
 
 The service covers all three assessment criteria, full Harvard referencing to 12–15+ sources, the correct 4,000–5,000 word format, and rigorous critical engagement with the contested EDI evidence base. Contact us on WhatsApp with your unit brief, organisational context, and deadline for an immediate quote and writer match.
 
+Our [CMI assignment writing service](/cmi-assignment-writing-service/) delivers Unit 609 as a fully written advanced management paper. For students who prefer to write their own paper with expert guidance, [CMI assignment tutoring](/cmi-assignment-tutoring/) provides critical evaluation coaching, framework application support, and draft review to Level 6 standard.
+
 **Ready to start your CMI Unit 609 assignment? Contact us on WhatsApp for a free quote.**
 Message us with your unit brief, word count requirement, and submission deadline.
 
 ## Related CMI Units
 
-- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/)
-- [CMI Level 3 Assignment Help](/cmi-level-3-assignment-help/)
+- [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/) — full Level 6 qualification overview and all 16 unit pages
+- [CMI 309 — Leading Equality, Diversity and Inclusion at Level 3](/cmi-level-3/unit-309-leading-equality-diversity-inclusion/) — foundational EDI unit covering the Equality Act 2010 and first-line manager responsibilities; CMI 609 extends these foundations to organisational EDI strategy at Critically Evaluate depth
 
 ## Frequently Asked Questions
 

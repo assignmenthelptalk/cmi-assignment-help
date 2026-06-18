@@ -97,7 +97,9 @@ The preparation that Level 4 provides is essential: students who have not intern
 
 ## Related Units and Progression
 
-CMI 403 connects directly to [CMI Level 4 assignment help](/cmi-level-4-assignment-help/) and builds on Unit 401's analysis of managerial style — the connection between leadership style and cultural reinforcement is direct: a manager who consistently models Goleman's Pacesetting style in a task culture creates very different cultural signals than the same style applied in a role culture. Students continuing to Level 6 will find the cultural frameworks from CMI 403 foundational to strategic leadership units throughout that qualification.
+CMI 403 connects directly to [CMI Level 4 assignment help](/cmi-level-4-assignment-help/) and builds on Unit 401's analysis of managerial style — the connection between leadership style and cultural reinforcement is direct: a manager who consistently models Goleman's Pacesetting style in a task culture creates very different cultural signals than the same style applied in a role culture.
+
+At Level 6, the cultural frameworks from CMI 403 are extended to strategic leadership scope. [CMI 603 — Organisational Culture at Level 6](/cmi-level-6/unit-603-organisational-culture/) requires Critically Assessing Schein's model — identifying the assumptions behind the three-level architecture — and engaging with Hofstede's cultural dimensions and McSweeney's critique. Where CMI 403 asks managers to Analyse and Evaluate culture within their team or department, CMI 603 requires senior leaders to critically assess the organisation-wide mechanisms through which culture is embedded, sustained, and transformed. The Schein framework you master in Unit 403 is precisely what Level 6 assessors expect you to interrogate critically in Unit 603.
 
 ## CMI 403 Assignment Help: Writing Service, Tutoring, and Draft Review
 

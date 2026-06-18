@@ -106,7 +106,9 @@ The third error is treating supplier relationships as uniformly desirable. Not a
 
 ## CMI 607 Writing Service: Senior UK Writers
 
-Our senior writers have substantive procurement and supply chain management experience at senior organisational level. CMI 607 requires a writer who understands both the theoretical frameworks — Kraljic, strategic sourcing, SRM — and how they operate in practice across NHS, public sector, and large-scale private organisations. We provide a fully written advanced management paper, matched to your specific assessment brief, word count, and submission deadline. Contact us on WhatsApp for a free quote with no commitment.
+Our senior writers have substantive procurement and supply chain management experience at senior organisational level. CMI 607 requires a writer who understands both the theoretical frameworks — Kraljic, strategic sourcing, SRM — and how they operate in practice across NHS, public sector, and large-scale private organisations. We provide a fully written advanced management paper, matched to your specific assessment brief, word count, and submission deadline.
+
+Our [CMI assignment writing service](/cmi-assignment-writing-service/) delivers Unit 607 as a complete advanced management paper. For students who want to write with expert direction, [CMI assignment tutoring](/cmi-assignment-tutoring/) provides coaching on procurement frameworks and Critically Evaluate application at Level 6. Contact us on WhatsApp for a free quote with no commitment.
 
 **Ready to start your CMI 607 assignment? Contact us on WhatsApp for a free quote.**
 Message us with your unit brief, word count requirement, and submission deadline.

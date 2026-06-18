@@ -104,14 +104,16 @@ Our writers hold postgraduate management qualifications and have professional ex
 
 Every CMI 613 assignment we produce is matched to your specific assignment question, references your professional context where appropriate, and is submitted with full Harvard referencing to the required source count. We work within your deadline and provide a draft for your review before finalisation.
 
+Our [CMI assignment writing service](/cmi-assignment-writing-service/) delivers Unit 613 as a complete advanced management paper. For students developing their own quality strategy analysis, [CMI assignment tutoring](/cmi-assignment-tutoring/) provides coaching on EFQM critical evaluation and strategic quality leadership frameworks at Level 6 depth.
+
 **Ready to start your CMI 613 assignment? Contact us on WhatsApp for a free quote.**
 
 ## Related CMI Units
 
 - [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/) — overview of all 16 Level 6 units and our writing service
-- [CMI Level 4 Assignment Help](/cmi-level-4-assignment-help/) — quality management content appears at Level 4 in operational contexts
-- CMI Unit 601 — Professional Management and Leadership Practice: leadership behaviours relevant to quality culture
-- CMI Unit 611 — Strategic Change Management: change leadership frameworks that intersect with quality culture transformation
+- [CMI 409 — Managing Quality at Level 4](/cmi-level-4/unit-409-managing-quality/) — operational quality management content (ISO 9001, TQM, PDCA, Lean) that provides the analytical foundation CMI 613 extends to strategic level
+- [CMI Unit 601 — Professional Management and Leadership Practice](/cmi-level-6/unit-601-professional-management-leadership-practice/) — leadership behaviours and professional standards relevant to quality culture
+- CMI Unit 611 — Strategic Knowledge Management: knowledge transfer and learning systems that intersect with quality culture transformation
 
 ## Frequently Asked Questions
 

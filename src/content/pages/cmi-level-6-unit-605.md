@@ -107,13 +107,13 @@ The same standard applies to ambidexterity: the Critically Evaluate response exa
 
 The innovation and change frameworks examined in Unit 605 connect directly to the strategic change leadership demands of [CMI Level 7 assignment help](/cmi-level-7-assignment-help/). CMI Level 7 Unit 705 — Leading Strategic Change — operates at the level of enterprise-wide transformation, examining how strategic leaders diagnose the need for change, develop the organisational capability to execute transformation, and manage the political and cultural dynamics that determine whether strategic change succeeds or fails. The critical evaluation of change theories at Level 6 provides the analytical foundation for the strategic synthesis Level 7 requires.
 
-The connection also runs to [CMI 603 (Organisational Culture)](/cmi-level-6-assignment-help/): embedding an innovation culture requires the same cultural embedding mechanisms Schein identifies, and the resistance to innovation at senior level is a cultural phenomenon as much as a leadership challenge.
+The connection also runs to [CMI 603 — Organisational Culture](/cmi-level-6/unit-603-organisational-culture/): embedding an innovation culture requires the same cultural embedding mechanisms Schein identifies, and the resistance to innovation at senior level is a cultural phenomenon as much as a leadership challenge.
 
 ---
 
 ## CMI 605 in the Level 6 Qualification Pathway
 
-CMI Unit 605 connects to [CMI 603 (Organisational Culture)](/cmi-level-6-assignment-help/) — where culture change is examined through Schein's embedding mechanisms and the 7–10 year culture shift timeline — and to [CMI 604 (Strategic Programme and Project Management)](/cmi-level-6-assignment-help/), where transformation programmes are the vehicle through which innovation strategies are executed. Students studying the full Level 6 Diploma will find these units reinforce each other: culture enables innovation, and programme governance translates innovation strategy into delivered benefits.
+CMI Unit 605 connects to [CMI 603 — Organisational Culture](/cmi-level-6/unit-603-organisational-culture/) — where culture change is examined through Schein's embedding mechanisms and the 7–10 year culture shift timeline — and to [CMI 604 — Strategic Programme and Project Management](/cmi-level-6/unit-604-strategic-programme-project-management/), where transformation programmes are the vehicle through which innovation strategies are executed. Students studying the full Level 6 Diploma will find these units reinforce each other: culture enables innovation, and programme governance translates innovation strategy into delivered benefits.
 
 Our [CMI assignment writing service](/cmi-assignment-writing-service/) delivers advanced management papers for CMI 605 written by senior writers with direct experience of innovation strategy, transformational change leadership, and culture change at senior organisational level.
 

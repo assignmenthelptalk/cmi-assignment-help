@@ -69,37 +69,37 @@ For a complete breakdown of command verbs across CMI levels, see our [CMI comman
 CMI Level 4 includes 11 units covering the core domains of management and leadership. Assignment help is available for every unit below.
 
 ### CMI 401: Managerial Styles and Behaviours
-Unit 401 focuses on management style theories - contingency theory, situational leadership (Hersey and Blanchard), and transformational versus transactional leadership - and how managers adapt their style to team and organisational context. The assignment typically requires students to Analyse a management style applied to their own team. Management report or essay, 2,000–2,500 words. <span class="future-link">Get help with CMI 401</span>
+Unit 401 focuses on management style theories - contingency theory, situational leadership (Hersey and Blanchard), and transformational versus transactional leadership - and how managers adapt their style to team and organisational context. The assignment typically requires students to Analyse a management style applied to their own team. Management report or essay, 2,000–2,500 words. [CMI 401 assignment help](/cmi-level-4/unit-401-managerial-styles-behaviours/)
 
 ### CMI 402: Managing Stakeholders' Expectations
-Unit 402 covers stakeholder identification, stakeholder mapping (power-interest matrix), and strategies for managing stakeholder expectations in a management context. Students must Analyse stakeholder relationships and Evaluate communication approaches. 2,000–2,500 words. <span class="future-link">Get help with CMI 402</span>
+Unit 402 covers stakeholder identification, stakeholder mapping (power-interest matrix), and strategies for managing stakeholder expectations in a management context. Students must Analyse stakeholder relationships and Evaluate communication approaches. 2,000–2,500 words. [CMI 402 assignment help](/cmi-level-4/unit-402-managing-stakeholders-expectations/)
 
 ### CMI 403: Understanding Organisational Culture, Values and Behaviour
-Unit 403 covers organisational culture models - Schein's three levels of culture, Handy's culture types - and how culture shapes values and behaviour within an organisation. Students are expected to Analyse culture within their own or a case study organisation. Analytical essay or report, 2,000–3,000 words. <span class="future-link">Get help with CMI 403</span>
+Unit 403 covers organisational culture models - Schein's three levels of culture, Handy's culture types - and how culture shapes values and behaviour within an organisation. Students are expected to Analyse culture within their own or a case study organisation. Analytical essay or report, 2,000–3,000 words. [CMI 403 assignment help](/cmi-level-4/unit-403-organisational-culture-values-behaviour/)
 
 ### CMI 404: Planning, Managing and Monitoring Budgets
-Unit 404 covers budget planning, variance analysis, and cost centre management from a management perspective. The focus is on the manager's role in financial planning and monitoring, not advanced financial analysis. Management report format, 2,000–2,500 words. <span class="future-link">Get help with CMI 404</span>
+Unit 404 covers budget planning, variance analysis, and cost centre management from a management perspective. The focus is on the manager's role in financial planning and monitoring, not advanced financial analysis. Management report format, 2,000–2,500 words. [CMI 404 assignment help](/cmi-level-4/unit-404-planning-managing-monitoring-budgets/)
 
 ### CMI 405: Principles of Developing and Maintaining Networks
-Unit 405 examines professional and organisational networking - strategies for building internal and external relationships, the purpose of networks in management, and how managers leverage networks for performance outcomes. 2,000–2,500 words. <span class="future-link">Get help with CMI 405</span>
+Unit 405 examines professional and organisational networking - strategies for building internal and external relationships, the purpose of networks in management, and how managers leverage networks for performance outcomes. 2,000–2,500 words. [CMI 405 assignment help](/cmi-level-4/unit-405-developing-maintaining-networks/)
 
 ### CMI 406: Management and Leadership Influencing Skills
-Unit 406 covers influence, persuasion, and negotiation in a management context - including political skill, communication-based influence, and leadership influence models. Students Analyse how managers use influence to achieve outcomes. 2,000–2,500 words. <span class="future-link">Get help with CMI 406</span>
+Unit 406 covers influence, persuasion, and negotiation in a management context - including political skill, communication-based influence, and leadership influence models. Students Analyse how managers use influence to achieve outcomes. 2,000–2,500 words. [CMI 406 assignment help](/cmi-level-4/unit-406-management-leadership-influencing-skills/)
 
 ### CMI 407: Managing Data and Information
-Unit 407 covers data governance, information quality, data-driven decision-making, and the manager's responsibilities for data management in compliance with information governance frameworks. 2,000–2,500 words. <span class="future-link">Get help with CMI 407</span>
+Unit 407 covers data governance, information quality, data-driven decision-making, and the manager's responsibilities for data management in compliance with information governance frameworks. 2,000–2,500 words. [CMI 407 assignment help](/cmi-level-4/unit-407-managing-data-information/)
 
 ### CMI 408: Management of Risk
-Unit 408 covers risk identification, risk assessment frameworks (likelihood-impact matrix), risk mitigation strategies, and the manager's role in maintaining organisational risk awareness. Management report format. 2,000–2,500 words. <span class="future-link">Get help with CMI 408</span>
+Unit 408 covers risk identification, risk assessment frameworks (likelihood-impact matrix), risk mitigation strategies, and the manager's role in maintaining organisational risk awareness. Management report format. 2,000–2,500 words. [CMI 408 assignment help](/cmi-level-4/unit-408-management-of-risk/)
 
 ### CMI 409: Managing Quality
-Unit 409 covers quality management systems - including ISO 9001, Total Quality Management (TQM), and continuous improvement methodologies such as Lean and basic Six Sigma principles - and how managers implement and sustain a quality culture. 2,000–2,500 words. <span class="future-link">Get help with CMI 409</span>
+Unit 409 covers quality management systems - including ISO 9001, Total Quality Management (TQM), and continuous improvement methodologies such as Lean and basic Six Sigma principles - and how managers implement and sustain a quality culture. 2,000–2,500 words. [CMI 409 assignment help](/cmi-level-4/unit-409-managing-quality/)
 
 ### CMI 410: Managing Change
-Unit 410 covers change management theory - Kotter's 8-Step Model, Lewin's Force Field Analysis, and the ADKAR model - applied to a real or hypothetical organisational change initiative. Students Evaluate the effectiveness of change approaches and Analyse resistance factors. 2,000–3,000 words. <span class="future-link">Get help with CMI 410</span>
+Unit 410 covers change management theory - Kotter's 8-Step Model, Lewin's Force Field Analysis, and the ADKAR model - applied to a real or hypothetical organisational change initiative. Students Evaluate the effectiveness of change approaches and Analyse resistance factors. 2,000–3,000 words. [CMI 410 assignment help](/cmi-level-4/unit-410-managing-change/)
 
 ### CMI 411: Managing Recruitment
-Unit 411 covers the manager's role in recruitment and selection - workforce planning, job design, selection methods, equality and diversity in recruitment, and induction planning. 2,000–2,500 words. <span class="future-link">Get help with CMI 411</span>
+Unit 411 covers the manager's role in recruitment and selection - workforce planning, job design, selection methods, equality and diversity in recruitment, and induction planning. 2,000–2,500 words. [CMI 411 assignment help](/cmi-level-4/unit-411-managing-recruitment/)
 
 **Message us on WhatsApp with your unit code for an immediate quote on any of the 11 units above.**
 

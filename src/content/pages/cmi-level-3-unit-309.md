@@ -141,7 +141,7 @@ CMI Unit 309 sits within the [CMI Level 3 Award, Certificate, and Diploma in Fir
 
 **CMI 302 — Managing a Team to Achieve Results**: Team management includes the management of diverse teams. The inclusive management behaviours in Unit 309 directly shape how team objectives are set, how performance is managed, and how team culture is maintained in Unit 302.
 
-**CMI Level 6 Unit 609 — Leading EDI at Senior Level**: The direct strategic progression. Unit 609 requires the manager to move from implementing EDI policy to designing and evaluating EDI strategy — applying the legal foundations from Unit 309 with a critical analytical lens.
+**[CMI Level 6 Unit 609 — Leading EDI at Senior Level](/cmi-level-6/unit-609-leading-equality-diversity-inclusion/)**: The direct strategic progression. Unit 609 requires the manager to move from implementing EDI policy to designing and evaluating EDI strategy — applying the legal foundations from Unit 309 with a critical analytical lens. The command verb shift from Explain (Level 3) to Critically Evaluate (Level 6) reflects the move from operational compliance to systemic inclusion leadership.
 
 For students considering qualification progression, [CMI Level 6 Assignment Help](/cmi-level-6-assignment-help/) covers all Level 6 units, including the advanced EDI and leadership units.
 

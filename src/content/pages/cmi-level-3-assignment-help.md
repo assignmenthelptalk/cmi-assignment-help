@@ -69,40 +69,40 @@ For a detailed breakdown of command verbs across CMI levels, see our [CMI comman
 CMI Level 3 includes 12 units covering the core areas of first-line management - from team leadership and individual performance management to finance, project delivery, and equality and diversity. Help is available for every unit below.
 
 ### CMI 301: Principles of Management and Leadership
-Unit 301 covers the fundamental principles of managing and leading within an organisational context - management styles, leadership theories, and the responsibilities of a first-line manager. This is typically an essay format assignment of 1,500–2,000 words. Command verbs: Identify, Describe, and Explain the principles of management and leadership. <span class="future-link">Get help with CMI 301</span>
+Unit 301 covers the fundamental principles of managing and leading within an organisational context - management styles, leadership theories, and the responsibilities of a first-line manager. This is typically an essay format assignment of 1,500–2,000 words. Command verbs: Identify, Describe, and Explain the principles of management and leadership. [CMI 301 assignment help](/cmi-level-3/unit-301-principles-management-leadership/)
 
 ### CMI 302: Managing a Team to Achieve Results
-Unit 302 focuses on team management - understanding team roles (Belbin's team role theory is commonly applied), setting performance expectations, and managing communication within a team. Essay or short report format, 1,500–2,000 words. <span class="future-link">Get help with CMI 302</span>
+Unit 302 focuses on team management - understanding team roles (Belbin's team role theory is commonly applied), setting performance expectations, and managing communication within a team. Essay or short report format, 1,500–2,000 words. [CMI 302 assignment help](/cmi-level-3/unit-302-managing-team-achieve-results/)
 
 ### CMI 303: Managing Individuals to Be Effective in the Workplace
-Unit 303 examines individual performance management, motivation theories - commonly Maslow's Hierarchy of Needs and Herzberg's Two-Factor Theory - and adapting management approach to individual needs. Essay format, 1,500–2,000 words. <span class="future-link">Get help with CMI 303</span>
+Unit 303 examines individual performance management, motivation theories - commonly Maslow's Hierarchy of Needs and Herzberg's Two-Factor Theory - and adapting management approach to individual needs. Essay format, 1,500–2,000 words. [CMI 303 assignment help](/cmi-level-3/unit-303-managing-individuals-effective-workplace/)
 
 ### CMI 304: Principles of Communication in the Workplace
-Unit 304 covers communication models, barriers to effective communication, and the importance of adapting communication style to different audiences and contexts within a management role. Short management report or essay, 1,500–2,000 words. <span class="future-link">Get help with CMI 304</span>
+Unit 304 covers communication models, barriers to effective communication, and the importance of adapting communication style to different audiences and contexts within a management role. Short management report or essay, 1,500–2,000 words. [CMI 304 assignment help](/cmi-level-3/unit-304-principles-communication-workplace/)
 
 ### CMI 305: Building Stakeholder Relationships
-Unit 305 covers stakeholder identification, stakeholder analysis approaches (interest-power grid), and strategies for building and maintaining effective working relationships. Essay or report, 1,500–2,000 words. <span class="future-link">Get help with CMI 305</span>
+Unit 305 covers stakeholder identification, stakeholder analysis approaches (interest-power grid), and strategies for building and maintaining effective working relationships. Essay or report, 1,500–2,000 words. [CMI 305 assignment help](/cmi-level-3/unit-305-building-stakeholder-relationships/)
 
 ### CMI 306: Principles of Delivering Coaching and Mentoring
-Unit 306 examines the difference between coaching and mentoring, the principles of each approach, and how to apply coaching or mentoring techniques in a first-line management context. Common coaching models include GROW and OSCAR. <span class="future-link">Get help with CMI 306</span>
+Unit 306 examines the difference between coaching and mentoring, the principles of each approach, and how to apply coaching or mentoring techniques in a first-line management context. Common coaching models include GROW and OSCAR. [CMI 306 assignment help](/cmi-level-3/unit-306-principles-coaching-mentoring/)
 
 ### CMI 307: Developing the Knowledge, Skills and Abilities of Individuals and Teams
-Unit 307 covers training needs analysis, approaches to continuing professional development (CPD), and strategies for developing people within a team. Learning theory - Kolb's Experiential Learning Cycle and Honey and Mumford's learning styles - is commonly applied. <span class="future-link">Get help with CMI 307</span>
+Unit 307 covers training needs analysis, approaches to continuing professional development (CPD), and strategies for developing people within a team. Learning theory - Kolb's Experiential Learning Cycle and Honey and Mumford's learning styles - is commonly applied. [CMI 307 assignment help](/cmi-level-3/unit-307-developing-knowledge-skills-abilities/)
 
 ### CMI 308: Understanding Innovation and Change
-Unit 308 covers change management at the operational level - the drivers of change, the causes of resistance, and approaches to implementing change within a team or department. Lewin's Three-Stage Change Model (Unfreeze–Change–Refreeze) is the most commonly referenced framework. <span class="future-link">Get help with CMI 308</span>
+Unit 308 covers change management at the operational level - the drivers of change, the causes of resistance, and approaches to implementing change within a team or department. Lewin's Three-Stage Change Model (Unfreeze–Change–Refreeze) is the most commonly referenced framework. [CMI 308 assignment help](/cmi-level-3/unit-308-understanding-innovation-change/)
 
 ### CMI 309: Leading Equality, Diversity and Inclusion
-Unit 309 covers the legal and organisational requirements for equality, diversity, and inclusion - including the Equality Act 2010 - and the practical responsibilities of a first-line manager in creating and sustaining an inclusive team environment. <span class="future-link">Get help with CMI 309</span>
+Unit 309 covers the legal and organisational requirements for equality, diversity, and inclusion - including the Equality Act 2010 - and the practical responsibilities of a first-line manager in creating and sustaining an inclusive team environment. [CMI 309 assignment help](/cmi-level-3/unit-309-leading-equality-diversity-inclusion/)
 
 ### CMI 310: Understanding Finance in the Workplace
-Unit 310 is an introduction to management finance - covering budgets, cost centres, budget variances, and the financial terminology that first-line managers encounter in their role. No advanced financial analysis is required; the focus is on foundational financial awareness. <span class="future-link">Get help with CMI 310</span>
+Unit 310 is an introduction to management finance - covering budgets, cost centres, budget variances, and the financial terminology that first-line managers encounter in their role. No advanced financial analysis is required; the focus is on foundational financial awareness. [CMI 310 assignment help](/cmi-level-3/unit-310-understanding-finance-workplace/)
 
 ### CMI 311: Contributing to the Delivery of a Project
-Unit 311 covers project management fundamentals at the operational level - defining project scope, planning tasks and milestones, involving stakeholders, and monitoring progress. Often requires a practical project report or plan format rather than a standard essay. <span class="future-link">Get help with CMI 311</span>
+Unit 311 covers project management fundamentals at the operational level - defining project scope, planning tasks and milestones, involving stakeholders, and monitoring progress. Often requires a practical project report or plan format rather than a standard essay. [CMI 311 assignment help](/cmi-level-3/unit-311-contributing-delivery-project/)
 
 ### CMI 312: Managing Daily Activities to Achieve Results
-Unit 312 focuses on operational planning - workload prioritisation, time management, resource allocation, and maintaining team performance through effective daily management. <span class="future-link">Get help with CMI 312</span>
+Unit 312 focuses on operational planning - workload prioritisation, time management, resource allocation, and maintaining team performance through effective daily management. [CMI 312 assignment help](/cmi-level-3/unit-312-managing-daily-activities-results/)
 
 **Select your unit above: or WhatsApp us with your unit number to get a quote.**
 

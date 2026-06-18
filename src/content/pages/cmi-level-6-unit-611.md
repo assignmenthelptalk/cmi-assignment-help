@@ -104,7 +104,9 @@ The third error is conflating knowledge management with information management. 
 
 ## CMI 611 Writing Service: Senior UK Writers
 
-Our senior writers bring strategic management experience to CMI 611 — understanding not just the academic frameworks but how knowledge management challenges manifest in NHS trusts, public sector organisations, and large private enterprises. We write the full advanced management paper, aligned to your assessment brief and word count, delivered to your submission deadline. Contact us on WhatsApp for a free quote with no commitment.
+Our senior writers bring strategic management experience to CMI 611 — understanding not just the academic frameworks but how knowledge management challenges manifest in NHS trusts, public sector organisations, and large private enterprises. We write the full advanced management paper, aligned to your assessment brief and word count, delivered to your submission deadline.
+
+Our [CMI assignment writing service](/cmi-assignment-writing-service/) delivers Unit 611 as a fully written advanced management paper. For students who prefer to write with expert guidance, [CMI assignment tutoring](/cmi-assignment-tutoring/) provides coaching on knowledge management frameworks, command verb application, and critical evaluation at Level 6 depth. Contact us on WhatsApp for a free quote with no commitment.
 
 **Ready to start your CMI 611 assignment? Contact us on WhatsApp for a free quote.**
 Message us with your unit brief, word count requirement, and submission deadline.

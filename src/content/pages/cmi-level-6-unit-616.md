@@ -108,7 +108,9 @@ The third error is treating psychological safety as an established, fully transf
 
 ## CMI 616 Writing Service: Senior UK Writers
 
-Our senior writers have experience in NHS workforce wellbeing, public sector mental health strategy, and organisational wellbeing at board level. CMI 616 requires a writer who understands the difference between secondary intervention (resilience training, EAP) and strategic primary prevention — and who can write a Critically Evaluative advanced management paper that engages with the wellbeing evidence base at the depth the Level 6 assessor requires. Contact us on WhatsApp for a free quote.
+Our senior writers have experience in NHS workforce wellbeing, public sector mental health strategy, and organisational wellbeing at board level. CMI 616 requires a writer who understands the difference between secondary intervention (resilience training, EAP) and strategic primary prevention — and who can write a Critically Evaluative advanced management paper that engages with the wellbeing evidence base at the depth the Level 6 assessor requires.
+
+Our [CMI assignment writing service](/cmi-assignment-writing-service/) delivers Unit 616 as a fully written advanced management paper. For students developing their own response, [CMI assignment tutoring](/cmi-assignment-tutoring/) provides expert support on applying Critically Evaluate to the wellbeing evidence base and structuring a strategic wellbeing analysis. Contact us on WhatsApp for a free quote.
 
 **Ready to start your CMI 616 assignment? Contact us on WhatsApp for a free quote.**
 Message us with your unit brief, your organisational context, and your submission deadline.

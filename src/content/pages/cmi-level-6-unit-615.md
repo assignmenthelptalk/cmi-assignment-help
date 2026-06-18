@@ -106,7 +106,9 @@ The third error is using Francis only as a factual reference ("In 2013, the Fran
 
 ## CMI 615 Writing Service: Senior Writers with NHS Experience
 
-Our writers for CMI 615 have substantive NHS leadership and healthcare management experience — they understand the ICS governance structure, the NHS Long Term Plan, clinical governance frameworks, the Board Assurance Framework, and the CQC inspection regime that provide the context for CMI 615 analysis. We write the full advanced management paper, matched to your specific assessment brief, word count, and submission deadline. Contact us on WhatsApp for a free quote.
+Our writers for CMI 615 have substantive NHS leadership and healthcare management experience — they understand the ICS governance structure, the NHS Long Term Plan, clinical governance frameworks, the Board Assurance Framework, and the CQC inspection regime that provide the context for CMI 615 analysis. We write the full advanced management paper, matched to your specific assessment brief, word count, and submission deadline.
+
+Our [CMI assignment writing service](/cmi-assignment-writing-service/) delivers Unit 615 as a complete advanced management paper written by NHS-experienced senior writers. For NHS leaders who want to write their own paper with expert direction, [CMI assignment tutoring](/cmi-assignment-tutoring/) provides structured coaching on applying Critically Evaluate to NHS leadership frameworks. Contact us on WhatsApp for a free quote.
 
 **Ready to start your CMI 615 assignment? Contact us on WhatsApp for a free quote.**
 Message us with your unit brief, your NHS context, and your submission deadline.

@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 510" width="960" height="510">
+<defs><style>text{font-family:Inter,system-ui,-apple-system,sans-serif}</style></defs>
+
+<!-- outer card -->
+<rect width="960" height="510" rx="8" fill="#f9fafb"/>
+<rect width="960" height="510" rx="8" fill="none" stroke="#e5e7eb" stroke-width="1.5"/>
+
+<!-- title bar -->
+<rect width="960" height="50" rx="8" fill="#1a2e4a"/>
+<rect y="42" width="960" height="8" fill="#1a2e4a"/>
+<text x="480" y="31" text-anchor="middle" font-size="15" font-weight="700" fill="white" letter-spacing="0.4">NHS Band to CMI Level Alignment</text>
+
+<!-- column header bar -->
+<rect y="50" width="960" height="36" fill="#243d5c"/>
+<text x="48"  y="73" text-anchor="middle" font-size="11" font-weight="600" fill="#cbd5e1">Band</text>
+<text x="198" y="73" text-anchor="middle" font-size="11" font-weight="600" fill="#cbd5e1">Typical Role</text>
+<text x="423" y="73" text-anchor="middle" font-size="11" font-weight="600" fill="#cbd5e1">Management Scope</text>
+<text x="654" y="73" text-anchor="middle" font-size="11" font-weight="600" fill="#cbd5e1">CMI Level</text>
+<text x="861" y="73" text-anchor="middle" font-size="11" font-weight="600" fill="#cbd5e1">Membership</text>
+
+<!-- column dividers -->
+<line x1="96"  y1="50" x2="96"  y2="478" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="300" y1="50" x2="300" y2="478" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="546" y1="50" x2="546" y2="478" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="762" y1="50" x2="762" y2="478" stroke="#e5e7eb" stroke-width="1"/>
+
+<!-- ROW 1 — Band 5, y=86, white -->
+<rect x="0" y="86" width="960" height="56" fill="white"/>
+<line x1="0" y1="142" x2="960" y2="142" stroke="#f3f4f6" stroke-width="1"/>
+<text x="48" y="118" text-anchor="middle" font-size="16" font-weight="700" fill="#6b7280">5</text>
+<text x="198" y="110" text-anchor="middle" font-size="11" fill="#6b7280">Staff Nurse,</text>
+<text x="198" y="126" text-anchor="middle" font-size="11" fill="#6b7280">Physiotherapist, AHP</text>
+<text x="423" y="110" text-anchor="middle" font-size="11" fill="#6b7280">No formal line management</text>
+<text x="423" y="126" text-anchor="middle" font-size="11" fill="#6b7280">or individual supervision only</text>
+<rect x="574" y="101" width="160" height="24" rx="12" fill="#e0f2fe"/>
+<text x="654" y="118" text-anchor="middle" font-size="11" font-weight="600" fill="#0369a1">CMI Level 3 Award</text>
+<text x="861" y="118" text-anchor="middle" font-size="11" fill="#9ca3af">Assoc. CMI</text>
+
+<!-- ROW 2 — Band 6, y=142, subtle -->
+<rect x="0" y="142" width="960" height="56" fill="#f9fafb"/>
+<line x1="0" y1="198" x2="960" y2="198" stroke="#f3f4f6" stroke-width="1"/>
+<text x="48" y="174" text-anchor="middle" font-size="16" font-weight="700" fill="#6b7280">6</text>
+<text x="198" y="166" text-anchor="middle" font-size="11" fill="#6b7280">Charge Nurse, Team Leader,</text>
+<text x="198" y="182" text-anchor="middle" font-size="11" fill="#6b7280">Junior Sister, Shift Lead</text>
+<text x="423" y="166" text-anchor="middle" font-size="11" fill="#6b7280">Small team, first-line supervision,</text>
+<text x="423" y="182" text-anchor="middle" font-size="11" fill="#6b7280">clinical coordination</text>
+<rect x="574" y="157" width="160" height="24" rx="12" fill="#e0f2fe"/>
+<text x="654" y="174" text-anchor="middle" font-size="11" font-weight="600" fill="#0369a1">CMI Level 3–4</text>
+<text x="861" y="174" text-anchor="middle" font-size="11" fill="#9ca3af">Assoc. CMI</text>
+
+<!-- ROW 3 — Band 7, y=198, HIGHLIGHTED -->
+<rect x="0" y="198" width="960" height="56" fill="#f0fdf4"/>
+<rect x="0" y="198" width="5" height="56" fill="#25D366"/>
+<line x1="0" y1="254" x2="960" y2="254" stroke="#bbf7d0" stroke-width="1"/>
+<text x="48" y="226" text-anchor="middle" font-size="15" font-weight="700" fill="#1a2e4a">7 ★</text>
+<text x="198" y="218" text-anchor="middle" font-size="11" fill="#374151">Ward Manager, Dept. Head,</text>
+<text x="198" y="234" text-anchor="middle" font-size="11" fill="#374151">Community Team Lead</text>
+<text x="423" y="218" text-anchor="middle" font-size="11" fill="#374151">Department/service management,</text>
+<text x="423" y="234" text-anchor="middle" font-size="11" fill="#374151">team performance, ward budgets</text>
+<rect x="574" y="213" width="160" height="24" rx="12" fill="#dcfce7"/>
+<text x="654" y="230" text-anchor="middle" font-size="11" font-weight="700" fill="#15803d">CMI Level 5 Diploma</text>
+<text x="861" y="230" text-anchor="middle" font-size="11" font-weight="700" fill="#15803d">ACMI</text>
+
+<!-- ROW 4 — Band 8a, y=254, white -->
+<rect x="0" y="254" width="960" height="56" fill="white"/>
+<line x1="0" y1="310" x2="960" y2="310" stroke="#f3f4f6" stroke-width="1"/>
+<text x="48" y="286" text-anchor="middle" font-size="15" font-weight="700" fill="#4b5563">8a</text>
+<text x="198" y="278" text-anchor="middle" font-size="11" fill="#4b5563">Service Manager,</text>
+<text x="198" y="294" text-anchor="middle" font-size="11" fill="#4b5563">Advanced Practitioner Lead</text>
+<text x="423" y="278" text-anchor="middle" font-size="11" fill="#4b5563">Multi-team, cross-service delivery,</text>
+<text x="423" y="294" text-anchor="middle" font-size="11" fill="#4b5563">operational programme management</text>
+<rect x="574" y="269" width="160" height="24" rx="12" fill="#fff7ed"/>
+<text x="654" y="286" text-anchor="middle" font-size="11" font-weight="600" fill="#c2410c">CMI Level 5–6</text>
+<text x="861" y="286" text-anchor="middle" font-size="11" fill="#6b7280">ACMI – MCMI</text>
+
+<!-- ROW 5 — Band 8b, y=310, subtle -->
+<rect x="0" y="310" width="960" height="56" fill="#f9fafb"/>
+<line x1="0" y1="366" x2="960" y2="366" stroke="#f3f4f6" stroke-width="1"/>
+<text x="48" y="342" text-anchor="middle" font-size="15" font-weight="700" fill="#4b5563">8b</text>
+<text x="198" y="334" text-anchor="middle" font-size="11" fill="#4b5563">Head of Service,</text>
+<text x="198" y="350" text-anchor="middle" font-size="11" fill="#4b5563">Deputy Director, Ops Lead</text>
+<text x="423" y="334" text-anchor="middle" font-size="11" fill="#4b5563">Cross-service, workforce strategy,</text>
+<text x="423" y="350" text-anchor="middle" font-size="11" fill="#4b5563">divisional budget and governance</text>
+<rect x="574" y="325" width="160" height="24" rx="12" fill="#f5f3ff"/>
+<text x="654" y="342" text-anchor="middle" font-size="11" font-weight="600" fill="#6d28d9">CMI Level 6–7</text>
+<text x="861" y="342" text-anchor="middle" font-size="11" fill="#6b7280">MCMI</text>
+
+<!-- ROW 6 — Band 8c-8d, y=366, HIGHLIGHTED -->
+<rect x="0" y="366" width="960" height="56" fill="#eff6ff"/>
+<rect x="0" y="366" width="5" height="56" fill="#25D366"/>
+<line x1="0" y1="422" x2="960" y2="422" stroke="#bfdbfe" stroke-width="1"/>
+<text x="48" y="394" text-anchor="middle" font-size="13" font-weight="700" fill="#1a2e4a">8c–d ★</text>
+<text x="198" y="386" text-anchor="middle" font-size="11" fill="#374151">Director of Operations,</text>
+<text x="198" y="402" text-anchor="middle" font-size="11" fill="#374151">Deputy CEO, Chief Nurse</text>
+<text x="423" y="386" text-anchor="middle" font-size="11" fill="#374151">Organisational strategy, governance,</text>
+<text x="423" y="402" text-anchor="middle" font-size="11" fill="#374151">board accountability, system leadership</text>
+<rect x="574" y="381" width="160" height="24" rx="12" fill="#eef2ff"/>
+<text x="654" y="398" text-anchor="middle" font-size="11" font-weight="700" fill="#3730a3">CMI Level 7 Diploma</text>
+<text x="861" y="398" text-anchor="middle" font-size="11" font-weight="700" fill="#3730a3">FCMI</text>
+
+<!-- ROW 7 — Band 9+, y=422, white -->
+<rect x="0" y="422" width="960" height="56" fill="white"/>
+<text x="48" y="450" text-anchor="middle" font-size="13" font-weight="700" fill="#4b5563">9 / VSM</text>
+<text x="198" y="442" text-anchor="middle" font-size="11" fill="#4b5563">CEO, Executive Director,</text>
+<text x="198" y="458" text-anchor="middle" font-size="11" fill="#4b5563">Medical Director, Chief Nurse</text>
+<text x="423" y="442" text-anchor="middle" font-size="11" fill="#4b5563">Board-level strategy, organisational</text>
+<text x="423" y="458" text-anchor="middle" font-size="11" fill="#4b5563">accountability, system transformation</text>
+<rect x="574" y="437" width="160" height="24" rx="12" fill="#eef2ff"/>
+<text x="654" y="454" text-anchor="middle" font-size="11" font-weight="700" fill="#3730a3">CMI Level 7 Diploma</text>
+<text x="861" y="454" text-anchor="middle" font-size="11" font-weight="700" fill="#3730a3">FCMI</text>
+
+<!-- footer -->
+<rect x="0" y="478" width="960" height="32" fill="#1a2e4a"/>
+<rect x="0" y="478" width="960" height="10" fill="#1a2e4a"/>
+<path d="M0 488 L0 502 Q0 510 8 510 L952 510 Q960 510 960 502 L960 488 Z" fill="#1a2e4a"/>
+<text x="20" y="499" font-size="10" fill="rgba(255,255,255,0.55)">★ Most common entry points. Alignment is based on management scope, not a formal NHS mandate — confirm with your workforce development lead or CMI centre.</text>
+<text x="940" y="499" text-anchor="end" font-size="10" fill="rgba(255,255,255,0.3)">cmiassignmentsupport.co.uk</text>
+</svg>

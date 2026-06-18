@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 456" width="960" height="456">
+<defs><style>text{font-family:Inter,system-ui,-apple-system,sans-serif}</style></defs>
+
+<!-- outer card -->
+<rect width="960" height="456" rx="8" fill="#f9fafb"/>
+<rect width="960" height="456" rx="8" fill="none" stroke="#e5e7eb" stroke-width="1.5"/>
+
+<!-- HEADER ROW: y=0 h=64 -->
+<!-- label col: 0-220 -->
+<rect x="0" y="0" width="220" height="64" rx="0" fill="#1a2e4a"/>
+<rect x="0" y="56" width="220" height="8" fill="#1a2e4a"/>
+<rect x="0" y="0" width="8" height="64" fill="#1a2e4a"/>
+<text x="110" y="26" text-anchor="middle" font-size="11" font-weight="700" fill="rgba(255,255,255,0.5)" letter-spacing="1">COMPARISON</text>
+
+<!-- L5 header col: 222-588 -->
+<rect x="222" y="0" width="366" height="64" rx="0" fill="#15803d"/>
+<text x="405" y="24" text-anchor="middle" font-size="13" font-weight="700" fill="white">CMI Level 5</text>
+<text x="405" y="42" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.8)">Diploma in Management and Leadership</text>
+<text x="405" y="57" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.65)">RQF Level 5  ·  ACMI</text>
+
+<!-- L7 header col: 590-960 -->
+<rect x="590" y="0" width="370" height="64" rx="0" fill="#3730a3"/>
+<rect x="952" y="0" width="8" height="64" fill="#3730a3"/>
+<text x="775" y="24" text-anchor="middle" font-size="13" font-weight="700" fill="white">CMI Level 7</text>
+<text x="775" y="42" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.8)">Diploma in Strategic Management and Leadership</text>
+<text x="775" y="57" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.65)">RQF Level 7  ·  FCMI</text>
+
+<!-- vertical dividers -->
+<line x1="220" y1="0" x2="220" y2="424" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="588" y1="0" x2="588" y2="424" stroke="#e5e7eb" stroke-width="1"/>
+
+<!-- ROW HEIGHTS: 8 rows × 45px = 360px, starting y=64 -->
+
+<!-- ROW 1 — Scope, y=64 -->
+<rect x="0" y="64" width="960" height="45" fill="white"/>
+<line x1="0" y1="109" x2="960" y2="109" stroke="#f3f4f6" stroke-width="1"/>
+<rect x="0" y="64" width="6" height="45" fill="#1a2e4a"/>
+<text x="110" y="91" text-anchor="middle" font-size="11" font-weight="600" fill="#374151">Scope</text>
+<rect x="232" y="72" width="346" height="26" rx="13" fill="#dcfce7"/>
+<text x="405" y="89" text-anchor="middle" font-size="11" font-weight="600" fill="#15803d">Operational — team, department, service unit</text>
+<rect x="600" y="72" width="350" height="26" rx="13" fill="#eef2ff"/>
+<text x="775" y="89" text-anchor="middle" font-size="11" font-weight="600" fill="#3730a3">Strategic — division, organisation, board</text>
+
+<!-- ROW 2 — Format, y=109 -->
+<rect x="0" y="109" width="960" height="45" fill="#f9fafb"/>
+<line x1="0" y1="154" x2="960" y2="154" stroke="#f3f4f6" stroke-width="1"/>
+<rect x="0" y="109" width="6" height="45" fill="#1a2e4a"/>
+<text x="110" y="136" text-anchor="middle" font-size="11" font-weight="600" fill="#374151">Assignment Format</text>
+<text x="405" y="136" text-anchor="middle" font-size="11" fill="#374151">Management report with executive summary</text>
+<text x="775" y="136" text-anchor="middle" font-size="11" fill="#374151">Strategic paper with critical literature review</text>
+
+<!-- ROW 3 — Command Verb, y=154 -->
+<rect x="0" y="154" width="960" height="45" fill="white"/>
+<line x1="0" y1="199" x2="960" y2="199" stroke="#f3f4f6" stroke-width="1"/>
+<rect x="0" y="154" width="6" height="45" fill="#1a2e4a"/>
+<text x="110" y="181" text-anchor="middle" font-size="11" font-weight="600" fill="#374151">Command Verb</text>
+<rect x="302" y="162" width="206" height="26" rx="13" fill="#dcfce7"/>
+<text x="405" y="179" text-anchor="middle" font-size="12" font-weight="700" fill="#15803d">Evaluate</text>
+<rect x="672" y="162" width="206" height="26" rx="13" fill="#eef2ff"/>
+<text x="775" y="179" text-anchor="middle" font-size="12" font-weight="700" fill="#3730a3">Critically Analyse</text>
+
+<!-- ROW 4 — Sources, y=199 -->
+<rect x="0" y="199" width="960" height="45" fill="#f9fafb"/>
+<line x1="0" y1="244" x2="960" y2="244" stroke="#f3f4f6" stroke-width="1"/>
+<rect x="0" y="199" width="6" height="45" fill="#1a2e4a"/>
+<text x="110" y="226" text-anchor="middle" font-size="11" font-weight="600" fill="#374151">Academic Sources</text>
+<text x="405" y="226" text-anchor="middle" font-size="11" fill="#374151">10–12 · management texts, ManagementDirect</text>
+<text x="775" y="226" text-anchor="middle" font-size="11" fill="#374151">15–20 · peer-reviewed journals, empirical research</text>
+
+<!-- ROW 5 — Word Count, y=244 -->
+<rect x="0" y="244" width="960" height="45" fill="white"/>
+<line x1="0" y1="289" x2="960" y2="289" stroke="#f3f4f6" stroke-width="1"/>
+<rect x="0" y="244" width="6" height="45" fill="#1a2e4a"/>
+<text x="110" y="271" text-anchor="middle" font-size="11" font-weight="600" fill="#374151">Per Unit</text>
+<text x="405" y="271" text-anchor="middle" font-size="11" fill="#374151">3,000 – 5,000 words</text>
+<text x="775" y="271" text-anchor="middle" font-size="11" fill="#374151">5,000 – 6,500 words (some units up to 12,000)</text>
+
+<!-- ROW 6 — Total Diploma, y=289 -->
+<rect x="0" y="289" width="960" height="45" fill="#f9fafb"/>
+<line x1="0" y1="334" x2="960" y2="334" stroke="#f3f4f6" stroke-width="1"/>
+<rect x="0" y="289" width="6" height="45" fill="#1a2e4a"/>
+<text x="110" y="311" text-anchor="middle" font-size="11" font-weight="600" fill="#374151">Full Diploma</text>
+<text x="110" y="325" text-anchor="middle" font-size="11" font-weight="600" fill="#374151">Word Count</text>
+<text x="405" y="318" text-anchor="middle" font-size="11" fill="#374151">18,000 – 30,000 words across all units</text>
+<text x="775" y="318" text-anchor="middle" font-size="11" fill="#374151">35,000 – 50,000 words — Master's equivalent volume</text>
+
+<!-- ROW 7 — UK Equivalence, y=334 -->
+<rect x="0" y="334" width="960" height="45" fill="white"/>
+<line x1="0" y1="379" x2="960" y2="379" stroke="#f3f4f6" stroke-width="1"/>
+<rect x="0" y="334" width="6" height="45" fill="#1a2e4a"/>
+<text x="110" y="361" text-anchor="middle" font-size="11" font-weight="600" fill="#374151">UK Equivalence</text>
+<text x="405" y="361" text-anchor="middle" font-size="11" fill="#374151">Foundation Degree / 2nd year undergraduate</text>
+<text x="775" y="361" text-anchor="middle" font-size="11" fill="#374151">Master's degree level (work-based, not research)</text>
+
+<!-- ROW 8 — Typical Student, y=379 -->
+<rect x="0" y="379" width="960" height="45" fill="#f9fafb"/>
+<rect x="0" y="379" width="6" height="45" fill="#1a2e4a"/>
+<text x="110" y="406" text-anchor="middle" font-size="11" font-weight="600" fill="#374151">Typical Student</text>
+<text x="405" y="406" text-anchor="middle" font-size="11" fill="#374151">Middle manager · NHS Band 7 · dept. head</text>
+<text x="775" y="406" text-anchor="middle" font-size="11" fill="#374151">Director · NHS Band 8b+ · C-suite · senior officer</text>
+
+<!-- footer -->
+<rect x="0" y="424" width="960" height="32" fill="#1a2e4a"/>
+<rect x="0" y="424" width="960" height="10" fill="#1a2e4a"/>
+<path d="M0 434 L0 448 Q0 456 8 456 L952 456 Q960 456 960 448 L960 434 Z" fill="#1a2e4a"/>
+<text x="480" y="445" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.55)">Level 7 is not Level 5 at a higher word count — it is a qualitatively different academic undertaking requiring a different mode of critical engagement.</text>
+<text x="940" y="445" text-anchor="end" font-size="10" fill="rgba(255,255,255,0.3)">cmiassignmentsupport.co.uk</text>
+
+<!-- round top-left and top-right corners -->
+<rect x="0" y="0" width="8" height="64" fill="#1a2e4a"/>
+<rect x="952" y="0" width="8" height="64" fill="#3730a3"/>
+</svg>

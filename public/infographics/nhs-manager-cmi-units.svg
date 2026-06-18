@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" width="960" height="420">
+<defs><style>text{font-family:Inter,system-ui,-apple-system,sans-serif}</style></defs>
+
+<!-- outer card -->
+<rect width="960" height="420" rx="8" fill="#f9fafb"/>
+<rect width="960" height="420" rx="8" fill="none" stroke="#e5e7eb" stroke-width="1.5"/>
+
+<!-- title bar -->
+<rect width="960" height="48" rx="8" fill="#1a2e4a"/>
+<rect y="40" width="960" height="8" fill="#1a2e4a"/>
+<text x="480" y="30" text-anchor="middle" font-size="14" font-weight="700" fill="white" letter-spacing="0.3">CMI Units Most Relevant for NHS Managers</text>
+
+<!-- LEFT PANEL: Level 5 -->
+<rect x="8" y="56" width="458" height="356" rx="6" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+
+<!-- L5 panel header -->
+<rect x="8" y="56" width="458" height="38" rx="6" fill="#16a34a"/>
+<rect x="8" y="80" width="458" height="14" fill="#16a34a"/>
+<text x="237" y="79" text-anchor="middle" font-size="12" font-weight="700" fill="white">CMI Level 5 — Band 7 Priority Units</text>
+
+<!-- L5 unit cards -->
+<!-- Unit 501 -->
+<rect x="18" y="104" width="438" height="56" rx="5" fill="white" stroke="#bbf7d0" stroke-width="1"/>
+<rect x="18" y="104" width="4" height="56" rx="2" fill="#25D366"/>
+<rect x="30" y="114" width="52" height="20" rx="10" fill="#dcfce7"/>
+<text x="56" y="128" text-anchor="middle" font-size="10" font-weight="700" fill="#15803d">CMI 501</text>
+<text x="300" y="122" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">Principles of Management and Leadership</text>
+<text x="300" y="137" text-anchor="middle" font-size="10" fill="#6b7280">Core L5 unit — leadership theory applied to ward and service management context</text>
+
+<!-- Unit 502 -->
+<rect x="18" y="168" width="438" height="56" rx="5" fill="white" stroke="#bbf7d0" stroke-width="1"/>
+<rect x="18" y="168" width="4" height="56" rx="2" fill="#25D366"/>
+<rect x="30" y="178" width="52" height="20" rx="10" fill="#dcfce7"/>
+<text x="56" y="192" text-anchor="middle" font-size="10" font-weight="700" fill="#15803d">CMI 502</text>
+<text x="300" y="186" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">Developing, Managing and Leading Teams</text>
+<text x="300" y="201" text-anchor="middle" font-size="10" fill="#6b7280">Team dynamics in clinical environments — Tuckman, Belbin, psychological safety</text>
+
+<!-- Unit 504 -->
+<rect x="18" y="232" width="438" height="56" rx="5" fill="white" stroke="#bbf7d0" stroke-width="1"/>
+<rect x="18" y="232" width="4" height="56" rx="2" fill="#25D366"/>
+<rect x="30" y="242" width="52" height="20" rx="10" fill="#dcfce7"/>
+<text x="56" y="256" text-anchor="middle" font-size="10" font-weight="700" fill="#15803d">CMI 504</text>
+<text x="300" y="250" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">Managing Performance</text>
+<text x="300" y="265" text-anchor="middle" font-size="10" fill="#6b7280">NHS appraisal, disciplinary frameworks, GROW coaching — directly maps to Band 7</text>
+
+<!-- Unit 509 -->
+<rect x="18" y="296" width="438" height="56" rx="5" fill="white" stroke="#bbf7d0" stroke-width="1"/>
+<rect x="18" y="296" width="4" height="56" rx="2" fill="#25D366"/>
+<rect x="30" y="306" width="52" height="20" rx="10" fill="#dcfce7"/>
+<text x="56" y="320" text-anchor="middle" font-size="10" font-weight="700" fill="#15803d">CMI 509</text>
+<text x="300" y="314" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">Managing Stakeholder Relationships</text>
+<text x="300" y="329" text-anchor="middle" font-size="10" fill="#6b7280">CQC, commissioners, unions, patients — NHS has one of the most complex stakeholder maps</text>
+
+<!-- Unit 513 -->
+<rect x="18" y="360" width="438" height="44" rx="5" fill="white" stroke="#bbf7d0" stroke-width="1"/>
+<rect x="18" y="360" width="4" height="44" rx="2" fill="#25D366"/>
+<rect x="30" y="370" width="52" height="20" rx="10" fill="#dcfce7"/>
+<text x="56" y="384" text-anchor="middle" font-size="10" font-weight="700" fill="#15803d">CMI 513</text>
+<text x="300" y="376" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">Managing Wellbeing in the Workplace</text>
+<text x="300" y="392" text-anchor="middle" font-size="10" fill="#6b7280">Staff wellbeing in high-pressure NHS clinical environments</text>
+
+<!-- RIGHT PANEL: Level 7 -->
+<rect x="494" y="56" width="458" height="356" rx="6" fill="#eff6ff" stroke="#a5b4fc" stroke-width="1"/>
+
+<!-- L7 panel header -->
+<rect x="494" y="56" width="458" height="38" rx="6" fill="#4338ca"/>
+<rect x="494" y="80" width="458" height="14" fill="#4338ca"/>
+<text x="723" y="79" text-anchor="middle" font-size="12" font-weight="700" fill="white">CMI Level 7 — Band 8b+ Priority Units</text>
+
+<!-- L7 unit cards -->
+<!-- Unit 701 -->
+<rect x="504" y="104" width="438" height="56" rx="5" fill="white" stroke="#c7d2fe" stroke-width="1"/>
+<rect x="504" y="104" width="4" height="56" rx="2" fill="#6366f1"/>
+<rect x="516" y="114" width="52" height="20" rx="10" fill="#eef2ff"/>
+<text x="542" y="128" text-anchor="middle" font-size="10" font-weight="700" fill="#3730a3">CMI 701</text>
+<text x="735" y="122" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">Strategic Leadership</text>
+<text x="735" y="137" text-anchor="middle" font-size="10" fill="#6b7280">ICS transformation, CQC governance — Critically Analyse at directorate and board level</text>
+
+<!-- Unit 702 -->
+<rect x="504" y="168" width="438" height="56" rx="5" fill="white" stroke="#c7d2fe" stroke-width="1"/>
+<rect x="504" y="168" width="4" height="56" rx="2" fill="#6366f1"/>
+<rect x="516" y="178" width="52" height="20" rx="10" fill="#eef2ff"/>
+<text x="542" y="192" text-anchor="middle" font-size="10" font-weight="700" fill="#3730a3">CMI 702</text>
+<text x="735" y="186" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">Leading and Developing People</text>
+<text x="735" y="201" text-anchor="middle" font-size="10" fill="#6b7280">NHS Long Term Workforce Plan, talent strategy, Senge learning organisation model</text>
+
+<!-- Unit 704 -->
+<rect x="504" y="232" width="438" height="56" rx="5" fill="white" stroke="#c7d2fe" stroke-width="1"/>
+<rect x="504" y="232" width="4" height="56" rx="2" fill="#6366f1"/>
+<rect x="516" y="242" width="52" height="20" rx="10" fill="#eef2ff"/>
+<text x="542" y="256" text-anchor="middle" font-size="10" font-weight="700" fill="#3730a3">CMI 704</text>
+<text x="735" y="250" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">Developing Organisational Strategy</text>
+<text x="735" y="265" text-anchor="middle" font-size="10" fill="#6b7280">PESTLE, Porter, VRIN analysis adapted for NHS — ICS strategy and system integration</text>
+
+<!-- Unit 705 -->
+<rect x="504" y="296" width="438" height="56" rx="5" fill="white" stroke="#c7d2fe" stroke-width="1"/>
+<rect x="504" y="296" width="4" height="56" rx="2" fill="#6366f1"/>
+<rect x="516" y="306" width="52" height="20" rx="10" fill="#eef2ff"/>
+<text x="542" y="320" text-anchor="middle" font-size="10" font-weight="700" fill="#3730a3">CMI 705</text>
+<text x="735" y="314" text-anchor="middle" font-size="11" font-weight="600" fill="#1a2e4a">Leading Strategic Change</text>
+<text x="735" y="329" text-anchor="middle" font-size="10" fill="#6b7280">Kotter vs NHS complexity, digital transformation, ICS service redesign programmes</text>
+
+<!-- bottom note -->
+<rect x="504" y="360" width="438" height="44" rx="5" fill="#eef2ff" stroke="#c7d2fe" stroke-width="1"/>
+<text x="723" y="377" text-anchor="middle" font-size="10" fill="#4338ca" font-weight="600">Also relevant at Level 7:</text>
+<text x="723" y="393" text-anchor="middle" font-size="10" fill="#6b7280">CMI 706 (Finance for Strategic Leaders) — NHS multi-million pound budget accountability</text>
+
+<!-- divider gap label -->
+<text x="480" y="246" text-anchor="middle" font-size="9" fill="#9ca3af" transform="rotate(-90, 480, 246)">vs</text>
+
+</svg>

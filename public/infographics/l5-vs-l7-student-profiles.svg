@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" width="960" height="320">
+<defs><style>text{font-family:Inter,system-ui,-apple-system,sans-serif}</style></defs>
+
+<!-- background -->
+<rect width="960" height="320" rx="8" fill="#f9fafb"/>
+<rect width="960" height="320" rx="8" fill="none" stroke="#e5e7eb" stroke-width="1.5"/>
+
+<!-- title -->
+<text x="480" y="28" text-anchor="middle" font-size="13" font-weight="700" fill="#1a2e4a" letter-spacing="0.3">Who Studies Each Level — Student Profile Comparison</text>
+
+<!-- LEFT CARD: CMI Level 5, x=20 w=440 h=272 -->
+<rect x="20" y="42" width="440" height="268" rx="8" fill="white" stroke="#86efac" stroke-width="1.5"/>
+
+<!-- L5 card header -->
+<rect x="20" y="42" width="440" height="52" rx="8" fill="#16a34a"/>
+<rect x="20" y="78" width="440" height="16" fill="#16a34a"/>
+<text x="240" y="65" text-anchor="middle" font-size="14" font-weight="700" fill="white">CMI Level 5 Student</text>
+<text x="240" y="83" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.85)">Diploma in Management and Leadership</text>
+
+<!-- L5 rows -->
+<line x1="20" y1="110" x2="460" y2="110" stroke="#f3f4f6" stroke-width="1"/>
+<text x="106" y="103" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">ROLE</text>
+<text x="290" y="103" text-anchor="middle" font-size="11" fill="#1a2e4a">Middle manager with line management responsibility</text>
+
+<line x1="20" y1="126" x2="460" y2="126" stroke="#f3f4f6" stroke-width="1"/>
+<text x="106" y="119" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">NHS EXAMPLE</text>
+<text x="290" y="119" text-anchor="middle" font-size="11" fill="#1a2e4a">Band 7 ward manager · community team lead</text>
+
+<line x1="20" y1="156" x2="460" y2="156" stroke="#f3f4f6" stroke-width="1"/>
+<text x="106" y="142" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">COMMERCIAL</text>
+<text x="290" y="142" text-anchor="middle" font-size="11" fill="#1a2e4a">Operations manager · department manager</text>
+<text x="290" y="155" text-anchor="middle" font-size="10" fill="#6b7280">Public sector: local authority team manager, police inspector</text>
+
+<line x1="20" y1="180" x2="460" y2="180" stroke="#f3f4f6" stroke-width="1"/>
+<text x="106" y="172" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">SCOPE</text>
+<text x="290" y="172" text-anchor="middle" font-size="11" fill="#1a2e4a">Implements strategy · manages a team or dept.</text>
+
+<line x1="20" y1="206" x2="460" y2="206" stroke="#f3f4f6" stroke-width="1"/>
+<text x="106" y="196" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">EXPERIENCE</text>
+<text x="290" y="196" text-anchor="middle" font-size="11" fill="#1a2e4a">Typically 2–8 years management experience</text>
+
+<line x1="20" y1="232" x2="460" y2="232" stroke="#f3f4f6" stroke-width="1"/>
+<text x="106" y="222" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">COMMAND VERB</text>
+<text x="290" y="222" text-anchor="middle" font-size="11" fill="#1a2e4a">Evaluate · Justify · Critically Evaluate</text>
+
+<line x1="20" y1="258" x2="460" y2="258" stroke="#f3f4f6" stroke-width="1"/>
+<text x="106" y="248" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">FORMAT</text>
+<text x="290" y="248" text-anchor="middle" font-size="11" fill="#1a2e4a">Management report with exec summary</text>
+
+<!-- L5 membership badge -->
+<rect x="150" y="268" width="180" height="30" rx="15" fill="#dcfce7"/>
+<text x="240" y="288" text-anchor="middle" font-size="12" font-weight="700" fill="#15803d">ACMI on completion</text>
+
+<!-- label divider -->
+<text x="106" y="94" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">TYPE</text>
+<line x1="160" y1="94" x2="460" y2="94" stroke="#f3f4f6" stroke-width="1"/>
+
+<!-- col divider inside card -->
+<line x1="160" y1="94" x2="160" y2="300" stroke="#f0fdf4" stroke-width="1"/>
+
+<!-- RIGHT CARD: CMI Level 7, x=500 w=440 h=272 -->
+<rect x="500" y="42" width="440" height="268" rx="8" fill="white" stroke="#a5b4fc" stroke-width="1.5"/>
+
+<!-- L7 card header -->
+<rect x="500" y="42" width="440" height="52" rx="8" fill="#3730a3"/>
+<rect x="500" y="78" width="440" height="16" fill="#3730a3"/>
+<text x="720" y="65" text-anchor="middle" font-size="14" font-weight="700" fill="white">CMI Level 7 Student</text>
+<text x="720" y="83" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.85)">Diploma in Strategic Management and Leadership</text>
+
+<!-- L7 rows -->
+<line x1="500" y1="110" x2="940" y2="110" stroke="#f3f4f6" stroke-width="1"/>
+<text x="586" y="103" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">ROLE</text>
+<text x="770" y="103" text-anchor="middle" font-size="11" fill="#1a2e4a">Senior leader with strategic authority</text>
+
+<line x1="500" y1="126" x2="940" y2="126" stroke="#f3f4f6" stroke-width="1"/>
+<text x="586" y="119" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">NHS EXAMPLE</text>
+<text x="770" y="119" text-anchor="middle" font-size="11" fill="#1a2e4a">Band 8b–8d director · Clinical Director</text>
+
+<line x1="500" y1="156" x2="940" y2="156" stroke="#f3f4f6" stroke-width="1"/>
+<text x="586" y="142" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">COMMERCIAL</text>
+<text x="770" y="142" text-anchor="middle" font-size="11" fill="#1a2e4a">Director · VP · Head of Function · C-suite</text>
+<text x="770" y="155" text-anchor="middle" font-size="10" fill="#6b7280">Public sector: LtCol+, SCS civil servant, head of service</text>
+
+<line x1="500" y1="180" x2="940" y2="180" stroke="#f3f4f6" stroke-width="1"/>
+<text x="586" y="172" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">SCOPE</text>
+<text x="770" y="172" text-anchor="middle" font-size="11" fill="#1a2e4a">Creates and owns strategy · organisational level</text>
+
+<line x1="500" y1="206" x2="940" y2="206" stroke="#f3f4f6" stroke-width="1"/>
+<text x="586" y="196" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">EXPERIENCE</text>
+<text x="770" y="196" text-anchor="middle" font-size="11" fill="#1a2e4a">Typically 10+ years management, has led managers</text>
+
+<line x1="500" y1="232" x2="940" y2="232" stroke="#f3f4f6" stroke-width="1"/>
+<text x="586" y="222" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">COMMAND VERB</text>
+<text x="770" y="222" text-anchor="middle" font-size="11" fill="#1a2e4a">Critically Analyse · Develop and Implement a Strategy</text>
+
+<line x1="500" y1="258" x2="940" y2="258" stroke="#f3f4f6" stroke-width="1"/>
+<text x="586" y="248" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">FORMAT</text>
+<text x="770" y="248" text-anchor="middle" font-size="11" fill="#1a2e4a">Strategic paper with critical literature review</text>
+
+<!-- col divider inside card -->
+<line x1="640" y1="94" x2="640" y2="300" stroke="#eff6ff" stroke-width="1"/>
+
+<text x="586" y="94" text-anchor="middle" font-size="10" font-weight="600" fill="#6b7280">TYPE</text>
+<line x1="640" y1="94" x2="940" y2="94" stroke="#f3f4f6" stroke-width="1"/>
+
+<!-- L7 membership badge -->
+<rect x="630" y="268" width="180" height="30" rx="15" fill="#eef2ff"/>
+<text x="720" y="288" text-anchor="middle" font-size="12" font-weight="700" fill="#3730a3">FCMI on completion</text>
+
+<!-- vs badge in the gap -->
+<circle cx="480" cy="176" r="22" fill="white" stroke="#e5e7eb" stroke-width="1.5"/>
+<text x="480" y="182" text-anchor="middle" font-size="14" font-weight="700" fill="#1a2e4a">vs</text>
+
+</svg>

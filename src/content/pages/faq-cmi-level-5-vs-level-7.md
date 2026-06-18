@@ -15,9 +15,17 @@ CMI Level 5 and Level 7 are the two most studied and most compared CMI qualifica
 
 The answer is not simply that Level 7 is longer or harder in the same way. Level 5 and Level 7 are qualitatively different academic undertakings - different in scope, format, command verb depth, academic standard, and the professional perspective they require. This page explains those differences precisely so you can make an informed decision - and so you know what assignment support you will need if you study either level.
 
-<!-- CMI LEVEL 5 VS LEVEL 7 COMPARISON TABLE: Place below intro paragraph, above first H2 -->
-<!-- Components: Side-by-side comparison table: two columns: "CMI Level 5 - Management and Leadership" vs "CMI Level 7 - Strategic Management and Leadership". Rows: Scope | Assignment Format | Primary Command Verb | Academic Sources | Word Count Per Unit | Total Diploma Word Count | UK Qualification Equivalence | CMI Membership Outcome | Typical Student Role. -->
-<!-- Alt text: "CMI Level 5 vs Level 7 comparison table: scope, format, command verbs, academic sources, word count, qualification equivalence, and CMI membership compared" -->
+<figure style="margin:2rem 0">
+  <img
+    src="/infographics/l5-vs-l7-comparison.svg"
+    alt="CMI Level 5 vs Level 7 comparison table: scope, format, command verbs, academic sources, word count, qualification equivalence, and CMI membership compared"
+    width="960"
+    height="456"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="lazy"
+  />
+</figure>
+
 ---
 
 ## The Five Key Differences Between CMI Level 5 and Level 7
@@ -56,9 +64,16 @@ In practice: a Level 5 assignment might Evaluate transformational leadership usi
 
 The Level 7 distinction is not more content. It is a fundamentally different mode of academic engagement.
 
-<!-- CMI COMMAND VERB PROGRESSION DIAGRAM: Place below the command verb section, above "4 - Academic Sources" H3 -->
-<!-- Components: Horizontal progression or stepped diagram: L3/L4: Describe, Explain, Analyse | L5: Evaluate | L6: Critically Evaluate | L7: Critically Analyse. Each level labelled with qualification name and primary command verb. Arrows show progression. -->
-<!-- Alt text: "CMI command verb progression by level: from Analyse at Level 4 through Evaluate at Level 5 and Critically Evaluate at Level 6 to Critically Analyse at Level 7 - showing how academic depth increases across the qualification framework" -->
+<figure style="margin:2rem 0">
+  <img
+    src="/infographics/cmi-command-verb-progression.svg"
+    alt="CMI command verb progression by level: from Analyse at Level 4 through Evaluate at Level 5 and Critically Evaluate at Level 6 to Critically Analyse at Level 7 — showing how academic depth increases across the qualification framework"
+    width="960"
+    height="220"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="lazy"
+  />
+</figure>
 
 ### 4: Academic Sources: Management Texts vs Peer-Reviewed Research
 
@@ -79,9 +94,16 @@ The per-unit word count at Level 7 is not simply longer. It is denser. The Criti
 ---
 
 ## Which CMI Level Is Right for You
-<!-- STUDENT PROFILE CARDS: Place below this heading, above the decision guide table -->
-<!-- Components: Two profile cards side by side. Left card: "CMI Level 5 Student Profile": middle manager, operational leader, NHS Band 7, management scope (team/department), ACMI pathway. Right card - "CMI Level 7 Student Profile": director, C-suite, NHS Band 8b+, management scope (organisational/board), FCMI pathway. -->
-<!-- Alt text: "CMI Level 5 vs Level 7 student profile comparison: middle manager pursuing operational management diploma versus director pursuing strategic leadership diploma" -->
+<figure style="margin:2rem 0">
+  <img
+    src="/infographics/l5-vs-l7-student-profiles.svg"
+    alt="CMI Level 5 vs Level 7 student profile comparison: middle manager pursuing operational management diploma versus director pursuing strategic leadership diploma"
+    width="960"
+    height="320"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="lazy"
+  />
+</figure>
 | If you are... | Consider... |
 |---|---|
 | A team leader, operational manager, or department head managing a team and responsible for operational delivery | **CMI Level 5** - Management and Leadership Diploma is designed for your management level and context |

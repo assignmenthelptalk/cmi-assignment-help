@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 220" width="960" height="220">
+<defs>
+  <style>text{font-family:Inter,system-ui,-apple-system,sans-serif}</style>
+  <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#94a3b8"/>
+  </marker>
+</defs>
+
+<!-- background -->
+<rect width="960" height="220" rx="8" fill="#f9fafb"/>
+<rect width="960" height="220" rx="8" fill="none" stroke="#e5e7eb" stroke-width="1.5"/>
+
+<!-- title -->
+<text x="480" y="26" text-anchor="middle" font-size="13" font-weight="700" fill="#1a2e4a" letter-spacing="0.3">CMI Command Verb Depth — By Qualification Level</text>
+
+<!-- STEP NODES: 5 nodes at x = 80, 240, 480, 720, 880 -->
+<!-- node widths: 130px each, height 100px, top-left at (x-65, 44) -->
+
+<!-- connecting arrows: from right edge of node to left edge of next -->
+<!-- arrow 1: 145→175 -->
+<line x1="147" y1="94" x2="177" y2="94" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrow)"/>
+<!-- arrow 2: 307→373 -->
+<line x1="307" y1="94" x2="349" y2="94" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrow)"/>
+<!-- arrow 3: 547→613 -->
+<line x1="547" y1="94" x2="589" y2="94" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrow)"/>
+<!-- arrow 4: 787→817 -->
+<line x1="787" y1="94" x2="817" y2="94" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<!-- NODE 1: Level 3–4, x=82, box 17→147 -->
+<rect x="17" y="50" width="130" height="88" rx="8" fill="#dbeafe" stroke="#93c5fd" stroke-width="1.5"/>
+<rect x="17" y="50" width="130" height="30" rx="8" fill="#3b82f6"/>
+<rect x="17" y="70" width="130" height="10" fill="#3b82f6"/>
+<text x="82" y="70" text-anchor="middle" font-size="11" font-weight="700" fill="white">CMI Level 3 – 4</text>
+<text x="82" y="100" text-anchor="middle" font-size="10" fill="#1e40af">Primary verbs:</text>
+<text x="82" y="116" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">Describe</text>
+<text x="82" y="132" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">Explain</text>
+
+<!-- NODE 2: Level 5, x=418, box 353→483 -->
+<rect x="353" y="40" width="130" height="98" rx="8" fill="#dcfce7" stroke="#86efac" stroke-width="1.5"/>
+<rect x="353" y="40" width="130" height="30" rx="8" fill="#16a34a"/>
+<rect x="353" y="60" width="130" height="10" fill="#16a34a"/>
+<text x="418" y="60" text-anchor="middle" font-size="11" font-weight="700" fill="white">CMI Level 5</text>
+<text x="418" y="90" text-anchor="middle" font-size="10" fill="#166534">Primary verb:</text>
+<text x="418" y="110" text-anchor="middle" font-size="16" font-weight="700" fill="#14532d">Evaluate</text>
+<text x="418" y="128" text-anchor="middle" font-size="9" fill="#166534">Management report format</text>
+
+<!-- NODE 3: Level 6, x=654, box 589→719 -->
+<rect x="589" y="34" width="130" height="104" rx="8" fill="#fef3c7" stroke="#fcd34d" stroke-width="1.5"/>
+<rect x="589" y="34" width="130" height="30" rx="8" fill="#d97706"/>
+<rect x="589" y="54" width="130" height="10" fill="#d97706"/>
+<text x="654" y="54" text-anchor="middle" font-size="11" font-weight="700" fill="white">CMI Level 6</text>
+<text x="654" y="83" text-anchor="middle" font-size="10" fill="#92400e">Primary verb:</text>
+<text x="654" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#78350f">Critically</text>
+<text x="654" y="117" text-anchor="middle" font-size="13" font-weight="700" fill="#78350f">Evaluate</text>
+<text x="654" y="132" text-anchor="middle" font-size="9" fill="#92400e">Professional Management</text>
+
+<!-- NODE 4: Level 7, x=883, box 818→948 -->
+<rect x="818" y="26" width="130" height="112" rx="8" fill="#ede9fe" stroke="#c4b5fd" stroke-width="1.5"/>
+<rect x="818" y="26" width="130" height="30" rx="8" fill="#5b21b6"/>
+<rect x="818" y="46" width="130" height="10" fill="#5b21b6"/>
+<text x="883" y="46" text-anchor="middle" font-size="11" font-weight="700" fill="white">CMI Level 7</text>
+<text x="883" y="74" text-anchor="middle" font-size="10" fill="#4c1d95">Primary verb:</text>
+<text x="883" y="91" text-anchor="middle" font-size="13" font-weight="700" fill="#3b0764">Critically</text>
+<text x="883" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#3b0764">Analyse</text>
+<text x="883" y="129" text-anchor="middle" font-size="9" fill="#4c1d95">Strategic paper format</text>
+
+<!-- "DEPTH INCREASES" label -->
+<line x1="17" y1="168" x2="943" y2="168" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="480" y="163" text-anchor="middle" font-size="9" fill="#94a3b8" letter-spacing="3">DEPTH INCREASES</text>
+<polygon points="940,164 952,168 940,172" fill="#94a3b8"/>
+
+<!-- bottom legend -->
+<text x="480" y="192" text-anchor="middle" font-size="10" fill="#6b7280">Evaluate = weigh evidence and reach a justified conclusion  ·  Critically Evaluate = examine assumptions and limitations  ·  Critically Analyse = deconstruct, interrogate and synthesise an original position</text>
+<text x="480" y="210" text-anchor="middle" font-size="10" fill="#9ca3af">cmiassignmentsupport.co.uk</text>
+</svg>

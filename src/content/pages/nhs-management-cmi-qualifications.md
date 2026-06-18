@@ -17,9 +17,17 @@ This guide answers the questions NHS managers ask most often: which CMI level co
 
 ---
 
-<!-- NHS BAND TO CMI LEVEL ALIGNMENT TABLE — Place below H1, above first H2 -->
-<!-- Components: Visual table — NHS Band 5 through Band 9 mapped to CMI Level 3–7; columns: Band, Typical Role Examples, Management Scope, Recommended CMI Level, Typical Award/Certificate/Diploma; colour-code rows by level grouping (L3-4, L5, L6-7) -->
-<!-- Alt text: "NHS Band to CMI Level alignment chart — Band 7 aligns to CMI Level 5 Diploma, Band 8c+ aligns to CMI Level 7 Diploma in Strategic Management and Leadership" -->
+<figure style="margin:2rem 0">
+  <img
+    src="/infographics/nhs-band-cmi-level.svg"
+    alt="NHS Band to CMI Level alignment chart — Band 7 aligns to CMI Level 5 Diploma, Band 8c+ aligns to CMI Level 7 Diploma in Strategic Management and Leadership"
+    width="960"
+    height="510"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="lazy"
+  />
+</figure>
+
 ---
 
 ## Which CMI Level Aligns to Your NHS Band
@@ -64,9 +72,16 @@ If your programme was not the CMI-accredited version, completing it does not giv
 
 Not every CMI unit carries equal relevance for NHS management roles. The units below are consistently the most applicable — and the ones most commonly assigned in NHS-funded CMI programmes.
 
-<!-- CMI UNITS RELEVANT TO NHS MANAGERS — Place after unit relevance H2 -->
-<!-- Components: Two-column visual split — left column: CMI Level 5 priority units (501, 502, 503, 504, 509) each with a one-line NHS applicability note; right column: CMI Level 7 priority units (701, 702, 704, 705) each with NHS applicability note; NHS-branded colour scheme (NHS blue/white) -->
-<!-- Alt text: "CMI units most relevant for NHS managers — Level 5 units 501 504 509 and Level 7 units 701 702 704 705 with NHS management applicability notes" -->
+<figure style="margin:2rem 0">
+  <img
+    src="/infographics/nhs-manager-cmi-units.svg"
+    alt="CMI units most relevant for NHS managers — Level 5 units 501 502 504 509 513 and Level 7 units 701 702 704 705 with NHS management applicability notes"
+    width="960"
+    height="420"
+    style="width:100%;height:auto;display:block;border-radius:8px;"
+    loading="lazy"
+  />
+</figure>
 
 ### CMI Level 5 — For Band 7 and Band 8a NHS Managers
 

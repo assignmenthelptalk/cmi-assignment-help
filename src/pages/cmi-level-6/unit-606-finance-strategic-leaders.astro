@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-6-unit-606');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-6-unit-606');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 606 Assignment Help — Finance for Strategic Leaders',
+    description: 'Expert CMI Unit 606 assignment help. Senior UK writers cover investment appraisal, strategic financial risk, and the financial leadership responsibilities of professional managers. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 606 Assignment Help — Finance for Strategic Leaders"
+  description="Expert CMI Unit 606 assignment help. Senior UK writers cover investment appraisal, strategic financial risk, and the financial leadership responsibilities of professional managers. WhatsApp for a free quote."
+  slug="/cmi-level-6/unit-606-finance-strategic-leaders/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 6 Assignment Help', href: '/cmi-level-6-assignment-help/' },
+    { label: 'CMI 606 Assignment Help', href: '/cmi-level-6/unit-606-finance-strategic-leaders/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

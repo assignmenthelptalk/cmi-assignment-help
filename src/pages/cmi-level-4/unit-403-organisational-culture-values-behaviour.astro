@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-4-unit-403');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-4-unit-403');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 403 Assignment Help — Organisational Culture, Values and Behaviour',
+    description: 'Expert CMI Unit 403 assignment help. UK writers cover Schein\'s culture model, Handy\'s culture types, and how culture shapes values and behaviour. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 403 Assignment Help — Organisational Culture, Values and Behaviour"
+  description="Expert CMI Unit 403 assignment help. UK writers cover Schein's culture model, Handy's culture types, and how culture shapes values and behaviour. WhatsApp for a free quote."
+  slug="/cmi-level-4/unit-403-organisational-culture-values-behaviour/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 4 Assignment Help', href: '/cmi-level-4-assignment-help/' },
+    { label: 'CMI 403 Assignment Help', href: '/cmi-level-4/unit-403-organisational-culture-values-behaviour/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

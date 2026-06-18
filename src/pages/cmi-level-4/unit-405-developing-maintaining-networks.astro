@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-4-unit-405');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-4-unit-405');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 405 Assignment Help — Developing and Maintaining Professional Networks',
+    description: 'Expert CMI Unit 405 assignment help. UK writers cover professional networking, internal and external networks, and how managers leverage networks for performance. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 405 Assignment Help — Developing and Maintaining Professional Networks"
+  description="Expert CMI Unit 405 assignment help. UK writers cover professional networking, internal and external networks, and how managers leverage networks for performance. WhatsApp for a free quote."
+  slug="/cmi-level-4/unit-405-developing-maintaining-networks/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 4 Assignment Help', href: '/cmi-level-4-assignment-help/' },
+    { label: 'CMI 405 Assignment Help', href: '/cmi-level-4/unit-405-developing-maintaining-networks/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

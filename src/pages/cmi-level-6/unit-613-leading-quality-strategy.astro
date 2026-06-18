@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-6-unit-613');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-6-unit-613');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 613 Assignment Help — Leading the Development of a Quality Strategy',
+    description: 'Expert CMI Unit 613 assignment help. Senior UK writers cover quality strategy design, quality leadership, and performance measurement frameworks. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 613 Assignment Help — Leading the Development of a Quality Strategy"
+  description="Expert CMI Unit 613 assignment help. Senior UK writers cover quality strategy design, quality leadership, and performance measurement frameworks. WhatsApp for a free quote."
+  slug="/cmi-level-6/unit-613-leading-quality-strategy/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 6 Assignment Help', href: '/cmi-level-6-assignment-help/' },
+    { label: 'CMI 613 Assignment Help', href: '/cmi-level-6/unit-613-leading-quality-strategy/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

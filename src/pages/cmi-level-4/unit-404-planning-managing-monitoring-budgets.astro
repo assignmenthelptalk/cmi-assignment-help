@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-4-unit-404');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-4-unit-404');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 404 Assignment Help — Planning, Managing and Monitoring Budgets',
+    description: 'Expert CMI Unit 404 assignment help. UK writers cover budget planning, variance analysis, and the manager\'s role in financial planning and monitoring. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 404 Assignment Help — Planning, Managing and Monitoring Budgets"
+  description="Expert CMI Unit 404 assignment help. UK writers cover budget planning, variance analysis, and the manager's role in financial planning and monitoring. WhatsApp for a free quote."
+  slug="/cmi-level-4/unit-404-planning-managing-monitoring-budgets/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 4 Assignment Help', href: '/cmi-level-4-assignment-help/' },
+    { label: 'CMI 404 Assignment Help', href: '/cmi-level-4/unit-404-planning-managing-monitoring-budgets/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

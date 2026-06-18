@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-3-unit-303');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-3-unit-303');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 303 Assignment Help — Managing Individuals to Be Effective in the Workplace',
+    description: 'Expert CMI Unit 303 assignment help. UK writers cover motivation theories, Maslow, Herzberg, and adapting management approach to individual needs. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 303 Assignment Help — Managing Individuals to Be Effective in the Workplace"
+  description="Expert CMI Unit 303 assignment help. UK writers cover motivation theories, Maslow, Herzberg, and adapting management approach to individual needs. WhatsApp for a free quote."
+  slug="/cmi-level-3/unit-303-managing-individuals-effective-workplace/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 3 Assignment Help', href: '/cmi-level-3-assignment-help/' },
+    { label: 'CMI 303 Assignment Help', href: '/cmi-level-3/unit-303-managing-individuals-effective-workplace/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

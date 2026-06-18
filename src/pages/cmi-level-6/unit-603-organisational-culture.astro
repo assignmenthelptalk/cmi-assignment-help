@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-6-unit-603');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-6-unit-603');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 603 Assignment Help — Organisational Culture',
+    description: 'Expert CMI Unit 603 assignment help. Senior UK writers cover Schein\'s culture model, Hofstede, and the senior leader\'s role in strategic culture change. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 603 Assignment Help — Organisational Culture"
+  description="Expert CMI Unit 603 assignment help. Senior UK writers cover Schein's culture model, Hofstede, and the senior leader's role in strategic culture change. WhatsApp for a free quote."
+  slug="/cmi-level-6/unit-603-organisational-culture/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 6 Assignment Help', href: '/cmi-level-6-assignment-help/' },
+    { label: 'CMI 603 Assignment Help', href: '/cmi-level-6/unit-603-organisational-culture/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

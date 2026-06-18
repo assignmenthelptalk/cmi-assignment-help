@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-3-unit-306');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-3-unit-306');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 306 Assignment Help — Principles of Delivering Coaching and Mentoring',
+    description: 'Expert CMI Unit 306 assignment help. UK writers cover the GROW model, coaching vs mentoring distinction, and how to apply coaching techniques. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 306 Assignment Help — Principles of Delivering Coaching and Mentoring"
+  description="Expert CMI Unit 306 assignment help. UK writers cover the GROW model, coaching vs mentoring distinction, and how to apply coaching techniques. WhatsApp for a free quote."
+  slug="/cmi-level-3/unit-306-principles-coaching-mentoring/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 3 Assignment Help', href: '/cmi-level-3-assignment-help/' },
+    { label: 'CMI 306 Assignment Help', href: '/cmi-level-3/unit-306-principles-coaching-mentoring/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

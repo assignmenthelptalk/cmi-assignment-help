@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-6-unit-607');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-6-unit-607');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 607 Assignment Help — Procurement, Purchasing and Contracting',
+    description: 'Expert CMI Unit 607 assignment help. Senior UK writers cover strategic procurement, supplier relationship management, and contracting at organisational level. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 607 Assignment Help — Procurement, Purchasing and Contracting"
+  description="Expert CMI Unit 607 assignment help. Senior UK writers cover strategic procurement, supplier relationship management, and contracting at organisational level. WhatsApp for a free quote."
+  slug="/cmi-level-6/unit-607-procurement-purchasing-contracting/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 6 Assignment Help', href: '/cmi-level-6-assignment-help/' },
+    { label: 'CMI 607 Assignment Help', href: '/cmi-level-6/unit-607-procurement-purchasing-contracting/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

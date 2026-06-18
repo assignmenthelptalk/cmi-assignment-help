@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-4-unit-402');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-4-unit-402');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 402 Assignment Help — Managing Stakeholders\' Expectations',
+    description: 'Expert CMI Unit 402 assignment help. UK writers cover stakeholder mapping, power-interest matrix, Analyse and Evaluate, and stakeholder communication strategy. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 402 Assignment Help — Managing Stakeholders' Expectations"
+  description="Expert CMI Unit 402 assignment help. UK writers cover stakeholder mapping, power-interest matrix, Analyse and Evaluate, and stakeholder communication strategy. WhatsApp for a free quote."
+  slug="/cmi-level-4/unit-402-managing-stakeholders-expectations/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 4 Assignment Help', href: '/cmi-level-4-assignment-help/' },
+    { label: 'CMI 402 Assignment Help', href: '/cmi-level-4/unit-402-managing-stakeholders-expectations/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

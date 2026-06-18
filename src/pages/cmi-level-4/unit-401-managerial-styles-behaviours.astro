@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-4-unit-401');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-4-unit-401');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 401 Assignment Help — Managerial Styles and Behaviours',
+    description: 'Expert CMI Unit 401 assignment help. UK writers cover contingency theory, situational leadership, Analyse command verb, and management style application. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 401 Assignment Help — Managerial Styles and Behaviours"
+  description="Expert CMI Unit 401 assignment help. UK writers cover contingency theory, situational leadership, Analyse command verb, and management style application. WhatsApp for a free quote."
+  slug="/cmi-level-4/unit-401-managerial-styles-behaviours/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 4 Assignment Help', href: '/cmi-level-4-assignment-help/' },
+    { label: 'CMI 401 Assignment Help', href: '/cmi-level-4/unit-401-managerial-styles-behaviours/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

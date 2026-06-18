@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-3-unit-310');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-3-unit-310');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 310 Assignment Help — Understanding Finance in the Workplace',
+    description: 'Expert CMI Unit 310 assignment help. UK writers cover budgets, variances, cost centres, and financial awareness for first-line managers. Free quote on WhatsApp.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 310 Assignment Help — Understanding Finance in the Workplace"
+  description="Expert CMI Unit 310 assignment help. UK writers cover budgets, variances, cost centres, and financial awareness for first-line managers. Free quote on WhatsApp."
+  slug="/cmi-level-3/unit-310-understanding-finance-workplace/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 3 Assignment Help', href: '/cmi-level-3-assignment-help/' },
+    { label: 'CMI 310 Assignment Help', href: '/cmi-level-3/unit-310-understanding-finance-workplace/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

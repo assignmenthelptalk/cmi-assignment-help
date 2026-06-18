@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-6-unit-612');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-6-unit-612');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 612 Assignment Help — Coaching Skills for Leaders',
+    description: 'Expert CMI Unit 612 assignment help. Senior UK writers cover advanced coaching models, coaching culture, and the senior leader as coach. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 612 Assignment Help — Coaching Skills for Leaders"
+  description="Expert CMI Unit 612 assignment help. Senior UK writers cover advanced coaching models, coaching culture, and the senior leader as coach. WhatsApp for a free quote."
+  slug="/cmi-level-6/unit-612-coaching-skills-leaders/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 6 Assignment Help', href: '/cmi-level-6-assignment-help/' },
+    { label: 'CMI 612 Assignment Help', href: '/cmi-level-6/unit-612-coaching-skills-leaders/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

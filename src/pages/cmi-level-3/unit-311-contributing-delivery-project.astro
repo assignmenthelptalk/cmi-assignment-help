@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-3-unit-311');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-3-unit-311');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 311 Assignment Help — Contributing to the Delivery of a Project',
+    description: 'Expert CMI Unit 311 assignment help. UK writers cover project planning, milestones, stakeholder involvement, and monitoring progress. Free quote on WhatsApp.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 311 Assignment Help — Contributing to the Delivery of a Project"
+  description="Expert CMI Unit 311 assignment help. UK writers cover project planning, milestones, stakeholder involvement, and monitoring progress. Free quote on WhatsApp."
+  slug="/cmi-level-3/unit-311-contributing-delivery-project/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 3 Assignment Help', href: '/cmi-level-3-assignment-help/' },
+    { label: 'CMI 311 Assignment Help', href: '/cmi-level-3/unit-311-contributing-delivery-project/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

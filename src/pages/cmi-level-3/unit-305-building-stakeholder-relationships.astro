@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-3-unit-305');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-3-unit-305');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 305 Assignment Help — Building Stakeholder Relationships',
+    description: 'Expert CMI Unit 305 assignment help. UK writers cover stakeholder identification, power-interest analysis, and building effective working relationships. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 305 Assignment Help — Building Stakeholder Relationships"
+  description="Expert CMI Unit 305 assignment help. UK writers cover stakeholder identification, power-interest analysis, and building effective working relationships. WhatsApp for a free quote."
+  slug="/cmi-level-3/unit-305-building-stakeholder-relationships/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 3 Assignment Help', href: '/cmi-level-3-assignment-help/' },
+    { label: 'CMI 305 Assignment Help', href: '/cmi-level-3/unit-305-building-stakeholder-relationships/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

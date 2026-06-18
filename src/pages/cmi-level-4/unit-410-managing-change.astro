@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-4-unit-410');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-4-unit-410');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 410 Assignment Help — Managing Change',
+    description: 'Expert CMI Unit 410 assignment help. UK writers cover Kotter\'s 8-Step Model, Lewin\'s Force Field Analysis, ADKAR, and Evaluating change management approaches. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 410 Assignment Help — Managing Change"
+  description="Expert CMI Unit 410 assignment help. UK writers cover Kotter's 8-Step Model, Lewin's Force Field Analysis, ADKAR, and Evaluating change management approaches. WhatsApp for a free quote."
+  slug="/cmi-level-4/unit-410-managing-change/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 4 Assignment Help', href: '/cmi-level-4-assignment-help/' },
+    { label: 'CMI 410 Assignment Help', href: '/cmi-level-4/unit-410-managing-change/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

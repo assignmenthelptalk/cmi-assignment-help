@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-6-unit-616');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-6-unit-616');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 616 Assignment Help — Mental Health and Wellbeing in the Workplace',
+    description: 'Expert CMI Unit 616 assignment help. Senior UK writers cover organisational wellbeing strategy, psychological safety, and strategic workforce mental health planning. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 616 Assignment Help — Mental Health and Wellbeing in the Workplace"
+  description="Expert CMI Unit 616 assignment help. Senior UK writers cover organisational wellbeing strategy, psychological safety, and strategic workforce mental health planning. WhatsApp for a free quote."
+  slug="/cmi-level-6/unit-616-mental-health-wellbeing-workplace/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 6 Assignment Help', href: '/cmi-level-6-assignment-help/' },
+    { label: 'CMI 616 Assignment Help', href: '/cmi-level-6/unit-616-mental-health-wellbeing-workplace/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

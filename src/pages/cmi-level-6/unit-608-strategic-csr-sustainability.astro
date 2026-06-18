@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-6-unit-608');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-6-unit-608');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 608 Assignment Help — Strategic CSR and Sustainability',
+    description: 'Expert CMI Unit 608 assignment help. Senior UK writers cover ESG strategy, sustainability leadership, and the senior manager\'s CSR accountability. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 608 Assignment Help — Strategic CSR and Sustainability"
+  description="Expert CMI Unit 608 assignment help. Senior UK writers cover ESG strategy, sustainability leadership, and the senior manager's CSR accountability. WhatsApp for a free quote."
+  slug="/cmi-level-6/unit-608-strategic-csr-sustainability/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 6 Assignment Help', href: '/cmi-level-6-assignment-help/' },
+    { label: 'CMI 608 Assignment Help', href: '/cmi-level-6/unit-608-strategic-csr-sustainability/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

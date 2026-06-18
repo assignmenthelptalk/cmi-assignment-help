@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-3-unit-309');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-3-unit-309');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 309 Assignment Help — Leading Equality, Diversity and Inclusion',
+    description: 'Expert CMI Unit 309 assignment help. UK writers cover the Equality Act 2010, protected characteristics, and the first-line manager\'s EDI responsibilities. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 309 Assignment Help — Leading Equality, Diversity and Inclusion"
+  description="Expert CMI Unit 309 assignment help. UK writers cover the Equality Act 2010, protected characteristics, and the first-line manager's EDI responsibilities. WhatsApp for a free quote."
+  slug="/cmi-level-3/unit-309-leading-equality-diversity-inclusion/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 3 Assignment Help', href: '/cmi-level-3-assignment-help/' },
+    { label: 'CMI 309 Assignment Help', href: '/cmi-level-3/unit-309-leading-equality-diversity-inclusion/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

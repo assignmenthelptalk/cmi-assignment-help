@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-6-unit-602');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-6-unit-602');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 602 Assignment Help — Developing, Managing and Leading Individuals and Teams',
+    description: 'Expert CMI Unit 602 assignment help. Senior UK writers cover high-performance team models, talent strategy, and Critically Evaluate leadership effectiveness. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 602 Assignment Help — Developing, Managing and Leading Individuals and Teams"
+  description="Expert CMI Unit 602 assignment help. Senior UK writers cover high-performance team models, talent strategy, and Critically Evaluate leadership effectiveness. WhatsApp for a free quote."
+  slug="/cmi-level-6/unit-602-developing-managing-leading-individuals-teams/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 6 Assignment Help', href: '/cmi-level-6-assignment-help/' },
+    { label: 'CMI 602 Assignment Help', href: '/cmi-level-6/unit-602-developing-managing-leading-individuals-teams/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

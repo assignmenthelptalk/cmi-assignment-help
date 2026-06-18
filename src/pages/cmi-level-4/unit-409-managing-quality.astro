@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-4-unit-409');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-4-unit-409');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 409 Assignment Help — Managing Quality',
+    description: 'Expert CMI Unit 409 assignment help. UK writers cover ISO 9001, TQM, Lean, Six Sigma, and how managers implement and sustain a quality culture. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 409 Assignment Help — Managing Quality"
+  description="Expert CMI Unit 409 assignment help. UK writers cover ISO 9001, TQM, Lean, Six Sigma, and how managers implement and sustain a quality culture. WhatsApp for a free quote."
+  slug="/cmi-level-4/unit-409-managing-quality/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 4 Assignment Help', href: '/cmi-level-4-assignment-help/' },
+    { label: 'CMI 409 Assignment Help', href: '/cmi-level-4/unit-409-managing-quality/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

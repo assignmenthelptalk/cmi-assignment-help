@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-6-unit-610');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-6-unit-610');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'CMI 610 Assignment Help — Principles and Practices of Policy Development',
+    description: 'Expert CMI Unit 610 assignment help. Senior UK writers cover policy design, evidence-based policy, stakeholder consultation, and policy evaluation. WhatsApp for a free quote.',
+    provider: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://cmiassignmentsupport.co.uk',
+    },
+    areaServed: 'GB',
+    serviceType: 'CMI assignment writing support',
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI 610 Assignment Help — Principles and Practices of Policy Development"
+  description="Expert CMI Unit 610 assignment help. Senior UK writers cover policy design, evidence-based policy, stakeholder consultation, and policy evaluation. WhatsApp for a free quote."
+  slug="/cmi-level-6/unit-610-principles-practices-policy-development/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Level 6 Assignment Help', href: '/cmi-level-6-assignment-help/' },
+    { label: 'CMI 610 Assignment Help', href: '/cmi-level-6/unit-610-principles-practices-policy-development/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

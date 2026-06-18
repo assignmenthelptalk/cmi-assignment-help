@@ -11,11 +11,11 @@ Message us with your unit code and deadline for an instant response.
 
 ## What Is CMI Level 5 and Who Studies It?
 
-CMI Level 5 is the UK's most widely studied management qualification at the applied practitioner level. It is formally equivalent to a Foundation Degree or HNC and is recognised across UK sectors — including the NHS, public sector, retail, professional services, and commercial management — as a credible, substantive management credential.
+CMI Level 5 is the UK's most widely studied management qualification at the applied practitioner level. It is formally equivalent to a Foundation Degree or HNC and is recognised across UK sectors (including the NHS, public sector, retail, professional services, and commercial management) as a credible, substantive management credential.
 
 The typical CMI Level 5 student is a middle manager or operational leader working full-time alongside their qualification. This includes NHS managers at Band 7 and above, project managers, department heads, HR managers with line management responsibility, and team leaders stepping up from an operational role into a formal management position.
 
-The primary reason Level 5 students seek assignment help is workload. A Level 5 Diploma student typically completes 6–8 units totalling 18,000–30,000 words — while managing a team, attending meetings, reporting to senior leadership, and carrying all the responsibilities of a full-time management role. The academic writing requirement — specifically the management report format and the Evaluate and Justify command verbs — is genuinely demanding at this level.
+The primary reason Level 5 students seek assignment help is workload. A Level 5 Diploma student typically completes 6–8 units totalling 18,000–30,000 words, all while managing a team, attending meetings, reporting to senior leadership, and carrying all the responsibilities of a full-time management role. The academic writing requirement — specifically the management report format and the Evaluate and Justify command verbs — is genuinely demanding at this level.
 
 ### CMI Level 5 Award, Certificate, and Diploma — Qualification Structure
 
@@ -31,7 +31,7 @@ The Diploma is the most commonly pursued Level 5 qualification. It provides the 
 
 ## What CMI Level 5 Assignments Require
 
-CMI Level 5 assignments primarily follow the management report format — the most common format across Level 5 units and the format most different from the essays students may have written at Level 3 or Level 4.
+CMI Level 5 assignments primarily follow the management report format, the most common format across Level 5 units and the format most different from the essays students may have written at Level 3 or Level 4.
 
 ### The Management Report Format at Level 5 — What to Include
 
@@ -49,7 +49,7 @@ A complete Level 5 management report includes the following sections:
 | Bibliography | Harvard references — minimum 10–12 sources | — |
 | Appendices | Supporting data, diagrams, evidence | As needed |
 
-The executive summary and the recommendations section are the two elements most commonly missing or underdeveloped in Level 5 student submissions. The executive summary must be able to stand alone — an assessor who only reads the executive summary should be able to identify the report's key findings and recommendations without reading the main body.
+The executive summary and the recommendations section are the two elements most commonly missing or underdeveloped in Level 5 student submissions. The executive summary must be able to stand alone: an assessor who only reads the executive summary should be able to identify the report's key findings and recommendations without reading the main body.
 
 ### Evaluate and Justify — The Core Command Verbs at Level 5
 

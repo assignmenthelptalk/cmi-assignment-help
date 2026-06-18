@@ -123,7 +123,7 @@ A correctly structured Level 5 recommendation: "Implement Tuckman's team develop
 
 This recommendation is specific (what to do, when, by whom), justified (management theory cited with evidence), and connected to the analysis of team performance management in the main body.
 
-At Level 7, recommendations must additionally demonstrate strategic implications — how they align to organisational strategy, governance, and long-term performance goals. Our [Level 7 assignment help](/cmi-level-7-assignment-help/) covers strategic report writing at full depth.
+At Level 7, recommendations must additionally demonstrate strategic implications: how they align to organisational strategy, governance, and long-term performance goals. Our [Level 7 assignment help](/cmi-level-7-assignment-help/) covers strategic report writing at full depth.
 
 ---
 

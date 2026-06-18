@@ -45,7 +45,7 @@ If you have received a referral on a CMI coursework unit, resubmission support i
 
 ### Ongoing Unit-by-Unit Coursework Support
 
-For students completing a full Diploma across multiple units and submissions. A dedicated writer is matched to your qualification and sector, providing consistent support across all units — maintaining a coherent approach to your management style, the organisation you reference, and the theoretical frameworks you apply throughout the qualification. Unit-by-unit support also includes deadline planning guidance to manage submission sequencing.
+For students completing a full Diploma across multiple units and submissions. A dedicated writer is matched to your qualification and sector, providing consistent support across all units. They maintain a coherent approach to your management style, the organisation you reference, and the theoretical frameworks you apply throughout the qualification. Unit-by-unit support also includes deadline planning guidance to manage submission sequencing.
 
 ---
 

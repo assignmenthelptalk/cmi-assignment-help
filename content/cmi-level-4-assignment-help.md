@@ -11,11 +11,11 @@ Message us with your unit code and deadline for an instant quote.
 
 ## What Is CMI Level 4 and Who Studies It?
 
-CMI Level 4 covers Management and Leadership — the formal qualification for managers who lead teams, manage budgets, and take operational responsibility within an organisation. It is the step after Level 3 First Line Management, introducing more demanding analytical expectations and longer assignment requirements.
+CMI Level 4 covers Management and Leadership, the formal qualification for managers who lead teams, manage budgets, and take operational responsibility within an organisation. It is the step after Level 3 First Line Management, introducing more demanding analytical expectations and longer assignment requirements.
 
 The typical CMI Level 4 student is a team manager, department head, newly appointed operational manager, or a supervisor who has completed Level 3 and is progressing through their CMI qualification. Level 4 is also studied by HR managers entering management roles, NHS Band 6–7 staff moving into operational leadership, and managers in professional services and commercial sectors who need a formal management qualification at this level.
 
-The key difference between Level 3 and Level 4 is not the management subject matter — it is the depth of analytical engagement the assessor expects. Level 3 asks students to Identify and Describe. Level 4 asks them to Analyse and Evaluate — which requires a substantively different approach to responding to the assignment task.
+The key difference between Level 3 and Level 4 is not the management subject matter. It is the depth of analytical engagement the assessor expects. Level 3 asks students to Identify and Describe. Level 4 asks them to Analyse and Evaluate — which requires a substantively different approach to responding to the assignment task.
 
 ### CMI Level 4 Award, Certificate, and Diploma — Qualification Structure
 

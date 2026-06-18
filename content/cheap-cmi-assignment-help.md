@@ -11,17 +11,17 @@ No obligation. Message with your unit, word count, and deadline for an instant, 
 
 Every CMI assignment, at every price point, includes the same core service. Pricing reflects the level of qualification and the word count — not the quality of the writer, the depth of the referencing, or the care taken to meet your Assessment Criteria.
 
-**Harvard referencing** is included at every price point — in-text citations and a full bibliography, formatted to academic standard. It is not an add-on. It is not an optional extra. Every assignment we deliver is referenced to the standard CMI assessors require.
+Harvard referencing is included at every price point: in-text citations and a full bibliography, formatted to academic standard. It is not an add-on or optional extra. Every assignment we deliver is referenced to the standard CMI assessors require.
 
-**Command verb compliance** is included at every price point — Analyse, Evaluate, Justify, and Critically Evaluate applied at the cognitive depth appropriate for your level. A Level 3 assignment is not written to a Level 3 standard because it costs less than a Level 7 paper — it is written to a Level 3 standard because that is the correct standard for the qualification. The depth is calibrated to your level, not to the price.
+Command verb compliance is included at every price point. Analyse, Evaluate, Justify, and Critically Evaluate are applied at the cognitive depth appropriate for your level. The depth is calibrated to your level, not to the price.
 
-**Learning Outcomes alignment** is included at every price point — every Learning Outcome in your unit brief is mapped and addressed in the assignment. This is not a premium feature. It is the fundamental requirement that prevents a referral.
+Learning Outcomes alignment is included at every price point. Every Learning Outcome in your unit brief is mapped and addressed in the assignment. This is not a premium feature. It is the fundamental requirement that prevents a referral.
 
-**2 revisions** are included at no extra cost — if any section does not meet your brief requirements, we correct it.
+Two revisions are included at no extra cost. If any section does not meet your brief requirements, we correct it.
 
-**Submission-ready Word document** delivered via WhatsApp or email — formatted to the correct CMI document structure, within your word count, ready to submit.
+Your assignment is delivered as a submission-ready Word document via WhatsApp or email, formatted to the correct CMI document structure and within your word count.
 
-**CMI Level 5+ qualified writer** — all assignments are produced by writers with relevant CMI qualification experience. Entry-level pricing does not mean an inexperienced writer.
+All assignments are produced by writers with CMI Level 5+ qualifications and sector experience. Entry-level pricing does not mean an inexperienced writer.
 
 ### What's Included at Every Price Point — Checklist
 
@@ -40,11 +40,11 @@ Every CMI assignment, at every price point, includes the same core service. Pric
 
 CMI assignment help pricing is determined by three factors: your qualification level, the word count specified in your assignment brief, and your turnaround requirement. These three factors together produce the price — not the quality of the service, the number of revisions, or whether Harvard referencing is included.
 
-**Qualification level** is the primary pricing determinant. A Level 3 essay requires a different depth of analysis, a different source base, and a different structural format than a Level 7 strategic leadership paper. Level 3 is entry pricing. Level 5 is mid-range. Level 7 is the highest tier, reflecting the Master's-level critical analysis, 15–20 peer-reviewed sources, and strategic paper format required.
+Qualification level is the primary pricing factor. A Level 3 essay requires a different depth of analysis, source base, and structural format than a Level 7 strategic leadership paper. Level 3 is entry pricing; Level 5 is mid-range; Level 7 is the highest tier, covering Master's-level critical analysis, 15–20 peer-reviewed sources, and strategic paper format.
 
-**Word count** is the secondary pricing driver. Longer assignments take longer to write. A 2,000-word Level 3 essay costs less than a 2,500-word Level 3 essay, which costs less than a 3,000-word Level 4 report.
+Word count is the secondary driver. Longer assignments cost more. A 2,000-word Level 3 essay costs less than a 2,500-word Level 3 essay, which costs less than a 3,000-word Level 4 report.
 
-**Turnaround** affects pricing when express delivery is required. Standard delivery (5–7 business days) is included in the base price. A 48-hour express surcharge applies where the writer must prioritise your assignment over the standard queue.
+Turnaround affects pricing for express delivery. Standard delivery (5–7 business days) is included in the base price. A 48-hour express surcharge applies when the writer must prioritise your assignment over the standard queue.
 
 For a transparent, fixed quote based on your specific unit, word count, and deadline, message us on WhatsApp. Quotes are provided within 1 hour during trading hours. There is no obligation to proceed after receiving a quote.
 
@@ -56,7 +56,7 @@ Level 3 CMI assignments are our most affordable tier. A standard Level 3 unit es
 
 Level 4 assignments step up in word count (2,000–3,500 words) and in command verb depth — the Analyse step-up introduces a more structured argument requirement. Level 4 pricing reflects this increased complexity while remaining in the affordable-to-mid tier.
 
-Both Level 3 and Level 4 assignments represent the most accessible price points we offer. Students taking their first CMI unit — often at Level 3 — find that the cost per assignment is a manageable investment when weighed against the qualification value.
+Both Level 3 and Level 4 assignments represent the most accessible price points we offer. Students taking their first CMI unit (often at Level 3) find that the cost per assignment is a manageable investment when weighed against the qualification value.
 
 ### CMI Level 5 — Mid-Range Pricing for Diploma Assignments
 
@@ -114,7 +114,7 @@ Your writer is assigned and begins work immediately on confirmation. Standard de
 
 Price variation in the CMI assignment help market reflects three factors: business model, writer geography, and service quality assurance.
 
-Premium agency-style services charge for brand overhead — marketing spend, account management layers, and branded platforms. The service cost is padded with infrastructure costs that do not improve the quality of the assignment itself.
+Premium agency-style services charge for brand overhead: marketing spend, account management layers, and branded platforms. The service cost is padded with infrastructure costs that do not improve the quality of the assignment itself.
 
 Offshore services charge less because their writers are in lower-cost markets. The trade-off is CMI familiarity: writers who have not studied CMI qualifications, have not applied command verbs at the depth UK assessors require, and may not understand the specific Learning Outcomes structure of CMI units. A cheaper assignment that receives a referral — requiring a resubmission — costs more in stress, time, and often additional fees than a correctly priced, correctly written assignment in the first place.
 

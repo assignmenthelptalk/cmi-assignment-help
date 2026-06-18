@@ -41,7 +41,7 @@ This example covers the principles of management in a first-line management cont
 Theories applied: Lewin's leadership styles, Hersey and Blanchard's situational leadership model.
 Harvard sources: 7 sources cited.
 
-**Request this example on WhatsApp** — message us "Level 3 Unit 301 example" and we'll send the full document.
+**Request this example on WhatsApp**: message us "Level 3 Unit 301 example" and we'll send the full document.
 
 ---
 

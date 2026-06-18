@@ -53,7 +53,7 @@ You revise your draft based on the feedback and submit your own improved work. T
 
 ## Who Helps with Your CMI Homework
 
-CMI homework help is provided by writers and tutors who hold CMI Level 5 or Level 7 qualifications, or equivalent management credentials, and have direct experience completing CMI assessed work at all levels — including Level 3 and Level 4.
+CMI homework help is provided by writers and tutors who hold CMI Level 5 or Level 7 qualifications, or equivalent management credentials, and have direct experience completing CMI assessed work at all levels, including Level 3 and Level 4.
 
 They understand CMI's Learning Outcomes and Assessment Criteria, and are familiar with the variety of brief styles that different training providers use to set homework tasks. They know that "Describe the key functions of a first-line manager" requires a different response from "Analyse how first-line managers contribute to organisational performance" — even though both may appear to be the same topic.
 

@@ -103,7 +103,7 @@ Mendelow's Power/Interest Matrix (1991) is the most widely applied stakeholder m
 **Monitor (Low Power, Low Interest):** Limited power and limited current interest. Strategy: periodic monitoring: maintain awareness of whether their position is shifting.
 
 <!-- MENDELOW'S POWER/INTEREST MATRIX: Place after Mendelow section, above the Stakeholder Salience Model H3 -->
-<!-- Components: 2Ã-2 grid: vertical axis "Power" (Low/High), horizontal axis "Interest" (Low/High). Four quadrants: Monitor, Keep Informed, Keep Satisfied, Manage Closely. Each quadrant includes engagement strategy summary. -->
+<!-- Components: 2×2 grid: vertical axis "Power" (Low/High), horizontal axis "Interest" (Low/High). Four quadrants: Monitor, Keep Informed, Keep Satisfied, Manage Closely. Each quadrant includes engagement strategy summary. -->
 <!-- Alt text: "Mendelow's Power/Interest Matrix: four quadrants showing Keep Satisfied (high power, low interest), Manage Closely (high power, high interest), Monitor (low power, low interest), Keep Informed (low power, high interest) - CMI Unit 509 stakeholder mapping framework" -->
 **How to Evaluate Mendelow's matrix in CMI 509 AC1:** Criteria for evaluating Mendelow might include: clarity and practicality of stakeholder categorisation, adaptability to different management contexts, and accuracy of the power/interest assessment in dynamic situations. Mendelow's matrix scores well on clarity. Its limitation (required for Distinction) is that stakeholder positions are not fixed: a Monitor stakeholder can shift to Manage Closely if a decision activates their interest and they mobilise collective power.
 

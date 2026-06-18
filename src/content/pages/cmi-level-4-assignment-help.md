@@ -81,7 +81,7 @@ Unit 403 covers organisational culture models - Schein's three levels of culture
 Unit 404 covers budget planning, variance analysis, and cost centre management from a management perspective. The focus is on the manager's role in financial planning and monitoring, not advanced financial analysis. Management report format, 2,000–2,500 words. [CMI 404 assignment help](/cmi-level-4/unit-404-planning-managing-monitoring-budgets/)
 
 ### CMI 405: Principles of Developing and Maintaining Networks
-Unit 405 examines professional and organisational networking - strategies for building internal and external relationships, the purpose of networks in management, and how managers leverage networks for performance outcomes. 2,000–2,500 words. [CMI 405 assignment help](/cmi-level-4/unit-405-developing-maintaining-networks/)
+Unit 405 examines professional and organisational networking - strategies for building internal and external relationships, the purpose of networks in management, and how managers use networks for performance outcomes. 2,000–2,500 words. [CMI 405 assignment help](/cmi-level-4/unit-405-developing-maintaining-networks/)
 
 ### CMI 406: Management and Leadership Influencing Skills
 Unit 406 covers influence, persuasion, and negotiation in a management context - including political skill, communication-based influence, and leadership influence models. Students Analyse how managers use influence to achieve outcomes. 2,000–2,500 words. [CMI 406 assignment help](/cmi-level-4/unit-406-management-leadership-influencing-skills/)

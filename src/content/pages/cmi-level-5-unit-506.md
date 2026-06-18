@@ -146,7 +146,7 @@ Cost-benefit analysis (CBA) is a systematic approach to comparing the total cost
 
 In practice, CBA is considerably more complex:
 
-- **Monetising non-financial benefits**: improved staff wellbeing, better patient outcomes, enhanced customer satisfaction, environmental impact - these are real benefits but not easily converted to financial values. CBA that includes only monetisable benefits systematically undervalues decisions with significant non-financial benefits.
+- **Monetising non-financial benefits**: improved staff wellbeing, better patient outcomes, better customer satisfaction, environmental impact - these are real benefits but not easily converted to financial values. CBA that includes only monetisable benefits systematically undervalues decisions with significant non-financial benefits.
 - **Uncertainty**: projecting future costs and benefits involves assumptions that may not hold. CBA with a single-point estimate of costs and benefits is less reliable than sensitivity analysis - testing how the conclusion changes when key assumptions change.
 - **Discounting**: a pound received in five years is worth less than a pound received today (time value of money). Discounted cash flow (DCF) analysis adjusts future costs and benefits to present values using a discount rate.
 - **Distribution**: CBA aggregates total costs and benefits but does not indicate who bears the costs and who receives the benefits. A decision that is positive overall but concentrates costs on a specific group may not be equitable.
@@ -157,7 +157,7 @@ In practice, CBA is considerably more complex:
 
 Return on Investment (ROI) is the ratio of net benefit to total cost, expressed as a percentage:
 
-ROI = (Net Benefit / Total Cost) Ã- 100
+ROI = (Net Benefit / Total Cost) × 100
 
 ROI is widely used because of its simplicity. Its limitations are equally well-known: it does not account for the time value of money, does not capture non-financial returns, and can be manipulated by adjusting what counts as "cost" or "benefit."
 

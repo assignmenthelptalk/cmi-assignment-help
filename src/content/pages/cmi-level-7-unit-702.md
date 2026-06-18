@@ -46,7 +46,7 @@ Strategic talent management is not the management of the training budget or the 
 
 **AC2: Critically analyse approaches to developing organisational capability and workforce performance**
 
-Organisational capability is what the organisation as a whole can do - its collective competencies, its learning systems, its performance architecture. AC2 requires critical analysis of the frameworks through which strategic leaders develop this capability: the learning organisation (Senge, Argyris and SchÃ¶n), high-performance work systems (HPWS), human capital theory, and Ulrich and Smallwood's capability framework. The analysis must engage with the evidence base and limitations of each approach, and produce an original synthesis on which approaches best develop sustainable organisational capability in the defined strategic context.
+Organisational capability is what the organisation as a whole can do - its collective competencies, its learning systems, its performance architecture. AC2 requires critical analysis of the frameworks through which strategic leaders develop this capability: the learning organisation (Senge, Argyris and Schön), high-performance work systems (HPWS), human capital theory, and Ulrich and Smallwood's capability framework. The analysis must engage with the evidence base and limitations of each approach, and produce an original synthesis on which approaches best develop sustainable organisational capability in the defined strategic context.
 
 **AC3: Evaluate the strategic leader's role in creating a high-performance culture**
 
@@ -100,7 +100,7 @@ The distinction between replacement planning and succession management is the mo
 **How to Critically Analyse the succession debate in CMI 702:** The research evidence on succession management effectiveness is mixed. Rothwell (2010) and others argue that formal succession management produces better leadership continuity and organisational performance. But Groysberg, McLean and Nohria (2006) find that "stars" developed internally often underperform when placed in top roles: suggesting that succession management's assumptions about talent transferability are not always valid.
 
 <!-- 9-BOX GRID: Place after succession planning section, before Human Capital Theory H3 -->
-<!-- Components: 3Ã-3 grid: horizontal axis: "Performance" (Low | Moderate | High); vertical axis: "Potential" (Low | Moderate | High). Nine cells with talent management response labels. -->
+<!-- Components: 3×3 grid: horizontal axis: "Performance" (Low | Moderate | High); vertical axis: "Potential" (Low | Moderate | High). Nine cells with talent management response labels. -->
 <!-- Alt text: "9-box talent grid for CMI Unit 702: nine cells mapping employee performance against potential, with strategic talent management response for each category" -->
 
 ### Human Capital Theory: Becker
@@ -111,11 +111,11 @@ Gary Becker (1964) established the theoretical foundation for treating investmen
 
 ### The Learning Organisation: Senge and Argyris
 
-Peter Senge's (1990) five disciplines of a learning organisation - personal mastery, mental models, shared vision, team learning, and systems thinking - describe the conditions under which organisations continuously develop their collective capacity to create desired results. Argyris and SchÃ¶n's (1978) single-loop and double-loop learning provide a complementary framework: single-loop learning corrects errors within existing assumptions; double-loop learning questions and changes the underlying assumptions themselves.
+Peter Senge's (1990) five disciplines of a learning organisation - personal mastery, mental models, shared vision, team learning, and systems thinking - describe the conditions under which organisations continuously develop their collective capacity to create desired results. Argyris and Schön's (1978) single-loop and double-loop learning provide a complementary framework: single-loop learning corrects errors within existing assumptions; double-loop learning questions and changes the underlying assumptions themselves.
 
 **Strategic relevance for CMI 702:** Double-loop learning is the most strategically significant concept for complex organisations facing adaptive challenges. An organisation capable only of single-loop learning can optimise existing strategies but cannot fundamentally rethink its approach when the environment changes.
 
-**Limitation to Critically Analyse:** Senge's learning organisation is widely cited but empirically contested. The five disciplines are normatively compelling but difficult to operationalise and measure. Research on whether "learning organisation" interventions actually improve organisational performance is mixed: the construct is diffuse and measurement is problematic (Ã–rtenblad, 2001).
+**Limitation to Critically Analyse:** Senge's learning organisation is widely cited but empirically contested. The five disciplines are normatively compelling but difficult to operationalise and measure. Research on whether "learning organisation" interventions actually improve organisational performance is mixed: the construct is diffuse and measurement is problematic (Örtenblad, 2001).
 
 ### High-Performance Work Systems: Combs et al.
 
@@ -227,7 +227,7 @@ CMI Unit 702 - Leading and Developing People to Optimise Performance covers stra
 CMI Level 5 units 502 and 503 cover team-level people development - Tuckman's team development model, Belbin's roles, Maslow and Herzberg. CMI 702 operates at enterprise level - strategic talent pipelines, workforce capability architecture, HPWS, and the cultural conditions created by the strategic leader across the whole organisation.
 
 **Which frameworks are covered in CMI 702?**
-The core frameworks are Collings and Mellahi's pivotal positions model and the 9-box grid (AC1), Senge's learning organisation, Argyris and SchÃ¶n's double-loop learning, HPWS (Combs et al.), human capital theory (Becker), and Ulrich and Smallwood's organisational capability framework (AC2). Schein's primary embedding mechanisms and Edmondson's psychological safety at scale apply to AC3.
+The core frameworks are Collings and Mellahi's pivotal positions model and the 9-box grid (AC1), Senge's learning organisation, Argyris and Schön's double-loop learning, HPWS (Combs et al.), human capital theory (Becker), and Ulrich and Smallwood's organisational capability framework (AC2). Schein's primary embedding mechanisms and Edmondson's psychological safety at scale apply to AC3.
 
 **What does Critically Analyse mean for CMI 702?**
 For each framework: decompose it, apply peer-reviewed empirical evidence from SHRM and OB journals, identify theoretical limitations and assumptions, place competing frameworks in direct dialogue, and synthesise a defended strategic position on which approach best develops talent and capability in the defined organisational context.

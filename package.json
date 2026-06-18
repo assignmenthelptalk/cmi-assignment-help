@@ -18,5 +18,8 @@
     "hastscript": "^9.0.1",
     "tailwindcss": "^3.4.19",
     "unist-util-visit": "^5.1.0"
+  },
+  "devDependencies": {
+    "puppeteer": "^25.1.0"
   }
 }

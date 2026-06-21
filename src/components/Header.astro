@@ -3,18 +3,98 @@ const WHATSAPP_URL = 'https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20
 const pathname = Astro.url.pathname;
 
 const navLinks = [
-  { label: 'Level 3', href: '/cmi-level-3-assignment-help/' },
-  { label: 'Level 4', href: '/cmi-level-4-assignment-help/' },
-  { label: 'Level 5', href: '/cmi-level-5-assignment-help/' },
-  { label: 'Level 6', href: '/cmi-level-6-assignment-help/' },
-  { label: 'Level 7', href: '/cmi-level-7-assignment-help/' },
-  { label: 'Writing Service', href: '/cmi-assignment-writing-service/' },
-  { label: 'Tutoring', href: '/cmi-assignment-tutoring/' },
+  {
+    label: 'Level 3',
+    href: '/cmi-level-3-assignment-help/',
+    units: [
+      { label: '301 · Principles of Management and Leadership', href: '/cmi-level-3/unit-301-principles-management-leadership/' },
+      { label: '302 · Managing a Team to Achieve Results', href: '/cmi-level-3/unit-302-managing-team-achieve-results/' },
+      { label: '303 · Managing Individuals in the Workplace', href: '/cmi-level-3/unit-303-managing-individuals-effective-workplace/' },
+      { label: '304 · Principles of Communication', href: '/cmi-level-3/unit-304-principles-communication-workplace/' },
+      { label: '305 · Building Stakeholder Relationships', href: '/cmi-level-3/unit-305-building-stakeholder-relationships/' },
+      { label: '306 · Coaching and Mentoring', href: '/cmi-level-3/unit-306-principles-coaching-mentoring/' },
+      { label: '307 · Developing Knowledge and Skills', href: '/cmi-level-3/unit-307-developing-knowledge-skills-abilities/' },
+      { label: '308 · Understanding Innovation and Change', href: '/cmi-level-3/unit-308-understanding-innovation-change/' },
+      { label: '309 · Equality, Diversity and Inclusion', href: '/cmi-level-3/unit-309-leading-equality-diversity-inclusion/' },
+      { label: '310 · Finance in the Workplace', href: '/cmi-level-3/unit-310-understanding-finance-workplace/' },
+      { label: '311 · Delivering a Project', href: '/cmi-level-3/unit-311-contributing-delivery-project/' },
+      { label: '312 · Managing Daily Activities', href: '/cmi-level-3/unit-312-managing-daily-activities-results/' },
+    ],
+  },
+  {
+    label: 'Level 4',
+    href: '/cmi-level-4-assignment-help/',
+    units: [
+      { label: '401 · Managerial Styles and Behaviours', href: '/cmi-level-4/unit-401-managerial-styles-behaviours/' },
+      { label: '402 · Managing Stakeholders\' Expectations', href: '/cmi-level-4/unit-402-managing-stakeholders-expectations/' },
+      { label: '403 · Organisational Culture and Values', href: '/cmi-level-4/unit-403-organisational-culture-values-behaviour/' },
+      { label: '404 · Planning and Managing Budgets', href: '/cmi-level-4/unit-404-planning-managing-monitoring-budgets/' },
+      { label: '405 · Developing Professional Networks', href: '/cmi-level-4/unit-405-developing-maintaining-networks/' },
+      { label: '406 · Leadership Influencing Skills', href: '/cmi-level-4/unit-406-management-leadership-influencing-skills/' },
+      { label: '407 · Managing Data and Information', href: '/cmi-level-4/unit-407-managing-data-information/' },
+      { label: '408 · Management of Risk', href: '/cmi-level-4/unit-408-management-of-risk/' },
+      { label: '409 · Managing Quality', href: '/cmi-level-4/unit-409-managing-quality/' },
+      { label: '410 · Managing Change', href: '/cmi-level-4/unit-410-managing-change/' },
+      { label: '411 · Managing Recruitment', href: '/cmi-level-4/unit-411-managing-recruitment/' },
+    ],
+  },
+  {
+    label: 'Level 5',
+    href: '/cmi-level-5-assignment-help/',
+    units: [
+      { label: '501 · Principles of Management and Leadership', href: '/cmi-level-5/unit-501-principles-management-leadership/' },
+      { label: '502 · Developing, Managing and Leading Teams', href: '/cmi-level-5/unit-502-developing-managing-leading-teams/' },
+      { label: '503 · Managing and Leading Teams to Success', href: '/cmi-level-5/unit-503-managing-leading-teams-success/' },
+      { label: '504 · Managing Performance', href: '/cmi-level-5/unit-504-managing-performance/' },
+      { label: '506 · Managing Resources and Finance', href: '/cmi-level-5/unit-506-managing-resources-finance/' },
+      { label: '509 · Managing Stakeholder Relationships', href: '/cmi-level-5/unit-509-managing-stakeholder-relationships/' },
+      { label: '512 · Change Management', href: '/cmi-level-5/unit-512-change-management/' },
+      { label: '513 · Managing Projects', href: '/cmi-level-5/unit-513-managing-projects/' },
+    ],
+  },
+  {
+    label: 'Level 6',
+    href: '/cmi-level-6-assignment-help/',
+    units: [
+      { label: '601 · Professional Management Practice', href: '/cmi-level-6/unit-601-professional-management-leadership-practice/' },
+      { label: '602 · Leading Individuals and Teams', href: '/cmi-level-6/unit-602-developing-managing-leading-individuals-teams/' },
+      { label: '603 · Organisational Culture', href: '/cmi-level-6/unit-603-organisational-culture/' },
+      { label: '604 · Programme and Project Management', href: '/cmi-level-6/unit-604-strategic-programme-project-management/' },
+      { label: '605 · Innovation and Change', href: '/cmi-level-6/unit-605-innovation-and-change/' },
+      { label: '606 · Finance for Strategic Leaders', href: '/cmi-level-6/unit-606-finance-strategic-leaders/' },
+      { label: '607 · Procurement and Contracting', href: '/cmi-level-6/unit-607-procurement-purchasing-contracting/' },
+      { label: '608 · CSR and Sustainability', href: '/cmi-level-6/unit-608-strategic-csr-sustainability/' },
+      { label: '609 · Equality, Diversity and Inclusion', href: '/cmi-level-6/unit-609-leading-equality-diversity-inclusion/' },
+      { label: '610 · Policy Development', href: '/cmi-level-6/unit-610-principles-practices-policy-development/' },
+      { label: '611 · Strategic Knowledge Management', href: '/cmi-level-6/unit-611-strategic-knowledge-management/' },
+      { label: '612 · Coaching Skills for Leaders', href: '/cmi-level-6/unit-612-coaching-skills-leaders/' },
+      { label: '613 · Leading a Quality Strategy', href: '/cmi-level-6/unit-613-leading-quality-strategy/' },
+      { label: '614 · Personal and Professional Development', href: '/cmi-level-6/unit-614-personal-professional-development/' },
+      { label: '615 · Strategic Healthcare Leadership', href: '/cmi-level-6/unit-615-strategic-healthcare-leadership/' },
+      { label: '616 · Mental Health and Wellbeing', href: '/cmi-level-6/unit-616-mental-health-wellbeing-workplace/' },
+    ],
+  },
+  {
+    label: 'Level 7',
+    href: '/cmi-level-7-assignment-help/',
+    units: [
+      { label: '701 · Strategic Leadership', href: '/cmi-level-7/unit-701-strategic-leadership/' },
+      { label: '702 · Leading and Developing People', href: '/cmi-level-7/unit-702-leading-developing-people/' },
+      { label: '704 · Developing Organisational Strategy', href: '/cmi-level-7/unit-704-developing-organisational-strategy/' },
+      { label: '705 · Leading Strategic Change', href: '/cmi-level-7/unit-705-leading-strategic-change/' },
+      { label: '706 · Ethical Leadership', href: '/cmi-level-7/unit-706-ethical-leadership/' },
+      { label: '708 · Strategic Risk Management', href: '/cmi-level-7/unit-708-strategic-risk-management/' },
+    ],
+  },
+  { label: 'Writing Service', href: '/cmi-assignment-writing-service/', units: [] },
+  { label: 'Tutoring', href: '/cmi-assignment-tutoring/', units: [] },
 ];
 ---
+
 <header class="sticky top-0 z-40 shadow-sm" style="background:#1a2e4a;border-bottom:1px solid rgba(255,255,255,0.1)">
   <div class="max-w-7xl mx-auto px-4 sm:px-6">
     <div class="flex items-center justify-between h-16">
+
       <!-- Logo -->
       <a href="/" class="font-bold text-lg no-underline transition-colors flex-shrink-0" style="color:#fff">
         CMI Assignment Support
@@ -23,17 +103,65 @@ const navLinks = [
       <!-- Desktop nav -->
       <nav class="hidden lg:flex items-center gap-1" aria-label="Main navigation">
         {navLinks.map((link) => (
-          <a
-            href={link.href}
-            class:list={[
-              'px-3 py-2 text-sm font-medium rounded transition-colors no-underline text-white',
-              pathname === link.href
-                ? 'text-accent underline'
-                : 'hover:text-accent',
-            ]}
-          >
-            {link.label}
-          </a>
+          <div class="relative group">
+            <a
+              href={link.href}
+              class:list={[
+                'flex items-center gap-1 px-3 py-2 text-sm font-medium rounded transition-colors no-underline text-white',
+                pathname.startsWith(link.href) || (link.units && link.units.some(u => pathname === u.href))
+                  ? 'text-accent underline'
+                  : 'hover:text-accent',
+              ]}
+            >
+              {link.label}
+              {link.units && link.units.length > 0 && (
+                <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="opacity-70 group-hover:rotate-180 transition-transform duration-150" aria-hidden="true">
+                  <polyline points="6 9 12 15 18 9"/>
+                </svg>
+              )}
+            </a>
+
+            {link.units && link.units.length > 0 && (
+              <div
+                class="absolute left-0 top-full pt-1 hidden group-hover:block z-50"
+                style="min-width:280px"
+              >
+                <div
+                  class="rounded-lg shadow-lg overflow-hidden py-2"
+                  style="background:#1a2e4a;border:1px solid rgba(255,255,255,0.15)"
+                >
+                  <a
+                    href={link.href}
+                    class="block px-4 py-2 text-xs font-semibold uppercase tracking-wider no-underline transition-colors"
+                    style="color:rgba(255,255,255,0.5)"
+                  >
+                    All {link.label} units →
+                  </a>
+                  <div
+                    class:list={[
+                      'grid',
+                      link.units.length > 8 ? 'grid-cols-2' : 'grid-cols-1',
+                    ]}
+                    style={link.units.length > 8 ? 'min-width:560px' : ''}
+                  >
+                    {link.units.map((unit) => (
+                      <a
+                        href={unit.href}
+                        class:list={[
+                          'block px-4 py-1.5 text-xs no-underline transition-colors whitespace-nowrap',
+                          pathname === unit.href
+                            ? 'text-accent font-semibold'
+                            : 'text-white hover:text-accent hover:bg-white/5',
+                        ]}
+                      >
+                        {unit.label}
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            )}
+          </div>
         ))}
       </nav>
 
@@ -51,7 +179,7 @@ const navLinks = [
         WhatsApp: Free Quote
       </a>
 
-      <!-- Mobile hamburger (CSS checkbox toggle) -->
+      <!-- Mobile hamburger -->
       <label for="mobile-menu-toggle" class="lg:hidden cursor-pointer p-2 text-white" aria-label="Toggle navigation menu">
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
           <line x1="3" y1="6" x2="21" y2="6"/>
@@ -62,22 +190,41 @@ const navLinks = [
     </div>
   </div>
 
-  <!-- Mobile menu (CSS toggle) -->
+  <!-- Mobile menu -->
   <input type="checkbox" id="mobile-menu-toggle" class="sr-only peer" aria-hidden="true" />
-  <div class="hidden peer-checked:block lg:hidden border-t" style="background:#1a2e4a;border-color:rgba(255,255,255,0.1)">
+  <div class="hidden peer-checked:block lg:hidden border-t overflow-y-auto max-h-[80vh]" style="background:#1a2e4a;border-color:rgba(255,255,255,0.1)">
     <nav class="max-w-7xl mx-auto px-4 py-4 flex flex-col gap-1" aria-label="Mobile navigation">
       {navLinks.map((link) => (
-        <a
-          href={link.href}
-          class:list={[
-            'px-3 py-2 text-sm font-medium rounded transition-colors no-underline',
-            pathname === link.href
-              ? 'text-accent underline'
-              : 'text-white hover:text-accent',
-          ]}
-        >
-          {link.label}
-        </a>
+        <div>
+          <a
+            href={link.href}
+            class:list={[
+              'block px-3 py-2 text-sm font-semibold rounded transition-colors no-underline',
+              pathname.startsWith(link.href)
+                ? 'text-accent underline'
+                : 'text-white hover:text-accent',
+            ]}
+          >
+            {link.label}
+          </a>
+          {link.units && link.units.length > 0 && (
+            <div class="ml-3 mb-2 flex flex-col gap-0.5 border-l pl-3" style="border-color:rgba(255,255,255,0.15)">
+              {link.units.map((unit) => (
+                <a
+                  href={unit.href}
+                  class:list={[
+                    'block px-2 py-1 text-xs rounded transition-colors no-underline',
+                    pathname === unit.href
+                      ? 'text-accent font-semibold'
+                      : 'text-white/70 hover:text-accent',
+                  ]}
+                >
+                  {unit.label}
+                </a>
+              ))}
+            </div>
+          )}
+        </div>
       ))}
       <a
         href={WHATSAPP_URL}

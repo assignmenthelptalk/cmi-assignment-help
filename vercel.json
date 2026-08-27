@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/cmi-command-verbs-explained",
+      "destination": "/guides/cmi-command-verbs-explained/",
+      "permanent": true
+    },
+    {
+      "source": "/cmi-command-verbs-explained/",
+      "destination": "/guides/cmi-command-verbs-explained/",
+      "permanent": true
+    }
+  ]
+}

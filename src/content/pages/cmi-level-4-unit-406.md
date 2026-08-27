@@ -91,7 +91,7 @@ At Level 4, influence is analysed at the level of the individual manager's relat
 
 At [CMI Level 6 assignment help](/cmi-level-6-assignment-help/), Unit 601 (Professional Management Practice) addresses political leadership within organisations — understanding the power dynamics of the executive team, the board, and the senior stakeholder landscape, and navigating those dynamics to advance strategic objectives. The influence skills developed at Level 4 (Expert power, Referent power, principled negotiation) are necessary preconditions for strategic influence, but they are insufficient for Level 6 contexts where the student must evaluate the ethical dimensions of organisational power, the structural conditions that enable or constrain political leadership, and the difference between influence that serves the organisation's strategic interests and influence that serves only the individual manager's interests.
 
-The [CMI command verbs guide](/cmi-command-verbs-explained/) covers the transition from Analyse at Level 4 to Evaluate and Critically Evaluate at Levels 5 and 6, with specific examples drawn from influence and leadership units.
+The [CMI command verbs guide](/guides/cmi-command-verbs-explained/) covers the transition from Analyse at Level 4 to Evaluate and Critically Evaluate at Levels 5 and 6, with specific examples drawn from influence and leadership units.
 
 ---
 

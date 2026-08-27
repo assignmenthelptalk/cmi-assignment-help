@@ -17,10 +17,11 @@ interface Props {
   slug: string;
   schemas: object[];
   breadcrumb?: BreadcrumbItem[];
+  noindex?: boolean;
 }
 
-const { title, description, slug, schemas, breadcrumb } = Astro.props;
-const BASE_URL = 'https://cmiassignmentsupport.co.uk';
+const { title, description, slug, schemas, breadcrumb, noindex } = Astro.props;
+const BASE_URL = 'https://www.cmiassignmentsupport.co.uk';
 const canonicalUrl = BASE_URL + slug;
 const socialImageUrl = `${BASE_URL}/og-default.png`;
 const socialImageAlt = title;
@@ -32,7 +33,7 @@ const socialImageAlt = title;
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
-    <meta name="robots" content="index, follow" />
+    <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow'} />
     <meta name="google-site-verification" content="LM0oPTEb_AZXplRDygf7thrc8ZjjV7ij0dlBLtGda0c" />
     <meta name="msvalidate.01" content="9DE95409DD2CE4946B20997C9FF38937" />
     <link rel="alternate" hreflang="en-GB" href={canonicalUrl} />

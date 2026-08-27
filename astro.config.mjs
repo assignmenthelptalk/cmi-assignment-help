@@ -10,7 +10,7 @@ const testPlugin = () => (tree) => {
 };
 
 export default defineConfig({
-  site: 'https://cmiassignmentsupport.co.uk',
+  site: 'https://www.cmiassignmentsupport.co.uk',
   integrations: [tailwind(), sitemap()],
   output: 'static',
   trailingSlash: 'always',

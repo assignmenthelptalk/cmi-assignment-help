@@ -1,0 +1,72 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const guides = [
+  {
+    href: '/guides/cmi-command-verbs-explained/',
+    title: 'CMI Command Verbs Explained',
+    description: 'What every command verb requires at each level, from Identify to Critically Evaluate.',
+  },
+  {
+    href: '/guides/cmi-assignment-structure/',
+    title: 'How to Structure a CMI Assignment',
+    description: 'Section-by-section structure for management reports, essays, and reflective accounts.',
+  },
+  {
+    href: '/guides/cmi-qualification-levels-explained/',
+    title: 'CMI Qualification Levels Explained',
+    description: 'What each CMI level covers, who it suits, and how to choose the right level.',
+  },
+  {
+    href: '/guides/cmi-assignment-resubmission/',
+    title: 'CMI Assignment Resubmission',
+    description: 'Why assignments fail, how to read assessor feedback, and how to fix a Refer.',
+  },
+  {
+    href: '/guides/nhs-management-cmi-qualifications/',
+    title: 'CMI Qualifications for NHS Managers',
+    description: 'Which CMI level matches your NHS band, relevant units, and funding routes.',
+  },
+];
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'CMI Study Guides',
+    description: 'Reference guides covering CMI command verbs, assignment structure, qualification levels, and resubmission.',
+    url: 'https://www.cmiassignmentsupport.co.uk/guides/',
+  },
+];
+---
+<BaseLayout
+  title="CMI Study Guides — Command Verbs, Structure, Levels and Resubmission"
+  description="Reference guides for CMI students: command verbs explained, assignment structure, qualification levels, and how to handle a resubmission."
+  slug="/guides/"
+  schemas={schemas}
+  breadcrumb={[{ label: 'Guides', href: '/guides/' }]}
+>
+  <article class="prose-page">
+    <h1>CMI Study Guides</h1>
+    <p>Reference guides covering the questions CMI students ask most: what a command verb actually requires, how to structure a submission, which level fits your role, and what to do after a Refer.</p>
+
+    <ul class="checklist" style="list-style:none;padding-left:0;">
+      {guides.map((guide) => (
+        <li style="margin-bottom:1.5rem;">
+          <a href={guide.href} style="font-weight:600;font-size:1.05rem;">{guide.title}</a>
+          <p style="margin:0.25rem 0 0;">{guide.description}</p>
+        </li>
+      ))}
+    </ul>
+
+    <div class="cta-box">
+      <div style="flex:1">
+        <p style="font-weight:600;margin:0 0 0.25rem">Need help with a specific unit?</p>
+        <p style="margin:0;font-size:0.95rem">WhatsApp us your unit brief for a free quote.</p>
+      </div>
+      <a href="https://wa.me/447916696894?text=Hi%2C%20I%20need%20help%20with%20my%20CMI%20assignment.%20Can%20I%20get%20a%20free%20quote%3F" class="whatsapp-inline" target="_blank" rel="noopener noreferrer">
+        WhatsApp: Free Quote
+      </a>
+    </div>
+  </article>
+</BaseLayout>

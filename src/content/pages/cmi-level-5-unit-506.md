@@ -219,7 +219,6 @@ A **Distinction** does all of the above and constructs a coherent argument acros
 - [CMI 501: Principles of Management and Leadership](/cmi-level-5/unit-501-principles-management-leadership/) - strategic priorities that resource allocation must enable
 - [CMI 504: Managing Performance](/cmi-level-5/unit-504-managing-performance/) - performance management systems generate the data that resource decisions draw on
 - [CMI 509: Managing Stakeholder Relationships](/cmi-level-5/unit-509-managing-stakeholder-relationships/) - resource decisions affect stakeholders; stakeholder pressure shapes resource priorities
-- [CMI 505: Managing Equality, Diversity and Inclusion](/cmi-level-5/unit-505-managing-equality-diversity-inclusion/) - resource allocation decisions have equity implications
 - [CMI Level 5 assignment help](/cmi-level-5-assignment-help/): full Level 5 unit guide
 
 ---

@@ -91,7 +91,7 @@ At Level 4, students Analyse and Evaluate organisational culture using establish
 
 At [CMI Level 6 assignment help](/cmi-level-6-assignment-help/), units that address culture — such as aspects of Unit 603 — require Critically Evaluate. This verb demands that the student interrogates the theoretical frameworks themselves: questioning whether Schein's model, developed primarily in US corporate contexts, applies with equal validity to UK public sector organisations; examining whether Handy's four types are mutually exclusive or whether hybrid cultures are the norm; and assessing the power assumptions embedded in the idea that leaders "shape" culture rather than being shaped by it. Level 6 cultural analysis requires the student to position themselves as a critical scholar, not just a competent framework-user.
 
-The preparation that Level 4 provides is essential: students who have not internalised Schein's architecture at Level 4 cannot interrogate its assumptions at Level 6. The [CMI command verbs guide](/cmi-command-verbs-explained/) covers the Analyse-to-Critically-Evaluate progression in detail.
+The preparation that Level 4 provides is essential: students who have not internalised Schein's architecture at Level 4 cannot interrogate its assumptions at Level 6. The [CMI command verbs guide](/guides/cmi-command-verbs-explained/) covers the Analyse-to-Critically-Evaluate progression in detail.
 
 ---
 

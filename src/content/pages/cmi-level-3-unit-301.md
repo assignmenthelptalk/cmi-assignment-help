@@ -169,6 +169,8 @@ Unit 301 establishes the management and leadership principles that the following
 
 **[CMI 308: Innovation and Change]** — applies the leadership component of Unit 301 to a change management context. The direction-setting and alignment functions Kotter identifies as leadership are the core of Unit 308's applied requirements.
 
+To see how a Unit 301 essay is structured section by section, with a word budget, read the [CMI Level 3 assignment examples](/cmi-level-3-assignment-examples/) guide.
+
 Return to the full unit list: [CMI Level 3 Assignment Help — All Units](/cmi-level-3-assignment-help/)
 
 ---

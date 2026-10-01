@@ -6,8 +6,13 @@
  */
 import { visit } from 'unist-util-visit';
 import { h } from 'hastscript';
+import { isInfographicLabel, infographicImageSrc } from './infographic-map.mjs';
 
 const WHATSAPP_URL = 'https://wa.me/447916696894?text=Hi%2C%20I%27d%20like%20to%20order%20CMI%20assignment%20help.%20Can%20you%20send%20me%20a%20quote%3F';
+
+/** Lines that follow an infographic label in a brief: components, steps, icons, and finally the alt text. */
+const BRIEF_ALT_LINE = /^Alt text:/i;
+const BRIEF_DETAIL_LINE = /^(Components?|Steps?|Icons?|Labels?|Rows to display|Visual framing|Alt text)\b/i;
 
 function isCommentNode(node) {
   return node.type === 'raw' && node.value && node.value.trim().startsWith('<!--');
@@ -17,24 +22,8 @@ function extractCommentText(raw) {
   return raw.replace(/<!--\s*/, '').replace(/\s*-->/, '').trim();
 }
 
-function isInfographicLabel(text) {
-  return /^(TRUST BADGE|LEVEL SELECTOR|PROCESS INFOGRAPHIC|PROCESS TIMELINE|LEVEL COMPARISON|CMI COMMAND VERB|CMI MANAGEMENT REPORT|GIBBS REFLECTIVE|UNIT INFO BADGE|LEADERSHIP THEORIES|MENDELOW|STAKEHOLDER COMMUNICATION|STRATEGIC LEADERSHIP MODELS|CRITICALLY ANALYSE VS|CMI LEVEL 5 VS|STUDENT PROFILE|PORTER'S FIVE FORCES|ANSOFF MATRIX|KOTTER'S 8-STEP|CHANGE MANAGEMENT FRAMEWORKS|NHS BAND TO CMI LEVEL|CMI UNITS RELEVANT TO NHS|9-BOX GRID|HPWS PRACTICE)/i.test(text);
-}
-
-/** Map infographic label to public image path, if one exists */
-function infographicImageSrc(label) {
-  const u = label.toUpperCase();
-  if (u.startsWith('TRUST BADGE')) return '/trust-badge.png';
-  if (u.startsWith('CMI COMMAND VERB COGNITIVE')) return '/cmi-command-verb-ladder.svg';
-  if (u.startsWith('CMI COMMAND VERB') || u.includes('GRADE BAND')) return '/cmi-command-verb-grades.svg';
-  if (u.startsWith('CMI MANAGEMENT REPORT')) return '/cmi-management-report-structure.svg';
-  if (u.startsWith('GIBBS REFLECTIVE')) return '/cmi-gibbs-reflective-cycle.svg';
-  return null;
-}
-
-
-function buildInfographicDiv(label, description, altText) {
-  const src = infographicImageSrc(label);
+function buildInfographicDiv(label, description, altText, pageId) {
+  const src = infographicImageSrc(label, pageId);
   if (src) {
     return h('figure', { class: 'infographic-figure', style: 'margin:2rem 0;text-align:center' }, [
       h('img', {
@@ -130,7 +119,10 @@ function buildStepBlock(stepNum, stepText) {
 
 // Export as a unified plugin (factory function is the correct form)
 export default function rehypeCmiTransforms() {
-  return function (tree) {
+  return function (tree, file) {
+    // The markdown file name (e.g. cmi-level-5-unit-501) lets one label map to a different image per page.
+    const pageId = file?.path ? file.path.replace(/^.*[\\/]/, '').replace(/\.md$/, '') : '';
+
     // Pass 1: collect consecutive comment nodes for infographic placeholders
     const nodesToReplace = [];
 
@@ -148,6 +140,20 @@ export default function rehypeCmiTransforms() {
 
       const label = firstText;
 
+      // The components and alt text of a brief are usually separate comment nodes after the label.
+      let lastIdx = index;
+      let hasAlt = allComments.some((c) => BRIEF_ALT_LINE.test(extractCommentText(c)));
+      for (let j = index + 1; j < parent.children.length && !hasAlt; j++) {
+        const next = parent.children[j];
+        if (next.type === 'text' && !next.value.trim()) continue;
+        if (!isCommentNode(next)) break;
+        const more = next.value.match(/<!--[\s\S]*?-->/g) || [];
+        if (!more.length || !BRIEF_DETAIL_LINE.test(extractCommentText(more[0]))) break;
+        allComments.push(...more);
+        lastIdx = j;
+        hasAlt = more.some((c) => BRIEF_ALT_LINE.test(extractCommentText(c)));
+      }
+
       // Middle comments (between first and last) are the description
       const middleComments = allComments.slice(1, allComments.length > 2 ? -1 : undefined);
       const description = middleComments
@@ -160,21 +166,21 @@ export default function rehypeCmiTransforms() {
         )
         .join(' | ');
 
-      // Last comment is the alt text (or second comment if only 2)
-      const lastComment = allComments[allComments.length - 1];
-      const altText = extractCommentText(lastComment)
-        .replace(/^Alt text:\s*/i, '')
-        .replace(/^"/, '')
-        .replace(/"$/, '');
+      // The alt text is the comment that starts "Alt text:". Without one, fall back to the label
+      // minus its placement instruction ("... : Place below the table").
+      const altComment = allComments.find((c) => BRIEF_ALT_LINE.test(extractCommentText(c)));
+      const altText = altComment
+        ? extractCommentText(altComment).replace(/^Alt text:\s*/i, '').replace(/^"/, '').replace(/"$/, '')
+        : label.replace(/\s*[:—-]\s*(Place|In)\b.*$/i, '').toLowerCase().replace(/^./, (c) => c.toUpperCase());
 
-      nodesToReplace.push({ parent, index, lastIdx: index, label, description, altText });
+      nodesToReplace.push({ parent, index, lastIdx, label, description, altText });
     });
 
     // Replace in reverse order to preserve indices
     for (let i = nodesToReplace.length - 1; i >= 0; i--) {
       const { parent, index, lastIdx, label, description, altText } = nodesToReplace[i];
       const count = lastIdx - index + 1;
-      const replacement = buildInfographicDiv(label, description, altText);
+      const replacement = buildInfographicDiv(label, description, altText, pageId);
       parent.children.splice(index, count, replacement);
     }
 

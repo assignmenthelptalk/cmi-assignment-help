@@ -11,8 +11,11 @@ import rehypeToc from './src/rehype-toc.mjs';
  * cached render can survive a deploy. Passing a hash of the source as a plugin option
  * changes the config digest whenever the plugin changes, which invalidates the cache.
  */
-const sourceHash = (file) =>
-  createHash('sha1').update(readFileSync(new URL(file, import.meta.url))).digest('hex').slice(0, 12);
+const sourceHash = (...files) => {
+  const hash = createHash('sha1');
+  files.forEach((file) => hash.update(readFileSync(new URL(file, import.meta.url))));
+  return hash.digest('hex').slice(0, 12);
+};
 
 /** Placeholder pages marked noindex in their layout props; keep them out of the sitemap too. */
 const NOINDEX_PATHS = [
@@ -43,7 +46,7 @@ export default defineConfig({
   trailingSlash: 'always',
   markdown: {
     rehypePlugins: [
-      [rehypeCmiTransforms, { sourceHash: sourceHash('./src/rehype-cmi-transforms.mjs') }],
+      [rehypeCmiTransforms, { sourceHash: sourceHash('./src/rehype-cmi-transforms.mjs', './src/infographic-map.mjs') }],
       [rehypeToc, { sourceHash: sourceHash('./src/rehype-toc.mjs') }],
     ],
   },

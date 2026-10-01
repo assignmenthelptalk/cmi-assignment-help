@@ -56,19 +56,19 @@ function buildInfographicDiv(label, description, altText) {
   ]);
 }
 
-/** Confidence-building badges shown above every Order Now button (Material icon paths, 24x24). */
+/** Confidence-building badges shown below every Order Now button (Material icon paths, 24x24). */
 const TRUST_BADGES = [
   {
     label: '100% Original Assignment',
     icon: 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z',
   },
   {
-    label: 'Expert Human Writers',
-    icon: 'M15 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm-9-2V7H4v3H1v2h3v3h2v-3h3v-2H6zm9 4c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z',
-  },
-  {
     label: 'AI-Free Writing',
     icon: 'M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z',
+  },
+  {
+    label: 'Expert Human Writers',
+    icon: 'M15 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm-9-2V7H4v3H1v2h3v3h2v-3h3v-2H6zm9 4c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z',
   },
   {
     label: 'UK-Based Writers',
@@ -97,8 +97,6 @@ function buildCtaBox(strongText, followingText) {
       h('p', { style: 'font-weight:600;margin:0 0 0.25rem' }, strongText),
       followingText ? h('p', { style: 'margin:0;color:#374151;font-size:0.95rem' }, followingText) : null,
     ].filter(Boolean)),
-    h('div', { class: 'cta-box__actions' }, [
-    ...TRUST_BADGES.map(buildTrustBadge),
     h('a', {
       href: WHATSAPP_URL,
       class: 'whatsapp-inline',
@@ -117,7 +115,7 @@ function buildCtaBox(strongText, followingText) {
       ]),
       'Order Now',
     ]),
-    ]),
+    h('div', { class: 'cta-trust' }, TRUST_BADGES.map(buildTrustBadge)),
   ]);
 }
 

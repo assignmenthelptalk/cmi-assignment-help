@@ -199,27 +199,27 @@ Send us your assessor feedback and we'll tell you exactly what the resubmission 
 
 ## FAQ
 
-**What does Refer mean on a CMI assignment**
+**What does Refer mean on a CMI assignment?**
 
 Refer is CMI's grade for a submission that has not yet met the required standard. It is not a permanent fail. It means the work needs to be revised and resubmitted. You will receive written assessor feedback identifying which assessment criteria were not met and why. Address each gap explicitly in your resubmission.
 
-**Can I get Merit or Distinction on a resubmission**
+**Can I get Merit or Distinction on a resubmission?**
 
 Policy varies by centre. Most CMI-registered centres cap resubmissions at Pass grade meaning the revised submission can only achieve Pass, regardless of its quality. Check your centre's resubmission policy before you start. This is the primary reason to aim for Merit or Distinction on first submission rather than treating resubmission as a second attempt at a better grade.
 
-**Why do most CMI assignments get referred**
+**Why do most CMI assignments get referred?**
 
 The five most common reasons are: (1) command verb not met: describing where Evaluate or Critically Analyse is required; (2) an assessment criterion not addressed; (3) insufficient or inappropriate academic sourcing; (4) management frameworks applied as recipes rather than analytically engaged with; (5) the final assessment criterion (AC3) underdeveloped.
 
-**How do I read CMI assessor feedback**
+**How do I read CMI assessor feedback?**
 
 Assessor feedback identifies each AC that was not met and explains why. Common phrases: "described rather than evaluated" = command verb not met; "insufficient academic evidence" = sourcing gap; "recommendation is not SMART" = recommendations need specificity; "AC3 requires further development" = final criterion underdeveloped. Each comment maps to a specific fix. Address them in order of significance.
 
-**How long do I have to resubmit a CMI assignment**
+**How long do I have to resubmit a CMI assignment?**
 
 Resubmission deadlines are set by your CMI-registered centre. Most allow 4-8 weeks from the feedback date. Check immediately on receiving your feedback; missing the deadline may require re-registering for the unit. Do not delay in reading the feedback and planning your resubmission.
 
-**Can you help me with a CMI resubmission**
+**Can you help me with a CMI resubmission?**
 
 Yes. Resubmission support is one of our most common requests. We read your assessor feedback, identify exactly what needs to change, and either guide you through addressing the gaps yourself or rewrite the specific sections that are not meeting the assessment criteria. WhatsApp us with your assessor feedback document and we will tell you exactly what the submission needs.
 

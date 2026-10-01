@@ -135,22 +135,22 @@ Our coursework support covers all five CMI qualification levels. The coursework 
 
 ## FAQ: CMI Coursework Help
 
-**How is CMI coursework help different from assignment help**
+**How is CMI coursework help different from assignment help?**
 Coursework help covers the full qualification - multiple units across a qualification period - with a consistent writer matched to your level, sector, and organisational context. Assignment help is often a one-off service for a single submission. Both are available through our service. For students completing a Diploma, coursework packages offer continuity, context-consistency, and portfolio coherence that individual assignment orders cannot.
 
-**Can you help me with my entire CMI Diploma**
+**Can you help me with my entire CMI Diploma?**
 Yes. Our coursework support covers the full Diploma from the first unit to the last. Level 5 Diploma students (typically 6–8 units) and Level 7 Diploma students are our most common ongoing clients. The same writer is matched to your qualification for all units, maintaining coherence across the portfolio.
 
-**How long does CMI coursework take**
+**How long does CMI coursework take?**
 CMI Diplomas typically take 12–24 months to complete. Certificates take 6–12 months. Awards can be completed in 3–6 months. Our writers support you unit by unit throughout the qualification timeline, matching their delivery to your submission schedule.
 
-**Do you help with resubmissions on CMI coursework**
+**Do you help with resubmissions on CMI coursework?**
 Yes. resubmission support is available for any CMI coursework unit that has received a referral. We review the assessor's feedback, identify the specific unmet Learning Outcomes, and rewrite or restructure only the sections that need to change. This is more efficient than a full rewrite and specifically addresses what the assessor has flagged.
 
-**Can I get help with one unit at a time**
+**Can I get help with one unit at a time?**
 Yes. Our coursework help is flexible. You can order individual units as needed or commit to a full qualification package with a consistent writer from start to finish. WhatsApp us to discuss what works for your timeline and budget.
 
-**Is CMI coursework help available for all qualification levels**
+**Is CMI coursework help available for all qualification levels?**
 Yes. we cover all CMI coursework from Level 3 to Level 7, including Award, Certificate, and Diploma qualifications at every level. All units across all five levels are covered. Browse by level using the links above.
 
 ---

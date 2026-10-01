@@ -3,7 +3,12 @@ interface Props {
   schemas: object[];
 }
 const { schemas } = Astro.props;
+
+// A FAQPage with no questions is invalid structured data, so skip it.
+const isEmptyFaq = (schema: any) =>
+  schema?.['@type'] === 'FAQPage' && !(schema.mainEntity?.length > 0);
+const validSchemas = schemas.filter((schema) => !isEmptyFaq(schema));
 ---
-{schemas.map((schema) => (
+{validSchemas.map((schema) => (
   <script type="application/ld+json" set:html={JSON.stringify(schema)} />
 ))}

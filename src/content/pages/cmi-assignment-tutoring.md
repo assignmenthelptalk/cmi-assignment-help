@@ -141,22 +141,22 @@ Other ways to get CMI support include [CMI coursework help](/cmi-coursework-help
 
 ## FAQ: CMI Assignment Tutoring
 
-**What is the difference between CMI tutoring and CMI assignment writing**
+**What is the difference between CMI tutoring and CMI assignment writing?**
 CMI assignment tutoring supports your own writing. You write the assignment and the tutor guides your structure, command verb application, and Learning Outcome alignment. The writing service produces the assignment for you as a submission-ready document. Both options are available. Tutoring is the right choice for students who want to retain authorship and develop their academic skills. The writing service is the right choice for students who need a completed assignment delivered to a deadline.
 
-**How long does a tutoring session take**
+**How long does a tutoring session take?**
 Tutoring is asynchronous. You send your brief or draft via WhatsApp and receive structured written feedback within 24–48 hours. There are no scheduled video calls required. If you prefer a live discussion, this can be arranged via WhatsApp call.
 
-**Can you tutor me on a specific CMI command verb**
+**Can you tutor me on a specific CMI command verb?**
 Yes. Command verb coaching is available as a standalone session. Send your unit brief and the specific command verb(s) your task uses, and your tutor will explain exactly how to apply them at the correct cognitive depth for your level and unit. This is particularly useful for students transitioning from Level 4 Analyse to Level 5 Evaluate for the first time.
 
-**Can I get tutoring for a CMI resubmission**
+**Can I get tutoring for a CMI resubmission?**
 Yes. Resubmission coaching is one of our most common tutoring requests. Share your assessor's referral feedback and we will identify exactly which Learning Outcomes were not met and what needs to be rewritten. This is typically faster and more effective than attempting a full rewrite from scratch.
 
-**Is CMI tutoring available for all levels**
+**Is CMI tutoring available for all levels?**
 Yes. Tutoring is available for CMI Levels 3 to 7, including Award, Certificate, and Diploma qualifications, across all available units. The tutor is matched to your level and unit subject area.
 
-**How much does CMI assignment tutoring cost**
+**How much does CMI assignment tutoring cost?**
 Pricing depends on the session type. Planning sessions are less than full draft review, and resubmission coaching is priced based on the volume of feedback required. WhatsApp us with your unit, level, and session type for an instant transparent quote.
 
 ---

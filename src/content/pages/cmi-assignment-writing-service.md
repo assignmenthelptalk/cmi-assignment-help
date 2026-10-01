@@ -139,22 +139,22 @@ Our CMI assignment writing service covers all five qualification levels. The com
 
 ## FAQ: CMI Assignment Writing Service Questions
 
-**Can someone write my CMI assignment for me**
+**Can someone write my CMI assignment for me?**
 Yes. Our CMI assignment writing service provides professionally written assignments as submission-ready model documents. This operates on the same principle as private tutoring and model answer provision, both widely used by students across all qualification types. The assignment is written to your specific unit brief by a writer with CMI qualification experience. Many students use model answers to understand the correct format, depth, and command verb application before writing their own version.
 
-**How long does a CMI assignment writing service take**
+**How long does a CMI assignment writing service take?**
 Standard turnaround is 5–7 business days from order confirmation. Express 48-hour turnaround is available for urgent deadlines, subject to writer availability at the time of enquiry. WhatsApp us with your deadline as the first step to confirm whether express turnaround is available for your assignment.
 
-**Do you write CMI assignments for Level 7**
+**Do you write CMI assignments for Level 7?**
 Yes. Our Level 7 writers hold CMI Level 7 Diploma qualifications or equivalent postgraduate management credentials. They are experienced in strategic leadership, organisational design, change management, and finance for leaders, the primary assessment domains at Level 7. For full details of Level 7 coverage, visit [CMI Level 7 assignment help](/cmi-level-7-assignment-help/).
 
-**Will my CMI assignment be plagiarism-free**
+**Will my CMI assignment be plagiarism-free?**
 Every assignment is written from scratch to your specific unit brief and question. We do not reuse templates, recycle previous assignments, or reproduce content from earlier orders. Assignments are delivered Turnitin-clean. Each piece of work is unique to the unit question provided.
 
-**Can I request revisions to my CMI assignment**
+**Can I request revisions to my CMI assignment?**
 Up to 2 revisions are included at no extra cost. If you receive assessor feedback following submission and require a resubmission, targeted resubmission support is also available. We review the assessor's comments, identify the unmet Learning Outcomes, and rewrite or restructure only the sections that need to change.
 
-**Do you use Harvard referencing in CMI assignments**
+**Do you use Harvard referencing in CMI assignments?**
 Yes. Harvard referencing is standard across all orders. Sources include ManagementDirect, academic and management journals, CMI publications, and government or industry reports where applicable. A full bibliography is included with every assignment. For standard 3,000-word assignments, a minimum of 8–12 cited sources is applied.
 
 ---

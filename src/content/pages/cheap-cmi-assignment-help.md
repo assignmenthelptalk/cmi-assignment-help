@@ -157,22 +157,22 @@ Competitive pricing is available for all five CMI qualification levels:
 
 ## FAQ: Affordable CMI Assignment Help
 
-**Is cheap CMI assignment help good quality**
+**Is cheap CMI assignment help good quality?**
 Affordable pricing does not mean inferior quality. Every assignment includes Harvard referencing, Learning Outcome alignment, command verb compliance, and 2 revisions regardless of the price tier. The price reflects word count and qualification level, not the effort or expertise applied. A Level 3 essay costs less than a Level 7 strategic paper because it is shorter and less complex, not because it receives less care.
 
-**How much does a CMI assignment cost**
+**How much does a CMI assignment cost?**
 Pricing starts at entry level for a Level 3 essay (1,500–2,500 words) and scales by level and word count to Level 7 strategic papers (5,000–6,500 words). Message us on WhatsApp with your specific unit, word count, and deadline for an instant, transparent, fixed quote.
 
-**Is there a discount for multiple CMI assignments**
+**Is there a discount for multiple CMI assignments?**
 Students completing a Diploma across 6–8 units can discuss package pricing via WhatsApp. We work with students throughout their full qualification timeline and accommodate multi-unit arrangements where possible.
 
-**Can I get CMI help for an urgent deadline at a competitive price**
+**Can I get CMI help for an urgent deadline at a competitive price?**
 Express 48-hour turnaround is available at a surcharge on the standard price. For standard deadlines (5–7 business days), all pricing remains at the standard competitive rate. Message us with your deadline date to receive a confirmed quote that includes your specific turnaround requirement.
 
-**Why is some CMI assignment help so expensive**
+**Why is some CMI assignment help so expensive?**
 Premium services charge for agency overhead and brand positioning, not necessarily better assignment quality. Offshore services charge less but may lack CMI-specific expertise, creating referral risk that costs more to resolve than the original saving. Our pricing is direct-service UK-based CMI expertise at competitive rates without an agency premium.
 
-**Is CMI assignment help affordable for a student budget**
+**Is CMI assignment help affordable for a student budget?**
 We offer per-unit pricing - you only pay for the assignment you need, when you need it. Level 3 assignments start at accessible price points. Payment is via deposit on order and remainder on delivery, so you do not pay in full before receiving your document. WhatsApp us with your budget and unit. We'll find the best option for your situation.
 
 ---

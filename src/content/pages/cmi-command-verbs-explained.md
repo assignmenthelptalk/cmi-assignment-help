@@ -18,6 +18,29 @@ Send your Learning Outcome and we will confirm exactly what your response needs 
 
 ---
 
+## CMI Command Verbs List: Meaning at a Glance
+
+A command verb is the instruction word in a CMI Learning Outcome that tells you which kind of thinking to show. The list below runs from the lowest to the highest cognitive demand. Each verb links to its full explanation further down this page.
+
+| Command verb | Meaning in CMI assessment | Most used at |
+|---|---|---|
+| [Identify](#identify) | Name or list specific items, factors or examples. No explanation is needed | Level 3 |
+| [Describe](#describe) | Give the characteristics, features or steps of something in enough detail to show real familiarity | Level 3 |
+| [Explain](#explain) | Give the reason why something is the case, with cause and effect | Levels 3 and 4 |
+| [Discuss](#discuss) | Present a balanced argument from at least two perspectives and reach a reasoned conclusion | Levels 3 and 4 |
+| [Analyse](#analyse) | Break the subject into components and examine how they relate to each other and to the management context | Level 4 |
+| [Evaluate](#evaluate) | Apply named criteria to judge strengths, weaknesses or effectiveness, and reach a supported conclusion | Levels 5 and 6 |
+| [Justify](#justify) | Support a decision or position with evidence-based reasoning from external sources | Level 5 |
+| [Assess](#assess) | Use a named framework to judge the current state or performance of something | Varies by unit |
+| [Review](#review) | Examine something against a stated purpose or standard to find what works and what must change | Varies by unit |
+| [Develop a Plan](#develop-a-plan) | Produce a specific plan with objectives, owners, resources, timelines and success measures | Level 5 |
+| [Propose](#propose) | Put forward a specific, actionable recommendation with a supported rationale | Level 6 |
+| [Critically Analyse](#critically-analyse) | Analyse in full, then state the limitations, assumptions and gaps in that analysis | Level 7 |
+| [Critically Evaluate](#critically-evaluate) | Evaluate in full, then challenge whether the criteria used are the right measure | Levels 6 and 7 |
+
+The verb in your own Learning Outcome decides what the assessor marks, so the level alone does not settle it. Check your unit brief, then get help at your level: [CMI Level 3 assignment help](/cmi-level-3-assignment-help/), [CMI Level 4 assignment help](/cmi-level-4-assignment-help/), [CMI Level 5 assignment help](/cmi-level-5-assignment-help/), [CMI Level 6 assignment help](/cmi-level-6-assignment-help/) and [CMI Level 7 assignment help](/cmi-level-7-assignment-help/). If you want an assignment written to the verb, see the [CMI assignment writing service](/cmi-assignment-writing-service/).
+
+---
 ## What Are CMI Command Verbs and Why Do They Matter
 CMI command verbs appear in the Learning Outcomes of every CMI unit. They define the minimum cognitive process required for a pass, and the depth of that process determines whether a response reaches Merit or Distinction. The assessor does not mark whether you know about a topic. They mark whether you have applied the correct cognitive process to it.
 
@@ -41,6 +64,9 @@ CMI command verbs form a cognitive hierarchy. Lower-order verbs require knowledg
 <!-- Components: Vertical ladder or pyramid diagram | Six tiers: Knowledge (Identify, Describe) | Understanding (Explain) | Application (Demonstrate) | Analysis (Discuss, Analyse, Compare) | Evaluation (Evaluate, Justify, Assess, Review) | Critical Evaluation (Critically Analyse, Critically Evaluate) | Each tier labelled with typical CMI level in parentheses -->
 <!-- Alt text: "CMI command verb cognitive depth ladder: from Identify at foundation level through to Critically Evaluate at Level 6 to 7, showing six tiers of cognitive demand" -->
 The practical implication: a Merit response at Level 5 meets Evaluate at a consistent level with evidence and criteria. A Distinction response applies Critically Evaluate - even if the Learning Outcome only states Evaluate - by acknowledging the limitations of the criteria used. Understanding where your required verb sits on this ladder tells you how much further you need to go.
+
+**Order Help With Your Command Verb Assignment on WhatsApp**
+Send your unit brief and Learning Outcome and we will write or guide your response to the exact verb.
 
 ---
 
@@ -287,6 +313,8 @@ For level-specific assignment help, see the relevant page:
 
 For help understanding assignment format alongside verb requirements, see our [CMI assignment structure guide](/guides/cmi-assignment-structure/).
 
+To see how the verbs shape a full assignment at each level, read the [Level 3](/cmi-level-3-assignment-examples/), [Level 5](/cmi-level-5-assignment-examples/) and [Level 7](/cmi-level-7-assignment-examples/) assignment examples guides. For help applying a verb to your own unit, see [CMI assignment tutoring](/cmi-assignment-tutoring/) or the [CMI assignment writing service](/cmi-assignment-writing-service/).
+
 ---
 
 ## Related Pages
@@ -301,22 +329,22 @@ Other ways to get CMI support include [CMI coursework help](/cmi-coursework-help
 
 ## FAQ: CMI Command Verbs Explained
 
-**What is the difference between Evaluate and Critically Evaluate in CMI**
+**What is the difference between Evaluate and Critically Evaluate in CMI?**
 Evaluate requires applying named criteria to assess strengths and weaknesses and reaching a supported conclusion. Critically Evaluate requires all of that, plus questioning whether the criteria themselves are the right measure - acknowledging what they cannot capture and presenting alternative evaluation frameworks that would produce a different judgement. Critically Evaluate is the standard expectation at Level 7 and required for Distinction at Level 6.
 
-**What does Justify mean in a CMI assignment**
+**What does Justify mean in a CMI assignment?**
 Justify means providing evidence-based reasoning to support a decision, recommendation, or position. The evidence must be external - theory, data, legislation, or published research findings. Stating your personal reasoning for a choice is explanation, not justification. The argument must be supported by sources that an assessor can verify and that carry independent authority.
 
-**How is Analyse different from Describe**
+**How is Analyse different from Describe?**
 Describe gives the features or characteristics of something - what it looks like or how it works. Analyse breaks something into components and explains how those components relate to each other and to the whole. The reliable signal for Analyse is relationship language: "which therefore," "because," "this leads to," "as a result of." If a response contains only "what" statements and no "why" or "how" statements, it describes rather than analyses.
 
-**Do all CMI assignments have a command verb**
+**Do all CMI assignments have a command verb?**
 Yes. Every CMI Learning Outcome contains at least one command verb. Where two verbs appear - for example, "Evaluate and Justify" - both must be met within the response. The highest-order verb sets the cognitive standard for the whole assignment.
 
-**What command verbs appear at CMI Level 5**
+**What command verbs appear at CMI Level 5?**
 Level 5 primarily uses Evaluate, Justify, and Develop a Plan. Assess and Review appear in specific units focused on performance management and operational planning. Distinction responses at Level 5 often require Critically Evaluate even when the Learning Outcome states Evaluate - assessors at Level 5 reward the critical layer explicitly in the Distinction descriptor.
 
-**Can I get help understanding the command verb in my specific unit**
+**Can I get help understanding the command verb in my specific unit?**
 Yes. Message us on WhatsApp with your unit brief or Learning Outcome. We will identify the governing verb and explain exactly what your response needs to include to achieve Merit or Distinction at your level.
 
 ---

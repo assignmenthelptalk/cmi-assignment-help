@@ -241,22 +241,22 @@ Return to the full unit list: [CMI Level 5 Assignment Help - All 25 Units](/cmi-
 
 ## FAQ: CMI 501 Assignment Help
 
-**What is CMI Unit 501**
+**What is CMI Unit 501?**
 CMI Unit 501 - Principles of Management and Leadership is the foundational core unit of the Level 5 Diploma in Management and Leadership. It covers the relationship between management and leadership, a range of leadership theories and models, and how those theories are applied to improve organisational performance. It is assessed by management report and is the most commonly studied Level 5 unit.
 
-**What format does a CMI 501 assignment take**
+**What format does a CMI 501 assignment take?**
 A management report: title page, executive summary (250–300 words, written after the main body), contents page, introduction, analysis sections mapped to the three Assessment Criteria, conclusion, recommendations, and a Harvard-referenced bibliography. Total word count is 3,000–4,000 words depending on your training provider's guidance.
 
-**How many words is a CMI 501 assignment**
+**How many words is a CMI 501 assignment?**
 Typically 3,000–4,000 words. Some training providers specify 3,500 words as the target. Always follow the word count guidance in your specific assignment brief. The executive summary, bibliography, and appendices are usually excluded from the word count - confirm this with your assessor.
 
-**Which leadership theories are covered in CMI 501**
+**Which leadership theories are covered in CMI 501?**
 AC2 requires evaluation of a range - minimum three theories or models. The most commonly applied: transformational and transactional leadership (Bass and Avolio), situational leadership (Hersey and Blanchard), contingency theory (Fiedler), and the management vs leadership distinction (Kotter). Emotional Intelligence (Goleman) is frequently used as a complementary lens. The key requirement is range across different theoretical traditions, not depth on one theory alone.
 
-**What does Evaluate mean in CMI 501**
+**What does Evaluate mean in CMI 501?**
 Evaluate requires you to establish criteria, apply each theory against those criteria with evidence, and draw a reasoned conclusion. It is not a list of advantages and disadvantages. A compliant Evaluate response names the criteria before applying them, uses cited academic evidence in the application, and concludes with a defended judgement about which approach is more effective in the defined management context.
 
-**Can you help with a CMI 501 resubmission**
+**Can you help with a CMI 501 resubmission?**
 Yes. CMI 501 resubmissions most commonly arise from insufficient Evaluate depth in AC2 - theories described rather than evaluated, or criteria missing from the evaluation structure. We review your assessor's feedback, identify the specific criterion gaps, and rewrite or restructure only the sections that need to change. Send your original submission and assessor feedback via WhatsApp for a resubmission quote.
 
 ---

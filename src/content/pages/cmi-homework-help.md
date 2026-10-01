@@ -121,22 +121,22 @@ Our homework help service covers all CMI qualification levels - from Level 3 fir
 
 ## FAQ: CMI Homework Help
 
-**What is CMI homework**
+**What is CMI homework?**
 CMI homework is any written task you complete for your CMI qualification - training providers may call these assignments, tasks, coursework pieces, or homework, but they are all formally assessed written submissions marked against CMI's Learning Outcomes and Assessment Criteria. Our service covers all of them, regardless of what they're called.
 
-**Can you help me with CMI Level 3 homework**
+**Can you help me with CMI Level 3 homework?**
 Yes. Level 3 CMI homework is our most common enquiry for this service. Level 3 tasks are typically 1,500–2,500 word essays or short management reports covering first-line management topics. Send your task brief via WhatsApp and we'll confirm the format, provide a quote, and arrange a writer.
 
-**How long does CMI homework help take**
+**How long does CMI homework help take?**
 Standard turnaround is 5–7 business days from order confirmation. Express 48-hour turnaround is available for urgent deadlines. Message us on WhatsApp with your deadline first - for very tight deadlines, we'll confirm availability before taking your order.
 
-**Do I need to tell you which unit the homework is for**
+**Do I need to tell you which unit the homework is for?**
 Yes. please share the unit number (e.g., CMI 301), the task question or brief, the required word count, and your deadline in your first WhatsApp message. If your training provider has given you additional instructions (formatting requirements, specific guidelines), share those too. This gives us everything we need to match the right writer and start work.
 
-**Can you help me with work-based CMI activities**
+**Can you help me with work-based CMI activities?**
 Yes. work-based activities are among the most common CMI homework tasks. They require applying management theory to a situation from your own workplace. Share general context about your job role, your organisation, and the specific situation the task refers to, along with the task brief. We'll write a response that connects theory to your professional context in a way that meets the Learning Outcomes.
 
-**How much does CMI homework help cost**
+**How much does CMI homework help cost?**
 Pricing depends on the unit level, word count, and turnaround time. Level 3 tasks are priced below Level 5 and Level 7, reflecting the different depth and complexity. Message us on WhatsApp with your task details for a transparent, fixed quote with no hidden fees.
 
 ---

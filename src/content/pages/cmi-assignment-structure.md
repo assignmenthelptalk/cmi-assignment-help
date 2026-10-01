@@ -332,22 +332,22 @@ For level-specific guidance on assignment requirements, see:
 
 ## FAQ: CMI Assignment Structure
 
-**Does a CMI assignment need an executive summary**
+**Does a CMI assignment need an executive summary?**
 Management reports at Level 5 and above typically require an executive summary as an assessed section. Check your unit's Assessment Criteria or ask your training provider whether it is explicitly marked. Essays and reflective accounts do not use an executive summary. If your training provider specifies that it is required, include it. If in doubt, including one will not count against you.
 
-**How many words should each section of a CMI management report be**
+**How many words should each section of a CMI management report be?**
 For a 4,000-word management report: Executive Summary (250 to 300 words), Introduction (200 to 250 words), Analysis sections (2,200 to 2,600 words across all headed sub-sections), Conclusion (200 to 300 words), Recommendations (400 to 500 words). These are proportional guidelines. Always follow your unit brief's specific word count allocation if your training provider provides one.
 
-**Can I use bullet points in a CMI assignment**
+**Can I use bullet points in a CMI assignment?**
 In management reports, bullet points are appropriate in the recommendations section and in appendices. In the analysis sections, continuous prose is expected because bullet-pointed analysis does not demonstrate the reasoning depth that Evaluate and Justify require. In essays, avoid bullet points throughout the body. In reflective accounts, the action plan table uses a structured format rather than prose narrative.
 
-**What is the difference between the conclusion and the recommendations in a management report**
+**What is the difference between the conclusion and the recommendations in a management report?**
 The conclusion synthesises what the analysis found and reaches a judgement based on the evidence presented. The recommendations propose specific actions the organisation should take based on those conclusions. They are separate sections with different functions. A conclusion that lists recommendations, or recommendations that include new analysis, indicates a structural misunderstanding that costs marks in both sections.
 
-**Do CMI assignments need a title page and table of contents**
+**Do CMI assignments need a title page and table of contents?**
 Most training providers require a title page for all submissions. A table of contents is required for management reports and recommended for any report over 3,000 words. Check your training provider's submission template before creating either, as some providers supply a mandatory cover sheet.
 
-**How many sources does a CMI assignment need**
+**How many sources does a CMI assignment need?**
 Source requirements scale with level. Level 3 essays need a minimum of six sources; Level 5 management reports need ten to twelve; Level 7 strategic reports need fifteen to twenty. Source quality matters alongside quantity, and peer-reviewed management journals and established management textbooks are preferred. Every source cited must appear in the bibliography and every bibliography entry must be cited in the text.
 
 ---

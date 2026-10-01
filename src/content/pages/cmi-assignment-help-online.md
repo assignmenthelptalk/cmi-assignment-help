@@ -139,22 +139,22 @@ All five CMI qualification levels are available through our online service:
 
 ## FAQ: CMI Assignment Help Online
 
-**How do I get CMI assignment help online**
+**How do I get CMI assignment help online?**
 Message us on WhatsApp with your unit number, assignment brief or question, required word count, and submission deadline. We respond with a quote within 1 hour during trading hours (Monday–Saturday, 9am–9pm UK time). No forms, no phone calls, no appointments required.
 
-**Can I get CMI help online via WhatsApp**
+**Can I get CMI help online via WhatsApp?**
 Yes. WhatsApp is our primary channel for all online CMI assignment support. All communication, file delivery, and revisions happen through your private 1-to-1 WhatsApp channel. You can also use email if preferred. The assignment is delivered as a Word document either way.
 
-**Is online CMI assignment help available for all levels**
+**Is online CMI assignment help available for all levels?**
 Yes. All CMI levels from 3 to 7, and all 80+ units across those levels, are available through our online service. There is no difference in scope between online and any other delivery method we offer.
 
-**What if I live outside the UK: can I still get help**
+**What if I live outside the UK: can I still get help?**
 Yes. Our service is fully online and available to CMI students worldwide, including those enrolled in UK CMI qualification programmes at international training centres. Your location does not affect the service, the quality, or the turnaround.
 
-**How quickly can I get CMI assignment help online**
+**How quickly can I get CMI assignment help online?**
 Standard turnaround is 5–7 business days from order confirmation. A 48-hour express service is available for shorter assignments confirm availability via WhatsApp when you send your brief. For urgent deadlines, message immediately with your deadline date.
 
-**Can I communicate with my writer during the assignment**
+**Can I communicate with my writer during the assignment?**
 Yes. Your writer communicates with you directly via your private WhatsApp channel throughout the process. You can ask questions, provide additional context about your organisation or brief, and request clarification at any stage. You are not locked out after submitting your brief.
 
 ---

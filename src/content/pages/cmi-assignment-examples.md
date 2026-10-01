@@ -187,22 +187,22 @@ Other ways to get CMI support include [CMI coursework help](/cmi-coursework-help
 
 ## FAQ: CMI Assignment Examples Questions
 
-**Can I see a free CMI assignment example**
+**Can I see a free CMI assignment example?**
 Yes. The level and unit previews above are available on this page. Full examples complete documents with all sections are available via WhatsApp request at no charge. Message us with your level and unit and we'll send the most relevant example from our library.
 
-**Are these real CMI assignments that passed**
+**Are these real CMI assignments that passed?**
 All examples are based on assignments written by our professional CMI writers to the required Assessment Criteria and Learning Outcomes. They represent the format, depth, and academic standard required for a merit or distinction outcome at each level.
 
-**Do you have CMI Level 5 assignment examples**
+**Do you have CMI Level 5 assignment examples?**
 Yes. Level 5 examples are our most requested. We have examples for multiple Level 5 units including 501, 502, 504, 509, and 513. Message us on WhatsApp with your unit number and we'll send the most relevant example.
 
-**Do your CMI assignment examples include Harvard referencing**
+**Do your CMI assignment examples include Harvard referencing?**
 Yes. All examples include full in-text Harvard citations and a complete bibliography, formatted to the academic standard CMI requires. The bibliography in Level 5 examples includes a minimum of 10–12 sources; Level 7 examples include 15–18 sources.
 
-**Can I use a CMI assignment example as a template**
+**Can I use a CMI assignment example as a template?**
 Examples are for reference, format guidance, and quality benchmarking. Each CMI assignment must be written specifically for your unit's Learning Outcomes, your training provider's brief, and your own professional context where the brief requires it. If you need an assignment written to your specific brief, we can write it from scratch. Message us via WhatsApp for a quote alongside your example request.
 
-**Do you have CMI Level 7 strategic paper examples**
+**Do you have CMI Level 7 strategic paper examples?**
 Yes. Level 7 examples include strategic leadership papers, organisational strategy papers, and senior leadership development assignments. Message us on WhatsApp with your unit code (e.g., CMI 701, CMI 704) and we'll send a relevant strategic paper example.
 
 ---

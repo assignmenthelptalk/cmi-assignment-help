@@ -230,22 +230,22 @@ Other ways to get CMI support include [CMI coursework help](/cmi-coursework-help
 
 ## FAQ: CMI Level 5 Assignment Help
 
-**How many units are in the CMI Level 5 Diploma**
+**How many units are in the CMI Level 5 Diploma?**
 The CMI Level 5 Diploma in Management and Leadership has 25 available units (501–525). Students typically complete 6–8 units to achieve the full Diploma qualification. Your training provider will specify which units are required and in what order they are studied. All 25 are listed above with individual support pages.
 
-**What format do CMI Level 5 assignments take**
+**What format do CMI Level 5 assignments take?**
 Most Level 5 units require a management report format - including a title page, executive summary, contents page, analysis sections, conclusion, recommendations, and Harvard-referenced bibliography. Some units, particularly Unit 525 (Reflective Practice) - use a reflective account format rather than a formal report.
 
-**How long are CMI Level 5 assignments**
+**How long are CMI Level 5 assignments?**
 Typically 3,000–5,000 words per unit, depending on the unit and your training provider's specific word count guidance. A full Level 5 Diploma involves approximately 18,000–30,000 words across all units - a substantial academic undertaking alongside full-time management work.
 
-**What are the most popular CMI Level 5 units**
+**What are the most popular CMI Level 5 units?**
 Units 501 (Principles of Management and Leadership), 502 (Developing and Leading Teams), 503 (Managing Teams to Achieve Success), 504 (Managing Performance), and 509 (Managing Stakeholder Relationships) are the most frequently studied and most commonly requested for assignment help. All five are listed above with dedicated support pages.
 
-**Can you help me with a CMI 501 or 502 assignment**
+**Can you help me with a CMI 501 or 502 assignment?**
 Yes. Units 501 and 502 are our most-requested Level 5 assignments. Click the unit links above for the dedicated unit page, or WhatsApp us directly with your unit number and assignment brief. We respond with a quote within the hour during operating hours.
 
-**Do CMI Level 5 assignments need an executive summary**
+**Do CMI Level 5 assignments need an executive summary?**
 Yes. management reports at Level 5 typically require an executive summary of 250–300 words. It is written after the main report is complete and summarises the key findings and recommendations as a standalone section. An assessor reading only the executive summary should understand the report's conclusions without reading the full document.
 
 ---

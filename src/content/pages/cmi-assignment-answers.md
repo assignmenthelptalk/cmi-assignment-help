@@ -168,22 +168,22 @@ Our answer service covers all five CMI levels, each with its own brief structure
 
 ## FAQ: CMI Assignment Answers Questions
 
-**Can I get my CMI assignment question answered by a professional**
+**Can I get my CMI assignment question answered by a professional?**
 Yes. Our writers provide fully written, structured answers to your specific CMI assignment brief, aligned to your unit's Learning Outcomes and Assessment Criteria. Each answer is written specifically to your question and your level, not a generic response adapted from a template.
 
-**How do I send my CMI assignment question**
+**How do I send my CMI assignment question?**
 Via WhatsApp: send the unit number, the full question or assignment brief, the required word count, and your deadline. A screenshot of your assignment brief is fine. We provide a quote within 1 hour during trading hours.
 
-**Do CMI assignment answers include Harvard referencing**
+**Do CMI assignment answers include Harvard referencing?**
 Yes. All answers include in-text Harvard citations throughout the body and a full bibliography at the end. Sources include management textbooks, peer-reviewed journals, CMI publications, and ManagementDirect. The number of sources scales by level: 6–8 for Level 3–4, 10–12 for Level 5, 15–20 for Level 7.
 
-**Can you answer multi-part CMI assignments**
+**Can you answer multi-part CMI assignments?**
 Yes. Multi-part briefs are answered section by section, with each part written to its own Learning Outcomes and word count specification. The overall answer is coherent, and parts reference each other where the brief connects them, while each section independently meets its own Assessment Criteria.
 
-**What if I fail and need to resubmit**
+**What if I fail and need to resubmit?**
 Resubmission support is available. Send us the assessor's referral feedback the written comments identifying which Learning Outcomes were not met and we will rewrite the specific sections that missed the Assessment Criteria. This is targeted, efficient support that addresses exactly what the assessor flagged.
 
-**How quickly can I get my CMI assignment answered**
+**How quickly can I get my CMI assignment answered?**
 Standard turnaround is 5–7 business days from order confirmation. Express 48-hour turnaround is available for assignments up to approximately 2,500 words. For longer assignments at Level 5 or Level 7, express turnaround is typically 72–96 hours. Confirm availability via WhatsApp when you send your brief.
 
 ---

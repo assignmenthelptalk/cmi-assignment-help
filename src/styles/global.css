@@ -38,22 +38,35 @@
 }
 
 @layer components {
+  /* Orange "Order Now" buttons: shared look for FAB, header, and inline CTAs */
+  .whatsapp-fab,
+  .whatsapp-inline {
+    @apply items-center gap-2 text-white font-bold uppercase tracking-wide
+           rounded-full no-underline transition hover:brightness-110
+           hover:text-white;
+    background: linear-gradient(180deg, #ff9a1a 0%, #f26a00 100%);
+    box-shadow: 0 2px 8px rgba(242, 106, 0, 0.35);
+  }
   .whatsapp-fab {
-    @apply fixed bottom-6 left-6 z-50 flex items-center gap-2 px-5 py-3
-           bg-accent text-white font-semibold rounded-full shadow-md
-           hover:bg-accent-dark transition-colors no-underline;
+    @apply fixed bottom-6 left-6 z-50 flex px-5 py-3;
   }
   .whatsapp-fab span.fab-text {
     @apply hidden md:inline;
   }
   .whatsapp-inline {
-    @apply inline-flex items-center gap-2 px-5 py-3 bg-accent text-white
-           font-semibold rounded-full hover:bg-accent-dark transition-colors
-           no-underline text-sm;
+    @apply inline-flex px-6 py-3 text-sm;
   }
   .cta-box {
-    @apply bg-accent/10 border border-accent/30 rounded-lg px-4 py-4 my-6
+    @apply bg-orange-50 border border-orange-200 rounded-lg px-4 py-4 my-6
            flex flex-col items-start gap-3 sm:px-6 sm:py-5 sm:my-8;
+  }
+  .cta-box__actions {
+    @apply flex flex-wrap items-center gap-3 w-full;
+  }
+  .cta-badge {
+    @apply inline-flex items-center gap-2 px-4 py-2 rounded-md text-sm
+           font-bold text-white;
+    background: linear-gradient(180deg, #ff9a1a 0%, #f26a00 100%);
   }
   .cta-box a.whatsapp-inline {
     @apply w-full justify-center sm:w-auto;

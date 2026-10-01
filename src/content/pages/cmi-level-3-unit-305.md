@@ -11,7 +11,7 @@
   />
 </figure>
 
-CMI Unit 305 - Building Stakeholder Relationships is a Level 3 First Line Management unit addressing the identification and analysis of stakeholders relevant to a first-line management role, and the strategies that build and sustain effective working relationships across the stakeholder map. Assignments are submitted as a structured essay or short management report of 1,500–2,500 words, assessed against three Assessment Criteria using the Identify, Describe, and Explain command verbs. The primary analytical tool is Mendelow's Power-Interest Matrix (Aubrey Mendelow, 1991), supported by Freeman's Stakeholder Theory (R. Edward Freeman, 1984) as the conceptual rationale for proactive stakeholder management.
+CMI Unit 305 - Building Stakeholder Relationships is a Level 3 First Line Management unit addressing the identification and analysis of stakeholders relevant to a first-line management role, and the strategies that build and sustain effective working relationships across the stakeholder map. Assignments are submitted as a structured essay or short management report of 1,500–2,500 words, assessed against three Assessment Criteria using the Identify, Describe, and Explain command verbs. The primary analytical tool is Mendelow's Power-Interest Matrix (Aubrey Mendelow, 1991), supported by Freeman's Stakeholder Theory (R. Edward Freeman, 1984) as the conceptual rationale for proactive stakeholder management. For support across the full qualification, see our [CMI Level 3 assignment help UK](/cmi-level-3-assignment-help/).
 
 **Get CMI 305 Assignment Help on WhatsApp: Free Quote**
 Send your unit brief, word count, and deadline for an immediate response.

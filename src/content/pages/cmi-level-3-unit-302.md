@@ -11,7 +11,7 @@
   />
 </figure>
 
-CMI Unit 302 - Managing a Team to Achieve Results is a core practical unit of the Level 3 First Line Management qualification. It covers the characteristics of an effective team, the roles individuals play within teams, how a first-line manager sets clear performance expectations, and how communication operates within a team environment. Assignments are submitted as a structured essay or short management report of 1,500–2,500 words, assessed against four Assessment Criteria using the Describe and Explain command verbs. The unit draws on two of the most cited models in management education: Belbin's Team Role Theory (1981) and Tuckman's Team Development Model (1965).
+CMI Unit 302 - Managing a Team to Achieve Results is a core practical unit of the Level 3 First Line Management qualification. It covers the characteristics of an effective team, the roles individuals play within teams, how a first-line manager sets clear performance expectations, and how communication operates within a team environment. Assignments are submitted as a structured essay or short management report of 1,500–2,500 words, assessed against four Assessment Criteria using the Describe and Explain command verbs. The unit draws on two of the most cited models in management education: Belbin's Team Role Theory (1981) and Tuckman's Team Development Model (1965). For support across the full qualification, see our [CMI Level 3 assignment help UK](/cmi-level-3-assignment-help/).
 
 **Get CMI 302 Assignment Help on WhatsApp: Free Quote**
 Send your unit brief, word count, and deadline for an immediate response.

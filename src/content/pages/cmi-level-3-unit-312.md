@@ -11,7 +11,7 @@
   />
 </figure>
 
-CMI Unit 312 — Managing Daily Activities to Achieve Results is a Level 3 unit within the CMI First Line Management qualification. It is assessed by structured essay or short management report, typically 1,500–2,500 words, and covers three Assessment Criteria using the command verbs Identify, Describe, and Explain. The unit develops a first-line manager's ability to plan and prioritise daily workload, allocate resources effectively to meet operational objectives, and monitor team performance against defined targets. The Eisenhower Matrix — drawn from Dwight D. Eisenhower's approach to decision-making and popularised by Stephen Covey in "The 7 Habits of Highly Effective People" (1989) — is the primary theoretical framework for AC1.
+CMI Unit 312 — Managing Daily Activities to Achieve Results is a Level 3 unit within the CMI First Line Management qualification. It is assessed by structured essay or short management report, typically 1,500–2,500 words, and covers three Assessment Criteria using the command verbs Identify, Describe, and Explain. The unit develops a first-line manager's ability to plan and prioritise daily workload, allocate resources effectively to meet operational objectives, and monitor team performance against defined targets. The Eisenhower Matrix — drawn from Dwight D. Eisenhower's approach to decision-making and popularised by Stephen Covey in "The 7 Habits of Highly Effective People" (1989) — is the primary theoretical framework for AC1. For support across the full qualification, see our [CMI Level 3 assignment help UK](/cmi-level-3-assignment-help/).
 
 **Get CMI 312 Assignment Help on WhatsApp: Free Quote**
 Send your unit brief, word count, and deadline for an immediate response.

@@ -11,7 +11,7 @@
   />
 </figure>
 
-CMI Unit 701: Strategic Leadership is the most requested Level 7 unit and the foundational core of the Strategic Management and Leadership Diploma. It covers strategic leadership models, their application in complex multi-stakeholder organisational environments, and the relationship between strategic leadership and the culture, values, and ethics of the organisation. Assignments are submitted as strategic papers of 5,000–6,500 words, assessed at the highest command verb depth in the CMI framework - Critically Analyse.
+CMI Unit 701: Strategic Leadership is the most requested Level 7 unit and the foundational core of the Strategic Management and Leadership Diploma. It covers strategic leadership models, their application in complex multi-stakeholder organisational environments, and the relationship between strategic leadership and the culture, values, and ethics of the organisation. Assignments are submitted as strategic papers of 5,000–6,500 words, assessed at the highest command verb depth in the CMI framework - Critically Analyse. For support across the full qualification, see our [CMI Level 7 assignment help UK](/cmi-level-7-assignment-help/).
 
 Every CMI 701 assignment we deliver is written by a writer with director or senior executive experience and CMI Level 7 or equivalent postgraduate management qualifications. Level 7 assessors expect strategic papers to reflect the perspective of someone who has operated at strategic leadership level. A writer who understands transformational leadership theory without having led at organisational level produces work that reads as academic commentary rather than strategic analysis.
 

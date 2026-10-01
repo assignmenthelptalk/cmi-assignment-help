@@ -11,7 +11,7 @@
   />
 </figure>
 
-CMI Unit 301 - Principles of Management and Leadership is the foundational core unit of the Level 3 Award and Certificate in First Line Management. It establishes the conceptual distinction between management and leadership, maps the roles and responsibilities of a first-line manager, and introduces the range of management styles a first-line manager applies in practice. Assignments are submitted as a structured essay or short management report of 1,500–2,500 words, assessed against three Assessment Criteria using the Identify, Describe, and Explain command verbs. Three sources of academic evidence are the minimum for a Pass; five to eight sources are expected at Merit and Distinction.
+CMI Unit 301 - Principles of Management and Leadership is the foundational core unit of the Level 3 Award and Certificate in First Line Management. It establishes the conceptual distinction between management and leadership, maps the roles and responsibilities of a first-line manager, and introduces the range of management styles a first-line manager applies in practice. Assignments are submitted as a structured essay or short management report of 1,500–2,500 words, assessed against three Assessment Criteria using the Identify, Describe, and Explain command verbs. Three sources of academic evidence are the minimum for a Pass; five to eight sources are expected at Merit and Distinction. For support across the full qualification, see our [CMI Level 3 assignment help UK](/cmi-level-3-assignment-help/).
 
 **Get CMI 301 Assignment Help on WhatsApp: Free Quote**
 Send your unit brief, word count, and deadline for an immediate response.

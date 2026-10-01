@@ -11,7 +11,7 @@
   />
 </figure>
 
-CMI Unit 306 - Principles of Delivering Coaching and Mentoring is a Level 3 First Line Management unit addressing the distinction between coaching and mentoring, the principles of effective coaching and mentoring practice, and how coaching and mentoring techniques are applied within a first-line management context. Assignments are submitted as a structured essay or short management report of 1,500–2,500 words, assessed against three Assessment Criteria using the Identify and Explain command verbs. The primary coaching framework is the GROW Model (Sir John Whitmore, 1992), with the OSCAR Model (Gilbert and Whittleworth, 2009) as a recognised alternative — particularly in healthcare and public sector management contexts.
+CMI Unit 306 - Principles of Delivering Coaching and Mentoring is a Level 3 First Line Management unit addressing the distinction between coaching and mentoring, the principles of effective coaching and mentoring practice, and how coaching and mentoring techniques are applied within a first-line management context. Assignments are submitted as a structured essay or short management report of 1,500–2,500 words, assessed against three Assessment Criteria using the Identify and Explain command verbs. The primary coaching framework is the GROW Model (Sir John Whitmore, 1992), with the OSCAR Model (Gilbert and Whittleworth, 2009) as a recognised alternative — particularly in healthcare and public sector management contexts. For support across the full qualification, see our [CMI Level 3 assignment help UK](/cmi-level-3-assignment-help/).
 
 **Get CMI 306 Assignment Help on WhatsApp: Free Quote**
 Send your unit brief, word count, and deadline for an immediate response.

@@ -11,7 +11,7 @@
   />
 </figure>
 
-CMI Unit 308 — Understanding Innovation and Change is a Level 3 unit within the CMI First Line Management qualification. It is assessed by structured essay or short management report, typically 1,500–2,500 words, and addresses three Assessment Criteria using the command verbs Identify, Describe, and Explain. The unit requires first-line managers to demonstrate that they can identify what causes change in an organisation, describe its impact on a team or department, and explain how to manage resistance constructively. Lewin's Three-Stage Change Model (Kurt Lewin, 1947) is the most frequently applied theoretical framework at this level.
+CMI Unit 308 — Understanding Innovation and Change is a Level 3 unit within the CMI First Line Management qualification. It is assessed by structured essay or short management report, typically 1,500–2,500 words, and addresses three Assessment Criteria using the command verbs Identify, Describe, and Explain. The unit requires first-line managers to demonstrate that they can identify what causes change in an organisation, describe its impact on a team or department, and explain how to manage resistance constructively. Lewin's Three-Stage Change Model (Kurt Lewin, 1947) is the most frequently applied theoretical framework at this level. For support across the full qualification, see our [CMI Level 3 assignment help UK](/cmi-level-3-assignment-help/).
 
 **Get CMI 308 Assignment Help on WhatsApp: Free Quote**
 Send your unit brief, word count, and deadline for an immediate response.

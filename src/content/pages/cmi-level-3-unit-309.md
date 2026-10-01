@@ -11,7 +11,7 @@
   />
 </figure>
 
-CMI Unit 309 — Leading Equality, Diversity and Inclusion is a Level 3 unit within the CMI First Line Management qualification. It is assessed by structured essay or short management report, typically 1,500–2,500 words, and covers three Assessment Criteria using the command verbs Identify, Describe, and Explain. The unit requires first-line managers to demonstrate an understanding of the legal framework governing equality in the UK workplace, the practical responsibilities of a manager in creating an inclusive team environment, and the methods available for promoting equality and diversity in day-to-day management practice. The Equality Act 2010 is the primary legislative reference throughout all three criteria.
+CMI Unit 309 — Leading Equality, Diversity and Inclusion is a Level 3 unit within the CMI First Line Management qualification. It is assessed by structured essay or short management report, typically 1,500–2,500 words, and covers three Assessment Criteria using the command verbs Identify, Describe, and Explain. The unit requires first-line managers to demonstrate an understanding of the legal framework governing equality in the UK workplace, the practical responsibilities of a manager in creating an inclusive team environment, and the methods available for promoting equality and diversity in day-to-day management practice. The Equality Act 2010 is the primary legislative reference throughout all three criteria. For support across the full qualification, see our [CMI Level 3 assignment help UK](/cmi-level-3-assignment-help/).
 
 **Get CMI 309 Assignment Help on WhatsApp: Free Quote**
 Send your unit brief, word count, and deadline for an immediate response.

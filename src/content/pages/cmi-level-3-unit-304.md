@@ -11,7 +11,7 @@
   />
 </figure>
 
-CMI Unit 304 - Principles of Communication in the Workplace is a Level 3 First Line Management unit addressing the communication methods available to a manager, the barriers that disrupt effective communication, and the skills required to adapt communication style for different audiences and organisational contexts. Assignments are submitted as a structured essay or short management report of 1,500–2,500 words, assessed against three Assessment Criteria using the Identify, Describe, and Explain command verbs. The primary theoretical frameworks are the Shannon-Weaver Communication Model (1948) and Berlo's SMCR Model (1960) — supplemented by practical analysis of communication barriers and audience-specific style adaptation.
+CMI Unit 304 - Principles of Communication in the Workplace is a Level 3 First Line Management unit addressing the communication methods available to a manager, the barriers that disrupt effective communication, and the skills required to adapt communication style for different audiences and organisational contexts. Assignments are submitted as a structured essay or short management report of 1,500–2,500 words, assessed against three Assessment Criteria using the Identify, Describe, and Explain command verbs. The primary theoretical frameworks are the Shannon-Weaver Communication Model (1948) and Berlo's SMCR Model (1960) — supplemented by practical analysis of communication barriers and audience-specific style adaptation. For support across the full qualification, see our [CMI Level 3 assignment help UK](/cmi-level-3-assignment-help/).
 
 **Get CMI 304 Assignment Help on WhatsApp: Free Quote**
 Send your unit brief, word count, and deadline for an immediate response.

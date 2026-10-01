@@ -11,7 +11,7 @@
   />
 </figure>
 
-CMI Unit 506 sits at the intersection of operational management and financial literacy. It is not an accounting unit - it does not require you to prepare financial statements or calculate depreciation schedules. It requires you to **Evaluate** how managers plan and use resources, how budgets are set and controlled, and how financial information informs management decisions. The distinction matters: your assessor is not examining your knowledge of finance. They are examining your ability to critically evaluate financial management practice.
+CMI Unit 506 sits at the intersection of operational management and financial literacy. It is not an accounting unit - it does not require you to prepare financial statements or calculate depreciation schedules. It requires you to **Evaluate** how managers plan and use resources, how budgets are set and controlled, and how financial information informs management decisions. The distinction matters: your assessor is not examining your knowledge of finance. They are examining your ability to critically evaluate financial management practice. For support across the full qualification, see our [CMI Level 5 assignment help UK](/cmi-level-5-assignment-help/).
 
 This is the unit where non-financial managers most commonly underestimate the command verb. Describing what a budget is - or listing what financial information is available - is description. Evaluating budget approaches means comparing them, examining which is appropriate in which context, and reaching a justified conclusion.
 

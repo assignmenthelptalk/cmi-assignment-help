@@ -61,15 +61,21 @@
            flex flex-col items-start gap-3 sm:px-6 sm:py-5 sm:my-8;
   }
   .cta-box__actions {
-    @apply flex flex-wrap items-center gap-3 w-full;
+    @apply flex flex-wrap items-stretch gap-3 w-full;
   }
   .cta-badge {
-    @apply inline-flex items-center gap-2 px-4 py-2 rounded-md text-sm
-           font-bold text-white;
+    @apply inline-flex flex-1 items-center justify-center gap-2 px-4 py-3
+           rounded-md text-sm font-bold text-white text-center
+           sm:flex-none;
+    min-width: 45%;
     background: linear-gradient(180deg, #ff9a1a 0%, #f26a00 100%);
   }
   .cta-box a.whatsapp-inline {
-    @apply w-full justify-center sm:w-auto;
+    @apply w-full justify-center border-2 border-white sm:w-auto;
+    box-shadow: 0 4px 12px rgba(242, 106, 0, 0.45);
+  }
+  @media (min-width: 640px) {
+    .cta-badge { min-width: 0; }
   }
   .step-block {
     @apply flex gap-4 items-start mb-6;

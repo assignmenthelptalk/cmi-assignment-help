@@ -20,3 +20,6 @@ Thumbs.db
 *.log
 npm-debug.log*
 node_modules
+
+# Local browser temp
+.chrome-tmp/

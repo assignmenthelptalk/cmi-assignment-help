@@ -4,6 +4,8 @@ You are building a production-ready Astro website for **cmiassignmentsupport.co.
 
 Read this file in full before writing a single line of code.
 
+> **Note (Oct 2026):** this brief describes the original build. The site is built and live. Page content now lives in `src/content/pages/` (the `/content/` folder referenced below was removed because it was a stale copy). See `README.md` for the current structure, conventions and known issues; where the two disagree, `README.md` and the code win.
+
 ---
 
 ## 1. Project Identity

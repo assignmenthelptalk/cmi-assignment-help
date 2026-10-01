@@ -13,7 +13,7 @@
 
 CMI Level 7 is the Strategic Management and Leadership qualification - the highest CMI credential, equivalent to Master's level, designed for directors, senior leaders, and executives responsible for organisational strategy and performance. Level 7 assignments are not management reports. They are strategic papers that require Critically Analytical thinking at an academic depth that reflects the qualification's postgraduate equivalence.
 
-Our CMI Level 7 assignment help covers all 17 units from 701 to 717, delivered exclusively by writers with strategic leadership experience and CMI Level 7 or equivalent postgraduate management qualifications.
+At [CMI Assignment Support](/), our CMI Level 7 assignment help covers all 17 units from 701 to 717, delivered exclusively by writers with strategic leadership experience and CMI Level 7 or equivalent postgraduate management qualifications.
 
 **Get CMI Level 7 Help on WhatsApp: Senior Strategic Writers**
 Message us with your unit code and assignment brief for an immediate response.

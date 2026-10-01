@@ -54,6 +54,8 @@ Harvard sources: 7 sources cited.
 
 **Request this example on WhatsApp**: message us "Level 3 Unit 301 example" and we'll send the full document.
 
+For the section-by-section structure and word budget at this level, see the [CMI Level 3 assignment examples guide](/cmi-level-3-assignment-examples/).
+
 ---
 
 ### CMI Level 4 Assignment Examples
@@ -88,6 +90,8 @@ Harvard sources: 12 sources cited, including ManagementDirect and CMI research r
 
 **Request this example on WhatsApp** message "Level 5 Unit 502 example." This is the example most students find most immediately useful for understanding management report format.
 
+For the section-by-section structure and word budget at this level, see the [CMI Level 5 assignment examples guide](/cmi-level-5-assignment-examples/).
+
 ---
 
 ### CMI Level 6 Assignment Examples
@@ -121,6 +125,8 @@ Theories applied: Burns and Bass's transformational leadership, Heifetz's adapti
 Harvard sources: 18 sources, including peer-reviewed journals (Leadership Quarterly, Strategic Management Journal) and government policy documents.
 
 **Request this example on WhatsApp**: message "Level 7 Unit 701 example."
+
+For the section-by-section structure and word budget at this level, see the [CMI Level 7 assignment examples guide](/cmi-level-7-assignment-examples/).
 
 ---
 

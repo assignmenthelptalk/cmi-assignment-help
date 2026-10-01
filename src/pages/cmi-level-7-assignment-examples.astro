@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { extractFaqs, buildFaqSchema } from '../utils/faq';
+
+const entry = await getEntry('pages', 'cmi-level-7-assignment-examples');
+const { Content } = await render(entry);
+const faqs = extractFaqs('cmi-level-7-assignment-examples');
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: 'CMI Level 7 Assignment Examples: Annotated Structure of a Strategic Paper',
+    description: 'Annotated guide to a CMI Level 7 assignment: strategic paper structure, word budget, Critically Analyse depth, and what separates Merit from Distinction.',
+    author: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://www.cmiassignmentsupport.co.uk',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'CMI Assignment Support',
+      url: 'https://www.cmiassignmentsupport.co.uk',
+    },
+  },
+  buildFaqSchema(faqs),
+];
+---
+<BaseLayout
+  title="CMI Level 7 Assignment Examples | CMI Assignment Support"
+  description="Annotated guide to a CMI Level 7 assignment: strategic paper structure, word budget, Critically Analyse depth, and what separates Merit from Distinction."
+  slug="/cmi-level-7-assignment-examples/"
+  schemas={schemas}
+  breadcrumb={[
+    { label: 'CMI Assignment Examples', href: '/cmi-assignment-examples/' },
+    { label: 'CMI Level 7 Assignment Examples', href: '/cmi-level-7-assignment-examples/' },
+  ]}
+>
+  <article class="prose-page--wide">
+    <Content />
+  </article>
+</BaseLayout>

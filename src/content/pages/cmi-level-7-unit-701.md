@@ -251,6 +251,7 @@ Return to the full unit list: [CMI Level 7 Assignment Help - All 17 Units](/cmi-
 
 - [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
 - [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI Level 7 assignment examples](/cmi-level-7-assignment-examples/)
 
 ---
 

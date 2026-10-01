@@ -235,6 +235,7 @@ Return to the full unit list: [CMI Level 5 Assignment Help - All 25 Units](/cmi-
 
 - [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
 - [CMI assignment examples](/cmi-assignment-examples/)
+- [CMI Level 5 assignment examples](/cmi-level-5-assignment-examples/)
 
 ---
 

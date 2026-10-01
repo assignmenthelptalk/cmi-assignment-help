@@ -1,10 +1,10 @@
-# CMI 401 Assignment Help: Managerial Styles and Behaviours
+# CMI Unit 401 Assignment Help: Managerial Styles and Behaviours
 
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-4-unit-401-managerial-styles-behaviours-header.webp"
-    alt="CMI 401 Assignment Help: Managerial Styles and Behaviours"
-    title="CMI 401 Assignment Help: Managerial Styles and Behaviours"
+    alt="CMI Unit 401 Assignment Help: Managerial Styles and Behaviours"
+    title="CMI Unit 401 Assignment Help: Managerial Styles and Behaviours"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

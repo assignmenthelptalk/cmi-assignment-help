@@ -1,9 +1,9 @@
-# CMI 607 Assignment Help: Procurement, Purchasing and Contracting
+# CMI Unit 607 Assignment Help: Procurement, Purchasing and Contracting
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-6-unit-607-procurement-purchasing-contracting-header.webp"
-    alt="CMI 607 Assignment Help: Procurement, Purchasing and Contracting"
-    title="CMI 607 Assignment Help: Procurement, Purchasing and Contracting"
+    alt="CMI Unit 607 Assignment Help: Procurement, Purchasing and Contracting"
+    title="CMI Unit 607 Assignment Help: Procurement, Purchasing and Contracting"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

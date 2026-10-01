@@ -1,9 +1,9 @@
-# CMI 307 Assignment Help: Developing the Knowledge, Skills and Abilities of Individuals and Teams
+# CMI Unit 307 Assignment Help: Developing the Knowledge, Skills and Abilities of Individuals and Teams
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-3-unit-307-developing-knowledge-skills-abilities-header.webp"
-    alt="CMI 307 Assignment Help: Developing the Knowledge, Skills and Abilities of Individuals and Teams"
-    title="CMI 307 Assignment Help: Developing the Knowledge, Skills and Abilities of Individuals and Teams"
+    alt="CMI Unit 307 Assignment Help: Developing the Knowledge, Skills and Abilities of Individuals and Teams"
+    title="CMI Unit 307 Assignment Help: Developing the Knowledge, Skills and Abilities of Individuals and Teams"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

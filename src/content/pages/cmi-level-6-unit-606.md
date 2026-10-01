@@ -1,9 +1,9 @@
-# CMI 606 Assignment Help: Finance for Strategic Leaders
+# CMI Unit 606 Assignment Help: Finance for Strategic Leaders
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-6-unit-606-finance-strategic-leaders-header.webp"
-    alt="CMI 606 Assignment Help: Finance for Strategic Leaders"
-    title="CMI 606 Assignment Help: Finance for Strategic Leaders"
+    alt="CMI Unit 606 Assignment Help: Finance for Strategic Leaders"
+    title="CMI Unit 606 Assignment Help: Finance for Strategic Leaders"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

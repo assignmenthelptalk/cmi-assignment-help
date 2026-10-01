@@ -1,9 +1,9 @@
-# CMI 612 Assignment Help: Coaching Skills for Leaders
+# CMI Unit 612 Assignment Help: Coaching Skills for Leaders
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-6-unit-612-coaching-skills-leaders-header.webp"
-    alt="CMI 612 Assignment Help: Coaching Skills for Leaders"
-    title="CMI 612 Assignment Help: Coaching Skills for Leaders"
+    alt="CMI Unit 612 Assignment Help: Coaching Skills for Leaders"
+    title="CMI Unit 612 Assignment Help: Coaching Skills for Leaders"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

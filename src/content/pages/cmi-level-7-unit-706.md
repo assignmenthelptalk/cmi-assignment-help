@@ -1,9 +1,9 @@
-# CMI 706 Assignment Help: Ethical Leadership
+# CMI Unit 706 Assignment Help: Ethical Leadership
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-cmi-level-7-unit-706-ethical-leadership-header.webp"
-    alt="CMI 706 Assignment Help: Ethical Leadership"
-    title="CMI 706 Assignment Help: Ethical Leadership"
+    alt="CMI Unit 706 Assignment Help: Ethical Leadership"
+    title="CMI Unit 706 Assignment Help: Ethical Leadership"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

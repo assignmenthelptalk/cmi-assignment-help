@@ -1,10 +1,10 @@
-# CMI 402 Assignment Help: Managing Stakeholders' Expectations
+# CMI Unit 402 Assignment Help: Managing Stakeholders' Expectations
 
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-4-unit-402-managing-stakeholders-expectations-header.webp"
-    alt="CMI 402 Assignment Help: Managing Stakeholders' Expectations"
-    title="CMI 402 Assignment Help: Managing Stakeholders' Expectations"
+    alt="CMI Unit 402 Assignment Help: Managing Stakeholders' Expectations"
+    title="CMI Unit 402 Assignment Help: Managing Stakeholders' Expectations"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

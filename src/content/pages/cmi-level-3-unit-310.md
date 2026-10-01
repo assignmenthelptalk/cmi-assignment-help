@@ -1,9 +1,9 @@
-# CMI 310 Assignment Help: Understanding Finance in the Workplace
+# CMI Unit 310 Assignment Help: Understanding Finance in the Workplace
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-3-unit-310-understanding-finance-workplace-header.webp"
-    alt="CMI 310 Assignment Help: Understanding Finance in the Workplace"
-    title="CMI 310 Assignment Help: Understanding Finance in the Workplace"
+    alt="CMI Unit 310 Assignment Help: Understanding Finance in the Workplace"
+    title="CMI Unit 310 Assignment Help: Understanding Finance in the Workplace"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

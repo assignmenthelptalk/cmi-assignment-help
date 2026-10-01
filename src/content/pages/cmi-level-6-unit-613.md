@@ -1,9 +1,9 @@
-# CMI 613 Assignment Help: Leading the Development of a Quality Strategy
+# CMI Unit 613 Assignment Help: Leading the Development of a Quality Strategy
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-6-unit-613-leading-quality-strategy-header.webp"
-    alt="CMI 613 Assignment Help: Leading the Development of a Quality Strategy"
-    title="CMI 613 Assignment Help: Leading the Development of a Quality Strategy"
+    alt="CMI Unit 613 Assignment Help: Leading the Development of a Quality Strategy"
+    title="CMI Unit 613 Assignment Help: Leading the Development of a Quality Strategy"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

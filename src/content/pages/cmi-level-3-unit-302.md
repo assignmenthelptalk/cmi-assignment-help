@@ -1,9 +1,9 @@
-# CMI 302 Assignment Help: Managing a Team to Achieve Results
+# CMI Unit 302 Assignment Help: Managing a Team to Achieve Results
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-3-unit-302-managing-team-achieve-results-header.webp"
-    alt="CMI 302 Assignment Help: Managing a Team to Achieve Results"
-    title="CMI 302 Assignment Help: Managing a Team to Achieve Results"
+    alt="CMI Unit 302 Assignment Help: Managing a Team to Achieve Results"
+    title="CMI Unit 302 Assignment Help: Managing a Team to Achieve Results"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

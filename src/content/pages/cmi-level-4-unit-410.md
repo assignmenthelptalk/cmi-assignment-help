@@ -1,10 +1,10 @@
-# CMI 410 Assignment Help: Managing Change
+# CMI Unit 410 Assignment Help: Managing Change
 
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-4-unit-410-managing-change-header.webp"
-    alt="CMI 410 Assignment Help: Managing Change"
-    title="CMI 410 Assignment Help: Managing Change"
+    alt="CMI Unit 410 Assignment Help: Managing Change"
+    title="CMI Unit 410 Assignment Help: Managing Change"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

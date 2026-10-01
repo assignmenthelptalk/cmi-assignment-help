@@ -1,9 +1,9 @@
-# CMI 301 Assignment Help: Principles of Management and Leadership
+# CMI Unit 301 Assignment Help: Principles of Management and Leadership
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-3-unit-301-principles-management-leadership-header.webp"
-    alt="CMI 301 Assignment Help: Principles of Management and Leadership"
-    title="CMI 301 Assignment Help: Principles of Management and Leadership"
+    alt="CMI Unit 301 Assignment Help: Principles of Management and Leadership"
+    title="CMI Unit 301 Assignment Help: Principles of Management and Leadership"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

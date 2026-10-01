@@ -1,9 +1,9 @@
-# CMI 702 Assignment Help: Leading and Developing People to Optimise Performance
+# CMI Unit 702 Assignment Help: Leading and Developing People to Optimise Performance
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-cmi-level-7-unit-702-leading-developing-people-header.webp"
-    alt="CMI 702 Assignment Help: Leading and Developing People to Optimise Performance"
-    title="CMI 702 Assignment Help: Leading and Developing People to Optimise Performance"
+    alt="CMI Unit 702 Assignment Help: Leading and Developing People to Optimise Performance"
+    title="CMI Unit 702 Assignment Help: Leading and Developing People to Optimise Performance"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

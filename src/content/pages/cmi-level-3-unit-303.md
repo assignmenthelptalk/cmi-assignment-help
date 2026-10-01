@@ -1,9 +1,9 @@
-# CMI 303 Assignment Help: Managing Individuals to Be Effective in the Workplace
+# CMI Unit 303 Assignment Help: Managing Individuals to Be Effective in the Workplace
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-3-unit-303-managing-individuals-effective-workplace-header.webp"
-    alt="CMI 303 Assignment Help: Managing Individuals to Be Effective in the Workplace"
-    title="CMI 303 Assignment Help: Managing Individuals to Be Effective in the Workplace"
+    alt="CMI Unit 303 Assignment Help: Managing Individuals to Be Effective in the Workplace"
+    title="CMI Unit 303 Assignment Help: Managing Individuals to Be Effective in the Workplace"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

@@ -1,9 +1,9 @@
-# CMI 304 Assignment Help: Principles of Communication in the Workplace
+# CMI Unit 304 Assignment Help: Principles of Communication in the Workplace
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-3-unit-304-principles-communication-workplace-header.webp"
-    alt="CMI 304 Assignment Help: Principles of Communication in the Workplace"
-    title="CMI 304 Assignment Help: Principles of Communication in the Workplace"
+    alt="CMI Unit 304 Assignment Help: Principles of Communication in the Workplace"
+    title="CMI Unit 304 Assignment Help: Principles of Communication in the Workplace"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

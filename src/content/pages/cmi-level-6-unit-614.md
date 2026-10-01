@@ -1,9 +1,9 @@
-# CMI 614 Assignment Help: Personal and Professional Development
+# CMI Unit 614 Assignment Help: Personal and Professional Development
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-6-unit-614-personal-professional-development-header.webp"
-    alt="CMI 614 Assignment Help: Personal and Professional Development"
-    title="CMI 614 Assignment Help: Personal and Professional Development"
+    alt="CMI Unit 614 Assignment Help: Personal and Professional Development"
+    title="CMI Unit 614 Assignment Help: Personal and Professional Development"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

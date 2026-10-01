@@ -1,9 +1,9 @@
-# CMI 312 Assignment Help: Managing Daily Activities to Achieve Results
+# CMI Unit 312 Assignment Help: Managing Daily Activities to Achieve Results
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-3-unit-312-managing-daily-activities-results-header.webp"
-    alt="CMI 312 Assignment Help: Managing Daily Activities to Achieve Results"
-    title="CMI 312 Assignment Help: Managing Daily Activities to Achieve Results"
+    alt="CMI Unit 312 Assignment Help: Managing Daily Activities to Achieve Results"
+    title="CMI Unit 312 Assignment Help: Managing Daily Activities to Achieve Results"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

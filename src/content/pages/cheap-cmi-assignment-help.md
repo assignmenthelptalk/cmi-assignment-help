@@ -1,9 +1,9 @@
-# Affordable CMI Assignment Help UK: Professional Support at Competitive Prices
+# Cheap CMI Assignment Help UK: Professional Support at Competitive Prices
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-cheap-cmi-assignment-help-header.webp"
-    alt="Affordable CMI Assignment Help UK: Professional Support at Competitive Prices"
-    title="Affordable CMI Assignment Help UK: Professional Support at Competitive Prices"
+    alt="Cheap CMI Assignment Help UK: Professional Support at Competitive Prices"
+    title="Cheap CMI Assignment Help UK: Professional Support at Competitive Prices"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

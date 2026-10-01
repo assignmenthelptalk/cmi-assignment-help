@@ -1,9 +1,9 @@
-# CMI 306 Assignment Help: Principles of Delivering Coaching and Mentoring
+# CMI Unit 306 Assignment Help: Principles of Delivering Coaching and Mentoring
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-3-unit-306-principles-coaching-mentoring-header.webp"
-    alt="CMI 306 Assignment Help: Principles of Delivering Coaching and Mentoring"
-    title="CMI 306 Assignment Help: Principles of Delivering Coaching and Mentoring"
+    alt="CMI Unit 306 Assignment Help: Principles of Delivering Coaching and Mentoring"
+    title="CMI Unit 306 Assignment Help: Principles of Delivering Coaching and Mentoring"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

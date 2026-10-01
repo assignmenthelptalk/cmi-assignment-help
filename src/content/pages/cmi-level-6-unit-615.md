@@ -1,9 +1,9 @@
-# CMI 615 Assignment Help: Strategic Healthcare Leadership
+# CMI Unit 615 Assignment Help: Strategic Healthcare Leadership
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-6-unit-615-strategic-healthcare-leadership-header.webp"
-    alt="CMI 615 Assignment Help: Strategic Healthcare Leadership"
-    title="CMI 615 Assignment Help: Strategic Healthcare Leadership"
+    alt="CMI Unit 615 Assignment Help: Strategic Healthcare Leadership"
+    title="CMI Unit 615 Assignment Help: Strategic Healthcare Leadership"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

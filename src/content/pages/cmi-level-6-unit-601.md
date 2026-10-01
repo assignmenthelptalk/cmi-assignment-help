@@ -1,9 +1,9 @@
-# CMI 601 Assignment Help: Professional Management and Leadership Practice
+# CMI Unit 601 Assignment Help: Professional Management and Leadership Practice
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-6-unit-601-professional-management-leadership-practice-header.webp"
-    alt="CMI 601 Assignment Help: Professional Management and Leadership Practice"
-    title="CMI 601 Assignment Help: Professional Management and Leadership Practice"
+    alt="CMI Unit 601 Assignment Help: Professional Management and Leadership Practice"
+    title="CMI Unit 601 Assignment Help: Professional Management and Leadership Practice"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

@@ -1,9 +1,9 @@
-# CMI 602 Assignment Help: Developing, Managing and Leading Individuals and Teams
+# CMI Unit 602 Assignment Help: Developing, Managing and Leading Individuals and Teams
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-6-unit-602-developing-managing-leading-individuals-teams-header.webp"
-    alt="CMI 602 Assignment Help: Developing, Managing and Leading Individuals and Teams"
-    title="CMI 602 Assignment Help: Developing, Managing and Leading Individuals and Teams"
+    alt="CMI Unit 602 Assignment Help: Developing, Managing and Leading Individuals and Teams"
+    title="CMI Unit 602 Assignment Help: Developing, Managing and Leading Individuals and Teams"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

@@ -1,9 +1,9 @@
-# CMI 616 Assignment Help: Mental Health and Wellbeing in the Workplace
+# CMI Unit 616 Assignment Help: Mental Health and Wellbeing in the Workplace
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-6-unit-616-mental-health-wellbeing-workplace-header.webp"
-    alt="CMI 616 Assignment Help: Mental Health and Wellbeing in the Workplace"
-    title="CMI 616 Assignment Help: Mental Health and Wellbeing in the Workplace"
+    alt="CMI Unit 616 Assignment Help: Mental Health and Wellbeing in the Workplace"
+    title="CMI Unit 616 Assignment Help: Mental Health and Wellbeing in the Workplace"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

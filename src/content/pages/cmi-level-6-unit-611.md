@@ -1,9 +1,9 @@
-# CMI 611 Assignment Help: Strategic Knowledge Management
+# CMI Unit 611 Assignment Help: Strategic Knowledge Management
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-6-unit-611-strategic-knowledge-management-header.webp"
-    alt="CMI 611 Assignment Help: Strategic Knowledge Management"
-    title="CMI 611 Assignment Help: Strategic Knowledge Management"
+    alt="CMI Unit 611 Assignment Help: Strategic Knowledge Management"
+    title="CMI Unit 611 Assignment Help: Strategic Knowledge Management"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

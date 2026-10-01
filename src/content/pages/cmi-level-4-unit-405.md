@@ -1,10 +1,10 @@
-# CMI 405 Assignment Help: Developing and Maintaining Professional Networks
+# CMI Unit 405 Assignment Help: Developing and Maintaining Professional Networks
 
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-4-unit-405-developing-maintaining-networks-header.webp"
-    alt="CMI 405 Assignment Help: Developing and Maintaining Professional Networks"
-    title="CMI 405 Assignment Help: Developing and Maintaining Professional Networks"
+    alt="CMI Unit 405 Assignment Help: Developing and Maintaining Professional Networks"
+    title="CMI Unit 405 Assignment Help: Developing and Maintaining Professional Networks"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

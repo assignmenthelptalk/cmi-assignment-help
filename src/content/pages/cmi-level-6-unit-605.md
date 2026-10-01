@@ -1,9 +1,9 @@
-# CMI 605 Assignment Help: Innovation and Change
+# CMI Unit 605 Assignment Help: Innovation and Change
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-6-unit-605-innovation-and-change-header.webp"
-    alt="CMI 605 Assignment Help: Innovation and Change"
-    title="CMI 605 Assignment Help: Innovation and Change"
+    alt="CMI Unit 605 Assignment Help: Innovation and Change"
+    title="CMI Unit 605 Assignment Help: Innovation and Change"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

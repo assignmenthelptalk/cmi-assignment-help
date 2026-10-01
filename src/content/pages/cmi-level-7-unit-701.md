@@ -1,9 +1,9 @@
-# CMI 701 Assignment Help: Strategic Leadership
+# CMI Unit 701 Assignment Help: Strategic Leadership
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-cmi-level-7-unit-701-strategic-leadership-header.webp"
-    alt="CMI 701 Assignment Help: Strategic Leadership"
-    title="CMI 701 Assignment Help: Strategic Leadership"
+    alt="CMI Unit 701 Assignment Help: Strategic Leadership"
+    title="CMI Unit 701 Assignment Help: Strategic Leadership"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

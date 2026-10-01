@@ -1,9 +1,9 @@
-# CMI 309 Assignment Help: Leading Equality, Diversity and Inclusion
+# CMI Unit 309 Assignment Help: Leading Equality, Diversity and Inclusion
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-3-unit-309-leading-equality-diversity-inclusion-header.webp"
-    alt="CMI 309 Assignment Help: Leading Equality, Diversity and Inclusion"
-    title="CMI 309 Assignment Help: Leading Equality, Diversity and Inclusion"
+    alt="CMI Unit 309 Assignment Help: Leading Equality, Diversity and Inclusion"
+    title="CMI Unit 309 Assignment Help: Leading Equality, Diversity and Inclusion"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

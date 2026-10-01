@@ -1,9 +1,9 @@
-# CMI 705 Assignment Help — Leading Strategic Change
+# CMI Unit 705 Assignment Help: Leading Strategic Change
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-cmi-level-7-unit-705-leading-strategic-change-header.webp"
-    alt="CMI 705 Assignment Help — Leading Strategic Change"
-    title="CMI 705 Assignment Help — Leading Strategic Change"
+    alt="CMI Unit 705 Assignment Help: Leading Strategic Change"
+    title="CMI Unit 705 Assignment Help: Leading Strategic Change"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

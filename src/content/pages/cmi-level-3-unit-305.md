@@ -1,9 +1,9 @@
-# CMI 305 Assignment Help: Building Stakeholder Relationships
+# CMI Unit 305 Assignment Help: Building Stakeholder Relationships
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-3-unit-305-building-stakeholder-relationships-header.webp"
-    alt="CMI 305 Assignment Help: Building Stakeholder Relationships"
-    title="CMI 305 Assignment Help: Building Stakeholder Relationships"
+    alt="CMI Unit 305 Assignment Help: Building Stakeholder Relationships"
+    title="CMI Unit 305 Assignment Help: Building Stakeholder Relationships"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

@@ -1,9 +1,9 @@
-# Pay Someone to Do Your CMI Assignment: Trusted UK Writers, All Levels
+# Pay Someone to Do My CMI Assignment: Trusted UK Writers, All Levels
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-pay-someone-to-do-my-cmi-assignment-header.webp"
-    alt="Pay Someone to Do Your CMI Assignment: Trusted UK Writers, All Levels"
-    title="Pay Someone to Do Your CMI Assignment: Trusted UK Writers, All Levels"
+    alt="Pay Someone to Do My CMI Assignment: Trusted UK Writers, All Levels"
+    title="Pay Someone to Do My CMI Assignment: Trusted UK Writers, All Levels"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

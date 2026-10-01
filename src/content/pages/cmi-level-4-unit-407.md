@@ -1,10 +1,10 @@
-# CMI 407 Assignment Help: Managing Data and Information
+# CMI Unit 407 Assignment Help: Managing Data and Information
 
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-4-unit-407-managing-data-information-header.webp"
-    alt="CMI 407 Assignment Help: Managing Data and Information"
-    title="CMI 407 Assignment Help: Managing Data and Information"
+    alt="CMI Unit 407 Assignment Help: Managing Data and Information"
+    title="CMI Unit 407 Assignment Help: Managing Data and Information"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

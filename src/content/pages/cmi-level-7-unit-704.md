@@ -1,9 +1,9 @@
-# CMI 704 Assignment Help - Developing Organisational Strategy
+# CMI Unit 704 Assignment Help: Developing Organisational Strategy
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-cmi-level-7-unit-704-developing-organisational-strategy-header.webp"
-    alt="CMI 704 Assignment Help - Developing Organisational Strategy"
-    title="CMI 704 Assignment Help - Developing Organisational Strategy"
+    alt="CMI Unit 704 Assignment Help: Developing Organisational Strategy"
+    title="CMI Unit 704 Assignment Help: Developing Organisational Strategy"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

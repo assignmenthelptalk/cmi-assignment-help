@@ -1,9 +1,9 @@
-# CMI 509 Assignment Help: Managing Stakeholder Relationships
+# CMI Unit 509 Assignment Help: Managing Stakeholder Relationships
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-cmi-level-5-unit-509-managing-stakeholder-relationships-header.webp"
-    alt="CMI 509 Assignment Help: Managing Stakeholder Relationships"
-    title="CMI 509 Assignment Help: Managing Stakeholder Relationships"
+    alt="CMI Unit 509 Assignment Help: Managing Stakeholder Relationships"
+    title="CMI Unit 509 Assignment Help: Managing Stakeholder Relationships"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

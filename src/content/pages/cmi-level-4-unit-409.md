@@ -1,10 +1,10 @@
-# CMI 409 Assignment Help: Managing Quality
+# CMI Unit 409 Assignment Help: Managing Quality
 
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-4-unit-409-managing-quality-header.webp"
-    alt="CMI 409 Assignment Help: Managing Quality"
-    title="CMI 409 Assignment Help: Managing Quality"
+    alt="CMI Unit 409 Assignment Help: Managing Quality"
+    title="CMI Unit 409 Assignment Help: Managing Quality"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

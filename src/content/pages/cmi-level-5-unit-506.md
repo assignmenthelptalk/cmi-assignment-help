@@ -1,9 +1,9 @@
-# CMI 506 Assignment Help: Managing Resources and Finance
+# CMI Unit 506 Assignment Help: Managing Resources and Finance
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-cmi-level-5-unit-506-managing-resources-finance-header.webp"
-    alt="CMI 506 Assignment Help: Managing Resources and Finance"
-    title="CMI 506 Assignment Help: Managing Resources and Finance"
+    alt="CMI Unit 506 Assignment Help: Managing Resources and Finance"
+    title="CMI Unit 506 Assignment Help: Managing Resources and Finance"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

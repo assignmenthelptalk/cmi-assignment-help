@@ -1,9 +1,9 @@
-# CMI 604 Assignment Help: Strategic Programme and Project Management
+# CMI Unit 604 Assignment Help: Strategic Programme and Project Management
 <figure style="margin:0 0 2rem 0">
   <img
     src="/cmi-headers/webp/cmi-level-6-unit-604-strategic-programme-project-management-header.webp"
-    alt="CMI 604 Assignment Help: Strategic Programme and Project Management"
-    title="CMI 604 Assignment Help: Strategic Programme and Project Management"
+    alt="CMI Unit 604 Assignment Help: Strategic Programme and Project Management"
+    title="CMI Unit 604 Assignment Help: Strategic Programme and Project Management"
     width="960"
     height="480"
     style="width:100%;height:auto;display:block;border-radius:8px;"

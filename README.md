@@ -24,7 +24,8 @@ src/
 ├── pages/                Routes: one .astro file per page, wired to a markdown entry
 │   ├── cmi-level-{3..7}/ Unit pages (12 / 11 / 8 / 16 / 6 routes)
 │   ├── guides/, faq/     Guide and FAQ pages
-│   └── *.astro           Hubs, services, homepage, placeholder pages
+│   └── *.astro           Hubs, services, homepage, placeholder pages, and the level-specific
+│                         examples guides (cmi-level-3/5/7-assignment-examples)
 ├── layouts/BaseLayout.astro   Head tags, canonical, schema, header/footer, GA4
 ├── components/           Header, Footer, WhatsAppButton, Breadcrumb, SchemaOrg, InfographicPlaceholder
 ├── utils/faq.ts          extractFaqs() and buildFaqSchema() for FAQPage JSON-LD
@@ -54,7 +55,9 @@ To add a unit page: add the markdown file, copy an existing route in `src/pages/
 - **H1:** exactly one per page, starting with the same keyword. Unit H1s read `CMI Unit NNN Assignment Help: <unit name>`. The homepage H1 is the hero heading in `index.astro`; `homepage.md` has no H1.
 - **Canonical and sitemap URLs** use `https://www.` only.
 - **noindex pages:** set the `noindex` prop on `BaseLayout` and add the path to `NOINDEX_PATHS` in `astro.config.mjs` so it is also dropped from the sitemap. Currently: the six stub unit pages (502, 503, 504, 512, 513, 708), `/our-writers/`, `/privacy-policy/` and `/terms/`.
-- **Pages with the best rankings** (command verbs guide, examples, NHS guide) were deliberately left with their original titles and H1s. Check Search Console before changing them.
+- **Pages with the best rankings** (command verbs guide, examples, NHS guide) were deliberately left with their original titles and H1s. Check Search Console before changing them. The command verbs guide had body-only additions (a verbs list table, level links, order box) and keeps its title and H1.
+- **Internal linking:** the header and footer link to the hubs and services on every page. When adding a commercial or guide page, also add it to the footer, the relevant hub's Related Pages list, and the homepage services list. Google is crawling this site slowly, so new pages need several links in.
+- **Examples content:** the examples guides show annotated structure only (word budgets, command verb patterns, Merit and Distinction standards). They do not reproduce student assignments or name real companies, and draft assignment files should stay out of git.
 
 ## Things to know
 
@@ -71,7 +74,8 @@ To add a unit page: add the markdown file, copy an existing route in `src/pages/
 
 ## Status (October 2026)
 
-- 82 pages build; 73 are in the sitemap and 9 are `noindex`.
+- 85 pages build; 76 are in the sitemap and 9 are `noindex`.
+- The Level 3, 5 and 7 assignment examples guides were added on 1 Oct 2026 and are not indexed yet. There is no Level 4 or Level 6 examples guide.
 - Content is complete for Level 3 (12 units), Level 4 (11) and Level 6 (16). Level 5 has pages for 8 of 25 units and Level 7 for 6 of 17; the rest are not written yet, and six of the existing ones are "coming soon" stubs.
-- **Indexing:** a Search Console check on 1 Oct 2026 showed 34 of 82 pages indexed, with 41 "Discovered, currently not indexed" (including the Level 3 and Level 5 hubs and most service pages). The site moved from non-www to www on 27 Aug 2026, and Google is still crawling slowly. Next steps are indexing requests for the key pages and links from other sites.
+- **Indexing:** a Search Console check on 1 Oct 2026 showed 34 of 82 pages indexed, with 41 "Discovered, currently not indexed" (including the Level 3 and Level 5 hubs and most service pages). The site moved from non-www to www on 27 Aug 2026, and Google is still crawling slowly. Since then: the non-www redirect was made permanent (308), the vercel.app host now redirects to www, placeholder pages were set to `noindex`, and internal links to the under-linked service pages were added. Next steps are indexing requests in Search Console for the key pages and new guides, and links from other sites (the ILM site already links to the CMI hubs).
 - **FAQ schema:** `extractFaqs()` only recognises a bold line that ends in `?` as a question, so every FAQ question in the markdown must be written as `**Question text?**` followed by the answer. `SchemaOrg.astro` skips any FAQPage with no questions (the Level 6 units 607 to 616 have no FAQ section yet).

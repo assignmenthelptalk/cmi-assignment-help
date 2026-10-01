@@ -69,6 +69,18 @@
     @apply border-2 border-dashed border-border bg-bg-subtle rounded-lg
            my-8 p-8 text-center min-h-[200px] flex items-center justify-center;
   }
+  .toc {
+    @apply bg-bg-subtle border border-border rounded-lg px-6 py-5 my-8;
+  }
+  .toc__title {
+    @apply text-xs font-bold uppercase tracking-wider text-primary mb-3;
+  }
+  .toc ol {
+    @apply mb-0 space-y-2;
+  }
+  .toc a {
+    @apply text-blue-600 no-underline hover:underline;
+  }
   .checklist li::before { content: "✓ "; @apply text-accent font-bold; }
   /* Future links — broken href removed, text styled to show a link will go here */
   .future-link {

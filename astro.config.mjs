@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 import rehypeCmiTransforms from './src/rehype-cmi-transforms.mjs';
+import rehypeToc from './src/rehype-toc.mjs';
 
 const testPlugin = () => (tree) => {
   // Mark tree to confirm plugin ran
@@ -15,6 +16,6 @@ export default defineConfig({
   output: 'static',
   trailingSlash: 'always',
   markdown: {
-    rehypePlugins: [rehypeCmiTransforms],
+    rehypePlugins: [rehypeCmiTransforms, rehypeToc],
   },
 });

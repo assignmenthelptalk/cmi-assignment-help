@@ -175,6 +175,8 @@ For guidance on structure and approach without full writing support, our <span c
 - [CMI report writing help](/cmi-report-writing-help/)
 - [CMI essay writing help](/cmi-essay-writing-help/)
 
+Other ways to get CMI support include [CMI coursework help](/cmi-coursework-help/), [CMI homework help](/cmi-homework-help/) and [CMI assignment help online](/cmi-assignment-help-online/). For ordering and pricing options, see [affordable CMI assignment help](/cheap-cmi-assignment-help/) or [pay someone to do my CMI assignment](/pay-someone-to-do-my-cmi-assignment/).
+
 ---
 
 ## FAQ: CMI Assignment Examples Questions

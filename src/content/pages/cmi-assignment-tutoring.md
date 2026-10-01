@@ -135,6 +135,8 @@ Our tutoring service covers all five CMI qualification levels. The type and dept
 - [CMI assignment examples](/cmi-assignment-examples/)
 - [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
 
+Other ways to get CMI support include [CMI coursework help](/cmi-coursework-help/), [CMI essay writing help](/cmi-essay-writing-help/), [CMI report writing help](/cmi-report-writing-help/), [CMI homework help](/cmi-homework-help/), [CMI assignment answers](/cmi-assignment-answers/) and [CMI assignment help online](/cmi-assignment-help-online/). For ordering and pricing options, see [affordable CMI assignment help](/cheap-cmi-assignment-help/) or [pay someone to do my CMI assignment](/pay-someone-to-do-my-cmi-assignment/).
+
 ---
 
 ## FAQ: CMI Assignment Tutoring

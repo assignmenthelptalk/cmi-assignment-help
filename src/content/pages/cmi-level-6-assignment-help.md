@@ -188,6 +188,8 @@ Completion of the CMI Level 6 Diploma supports progress toward CMI Chartered Man
 - [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
 - [CMI Level 5 vs Level 7](/faq/cmi-level-5-vs-level-7/)
 
+Other ways to get CMI support include [CMI coursework help](/cmi-coursework-help/), [CMI essay writing help](/cmi-essay-writing-help/), [CMI report writing help](/cmi-report-writing-help/), [CMI homework help](/cmi-homework-help/), [CMI assignment answers](/cmi-assignment-answers/) and [CMI assignment help online](/cmi-assignment-help-online/). For ordering and pricing options, see [affordable CMI assignment help](/cheap-cmi-assignment-help/) or [pay someone to do my CMI assignment](/pay-someone-to-do-my-cmi-assignment/).
+
 ---
 
 ## FAQ: CMI Level 6 Assignment Help

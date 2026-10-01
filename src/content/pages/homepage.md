@@ -152,6 +152,8 @@ Our CMI assignment support covers six distinct service types, each with a dedica
 
 Different CMI units require different output formats - some require an essay response, some require a management report, some require a reflective account or a case study analysis. The format the assessor specifies is part of the Learning Outcome and affects how command verbs are applied throughout the document. Our service covers all output formats across all levels.
 
+Other ways to get CMI support include [CMI homework help](/cmi-homework-help/), [CMI assignment answers](/cmi-assignment-answers/) and [CMI assignment help online](/cmi-assignment-help-online/). For ordering and pricing options, see [affordable CMI assignment help](/cheap-cmi-assignment-help/) or [pay someone to do my CMI assignment](/pay-someone-to-do-my-cmi-assignment/).
+
 ---
 
 ## FAQ: Your CMI Assignment Help Questions Answered

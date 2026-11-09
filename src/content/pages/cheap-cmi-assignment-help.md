@@ -151,7 +151,6 @@ Competitive pricing is available for all five CMI qualification levels:
 
 - [CMI assignment writing service](/cmi-assignment-writing-service/)
 - [CMI assignment tutoring](/cmi-assignment-tutoring/)
-- [pay someone to do your CMI assignment](/pay-someone-to-do-my-cmi-assignment/)
 
 ---
 

@@ -224,7 +224,7 @@ Further reading: <span class="future-link">How to write a CMI management report<
 - [CMI assignment resubmission guide](/guides/cmi-assignment-resubmission/)
 - [CMI Level 5 assignment examples](/cmi-level-5-assignment-examples/)
 
-Other ways to get CMI support include [CMI coursework help](/cmi-coursework-help/), [CMI essay writing help](/cmi-essay-writing-help/), [CMI homework help](/cmi-homework-help/), [CMI assignment answers](/cmi-assignment-answers/) and [CMI assignment help online](/cmi-assignment-help-online/). For ordering and pricing options, see [affordable CMI assignment help](/cheap-cmi-assignment-help/) or [pay someone to do my CMI assignment](/pay-someone-to-do-my-cmi-assignment/).
+Other ways to get CMI support include [CMI coursework help](/cmi-coursework-help/), [CMI essay writing help](/cmi-essay-writing-help/), [CMI homework help](/cmi-homework-help/), [CMI assignment answers](/cmi-assignment-answers/) and [CMI assignment help online](/cmi-assignment-help-online/). For ordering and pricing options, see [affordable CMI assignment help](/cheap-cmi-assignment-help/).
 
 ---
 

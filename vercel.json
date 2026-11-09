@@ -2,7 +2,12 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "has": [{ "type": "host", "value": "cmi-assignment-help.vercel.app" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "cmi-assignment-help.vercel.app"
+        }
+      ],
       "destination": "https://www.cmiassignmentsupport.co.uk/$1",
       "permanent": true
     },
@@ -14,6 +19,16 @@
     {
       "source": "/cmi-command-verbs-explained/",
       "destination": "/guides/cmi-command-verbs-explained/",
+      "permanent": true
+    },
+    {
+      "source": "/pay-someone-to-do-my-cmi-assignment/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/pay-someone-to-do-my-cmi-assignment",
+      "destination": "/",
       "permanent": true
     }
   ]
